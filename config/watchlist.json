@@ -1,0 +1,12 @@
+{
+  "_설명": "상시 관심 종목·키워드. 매 호 수집 때 이 종목/키워드 관련 뉴스와 공시를 우선 찾고, 뉴스레터 '내 관심종목' 영역에 따로 모아 보여줌. GitHub 웹/모바일에서 바로 고치면 다음 호부터 반영됨.",
+  "_형식": "market: KR(국내, code=6자리 종목코드) | US(미국, code=티커) | GLOBAL(기타 해외, code=현지 티커 예: 8035.T, ASML.AS). industries 를 비우면 모든 산업에 적용.",
+  "tickers": [
+    {"name": "삼성전자", "market": "KR", "code": "005930", "industries": ["semiconductor", "ai"]},
+    {"name": "SK하이닉스", "market": "KR", "code": "000660", "industries": ["semiconductor", "ai"]},
+    {"name": "NVIDIA", "market": "US", "code": "NVDA", "industries": ["ai", "semiconductor", "robot"]}
+  ],
+  "keywords": [
+    {"keyword": "HBM", "industries": ["semiconductor", "ai"]}
+  ]
+}

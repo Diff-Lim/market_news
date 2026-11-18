@@ -1,0 +1,70 @@
+{
+  "_설명": "산업별 화면 정보와 '산업 특화 시그널' 항목 정의. 렌더러는 기사의 signals 값을 여기 label 로 표시함. 항목을 추가/수정하면 다음 호부터 반영됨.",
+  "ai": {
+    "name": "AI",
+    "title": "AI 투자 브리핑",
+    "emoji": "🤖",
+    "signal_fields": [
+      {"key": "value_chain", "label": "밸류체인", "hint": "GPU/가속기 · HBM/메모리 · 서버/네트워크 · 데이터센터/전력 · 클라우드 · 모델 · 앱/SaaS 중 어디인지"},
+      {"key": "capex", "label": "투자/CAPEX", "hint": "빅테크·기업의 설비투자 규모, 증감"},
+      {"key": "monetization", "label": "수익화", "hint": "AI 매출, 유료 사용자, 가격, 수주 등 돈이 되는 지표"},
+      {"key": "competition", "label": "경쟁구도", "hint": "누가 수혜/피해인지"}
+    ]
+  },
+  "bio": {
+    "name": "바이오·헬스",
+    "title": "바이오·헬스 투자 브리핑",
+    "emoji": "🧬",
+    "signal_fields": [
+      {"key": "stage", "label": "개발단계", "hint": "전임상/1상/2상/3상/허가신청/시판"},
+      {"key": "event", "label": "이벤트", "hint": "탑라인 결과, 1차 평가변수 충족 여부, FDA 승인/CRL, PDUFA, 학회 발표 등"},
+      {"key": "indication", "label": "적응증/모달리티", "hint": "질환과 기술 플랫폼(ADC, 비만 GLP-1, 이중항체 등)"},
+      {"key": "deal", "label": "계약규모", "hint": "기술이전·M&A의 선급금(upfront)과 총액을 구분"},
+      {"key": "next_catalyst", "label": "다음 촉매", "hint": "다음 데이터 발표·허가 일정"}
+    ]
+  },
+  "energy": {
+    "name": "에너지",
+    "title": "에너지 투자 브리핑",
+    "emoji": "⚡",
+    "signal_fields": [
+      {"key": "segment", "label": "세부분야", "hint": "원전/SMR · 전력망/전력기기 · 2차전지/ESS · 태양광/풍력 · 석유/가스 · 수소"},
+      {"key": "commodity", "label": "원자재/가격", "hint": "유가, 천연가스, 리튬·니켈, 우라늄, SMP·전력가격 등"},
+      {"key": "policy", "label": "정책/보조금", "hint": "IRA, 관세, 전력시장 제도, 원전 정책 등"},
+      {"key": "order", "label": "수주/계약", "hint": "수주 금액, 기간, 매출 대비 비중"}
+    ]
+  },
+  "semiconductor": {
+    "name": "반도체",
+    "title": "반도체 투자 브리핑",
+    "emoji": "💾",
+    "signal_fields": [
+      {"key": "segment", "label": "세부분야", "hint": "메모리 · HBM · 파운드리 · 후공정/패키징 · 장비 · 소재 · 팹리스"},
+      {"key": "price", "label": "가격/수급", "hint": "DRAM·NAND 고정가/현물가, 재고, 리드타임"},
+      {"key": "capacity", "label": "증설/CAPEX", "hint": "팹 증설, 장비 발주, 가동률"},
+      {"key": "trade", "label": "규제/관세", "hint": "수출통제, 관세, 보조금(칩스법)"}
+    ]
+  },
+  "security": {
+    "name": "보안",
+    "title": "보안 투자 브리핑",
+    "emoji": "🛡️",
+    "signal_fields": [
+      {"key": "event_type", "label": "이벤트 유형", "hint": "침해사고 · 대형 취약점 · 제도/예산 · 신제품 · M&A"},
+      {"key": "affected", "label": "영향 기업", "hint": "피해 기업(주가 하락 위험)과 수혜 보안 기업을 구분"},
+      {"key": "demand_driver", "label": "수요 동인", "hint": "규제 의무화, 공공 예산, AI 보안, 제로트러스트 등"},
+      {"key": "metric", "label": "실적 지표", "hint": "ARR, NRR, 수주잔고, 가이던스"}
+    ]
+  },
+  "robot": {
+    "name": "로봇",
+    "title": "로봇 투자 브리핑",
+    "emoji": "🦾",
+    "signal_fields": [
+      {"key": "segment", "label": "세부분야", "hint": "휴머노이드 · 산업/협동 · 물류 · 의료/수술 · 서비스 · 부품"},
+      {"key": "component", "label": "핵심부품", "hint": "감속기, 액추에이터, 모터, 센서, 로봇 AI 모델"},
+      {"key": "customer", "label": "고객/수주", "hint": "누가 얼마나 사는지(대기업 도입, 수주 규모)"},
+      {"key": "mass_production", "label": "양산/출하", "hint": "양산 시점, 출하 대수, 가격"}
+    ]
+  }
+}

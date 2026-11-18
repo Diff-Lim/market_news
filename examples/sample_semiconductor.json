@@ -1,0 +1,220 @@
+{
+  "published_at": "2026-11-18T03:16",
+  "industry": "semiconductor",
+  "title": "반도체 투자 브리핑",
+  "emoji": "💾",
+  "sources": [
+    "디지털데일리",
+    "전자신문",
+    "DIGITIMES"
+  ],
+  "briefing": [
+    "美, 동남아·브라질 경유 AI칩 수출 사전허가 → 엔비디아·국내 후공정 단기 부담",
+    "젠슨 황 사임 여파로 美 반도체지수 급락 → 국내 반도체 대형주 외국인 수급 주의",
+    "TSMC·알칩 10월 매출 급증 → ASIC·2nm 수요는 견조, GPU 외 AI칩 밸류체인 상대 강세"
+  ],
+  "market_snapshot": [],
+  "watchlist_notes": [
+    {
+      "name": "SK하이닉스",
+      "note": "엔비디아向 AI 메모리 비중 확대 + 용인 클린룸 조기 개소",
+      "article_urls": [
+        "https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html",
+        "https://www.digitimes.com/news/a20261117PD231/sk-hynix-cleanroom-memory-equipment-demand.html"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-19",
+      "event": "美 동남아·브라질 AI칩 수출 사전허가 잠정규정 시행",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA"
+        }
+      ],
+      "source_url": "https://www.ddaily.co.kr/page/view/2026111708042109727"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "policy",
+      "title": "\"젠슨 황 떠나자 빗장 걸었다\"…美, 동남아·브라질 경유 대중 AI 칩 우회 차단",
+      "url": "https://www.ddaily.co.kr/page/view/2026111708042109727",
+      "summary": "미 상무부가 싱가포르·말레이시아·태국·인도네시아·브라질 데이터센터에 첨단 AI 칩을 수출하려면 사전 허가를 받도록 하는 잠정 규정을 발표했습니다. 중국이 제3국을 거쳐 원격으로 칩을 쓰는 길을 막기 위한 것으로 19일부터 시행됩니다. 발표 직후 엔비디아 주가는 4% 넘게 떨어졌습니다.",
+      "source": "디지털데일리",
+      "time": "11/17 08:04",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "동남아·브라질 데이터센터 경유 수요가 막히면 엔비디아의 비중국 아시아 매출 일부가 허가 리스크에 놓임",
+      "signals": {
+        "segment": "AI 가속기",
+        "trade": "동남아·브라질 데이터센터 수출 사전허가(19일 시행)"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "美, 동남아 우회 AI칩 '패스트트랙' 닫았다…韓 파운드리·후공정 악영향 우려",
+      "url": "https://www.etnews.com/20261117000325",
+      "summary": "지금까지는 승인받은 후공정(OSAT) 기업이 칩 사양만 확인하면 제3국 팹리스의 칩을 따로 허가 없이 출하할 수 있었습니다. 미 상무부가 이 '패스트트랙' 예외를 크게 줄이면서, 삼성 파운드리와 국내 후공정 기업의 해외 고객 물량이 영향을 받을 수 있다는 우려가 나옵니다.",
+      "source": "전자신문",
+      "time": "11/17 15:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        }
+      ],
+      "insight": "패스트트랙 예외 축소로 삼성 파운드리·국내 후공정의 해외 팹리스 물량이 줄 수 있어 관련 실적 추정 하향 리스크",
+      "signals": {
+        "segment": "파운드리·후공정",
+        "trade": "OSAT 패스트트랙 예외 축소"
+      }
+    },
+    {
+      "category": "market",
+      "title": "뉴욕증시, 젠슨 황 사임 여파에 일제히 하락…반도체지수 5.3% 급락",
+      "url": "https://www.ddaily.co.kr/page/view/2026111706391214925",
+      "summary": "젠슨 황 사임 뒤의 경영 불확실성과 미국의 AI 칩 규제 강화가 겹치며 미국 증시가 일제히 떨어졌습니다. 필라델피아 반도체지수가 5.3% 급락했고, 엔비디아는 4.1%, 인텔과 마이크론은 각각 7% 넘게 하락했습니다.",
+      "source": "디지털데일리",
+      "time": "11/17 06:39",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "미국 반도체지수 급락은 국내 반도체 대형주의 단기 수급(외국인 매도)에 바로 반영되는 경향",
+      "signals": {}
+    },
+    {
+      "category": "memory",
+      "title": "SK하이닉스 미국 매출 비중 60% 돌파…AI 메모리 매출에서 엔비디아 비중 커져",
+      "url": "https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html",
+      "summary": "SK하이닉스가 올해 1~9월 매출의 60% 이상을 미국에서 올렸습니다. 최대 고객으로 추정되는 엔비디아 관련 매출은 1년 전의 두 배입니다. 실적은 크게 늘었지만, 그만큼 엔비디아 한 곳에 대한 의존도도 높아졌습니다.",
+      "source": "DIGITIMES",
+      "time": "11/17 13:41",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "AI 메모리 매출의 엔비디아 의존도가 커진 만큼 엔비디아 경영 변화·수출규제 뉴스에 대한 민감도도 높아짐",
+      "signals": {
+        "segment": "HBM"
+      }
+    },
+    {
+      "category": "foundry",
+      "title": "AI 서버 트래커: TSMC·알칩, 2nm·ASIC 주문에 힘입어 10월 매출 큰 폭 증가",
+      "url": "https://www.digitimes.com/news/a20261117VL216/revenue-growth-taiwan-semiconductor-supply-chain-tsmc-2nm.html",
+      "summary": "AI와 첨단 공정 수요 덕분에 대만 반도체 기업들의 10월 매출이 크게 늘었습니다. TSMC는 1년 전보다 약 60% 증가했고, 칩 설계 업체 알칩 등도 해외 고객의 대형 ASIC 주문으로 실적이 좋아졌습니다.",
+      "source": "DIGITIMES",
+      "time": "11/17 17:27",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "TSMC",
+          "market": "GLOBAL",
+          "code": "2330.TW",
+          "effect": "positive"
+        }
+      ],
+      "insight": "2nm·ASIC 주문이 매출로 확인되며 GPU 외 AI 칩 수요가 파운드리 실적을 받치는 흐름",
+      "signals": {
+        "segment": "파운드리 2nm·ASIC"
+      }
+    },
+    {
+      "category": "memory",
+      "title": "삼성전자, 메타용 맞춤형 HBM 개발…2nm 공정 적용",
+      "url": "https://www.digitimes.com/news/a20261117PD225/samsung-hbm-meta-2nm-nvidia.html",
+      "summary": "삼성전자가 메타의 자체 AI 칩에 들어갈 맞춤형 HBM을 개발 중이며, 바닥에 놓이는 베이스 다이는 자사 파운드리 2nm 공정으로 만들 계획입니다. 메모리와 파운드리를 함께 제공하는 '커스텀 HBM' 수주 경쟁이 본격화되고 있습니다.",
+      "source": "DIGITIMES",
+      "time": "11/17 12:45",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        }
+      ],
+      "insight": "엔비디아 외 빅테크 맞춤형 HBM 고객 확보는 삼성 HBM 사업의 고객 다변화 신호",
+      "signals": {
+        "segment": "맞춤형 HBM"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "SK하이닉스, AI 메모리 수요 급증에 용인 Y1 클린룸 개소 앞당겨",
+      "url": "https://www.digitimes.com/news/a20261117PD231/sk-hynix-cleanroom-memory-equipment-demand.html",
+      "summary": "AI 메모리 수요가 빠르게 늘면서 SK하이닉스가 용인 첫 팹(Y1)의 클린룸 개소 일정을 앞당기고 있습니다. 장비 반입도 빨라지는 만큼 국내 반도체 장비 업체들의 수주 증가가 기대됩니다.",
+      "source": "DIGITIMES",
+      "time": "11/17 14:53",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        }
+      ],
+      "insight": "클린룸 조기 개소는 장비 발주 시점이 당겨질 수 있다는 뜻으로 국내 전공정 장비주에도 관심 요인",
+      "signals": {
+        "segment": "메모리",
+        "capacity": "용인 Y1 클린룸 조기 개소"
+      }
+    }
+  ]
+}

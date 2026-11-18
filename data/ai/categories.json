@@ -1,0 +1,74 @@
+{
+  "palette": [
+    "#db2777",
+    "#0891b2",
+    "#ca8a04",
+    "#4f46e5",
+    "#15803d",
+    "#b91c1c",
+    "#9333ea",
+    "#0d9488"
+  ],
+  "categories": [
+    {
+      "id": "model",
+      "emoji": "✨",
+      "label": "모델/서비스 출시",
+      "color": "#9333ea"
+    },
+    {
+      "id": "infra",
+      "emoji": "🏗️",
+      "label": "AI 인프라/데이터센터",
+      "color": "#4f46e5"
+    },
+    {
+      "id": "earnings",
+      "emoji": "📊",
+      "label": "실적/가이던스",
+      "color": "#2563eb"
+    },
+    {
+      "id": "deal",
+      "emoji": "🤝",
+      "label": "수주/계약/M&A",
+      "color": "#059669"
+    },
+    {
+      "id": "policy",
+      "emoji": "🏛️",
+      "label": "정책/규제",
+      "color": "#dc2626"
+    },
+    {
+      "id": "tech",
+      "emoji": "🔬",
+      "label": "기술/제품",
+      "color": "#7c3aed"
+    },
+    {
+      "id": "capital",
+      "emoji": "💰",
+      "label": "투자/자금조달/지분",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "risk",
+      "emoji": "⚠️",
+      "label": "리스크/소송",
+      "color": "#991b1b"
+    },
+    {
+      "id": "market",
+      "emoji": "🌐",
+      "label": "시장/수급/가격",
+      "color": "#0e7490"
+    },
+    {
+      "id": "others",
+      "emoji": "📰",
+      "label": "기타",
+      "color": "#64748b"
+    }
+  ]
+}

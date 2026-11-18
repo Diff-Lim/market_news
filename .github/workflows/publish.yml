@@ -1,0 +1,112 @@
+# 데이터 JSON 이 푸시되면: 공시·시세 보강 → HTML 생성 → 커밋 → 메일 발송
+# 필요한 Secrets (Settings > Secrets and variables > Actions):
+#   SMTP_SERVER, SMTP_PORT, SMTP_USER, SMTP_PASSWORD   메일 발송(Gmail 앱 비밀번호)
+#   RECIPIENTS                                         모든 산업 공통 수신자(줄바꿈/쉼표 구분)
+#   RECIPIENTS_AI, RECIPIENTS_BIO, RECIPIENTS_ENERGY, RECIPIENTS_SEMICONDUCTOR, RECIPIENTS_SECURITY, RECIPIENTS_ROBOT  (선택)
+#   DART_API_KEY                                       국내 공시(선택, https://opendart.fss.or.kr)
+#   SEC_USER_AGENT                                     미국 공시(선택, 예: "market_news you@example.com")
+name: publish
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/*/2*.json"]
+  workflow_dispatch:
+    inputs:
+      files:
+        description: "다시 만들 데이터 JSON 경로(공백 구분). 예: data/ai/20261118_0630.json"
+        required: true
+      send:
+        description: "메일 발송"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: Asia/Seoul
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r scripts/requirements.txt
+
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: enrich-${{ github.run_id }}
+          restore-keys: enrich-
+
+      - name: 대상 파일 찾기
+        id: files
+        env:
+          INPUT_FILES: ${{ inputs.files }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+            LIST="$INPUT_FILES"
+          else
+            if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE" 2>/dev/null; then BEFORE=$(git rev-list --max-parents=0 HEAD | tail -1); fi
+            LIST=$(git diff --name-only --diff-filter=AM "$BEFORE" "$GITHUB_SHA" -- 'data/*/2*.json' | tr '\n' ' ')
+          fi
+          for f in $LIST; do case "$f" in data/*/2*.json) ;; *) echo "허용되지 않는 경로: $f"; exit 1;; esac; done
+          echo "list=$LIST" >> "$GITHUB_OUTPUT"
+          echo "대상: $LIST"
+
+      - name: 검증·보강·HTML 생성
+        if: steps.files.outputs.list != ''
+        env:
+          LIST: ${{ steps.files.outputs.list }}
+          DART_API_KEY: ${{ secrets.DART_API_KEY }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: |
+          for f in $LIST; do
+            python scripts/validate_data.py "$f" || echo "::warning::검증 오류가 있지만 계속 진행: $f"
+            python scripts/enrich_data.py "$f" || echo "::warning::보강 실패(계속 진행): $f"
+            python scripts/generate_newsletter.py "$f"
+          done
+
+      - name: 결과 커밋
+        if: steps.files.outputs.list != ''
+        run: |
+          git config user.name "market-news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data newsletters
+          if ! git diff --cached --quiet; then
+            git commit -m "뉴스레터 생성: ${{ steps.files.outputs.list }}"
+            for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+          fi
+
+      - name: 메일 발송
+        if: steps.files.outputs.list != '' && (github.event_name == 'push' || inputs.send)
+        env:
+          LIST: ${{ steps.files.outputs.list }}
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          RECIPIENTS: ${{ secrets.RECIPIENTS }}
+          RECIPIENTS_AI: ${{ secrets.RECIPIENTS_AI }}
+          RECIPIENTS_BIO: ${{ secrets.RECIPIENTS_BIO }}
+          RECIPIENTS_ENERGY: ${{ secrets.RECIPIENTS_ENERGY }}
+          RECIPIENTS_SEMICONDUCTOR: ${{ secrets.RECIPIENTS_SEMICONDUCTOR }}
+          RECIPIENTS_SECURITY: ${{ secrets.RECIPIENTS_SECURITY }}
+          RECIPIENTS_ROBOT: ${{ secrets.RECIPIENTS_ROBOT }}
+        run: |
+          rc=0
+          for f in $LIST; do python scripts/generate_newsletter.py "$f" --send || rc=1; done
+          exit $rc

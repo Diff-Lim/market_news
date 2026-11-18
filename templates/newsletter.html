@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ title }} | {{ date_label }}</title>
+  <style>
+    body{margin:0;background:#f3f5f9;color:#172033;font-family:Arial,"Noto Sans KR","Apple SD Gothic Neo",sans-serif;line-height:1.6}
+    .wrap{max-width:920px;margin:0 auto;padding:24px 14px 56px}
+    a{color:inherit}
+    .hero{padding:30px 34px;border-radius:18px;background:#0f172a;background:linear-gradient(135deg,#0f172a,#1e3a8a);color:#fff;margin-bottom:22px}
+    .hero h1{margin:4px 0 6px;font-size:25px;font-weight:800;letter-spacing:-.4px}
+    .hero .meta{opacity:.75;font-size:13px}
+    .hero .src{opacity:.8;font-size:13px;margin:0}
+    .stats{margin-top:16px}
+    .stat{display:inline-block;background:rgba(255,255,255,.12);border-radius:10px;padding:7px 14px;font-size:12px;margin:0 6px 6px 0}
+    .stat strong{font-size:19px;display:block;font-weight:800}
+    .box{background:#fff;border-radius:14px;padding:18px 22px;margin-bottom:18px;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+    .box h2{font-size:16px;margin:0 0 12px;font-weight:800}
+    .brief li{margin:0 0 6px;font-size:14.5px}
+    .top-item{padding:8px 0;border-bottom:1px solid #eef2f7;font-size:14px}
+    .top-item:last-child{border-bottom:0}
+    .badge{display:inline-block;font-size:11.5px;font-weight:700;border-radius:6px;padding:1px 7px;margin-right:4px;white-space:nowrap}
+    .chip{display:inline-block;font-size:12px;border:1px solid #e2e8f0;border-radius:14px;padding:1px 9px;margin:2px 4px 2px 0;text-decoration:none;white-space:nowrap}
+    table.t{width:100%;border-collapse:collapse;font-size:13px}
+    table.t th{background:#f8fafc;color:#475569;font-weight:700;text-align:left;padding:7px 8px;border-bottom:1px solid #e2e8f0}
+    table.t td{padding:7px 8px;border-bottom:1px solid #f1f5f9;vertical-align:top}
+    .muted{color:#94a3b8;font-size:12px}
+    .cat-section{margin:26px 0 8px}
+    .cat-badge{display:inline-block;padding:5px 16px;border-radius:30px;font-size:14.5px;font-weight:700;color:#fff}
+    .cat-count{font-size:12.5px;color:#64748b;margin-left:6px}
+    .article-card{background:#fff;border-radius:14px;padding:16px 20px;margin:12px 0;box-shadow:0 1px 4px rgba(0,0,0,.07);border-left:4px solid #e2e8f0}
+    .article-title{font-size:15px;font-weight:700;margin:6px 0 6px;line-height:1.45}
+    .article-title a{text-decoration:none}
+    .article-summary{font-size:13.5px;color:#374151;margin:0 0 8px}
+    .insight{background:#f8fafc;border-radius:8px;padding:8px 12px;font-size:13.5px;margin:0 0 8px;color:#0f172a}
+    .signals{font-size:12.5px;color:#475569;margin:0 0 6px}
+    .signals b{color:#334155}
+    .article-meta{font-size:12px;color:#94a3b8;margin-top:6px}
+    .article-meta .source{font-weight:600;color:#64748b}
+    .disclaimer{font-size:11.5px;color:#94a3b8;background:#fff;border-radius:10px;padding:12px 16px;margin-top:28px}
+    footer{text-align:center;font-size:12px;color:#94a3b8;margin-top:16px}
+  </style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hero">
+    <div class="meta">{{ meta_label }} · 국내 장 시작 전 브리핑</div>
+    <h1>{{ emoji }} {{ title }}</h1>
+    <p class="src">{{ sources_label }} 종합</p>
+    <div class="stats">
+      <span class="stat"><strong>{{ total_articles }}</strong>기사</span>
+      <span class="stat"><strong>{{ top_count }}</strong>핵심</span>
+      <span class="stat"><strong style="color:#fca5a5">{{ impact_counts.positive }}</strong>호재</span>
+      <span class="stat"><strong style="color:#93c5fd">{{ impact_counts.negative }}</strong>악재</span>
+      <span class="stat"><strong>{{ ticker_rows | length }}</strong>관련 종목</span>
+      {% if filings %}<span class="stat"><strong>{{ filings | length }}</strong>공시</span>{% endif %}
+    </div>
+  </div>
+
+{% if briefing %}
+  <div class="box brief">
+    <h2>🧭 오늘의 투자 포인트</h2>
+    <ul style="margin:0;padding-left:20px">
+    {% for b in briefing %}<li>{{ b }}</li>{% endfor %}
+    </ul>
+  </div>
+{% endif %}
+
+{% if top_articles %}
+  <div class="box">
+    <h2>🔥 핵심 뉴스 (주가 영향 큼)</h2>
+    {% for a in top_articles %}
+    <div class="top-item">
+      <span class="badge" style="color:{{ a.impact_style.color }};background:{{ a.impact_style.bg }}">{{ a.impact_style.arrow }} {{ a.impact_style.label }}</span>
+      <a href="{{ a.url }}" target="_blank" style="text-decoration:none;font-weight:700">{{ a.title }}</a>
+      {% if a.ticker_chips %}<div style="margin-top:3px">{% for t in a.ticker_chips %}<a class="chip" href="{{ t.url }}" target="_blank" style="color:{{ t.effect_style.color }}">{{ t.name }}{% if t.change_label %} <b style="color:{{ t.change_color }}">{{ t.change_label }}</b>{% endif %}</a>{% endfor %}</div>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+{% if market_snapshot %}
+  <div class="box">
+    <h2>📈 시장 지표</h2>
+    <table class="t">
+      {% for m in market_snapshot %}
+      <tr><td style="width:45%">{{ m.label }}</td><td><b>{{ m.value }}</b></td><td class="muted">{% if m.url %}<a href="{{ m.url }}" target="_blank">{{ m.source }}</a>{% else %}{{ m.source }}{% endif %}</td></tr>
+      {% endfor %}
+    </table>
+  </div>
+{% endif %}
+
+{% if ticker_rows %}
+  <div class="box">
+    <h2>🏷️ 오늘 언급된 종목</h2>
+    <table class="t">
+      <tr><th>종목</th><th>시장</th><th>최근 등락</th><th>기사</th><th>방향</th></tr>
+      {% for t in ticker_rows %}
+      <tr>
+        <td>{% if t.watched %}⭐ {% endif %}<a href="{{ t.url }}" target="_blank" style="text-decoration:none;font-weight:700">{{ t.name }}</a> <span class="muted">{{ t.code }}</span></td>
+        <td>{{ t.region }}</td>
+        <td>{% if t.change_label %}<b style="color:{{ t.change_color }}">{{ t.change_label }}</b>{% else %}<span class="muted">-</span>{% endif %}</td>
+        <td>{{ t.count }}건{% if t.pos or t.neg %} <span class="muted">(호재 {{ t.pos }} · 악재 {{ t.neg }})</span>{% endif %}</td>
+        <td><span class="badge" style="color:{{ t.effect_style.color }};background:{{ t.effect_style.bg }}">{{ t.effect_style.arrow }} {{ t.effect_style.label }}</span></td>
+      </tr>
+      {% endfor %}
+    </table>
+    <div class="muted" style="margin-top:6px">⭐ 관심종목 · 등락률은 {{ quotes_as_of or "직전 거래일" }} 종가 기준(자동 수집, 없으면 -) · 종목명을 누르면 시세 페이지로 이동</div>
+  </div>
+{% endif %}
+
+{% if watchlist_notes %}
+  <div class="box">
+    <h2>⭐ 내 관심종목 체크</h2>
+    {% for w in watchlist_notes %}
+    <div class="top-item"><b>{{ w.name }}</b> — {{ w.note }}
+      {% for u in w.article_urls or [] %} <a class="chip" href="{{ u }}" target="_blank">기사 {{ loop.index }}</a>{% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+{% for cat in categories %}
+  <div class="cat-section">
+    <span class="cat-badge" style="background:{{ cat.color }}">{{ cat.emoji }} {{ cat.label }}</span>
+    <span class="cat-count">{{ cat.articles | length }}개 기사</span>
+  </div>
+  {% for a in cat.articles %}
+  <div class="article-card" style="border-left-color:{{ cat.color }}">
+    <div>
+      <span class="badge" style="color:{{ a.impact_style.color }};background:{{ a.impact_style.bg }}">{{ a.impact_style.arrow }} {{ a.impact_style.label }}</span>
+      {% if a.horizon_label %}<span class="badge" style="color:#334155;background:#f1f5f9">⏱ {{ a.horizon_label }}</span>{% endif %}
+      {% if a.region_label %}<span class="badge" style="color:#334155;background:#f1f5f9">{{ a.region_label }}</span>{% endif %}
+      <span class="badge" style="color:#b45309;background:#fffbeb">{{ "★" * a.importance }}{{ "☆" * (3 - a.importance) }}</span>
+    </div>
+    <div class="article-title"><a href="{{ a.url }}" target="_blank" style="color:{{ cat.color }}">{{ a.title }}</a></div>
+    <div class="article-summary">{{ a.summary }}</div>
+    {% if a.insight %}<div class="insight">💡 {{ a.insight }}</div>{% endif %}
+    {% if a.signal_items %}<div class="signals">{% for s in a.signal_items %}<b>{{ s.label }}</b> {{ s.value }}{% if not loop.last %} · {% endif %}{% endfor %}</div>{% endif %}
+    {% if a.ticker_chips %}<div>{% for t in a.ticker_chips %}<a class="chip" href="{{ t.url }}" target="_blank" style="color:{{ t.effect_style.color }}">{{ t.effect_style.arrow }} {{ t.name }}{% if t.change_label %} <b style="color:{{ t.change_color }}">{{ t.change_label }}</b>{% endif %}</a>{% endfor %}</div>{% endif %}
+    <div class="article-meta"><span class="source">{{ a.source }}</span> · {{ a.time }}</div>
+  </div>
+  {% endfor %}
+{% endfor %}
+
+{% if filings %}
+  <div class="box" style="margin-top:26px">
+    <h2>📑 관련 공시</h2>
+    <table class="t">
+      <tr><th>날짜</th><th>기업</th><th>공시</th></tr>
+      {% for f in filings %}
+      <tr><td style="white-space:nowrap">{{ f.date }}</td><td style="white-space:nowrap">{{ f.name }} <span class="muted">{{ f.market }}</span></td><td><a href="{{ f.url }}" target="_blank">{{ f.title }}</a></td></tr>
+      {% endfor %}
+    </table>
+    <div class="muted" style="margin-top:6px">국내: DART 전자공시 · 미국: SEC EDGAR</div>
+  </div>
+{% endif %}
+
+{% if events %}
+  <div class="box">
+    <h2>🗓️ 다가오는 일정</h2>
+    <table class="t">
+      {% for e in events %}
+      <tr><td style="white-space:nowrap;width:90px"><b>{{ e.date }}</b></td><td>{% if e.source_url %}<a href="{{ e.source_url }}" target="_blank">{{ e.event }}</a>{% else %}{{ e.event }}{% endif %}
+        {% if e.tickers %}<div>{% for t in e.tickers %}<span class="chip">{{ t.name if t is mapping else t }}</span>{% endfor %}</div>{% endif %}</td></tr>
+      {% endfor %}
+    </table>
+  </div>
+{% endif %}
+
+{% if requests %}
+  <div class="box">
+    <h2>📮 요청하신 내용</h2>
+    {% for r in requests %}
+    <div class="top-item">
+      <div style="font-weight:700">Q. {{ r.request }}</div>
+      <div style="margin-top:4px">{{ r.answer }}</div>
+      {% for l in r.links or [] %}<a class="chip" href="{{ l.url }}" target="_blank">{{ l.title }}</a>{% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+  <div class="disclaimer">⚠️ {{ disclaimer }}</div>
+  <footer><p>{{ title }} | {{ footer_label }}<br>추가로 보고 싶은 내용은 저장소의 <b>requests/inbox.md</b>, 관심종목은 <b>config/watchlist.json</b>에 적어 주세요.</p></footer>
+</div>
+</body>
+</html>
