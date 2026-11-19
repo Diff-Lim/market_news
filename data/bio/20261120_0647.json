@@ -756,5 +756,289 @@
         "next_catalyst": "11/20 EORTC-NCI-AACR 발표"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-20T06:47+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "028300",
+        "name": "HLB",
+        "date": "2026-11-19",
+        "title": "주요사항보고서(회사합병결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000398",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "067630",
+        "name": "HLB생명과학",
+        "date": "2026-11-19",
+        "title": "주요사항보고서(회사합병결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000371",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "067630",
+        "name": "HLB생명과학",
+        "date": "2026-11-19",
+        "title": "주권매매거래정지              (합병)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900675",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "196170",
+        "name": "알테오젠",
+        "date": "2026-11-19",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000022",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "310210",
+        "name": "보로노이",
+        "date": "2026-11-19",
+        "title": "투자판단관련주요경영사항(임상시험계획변경승인)              (VRN110755의 제 1/2상 임상시험)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900540",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "310210",
+        "name": "보로노이",
+        "date": "2026-11-18",
+        "title": "[기재정정]투자판단관련주요경영사항(임상시험계획변경승인신청)              (VRN110755의 제 1/2상 임상시험)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118900433",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "237690",
+        "name": "에스티팜",
+        "date": "2026-11-17",
+        "title": "기업설명회(IR)개최",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117900524",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "MRK",
+        "name": "Merck & Co.",
+        "date": "2026-11-18",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000255/mrk-20261116.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:028300": {
+        "symbol": "028300.KQ",
+        "close": 27750.0,
+        "change_pct": 2.21,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:067630": {
+        "symbol": "067630.KQ",
+        "close": 2285.0,
+        "change_pct": -0.22,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:196170": {
+        "symbol": "196170.KQ",
+        "close": 172700.0,
+        "change_pct": 1.05,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "US:MRK": {
+        "symbol": "MRK",
+        "close": 132.81,
+        "change_pct": -3.61,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:HALO": {
+        "symbol": "HALO",
+        "close": 93.04,
+        "change_pct": -2.88,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:INSM": {
+        "symbol": "INSM",
+        "close": 144.46,
+        "change_pct": 20.58,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "GLOBAL:SAN.PA": {
+        "symbol": "SAN.PA",
+        "close": 83.79,
+        "change_pct": -2.85,
+        "currency": "EUR",
+        "date": "11/19"
+      },
+      "US:REGN": {
+        "symbol": "REGN",
+        "close": 923.34,
+        "change_pct": -2.35,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:ALNY": {
+        "symbol": "ALNY",
+        "close": 147.82,
+        "change_pct": -1.06,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:AZN": {
+        "symbol": "AZN",
+        "close": 175.41,
+        "change_pct": -1.87,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:ABBV": {
+        "symbol": "ABBV",
+        "close": 283.54,
+        "change_pct": -0.86,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:GOOGL": {
+        "symbol": "GOOGL",
+        "close": 272.66,
+        "change_pct": -3.46,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:CLDX": {
+        "symbol": "CLDX",
+        "close": 27.96,
+        "change_pct": 1.49,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "GLOBAL:NOVO-B.CO": {
+        "symbol": "NOVO-B.CO",
+        "close": 265.15,
+        "change_pct": -2.32,
+        "currency": "DKK",
+        "date": "11/19"
+      },
+      "GLOBAL:NOVN.SW": {
+        "symbol": "NOVN.SW",
+        "close": 127.24,
+        "change_pct": -3.22,
+        "currency": "CHF",
+        "date": "11/19"
+      },
+      "US:JNJ": {
+        "symbol": "JNJ",
+        "close": 267.14,
+        "change_pct": -2.04,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "KR:086450": {
+        "symbol": "086450.KQ",
+        "close": 26600.0,
+        "change_pct": 9.02,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:115180": {
+        "symbol": "115180.KS",
+        "close": 14380.0,
+        "change_pct": 10.36,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:397030": {
+        "symbol": "397030.KS",
+        "close": 13130.0,
+        "change_pct": 14.67,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:458870": {
+        "symbol": "458870.KS",
+        "close": 14460.0,
+        "change_pct": 16.8,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:095700": {
+        "symbol": "095700.KQ",
+        "close": 1876.0,
+        "change_pct": 3.88,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:069620": {
+        "symbol": "069620.KS",
+        "close": 99900.0,
+        "change_pct": 2.36,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:000100": {
+        "symbol": "000100.KS",
+        "close": 81300.0,
+        "change_pct": 1.5,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:170900": {
+        "symbol": "170900.KS",
+        "close": 34000.0,
+        "change_pct": 1.19,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:310210": {
+        "symbol": "310210.KS",
+        "close": 108500.0,
+        "change_pct": 6.58,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:237690": {
+        "symbol": "237690.KS",
+        "close": 75300.0,
+        "change_pct": 7.26,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:068270": {
+        "symbol": "068270.KS",
+        "close": 215000.0,
+        "change_pct": 3.61,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "US:ERAS": {
+        "symbol": "ERAS",
+        "close": 14.22,
+        "change_pct": 3.34,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:RVMD": {
+        "symbol": "RVMD",
+        "close": 159.43,
+        "change_pct": -0.24,
+        "currency": "USD",
+        "date": "11/19"
+      }
+    },
+    "quotes_as_of": "11/19",
+    "notes": []
+  }
 }
