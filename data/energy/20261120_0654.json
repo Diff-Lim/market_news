@@ -736,5 +736,220 @@
         "policy": "데이터센터 세제혜택 재생 70% 조건 제안"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-20T06:55+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "373220",
+        "name": "LG에너지솔루션",
+        "date": "2026-11-19",
+        "title": "기업가치제고계획예고(안내공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800476",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "103590",
+        "name": "일진전기",
+        "date": "2026-11-19",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800214",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "112610",
+        "name": "씨에스윈드",
+        "date": "2026-11-19",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800079",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005490",
+        "name": "POSCO홀딩스",
+        "date": "2026-11-19",
+        "title": "풍문또는보도에대한해명(미확정)(자회사의 주요경영사항)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800164",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "F",
+        "name": "Ford",
+        "date": "2026-11-17",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799626000193/f-20261117.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:015760": {
+        "symbol": "015760.KS",
+        "close": 25250.0,
+        "change_pct": 0.6,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:006400": {
+        "symbol": "006400.KS",
+        "close": 428500.0,
+        "change_pct": -1.38,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:373220": {
+        "symbol": "373220.KS",
+        "close": 302000.0,
+        "change_pct": -0.98,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:096770": {
+        "symbol": "096770.KS",
+        "close": 98300.0,
+        "change_pct": -5.48,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:078930": {
+        "symbol": "078930.KS",
+        "close": 81100.0,
+        "change_pct": -3.22,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:010950": {
+        "symbol": "010950.KS",
+        "close": 101000.0,
+        "change_pct": -3.99,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "US:XOM": {
+        "symbol": "XOM",
+        "close": 158.93,
+        "change_pct": -1.03,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:CVX": {
+        "symbol": "CVX",
+        "close": 206.5,
+        "change_pct": 0.3,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "KR:103590": {
+        "symbol": "103590.KS",
+        "close": 56100.0,
+        "change_pct": 2.56,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:112610": {
+        "symbol": "112610.KS",
+        "close": 41450.0,
+        "change_pct": 1.1,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:267260": {
+        "symbol": "267260.KS",
+        "close": 415500.0,
+        "change_pct": 8.63,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:298040": {
+        "symbol": "298040.KS",
+        "close": 1796000.0,
+        "change_pct": 6.9,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:010120": {
+        "symbol": "010120.KS",
+        "close": 120800.0,
+        "change_pct": 4.14,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:034020": {
+        "symbol": "034020.KS",
+        "close": 43800.0,
+        "change_pct": 1.74,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "US:SMR": {
+        "symbol": "SMR",
+        "close": 3.81,
+        "change_pct": -2.56,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "KR:005490": {
+        "symbol": "005490.KS",
+        "close": 259500.0,
+        "change_pct": -0.76,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "GLOBAL:300750.SZ": {
+        "symbol": "300750.SZ",
+        "close": 234.58,
+        "change_pct": -2.67,
+        "currency": "CNY",
+        "date": "11/19"
+      },
+      "US:F": {
+        "symbol": "F",
+        "close": 11.24,
+        "change_pct": -0.35,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:CSIQ": {
+        "symbol": "CSIQ",
+        "close": 8.02,
+        "change_pct": 1.01,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:GOOGL": {
+        "symbol": "GOOGL",
+        "close": 272.66,
+        "change_pct": -3.46,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "GLOBAL:PKN.WA": {
+        "symbol": "PKN.WA",
+        "close": 125.9,
+        "change_pct": -2.37,
+        "currency": "PLN",
+        "date": "11/19"
+      },
+      "GLOBAL:ENR.DE": {
+        "symbol": "ENR.DE",
+        "close": 126.7,
+        "change_pct": 0.03,
+        "currency": "EUR",
+        "date": "11/19"
+      },
+      "US:WEC": {
+        "symbol": "WEC",
+        "close": 116.11,
+        "change_pct": -1.16,
+        "currency": "USD",
+        "date": "11/19"
+      }
+    },
+    "quotes_as_of": "11/19",
+    "notes": []
+  }
 }
