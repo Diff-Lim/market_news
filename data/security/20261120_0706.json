@@ -492,5 +492,264 @@
         "metric": "3Q 영업이익 +253%"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-20T07:06+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "000120",
+        "name": "CJ대한통운",
+        "date": "2026-11-18",
+        "title": "의결권대리행사권유참고서류",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000120",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "000120",
+        "name": "CJ대한통운",
+        "date": "2026-11-18",
+        "title": "주주총회소집공고",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000109",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "150900",
+        "name": "파수AI",
+        "date": "2026-11-17",
+        "title": "기업설명회(IR)개최",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261117900331",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "263860",
+        "name": "지니언스",
+        "date": "2026-11-18",
+        "title": "주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000256",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "263860",
+        "name": "지니언스",
+        "date": "2026-11-18",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000243",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "263860",
+        "name": "지니언스",
+        "date": "2026-11-18",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000237",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "PANW",
+        "name": "Palo Alto Networks",
+        "date": "2026-11-19",
+        "title": "분기보고서(10-Q)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000033/panw-20261031.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "PANW",
+        "name": "Palo Alto Networks",
+        "date": "2026-11-18",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/panw-20261117.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "FFIV",
+        "name": "F5",
+        "date": "2026-11-17",
+        "title": "연간보고서(10-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1048695/000104869526000077/ffiv-20260930.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "CSCO",
+        "name": "Cisco",
+        "date": "2026-11-17",
+        "title": "분기보고서(10-Q)",
+        "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000185/csco-20261024.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ESTC",
+        "name": "Elastic",
+        "date": "2026-11-19",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775326000067/estc-20261117.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "NVDA",
+        "name": "NVIDIA",
+        "date": "2026-11-17",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/nvda-20261117.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "NABL",
+        "name": "N-able",
+        "date": "2026-11-17",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1834488/000183448826000060/nabl-20261111.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:PANW": {
+        "symbol": "PANW",
+        "close": 361.73,
+        "change_pct": 6.42,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:CRWD": {
+        "symbol": "CRWD",
+        "close": 243.46,
+        "change_pct": 2.71,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:NET": {
+        "symbol": "NET",
+        "close": 303.68,
+        "change_pct": 0.92,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:ZS": {
+        "symbol": "ZS",
+        "close": 205.71,
+        "change_pct": 3.98,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:FFIV": {
+        "symbol": "FFIV",
+        "close": 318.09,
+        "change_pct": -0.92,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:RPD": {
+        "symbol": "RPD",
+        "close": 15.33,
+        "change_pct": -0.07,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:CSCO": {
+        "symbol": "CSCO",
+        "close": 94.7,
+        "change_pct": -2.55,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:TEAM": {
+        "symbol": "TEAM",
+        "close": 133.01,
+        "change_pct": -1.51,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:ESTC": {
+        "symbol": "ESTC",
+        "close": 76.33,
+        "change_pct": -8.05,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:ORCL": {
+        "symbol": "ORCL",
+        "close": 110.57,
+        "change_pct": -2.92,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 145.98,
+        "change_pct": -3.3,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "US:NABL": {
+        "symbol": "NABL",
+        "close": 4.84,
+        "change_pct": 1.68,
+        "currency": "USD",
+        "date": "11/19"
+      },
+      "KR:000120": {
+        "symbol": "000120.KS",
+        "close": 71300.0,
+        "change_pct": 1.57,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:053800": {
+        "symbol": "053800.KQ",
+        "close": 117900.0,
+        "change_pct": 12.5,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:488280": {
+        "symbol": "488280.KQ",
+        "close": 9050.0,
+        "change_pct": 12.28,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:150900": {
+        "symbol": "150900.KQ",
+        "close": 6200.0,
+        "change_pct": 13.97,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:340810": {
+        "symbol": "340810.KS",
+        "close": 3235.0,
+        "change_pct": 6.41,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:042510": {
+        "symbol": "042510.KQ",
+        "close": 14600.0,
+        "change_pct": 3.03,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:263860": {
+        "symbol": "263860.KS",
+        "close": 38150.0,
+        "change_pct": -0.78,
+        "currency": "KRW",
+        "date": "11/19"
+      }
+    },
+    "quotes_as_of": "11/19",
+    "notes": []
+  }
 }
