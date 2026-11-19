@@ -7,6 +7,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 from datetime import datetime, timedelta
@@ -43,6 +44,15 @@ def validate(path: Path) -> tuple[list[str], list[str]]:
     except Exception:  # noqa: BLE001
         errs.append("published_at 누락/형식 오류(YYYY-MM-DDTHH:MM)")
         pub = None
+
+    if pub:
+        from datetime import timezone
+        now_kst = datetime.now(timezone(timedelta(hours=9))).replace(tzinfo=None)
+        if os.getenv("GITHUB_ACTIONS") != "true" and pub > now_kst + timedelta(minutes=5):
+            errs.append(f"published_at {pub:%H:%M} 이 현재 시각({now_kst:%H:%M} KST)보다 미래임 — 실제 현재 시각을 쓸 것")
+        recent = [p for p in path.parent.glob("2*.json") if p.name < path.name and p.stem >= f"{pub - timedelta(hours=2):%Y%m%d_%H%M}"]
+        if recent:
+            errs.append(f"2시간 안에 이미 발행한 호가 있음({recent[-1].name}) — 한 번 실행에 한 호만 발행")
 
     b = data.get("briefing") or []
     if not 3 <= len(b) <= 5:
