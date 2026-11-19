@@ -1,0 +1,693 @@
+{
+  "published_at": "2026-11-20T06:28",
+  "industry": "ai",
+  "title": "AI 투자 브리핑",
+  "emoji": "🤖",
+  "sources": [
+    "24/7 Wall St",
+    "Business Standard",
+    "Decrypt",
+    "StockAnalysis",
+    "VentureBeat",
+    "Yahoo Finance",
+    "Yahoo Finance(Reuters)",
+    "디지털데일리",
+    "서울경제",
+    "스페셜타임스",
+    "전국경제신문",
+    "전자신문",
+    "지디넷코리아",
+    "한국경제"
+  ],
+  "briefing": [
+    "앤트로픽 공모가 83달러·첫날 +17% → 구글·아마존·SKT 지분가치 부각",
+    "나스닥 -2.23%·NVDA 6일 연속↓ → 오늘 국내 AI·HBM주 되돌림 주의",
+    "마이크론 \"2027년 메모리 더 타이트\"·루빈 HBM4 출하 → 하이닉스·삼성 물량 가시성",
+    "구글 제미나이 4 네온 API 25% 저가 → 모델 가격 경쟁, 응용 SaaS엔 우호적",
+    "LGU+ 파주 AIDC 7,890억 증설(수요 확보) → 통신사 AI 데이터센터 성장 확인"
+  ],
+  "market_snapshot": [
+    {
+      "label": "나스닥(11/19, 잠정)",
+      "value": "23,885.88 (-2.23%)",
+      "source": "Yahoo Finance(Reuters)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-210028386.html"
+    },
+    {
+      "label": "NVIDIA(11/19)",
+      "value": "145.98달러 (-3.30%)",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-climb-ahead-of-anthropics-15-trillion-mega-ipo-5037518"
+    },
+    {
+      "label": "앤트로픽(ANT) 상장 첫날 종가",
+      "value": "97.17달러 (공모가 대비 약 +17%)",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price"
+    },
+    {
+      "label": "코스피(11/19)",
+      "value": "5,137.89 (+1.39%)",
+      "source": "위키트리",
+      "url": "https://www.wikitree.co.kr/articles/1176062"
+    },
+    {
+      "label": "SK하이닉스(11/19)",
+      "value": "1,183,000원 (+3.41%)",
+      "source": "스페셜타임스",
+      "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=487726"
+    }
+  ],
+  "watchlist_notes": [
+    {
+      "name": "NVIDIA",
+      "note": "6거래일 연속 하락(11/19 -3.3%). 젠슨 황 퇴진 두고 머스크 등 이사회 비판, 이사회는 복귀 불가 입장",
+      "article_urls": [
+        "https://247wallst.com/investing/2026/11/19/like-kicking-michael-jordan-off-your-team-elon-musk-blasts-nvidia-boards-actions/",
+        "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-210028386.html"
+      ]
+    },
+    {
+      "name": "SK하이닉스",
+      "note": "19일 +3.41% 반등 마감. 키움증권 목표가 210만→180만원 하향, 4분기 HBM4 매출이 HBM3E 상회 전망",
+      "article_urls": [
+        "https://www.specialtimes.co.kr/news/articleView.html?idxno=487726",
+        "https://en.sedaily.com/market/2026/11/19/top-1-percent-traders-scoop-up-samsung-sk-hynix-as-chip",
+        "https://news.jkn.co.kr/editions/english/post/1106281"
+      ]
+    },
+    {
+      "name": "삼성전자",
+      "note": "19일 +1.13% 마감. 키움증권 목표가 35만→29만원 하향, 4분기 HBM·서버 D램 판매 확대 계획",
+      "article_urls": [
+        "https://www.specialtimes.co.kr/news/articleView.html?idxno=487726",
+        "https://en.sedaily.com/market/2026/11/19/top-1-percent-traders-scoop-up-samsung-sk-hynix-as-chip"
+      ]
+    },
+    {
+      "name": "HBM",
+      "note": "베라루빈 NVL72 GPU당 HBM4 288GB 출하 시작, 마이크론 \"2027년 메모리 공급 더 타이트\"",
+      "article_urls": [
+        "https://news.jkn.co.kr/editions/english/post/1106281",
+        "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-30",
+      "event": "AWS re:Invent 2026 개막(~12/4, 12/1 맷 가먼 CEO 키노트)",
+      "tickers": [
+        {
+          "name": "Amazon",
+          "market": "US",
+          "code": "AMZN"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA"
+        }
+      ],
+      "source_url": "https://ecorpit.com/aws-reinvent-2026-keynotes-what-to-watch/"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "구글 제미나이 4 카본 API 가격 인상(2/10→4/20달러)",
+      "tickers": [
+        {
+          "name": "Alphabet",
+          "market": "US",
+          "code": "GOOGL"
+        }
+      ],
+      "source_url": "https://venturebeat.com/technology/google-launches-gemini-4-neon-with-opus-5-5-level-coding-performance-at-25-lower-api-token-prices"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "마벨 FY27 3분기 실적 발표",
+      "tickers": [
+        {
+          "name": "Marvell",
+          "market": "US",
+          "code": "MRVL"
+        }
+      ],
+      "source_url": "https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "세일즈포스 FY27 3분기 실적 발표(장 마감 후)",
+      "tickers": [
+        {
+          "name": "Salesforce",
+          "market": "US",
+          "code": "CRM"
+        }
+      ],
+      "source_url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Announces-Date-of-Third-Quarter-Fiscal-2027-Earnings-Release-and-Webcast/default.aspx"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "스노우플레이크 FY27 3분기 실적 발표(장 마감 후)",
+      "tickers": [
+        {
+          "name": "Snowflake",
+          "market": "US",
+          "code": "SNOW"
+        }
+      ],
+      "source_url": "https://www.snowflake.com/en/news/press-releases/fy27-q3-earnings-date-announcement/"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "capital",
+      "title": "앤트로픽, IPO 공모가 주당 83달러 확정…희망범위(70~78달러) 상회",
+      "url": "https://stockanalysis.com/news/anthropic-prices-ipo-83-per-share/",
+      "source": "StockAnalysis",
+      "time": "11/19 06:53",
+      "region": "US",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "앤트로픽이 공모가를 희망범위 상단을 넘는 83달러로 확정, 나스닥에 'ANT'로 상장. 구글·MS·엔비디아 등 7개사가 공모가로 260억달러 사모 참여. 완전희석 기업가치 약 1.5조달러(5월 시리즈H 9,650억달러).",
+      "tickers": [
+        {
+          "name": "Alphabet",
+          "market": "US",
+          "code": "GOOGL",
+          "effect": "positive"
+        },
+        {
+          "name": "Amazon",
+          "market": "US",
+          "code": "AMZN",
+          "effect": "positive"
+        },
+        {
+          "name": "Microsoft",
+          "market": "US",
+          "code": "MSFT",
+          "effect": "positive"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "positive"
+        }
+      ],
+      "insight": "AI 모델 기업의 공개시장 가치 확인 이벤트. 지분·컴퓨팅 공급을 함께 가진 구글·아마존에 지분가치 재평가 요인이나 '순환 투자' 논란도 동반.",
+      "signals": {
+        "value_chain": "모델",
+        "competition": "구글·아마존 지분가치 수혜, 오픈AI 대비 밸류에이션 기준점"
+      }
+    },
+    {
+      "category": "market",
+      "title": "월가, 앤트로픽 데뷔에도 AI 열기 못 살리며 급락 마감(나스닥 -2.23%)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-210028386.html",
+      "source": "Yahoo Finance(Reuters)",
+      "time": "11/20 06:00",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "19일 잠정 종가 나스닥 23,885.88(-2.23%), S&P500 7,175.24(-2.03%, 5일 연속 하락). VIX 28.36(+15.5%). 엔비디아 6거래일 연속 하락, 코어위브·네비우스 급락. CME FedWatch상 12월 25bp 인상 확률 약 94%.",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "CoreWeave",
+          "market": "US",
+          "code": "CRWV",
+          "effect": "negative"
+        },
+        {
+          "name": "Nebius",
+          "market": "US",
+          "code": "NBIS",
+          "effect": "negative"
+        }
+      ],
+      "insight": "금리 인상 우려와 데이터센터 CAPEX 증가세 둔화 전망이 겹쳐 AI 대형 IPO 호재도 상쇄. 오늘 국내 AI·HBM주 투자심리에 부담.",
+      "signals": {
+        "capex": "애널리스트 '데이터센터 CAPEX 성장 전망 식었다'",
+        "competition": "네오클라우드(CRWV·NBIS) 낙폭 확대"
+      }
+    },
+    {
+      "category": "market",
+      "title": "앤트로픽 상장 첫날 공모가 대비 17% 상승 마감…엔비디아·AMD·마이크론은 하락",
+      "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+      "source": "Decrypt",
+      "time": "11/20 06:12",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "summary": "ANT는 111.50달러로 시작해 첫날 97.17달러(공모가 대비 약 +17%)로 마감. AMD -7.73% 마감. 오후 기준 NVDA -3.4%, MU -2.17%, AVGO -2.07%, ORCL -2.97%, CRWV -5.0%, NBIS -7.8%, PANW +6%.",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "AMD",
+          "market": "US",
+          "code": "AMD",
+          "effect": "negative"
+        },
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "negative"
+        },
+        {
+          "name": "Oracle",
+          "market": "US",
+          "code": "ORCL",
+          "effect": "negative"
+        },
+        {
+          "name": "Palo Alto Networks",
+          "market": "US",
+          "code": "PANW",
+          "effect": "positive"
+        }
+      ],
+      "insight": "자금이 신규 상장 모델 기업으로 이동하며 인프라주에서 이탈하는 모습. 시초가 대비 밀린 ANT 주가는 AI 밸류에이션 경계심을 시사.",
+      "signals": {
+        "value_chain": "GPU·메모리·클라우드 동반 약세",
+        "competition": "모델 기업(ANT)으로 수급 이동"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "AMD 8% 급락…공매도 헌터브룩 'AMD 펌웨어, 블랙리스트 中 서버업체서 사용'",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-down-8-short-seller-160659729.html",
+      "source": "Yahoo Finance",
+      "time": "11/20 01:06",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "AMD 공매도 포지션을 공개한 헌터브룩은 美 블랙리스트 기업 IEIT시스템즈가 2025년 3월 이후에도 최신 AMD 펌웨어로 BIOS를 업데이트했다고 주장. 수출규정 위반 증거는 아니라고 인정. AMD 3분기 데이터센터 매출 85.5억달러(+97%).",
+      "tickers": [
+        {
+          "name": "AMD",
+          "market": "US",
+          "code": "AMD",
+          "effect": "negative"
+        },
+        {
+          "name": "Intel",
+          "market": "US",
+          "code": "INTC",
+          "effect": "positive"
+        }
+      ],
+      "insight": "실제 위반 여부와 무관하게 수출통제 조사 리스크가 AI 가속기 2위 업체 밸류에이션에 할인 요인으로 작용할 수 있음.",
+      "signals": {
+        "value_chain": "GPU/가속기",
+        "competition": "AMD 규제 리스크 부각"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "머스크 \"마이클 조던 내쫓은 격\"…엔비디아 이사회의 젠슨 황 해임 비판",
+      "url": "https://247wallst.com/investing/2026/11/19/like-kicking-michael-jordan-off-your-team-elon-musk-blasts-nvidia-boards-actions/",
+      "source": "24/7 Wall St",
+      "time": "11/20 00:05",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "머스크가 18일 딜북 서밋에서 젠슨 황 퇴진을 결정한 엔비디아 이사회를 비판. 애크먼·러키도 반대, 복귀 청원 20만명 이상. 이사회는 복귀 불가 입장, 콜렛 크레스 임시 CEO 체제. 3분기 매출 1,158.4억달러(+103%), 4분기 가이던스 1,300억달러±3%.",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "역대 최대 실적에도 주가가 6일 연속 하락한 배경엔 경영 공백 리스크. 지배구조 불확실성이 HBM 공급사 투자심리에도 전이될 수 있음.",
+      "signals": {
+        "value_chain": "GPU/가속기",
+        "monetization": "4분기 매출 가이던스 1,300억달러±3%"
+      }
+    },
+    {
+      "category": "model",
+      "title": "구글, 오퍼스 5.5급 코딩 성능 '제미나이 4 네온' 출시…API 단가 25% 낮춰",
+      "url": "https://venturebeat.com/technology/google-launches-gemini-4-neon-with-opus-5-5-level-coding-performance-at-25-lower-api-token-prices",
+      "source": "VentureBeat",
+      "time": "11/19 08:33",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "입력 3달러/출력 15달러(100만 토큰당)로 클로드 오퍼스 5.5(4/20달러)보다 25% 저렴. Artificial Analysis 지수 61로 3위. 제미나이 API·AI 스튜디오, 프로·울트라 구독자 앱에서 제공. 12월 1일 제미나이 4 카본 API 가격은 2/10→4/20달러 인상 예정.",
+      "tickers": [
+        {
+          "name": "Alphabet",
+          "market": "US",
+          "code": "GOOGL",
+          "effect": "positive"
+        }
+      ],
+      "insight": "앤트로픽 상장일 직전 가격 경쟁 카드. 고성능 모델 단가 하락은 사용량 확대엔 긍정적이나 모델 기업 마진엔 압박.",
+      "signals": {
+        "value_chain": "모델",
+        "monetization": "API 가격 25% 인하(네온), 카본은 12/1 인상",
+        "competition": "구글 vs 앤트로픽·오픈AI 가격 경쟁"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "팔로알토네트웍스, 45억달러 AI 기업 인수·FY2027 가이던스 상향에 9% 급등",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-shares-jump-115622787.html",
+      "source": "Yahoo Finance",
+      "time": "11/19 20:56",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "기업 데이터 기반 맞춤형 오픈웨이트 모델 기업 어플라이드 컴퓨트를 약 45억달러 전액 주식으로 인수. 1분기 매출 34.4억달러(+39%, 예상 33.1억달러), 차세대 보안 ARR 97.3억달러(+66%). FY27 매출 가이던스 145.2억~145.7억달러로 컨센서스(약 141.7억달러) 상회.",
+      "tickers": [
+        {
+          "name": "Palo Alto Networks",
+          "market": "US",
+          "code": "PANW",
+          "effect": "positive"
+        }
+      ],
+      "insight": "AI 하락장 속에서도 실적이 확인되는 응용·SaaS 영역은 차별화. 보안 업체의 AI 모델 내재화 경쟁 가속 신호.",
+      "signals": {
+        "value_chain": "앱/SaaS",
+        "monetization": "차세대 보안 ARR 97.3억달러(+66%)"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "손정의 \"앤트로픽 투자 놓친 것 후회\"…소프트뱅크, 6월 고점 대비 약 60% 하락",
+      "url": "https://www.business-standard.com/world-news/masayoshi-son-regrets-missing-anthropic-investment-softbank-openai-ipo-126111900329_1.html",
+      "source": "Business Standard",
+      "time": "11/19 14:35",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "손정의 회장이 18일 도쿄 행사에서 앤트로픽 미투자를 실수라고 언급. 소프트뱅크는 오픈AI에 약 650억달러 투자. 오픈AI는 지난달 조달 목표를 기업가치 1.25조달러에 200억달러로 축소(기존 1.4조달러). 소프트뱅크·Arm 주가는 6월 대비 약 60% 하락.",
+      "tickers": [
+        {
+          "name": "소프트뱅크그룹",
+          "market": "GLOBAL",
+          "code": "9984.T",
+          "effect": "negative"
+        },
+        {
+          "name": "Arm",
+          "market": "US",
+          "code": "ARM",
+          "effect": "negative"
+        }
+      ],
+      "insight": "오픈AI 집중 베팅 구조라 앤트로픽 고평가가 소프트뱅크엔 상대적 약점으로 부각. 오픈AI 밸류 하향은 지분가치 부담.",
+      "signals": {
+        "competition": "앤트로픽 vs 오픈AI 밸류에이션 역전"
+      }
+    },
+    {
+      "category": "market",
+      "title": "엔비디아·브로드컴·마이크론, 앤트로픽 상장 속 상승분 반납…마이크론 \"2027년 메모리 더 빡빡\"",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
+      "source": "Yahoo Finance",
+      "time": "11/20 02:08",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "장중 NVDA -1.04%, MU -0.59%, AMD -8.14%. TSMC·ASML도 장초반 상승분 반납, 코어위브·네비우스 약 2% 반납. 마이크론 스콧 드보어 임원은 2027년 메모리 공급이 2026년보다 더 타이트할 것이라고 언급.",
+      "tickers": [
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "Broadcom",
+          "market": "US",
+          "code": "AVGO",
+          "effect": "negative"
+        }
+      ],
+      "insight": "주가는 약세지만 메모리 공급사 스스로 2027년 수급 타이트를 재확인. HBM 가격·물량 협상력에 우호적인 발언.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "competition": "메모리 공급 부족 지속 → 공급사 우위"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "엔비디아 매출 1,158억달러 사상 최대…삼성전자·SK하이닉스에 HBM4 기회",
+      "url": "https://news.jkn.co.kr/editions/english/post/1106281",
+      "source": "전국경제신문",
+      "time": "11/19 09:35",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "엔비디아 3분기 매출 1,158.44억달러로 컨센서스(약 1,091억달러) 상회, 데이터센터 1,076억달러(비중 약 93%). 베라루빈 NVL72 출하 시작, GPU당 HBM4 288GB. SK하이닉스는 4분기 HBM4 출하·매출이 HBM3E를 넘어설 것으로 예상, 삼성은 4분기 HBM·서버 D램 판매 확대 계획.",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        }
+      ],
+      "insight": "루빈 출하 본격화로 HBM4 세대 전환이 4분기 실적에 반영되기 시작. 국내 메모리 2사 물량 가시성 확인.",
+      "signals": {
+        "value_chain": "GPU/가속기 · HBM/메모리",
+        "monetization": "데이터센터 매출 1,076억달러"
+      }
+    },
+    {
+      "category": "market",
+      "title": "흔들리는 반도체주, 상위 1% 투자자는 삼성전자·SK하이닉스 매수…키움증권 목표가 하향",
+      "url": "https://en.sedaily.com/market/2026/11/19/top-1-percent-traders-scoop-up-samsung-sk-hynix-as-chip",
+      "source": "서울경제",
+      "time": "11/19 11:27",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "미래에셋 상위 1% 고객이 19일 오전 SK하이닉스·삼성전자·삼성전자우를 가장 많이 순매수. 키움증권 박유악 연구원은 목표가를 삼성전자 35만→29만원, SK하이닉스 210만→180만원으로 하향하며 두 회사 분기 실적 정점을 2027년 2분기로 전망.",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "실적 피크아웃 시점(2027년 2분기) 논쟁이 시작된 점이 핵심. 저가 매수와 목표가 하향이 맞서는 구간.",
+      "signals": {
+        "value_chain": "HBM/메모리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "삼성전자·SK하이닉스, 앤트로픽 상장 기대감에 등락 끝 상승 마감",
+      "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=487726",
+      "source": "스페셜타임스",
+      "time": "11/19 16:57",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "summary": "19일 장중 2.5%대 하락 후 반등해 삼성전자 196,900원(+1.13%), SK하이닉스 1,183,000원(+3.41%) 마감. 앤트로픽 공모가 상단 초과로 AI 자금조달·신용 우려 완화가 배경. 외국인 코스피 약 4,036억원 순매도, 기타법인 약 4,514억원 순매수.",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        }
+      ],
+      "insight": "국내 반등은 앤트로픽 기대가 반영된 것이나 간밤 나스닥 -2.2% 급락으로 오늘 되돌림 압력 가능성.",
+      "signals": {
+        "value_chain": "HBM/메모리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "주가 40% 폭락했는데 쓸어담았다…외인 매수 1위 '이 종목'(네이버)",
+      "url": "https://www.hankyung.com/article/2026111981651",
+      "source": "한국경제",
+      "time": "11/19 18:04",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "네이버는 19일 168,300원(-1.17%) 마감, 6월 대비 약 40% 하락했으나 11/2~18 외국인 순매수 1위(1,541억원). 3분기 영업이익 4,513억원(-20.9%)은 AI 인프라 비용으로 기대 하회. 증권사 19곳 중 11곳 목표가 하향. 북미 AI 기업과 20MW GPU 컴퓨팅 공급 계약.",
+      "tickers": [
+        {
+          "name": "NAVER",
+          "market": "KR",
+          "code": "035420",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "AI 투자비가 이익을 깎는 구간이지만 GPU 임대 첫 매출(2027년 2분기 예상)이 반등 분기점이라는 시각. 외국인 저가 매수 지속 여부 관건.",
+      "signals": {
+        "value_chain": "클라우드",
+        "capex": "AI 인프라 비용 증가로 영업이익 -20.9%",
+        "monetization": "북미 AI 기업과 20MW GPU 공급 계약"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "[이슈플러스] '앤트로픽 상장' 국내 AI 업계 촉각…\"투자심리 개선 기대\"",
+      "url": "https://www.etnews.com/20261119000418",
+      "source": "전자신문",
+      "time": "11/19 17:01",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "앤트로픽 공모·사모 합산 조달액 1,073억달러로 스페이스X 기록 경신. 외국인 매매가 대형 반도체주에 쏠려 국내 AI 기업 직접 효과는 제한적이라는 분석. 제논·원프레딕트·슈퍼브에이아이·뤼튼이 코스닥 상장 추진, 원프레딕트는 연내 예비심사 청구 계획.",
+      "tickers": [
+        {
+          "name": "삼성에스디에스",
+          "market": "KR",
+          "code": "018260",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "국내 AI 스타트업 IPO 파이프라인이 앤트로픽 흥행으로 탄력 받을 수 있으나, 상장 AI 소프트웨어주로의 수급 전이는 제한적일 전망.",
+      "signals": {
+        "competition": "수급은 반도체 대형주 집중, AI SW주 소외"
+      }
+    },
+    {
+      "category": "infra",
+      "title": "LGU+, 파주 AIDC 3단계 구축에 7890억원 투자",
+      "url": "https://www.ddaily.co.kr/page/view/2026111918011075240",
+      "source": "디지털데일리",
+      "time": "11/19 18:09",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "LG유플러스 이사회가 파주 AI 데이터센터 3단계에 최대 7,890억원(자기자본의 8.70%) 투자를 승인, 공사기간 2026년 11월 23일~2029년 1월. 200MW급 4개 동 모두 고객 수요 확보. 3분기 AIDC 매출 1,317억원(+27.7%).",
+      "tickers": [
+        {
+          "name": "LG유플러스",
+          "market": "KR",
+          "code": "032640",
+          "effect": "positive"
+        }
+      ],
+      "insight": "고객 선확보 상태의 증설이라 수주형 성장 가시성이 높음. 통신사 AI 데이터센터가 실적 성장축으로 자리잡는 흐름.",
+      "signals": {
+        "value_chain": "데이터센터/전력",
+        "capex": "7,890억원(자기자본 8.70%)",
+        "monetization": "AIDC 매출 1,317억원(+27.7%)"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "앤트로픽 상장에 SK텔레콤 '잭팟'…주가는?",
+      "url": "https://www.ddaily.co.kr/page/view/2026111915504636377",
+      "source": "디지털데일리",
+      "time": "11/19 17:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "summary": "SKT는 2023년부터 앤트로픽에 2억400만달러 투자, 약 3,860만주 보유. 공모가 기준 지분가치 약 32억달러(약 4조2,569억원)로 투자금의 약 15.7배. 그러나 19일 주가는 차익실현으로 2.91% 내린 80,200원 마감.",
+      "tickers": [
+        {
+          "name": "SK텔레콤",
+          "market": "KR",
+          "code": "017670",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "상장 첫날 ANT 종가(97.17달러) 기준 지분가치는 더 커짐. 평가이익 인식·지분 활용(유동화) 계획이 주가 재평가 변수.",
+      "signals": {
+        "value_chain": "모델(지분투자)",
+        "monetization": "앤트로픽 지분가치 약 32억달러(공모가 기준)"
+      }
+    },
+    {
+      "category": "model",
+      "title": "이스트소프트, K-콘텐츠 300시간 AI 더빙…중남미 5개국 진출",
+      "url": "https://zdnet.co.kr/view/?no=20261119173230",
+      "source": "지디넷코리아",
+      "time": "11/19 17:32",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "이스트소프트가 정부 K-FAST 사업으로 2년간 K-콘텐츠 약 300시간을 AI 더빙해 중남미 5개국 FAST 채널로 송출. 페르소 더빙 가입자 2월 46만명→10월 60만명, 8~10월 신규 가입 약 90%가 해외.",
+      "tickers": [
+        {
+          "name": "이스트소프트",
+          "market": "KR",
+          "code": "047560",
+          "effect": "positive"
+        }
+      ],
+      "insight": "국내 AI 응용주 중 해외 유료 사용자 증가가 수치로 확인되는 사례. 가입자→매출 전환율이 관건.",
+      "signals": {
+        "value_chain": "앱/SaaS",
+        "monetization": "페르소 가입자 60만명(2월 대비 +30%)"
+      }
+    }
+  ]
+}
