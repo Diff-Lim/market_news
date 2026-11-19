@@ -214,5 +214,115 @@
         "capacity": "엔비디아 구매 약정 3900억달러"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-19T11:27+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-16",
+        "title": "분기보고서 (2026.09)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001715",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-18",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000151",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-16",
+        "title": "분기보고서 (2026.09)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001482",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "NVDA",
+        "name": "NVIDIA",
+        "date": "2026-11-17",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/nvda-20261117.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "AMD",
+        "name": "AMD",
+        "date": "2026-11-16",
+        "title": "8-K/A",
+        "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312526462340/d105780d8ka.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 150.96,
+        "change_pct": -2.89,
+        "currency": "USD",
+        "date": "11/18"
+      },
+      "GLOBAL:2330.TW": {
+        "symbol": "2330.TW",
+        "close": 2140.0,
+        "change_pct": -1.61,
+        "currency": "TWD",
+        "date": "11/19"
+      },
+      "GLOBAL:ASML.AS": {
+        "symbol": "ASML.AS",
+        "close": 1236.8,
+        "change_pct": -5.34,
+        "currency": "EUR",
+        "date": "11/18"
+      },
+      "US:AMD": {
+        "symbol": "AMD",
+        "close": 530.14,
+        "change_pct": 5.31,
+        "currency": "USD",
+        "date": "11/18"
+      },
+      "US:AVGO": {
+        "symbol": "AVGO",
+        "close": 354.05,
+        "change_pct": 3.64,
+        "currency": "USD",
+        "date": "11/18"
+      },
+      "US:MU": {
+        "symbol": "MU",
+        "close": 705.27,
+        "change_pct": -1.0,
+        "currency": "USD",
+        "date": "11/18"
+      },
+      "KR:000660": {
+        "symbol": "000660.KS",
+        "close": 1144000.0,
+        "change_pct": 0.0,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 192000.0,
+        "change_pct": -1.39,
+        "currency": "KRW",
+        "date": "11/19"
+      }
+    },
+    "quotes_as_of": "11/19",
+    "notes": []
+  }
 }
