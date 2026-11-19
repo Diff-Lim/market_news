@@ -742,5 +742,239 @@
         "segment": "팹리스"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-19T11:26+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-16",
+        "title": "분기보고서 (2026.09)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001715",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-18",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000151",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-16",
+        "title": "분기보고서 (2026.09)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001482",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "083450",
+        "name": "GST",
+        "date": "2026-11-16",
+        "title": "분기보고서 (2026.09)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000284",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "083450",
+        "name": "GST",
+        "date": "2026-11-16",
+        "title": "주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000281",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "036200",
+        "name": "유니셈",
+        "date": "2026-11-16",
+        "title": "분기보고서 (2026.09)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116000176",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "009150",
+        "name": "삼성전기",
+        "date": "2026-11-16",
+        "title": "분기보고서 (2026.09)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001915",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "489790",
+        "name": "한화비전",
+        "date": "2026-11-18",
+        "title": "풍문또는보도에대한해명",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800154",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "042700",
+        "name": "한미반도체",
+        "date": "2026-11-18",
+        "title": "기업설명회(IR)개최(안내공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118800273",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "NVDA",
+        "name": "NVIDIA",
+        "date": "2026-11-17",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/nvda-20261117.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "AMD",
+        "name": "AMD",
+        "date": "2026-11-16",
+        "title": "8-K/A",
+        "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312526462340/d105780d8ka.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 150.96,
+        "change_pct": -2.89,
+        "currency": "USD",
+        "date": "11/18"
+      },
+      "KR:000660": {
+        "symbol": "000660.KS",
+        "close": 1142000.0,
+        "change_pct": -0.17,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 191800.0,
+        "change_pct": -1.49,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "US:MU": {
+        "symbol": "MU",
+        "close": 705.27,
+        "change_pct": -1.0,
+        "currency": "USD",
+        "date": "11/18"
+      },
+      "US:AMD": {
+        "symbol": "AMD",
+        "close": 530.14,
+        "change_pct": 5.31,
+        "currency": "USD",
+        "date": "11/18"
+      },
+      "US:AVGO": {
+        "symbol": "AVGO",
+        "close": 354.05,
+        "change_pct": 3.64,
+        "currency": "USD",
+        "date": "11/18"
+      },
+      "KR:083450": {
+        "symbol": "083450.KQ",
+        "close": 42575.0,
+        "change_pct": 3.84,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:036200": {
+        "symbol": "036200.KQ",
+        "close": 8110.0,
+        "change_pct": -2.29,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:009150": {
+        "symbol": "009150.KS",
+        "close": 817000.0,
+        "change_pct": 0.86,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:489790": {
+        "symbol": "489790.KS",
+        "close": 35350.0,
+        "change_pct": -3.42,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "KR:042700": {
+        "symbol": "042700.KS",
+        "close": 161400.0,
+        "change_pct": -3.76,
+        "currency": "KRW",
+        "date": "11/19"
+      },
+      "GLOBAL:2330.TW": {
+        "symbol": "2330.TW",
+        "close": 2140.0,
+        "change_pct": -1.61,
+        "currency": "TWD",
+        "date": "11/19"
+      },
+      "GLOBAL:2454.TW": {
+        "symbol": "2454.TW",
+        "close": 3795.0,
+        "change_pct": -3.68,
+        "currency": "TWD",
+        "date": "11/19"
+      },
+      "GLOBAL:ASML.AS": {
+        "symbol": "ASML.AS",
+        "close": 1236.8,
+        "change_pct": -5.34,
+        "currency": "EUR",
+        "date": "11/18"
+      },
+      "GLOBAL:8035.T": {
+        "symbol": "8035.T",
+        "close": 8730.0,
+        "change_pct": 0.36,
+        "currency": "JPY",
+        "date": "11/19"
+      },
+      "US:AMAT": {
+        "symbol": "AMAT",
+        "close": 352.3,
+        "change_pct": 0.88,
+        "currency": "USD",
+        "date": "11/18"
+      },
+      "US:LRCX": {
+        "symbol": "LRCX",
+        "close": 211.67,
+        "change_pct": 0.47,
+        "currency": "USD",
+        "date": "11/18"
+      },
+      "US:KLAC": {
+        "symbol": "KLAC",
+        "close": 144.88,
+        "change_pct": 0.22,
+        "currency": "USD",
+        "date": "11/18"
+      }
+    },
+    "quotes_as_of": "11/19",
+    "notes": []
+  }
 }
