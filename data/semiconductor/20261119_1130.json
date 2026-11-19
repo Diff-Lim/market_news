@@ -1,0 +1,746 @@
+{
+  "published_at": "2026-11-19T11:30",
+  "industry": "semiconductor",
+  "title": "반도체 투자 브리핑",
+  "emoji": "💾",
+  "sources": [
+    "전자신문",
+    "파이낸셜뉴스",
+    "지디넷코리아",
+    "디지털데일리",
+    "디일렉",
+    "코리아중앙데일리",
+    "Motley Fool",
+    "강원도민일보",
+    "서울경제",
+    "24/7 Wall St.",
+    "Dataconomy",
+    "Investing.com",
+    "456X Research"
+  ],
+  "briefing": [
+    "엔비디아 3Q 매출 1,158억달러·4Q 가이던스 1,300억달러 → 실적은 호조, 주가는 리더십 공백에 -2.9%",
+    "엔비디아 공급 약정 3,900억달러(메모리 장기계약 중심) → 삼성전자·SK하이닉스 HBM4 수요 가시성↑",
+    "TrendForce, HBM4 가격 내년 최대 2배·4Q 범용 DRAM 10~15%↑ 전망 → 메모리주 실적 기대 지지",
+    "美 법원 DRAM 반독점 소송 기각 신청 불허 → 삼성·SK·마이크론 장기 법적 리스크(중립~악재)",
+    "국내 반도체주 18일 반등 후 19일 오전 다시 하락 → 美 긴축 우려·외국인 매도가 변수"
+  ],
+  "market_snapshot": [
+    {
+      "label": "필라델피아 반도체지수(11/18)",
+      "value": "+0.10%",
+      "source": "서울신문",
+      "url": "https://www.seoul.co.kr/news/economy/finance/2026/11/19/20261119500010"
+    },
+    {
+      "label": "SK하이닉스 종가(11/18)",
+      "value": "1,144,000원 (+4.19%)",
+      "source": "강원도민일보",
+      "url": "https://www.kado.net/news/articleView.html?idxno=2085620"
+    },
+    {
+      "label": "삼성전자 종가(11/18)",
+      "value": "194,700원 (+2.31%)",
+      "source": "강원도민일보",
+      "url": "https://www.kado.net/news/articleView.html?idxno=2085620"
+    },
+    {
+      "label": "11월 1~10일 반도체 수출",
+      "value": "166억달러 (+331.2%)",
+      "source": "파이낸셜뉴스",
+      "url": "https://www.fnnews.com/news/202611110917324697"
+    },
+    {
+      "label": "4Q26 범용 DRAM ASP 전망(TrendForce)",
+      "value": "전분기 대비 +10~15%",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20261118120439"
+    }
+  ],
+  "watchlist_notes": [
+    {
+      "name": "삼성전자",
+      "note": "18일 194,700원(+2.31%) 마감 후 19일 오전 하락 전환. HBM4 매출 전분기 대비 3배 이상 증가 보도, DRAM 반독점 소송 본안 진행",
+      "article_urls": [
+        "https://www.kado.net/news/articleView.html?idxno=2085620",
+        "https://www.fnnews.com/news/202611181452113938",
+        "https://www.ddaily.co.kr/page/view/2026111815385982187"
+      ]
+    },
+    {
+      "name": "SK하이닉스",
+      "note": "18일 1,144,000원(+4.19%) 마감, 19일 오전 약세. 12단 HBM4 계획대로 공급·HBM4E 샘플 공급 완료 보도",
+      "article_urls": [
+        "https://www.kado.net/news/articleView.html?idxno=2085620",
+        "https://www.fnnews.com/news/202611181452113938",
+        "https://m.sedaily.com/article/20116317"
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "note": "3Q 매출 1,158억달러(+103%)·4Q 가이던스 1,300억달러에도 18일 -2.9% 마감(5거래일 연속 하락). CEO 공백·중국 리스크 부담",
+      "article_urls": [
+        "https://www.etnews.com/20261118000277",
+        "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-nvidia-slips-on-strong-results-as-succession-and-china-business-risks-weigh/"
+      ]
+    },
+    {
+      "name": "HBM",
+      "note": "TrendForce HBM4 가격 Gb당 2.05달러 이상 → 내년 3~5.5달러 전망. 엔비디아 신경영진과 차세대 HBM 가격 협상은 리스크",
+      "article_urls": [
+        "https://zdnet.co.kr/view/?no=20261118120439",
+        "https://www.koreajoongangdaily.com/business/nvidia-posts-14th-straight-record-quarter-a-week-after-huangs-exit/12979352"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-19",
+      "event": "美 BIS '첨단 반도체 원격접근' 수출규칙 연방관보 게재·발효(동남아 5개국·브라질 라이선스 요구)",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA"
+        },
+        {
+          "name": "TSMC",
+          "market": "GLOBAL",
+          "code": "2330.TW"
+        },
+        {
+          "name": "AMD",
+          "market": "US",
+          "code": "AMD"
+        }
+      ],
+      "source_url": "https://www.techi.com/us-ai-chip-export-rule-nvidia-revenue-exposure/"
+    },
+    {
+      "date": "2026-11-26",
+      "event": "한국은행 기준금리 결정 / 미국 증시 추수감사절 휴장",
+      "tickers": [],
+      "source_url": "https://jangjeon.kr/calendar/2026-11/"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "마벨 FY27 3분기 실적 발표(미국 장 마감 후, 한국시간 12/2 06:30)",
+      "tickers": [
+        {
+          "name": "Marvell",
+          "market": "US",
+          "code": "MRVL"
+        }
+      ],
+      "source_url": "https://www.stocktitan.net/news/MRVL/marvell-technology-inc-announces-conference-call-to-review-third-b5i9e17446bh.html"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "earnings",
+      "title": "'젠슨 황' 없는 엔비디아, 분기 매출 첫 1000억달러 돌파…\"사업 차질 없다\"",
+      "url": "https://www.etnews.com/20261118000277",
+      "summary": "엔비디아 FY27 3분기 매출 1158억달러(전년比 +103%), 데이터센터 1076억달러(+110%). 베라 루빈 첫 분기 약 200억달러. 4분기 매출 가이던스 1300억달러(±3%)로 LSEG 컨센서스 1252억5000만달러 상회, 4분기 총이익률 가이던스 71~72%(3분기 74.8%).",
+      "source": "전자신문",
+      "time": "11/18 14:12",
+      "region": "US",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        }
+      ],
+      "insight": "가이던스가 컨센서스를 웃돌아 AI 가속기·HBM 수요가 4분기까지 견조함을 확인. 다만 총이익률 하락 가이던스는 단기 부담.",
+      "signals": {
+        "segment": "팹리스(AI GPU)"
+      }
+    },
+    {
+      "category": "memory",
+      "title": "엔비디아, 메모리 장기 확보 이어간다…삼성·SK HBM4 공급 탄력",
+      "url": "https://www.fnnews.com/news/202611181452113938",
+      "summary": "엔비디아 공급·생산능력 약정이 3900억달러(약 521조원)로 직전 2790억달러에서 1110억달러 증가. 삼성전자 HBM4 매출은 전분기 대비 3배 이상 늘어 HBM 매출의 60%를 차지했고, SK하이닉스는 12단 HBM4를 계획대로 공급하며 HBM4E 샘플 공급을 마쳤다고 보도.",
+      "source": "파이낸셜뉴스",
+      "time": "11/18 16:22",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "positive"
+        }
+      ],
+      "insight": "약정 증가분의 상당 부분이 다년 메모리 조달 계약이라 HBM4 물량의 장기 가시성이 높아짐. 리더십 공백이 수요에 미칠 영향은 확인 필요.",
+      "signals": {
+        "segment": "HBM",
+        "capacity": "엔비디아 공급 약정 3900억달러"
+      }
+    },
+    {
+      "category": "market",
+      "title": "HBM4 가격, 내년 2배 껑충…삼성·SK AI 메모리 사업 '청신호'",
+      "url": "https://zdnet.co.kr/view/?no=20261118120439",
+      "summary": "TrendForce는 18일 서울 로드쇼에서 HBM4 가격이 현재 Gb당 2.05달러 이상에서 내년 3~5.5달러로 오를 것으로 전망. 범용 DRAM ASP는 4Q26 전분기 대비 10~15%, 1Q27 5~10% 상승, NAND는 2Q27부터 하락 전환 예상. HBM의 DRAM 웨이퍼 비중은 23%에서 30% 가까이로 확대.",
+      "source": "지디넷코리아",
+      "time": "11/18 13:30",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "positive"
+        }
+      ],
+      "insight": "DRAM 가격 상승이 1Q27까지 이어진다는 전망은 메모리 3사 실적 추정을 지지. 반면 NAND 2Q27 하락 전환과 2028년 증설 불확실성은 피크아웃 논쟁의 근거.",
+      "signals": {
+        "segment": "메모리 · HBM",
+        "price": "HBM4 Gb당 2.05달러→내년 3~5.5달러, DRAM 4Q +10~15%"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "美 D램 반독점 소송 본안행… 韓 메모리 '감산·HBM 자료 검증' 시험대",
+      "url": "https://www.ddaily.co.kr/page/view/2026111815385982187",
+      "summary": "미 캘리포니아 북부지법이 14일(현지) 범용 DRAM 공급 제한 관련 집단소송에서 메모리 3사의 기각 신청을 불허해 본안으로 진행. 법원은 HBM 전환은 경제적으로 합리적이라 봤지만 동일 분기 DDR4 감산, LTA 거절 등은 본안에서 심리. 피고 답변 기한 12월 7일, 첫 사건관리회의 내년 1월 12일.",
+      "source": "디지털데일리",
+      "time": "11/18 15:41",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        },
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "negative"
+        }
+      ],
+      "insight": "당장 실적 영향은 제한적이나 증거개시 절차에서 웨이퍼 투입·고객 배분 자료가 노출될 수 있어 장기 법적 오버행으로 작용.",
+      "signals": {
+        "segment": "메모리",
+        "trade": "美 민사 반독점 소송 본안 진행"
+      }
+    },
+    {
+      "category": "memory",
+      "title": "엔비디아, 황 퇴진 1주일 만에 14분기 연속 사상 최대 실적",
+      "url": "https://www.koreajoongangdaily.com/business/nvidia-posts-14th-straight-record-quarter-a-week-after-huangs-exit/12979352",
+      "summary": "엔비디아 데이터센터 매출 1076억달러(+110%), 베라 루빈 NVL72 출하 시작. 4분기 가이던스 1300억달러는 중국 데이터센터 매출 제외 기준. 기존 HBM 계약은 재인증 필요성 때문에 단기 위험이 제한적이나, 신경영진과의 차세대(HBM4·루빈 울트라) 가격·물량 협상과 가격 인하 압박은 위험 요인으로 지적.",
+      "source": "코리아중앙데일리",
+      "time": "11/18 17:24",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "단기 HBM 물량은 안정적이지만 차세대 가격 협상력이 엔비디아 쪽으로 기울 가능성은 HBM 마진의 변수.",
+      "signals": {
+        "segment": "HBM"
+      }
+    },
+    {
+      "category": "market",
+      "title": "11월 18일 증시: 엔비디아, 호실적에도 하락…경영 승계·중국 사업 리스크 부담",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-nvidia-slips-on-strong-results-as-succession-and-china-business-risks-weigh/",
+      "summary": "엔비디아는 150.96달러(-2.90%)로 마감. 이사회 의장은 젠슨 황 복귀 요구를 거부했고, 중국 관련 규제 조사·신규 수출 제한도 부담. 같은 날 AMD는 530.14달러(+5.31%), 브로드컴 354.08달러(+3.65%)로 상승, 나스닥 +0.42%.",
+      "source": "Motley Fool",
+      "time": "11/19 06:51",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "AMD",
+          "market": "US",
+          "code": "AMD",
+          "effect": "positive"
+        },
+        {
+          "name": "Broadcom",
+          "market": "US",
+          "code": "AVGO",
+          "effect": "positive"
+        }
+      ],
+      "insight": "실적보다 지배구조 리스크가 엔비디아 주가를 누르는 가운데 AMD·브로드컴(ASIC)으로 수급이 이동하는 모습.",
+      "signals": {
+        "segment": "팹리스"
+      }
+    },
+    {
+      "category": "market",
+      "title": "'20만전자'는 아직…삼성전자 2.31%·SK하이닉스 4.19% 상승 마감",
+      "url": "https://www.kado.net/news/articleView.html?idxno=2085620",
+      "summary": "18일 삼성전자는 194,700원(+2.31%), SK하이닉스는 1,144,000원(+4.19%)에 마감. 외국인은 삼성전자 1620억원, SK하이닉스 346억원 순매도. 코스피에서 외국인 3274억원 순매도, 기관 5118억원 순매수.",
+      "source": "강원도민일보",
+      "time": "11/18 16:51",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        }
+      ],
+      "insight": "엔비디아 실적에 반등했지만 외국인은 두 종목 모두 순매도를 이어가 반등의 지속성은 수급 확인이 필요.",
+      "signals": {
+        "segment": "메모리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "상승 출발한 코스피, 반도체주 급락에 다시 5000선 아래로 [마켓시그널]",
+      "url": "https://m.sedaily.com/article/20116317",
+      "summary": "19일 오전 10시 25분 코스피는 4,992.15(-1.49%). 삼성전자 191,300원(-1.75%), SK하이닉스 1,126,000원(-1.57%). 엔비디아 경영 불확실성, 10월 FOMC 의사록의 추가 인상 기조와 월러 이사의 12월 50bp 인상 거론, 외국인 5거래일 순매도가 배경으로 꼽힘.",
+      "source": "서울경제",
+      "time": "11/19 10:33",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "insight": "업황보다 매크로(美 긴축)와 외국인 수급이 단기 주가를 좌우하는 국면.",
+      "signals": {
+        "segment": "메모리"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "[단독] GST, 머스크 '테라팹'에 스크러버·칠러 수천대 공급 타진",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65598",
+      "summary": "GST가 테슬라·스페이스X 반도체 팹 프로젝트 '테라팹'에 스크러버·칠러 수천 대 공급을 협의 중. 수주잔고는 6월 말 968억원에서 9월 말 1306억원으로 34.9% 증가. 경쟁사 유니셈도 협의 중. 테라팹 1단계는 월 10만장, 2028년 하반기 양산 목표.",
+      "source": "디일렉",
+      "time": "11/18 17:24",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "지에스티",
+          "market": "KR",
+          "code": "083450",
+          "effect": "positive"
+        },
+        {
+          "name": "유니셈",
+          "market": "KR",
+          "code": "036200",
+          "effect": "positive"
+        }
+      ],
+      "insight": "협의 단계로 확정 수주는 아니지만 성사 시 수주잔고 대비 의미 있는 규모. 공시 여부 확인 필요.",
+      "signals": {
+        "segment": "장비",
+        "capacity": "테라팹 1단계 월 10만장"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "삼성전기-엔비디아, AI 반도체 기판 협력 확대…MLCC 공급 추진",
+      "url": "https://www.ddaily.co.kr/page/view/2026111809482201989",
+      "summary": "삼성전기가 10월 AI 패키지 기판 협력에 이어 엔비디아와 MLCC로 협력을 확대. 엔비디아는 세종·부산 사업장 전용 기판 증설 자금 지원에 합의하고 추가 지원을 검토 중(금액 비공개). 본격 양산은 2029년부터 계획.",
+      "source": "디지털데일리",
+      "time": "11/18 09:57",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전기",
+          "market": "KR",
+          "code": "009150",
+          "effect": "positive"
+        }
+      ],
+      "insight": "고객 자금으로 전용 증설하는 구조라 투자 부담을 줄이며 엔비디아 공급망 내 입지 강화. 실적 기여는 2029년 이후.",
+      "signals": {
+        "segment": "후공정/패키징(기판)",
+        "capacity": "세종·부산 전용 기판 증설"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "한화비전, 한화세미텍 매각설 공식 부인",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65619",
+      "summary": "한화비전은 18일 공시로 100% 자회사 한화세미텍 매각설이 사실무근이라고 밝힘. 한화세미텍 3분기 매출 1698억원(+56%), 반도체 장비 매출 848억원(+115.2%), 영업이익 373억원(전분기 대비 +166.4%). SK하이닉스 등에 TC본더 공급, 하이브리드 본더 개발 중.",
+      "source": "디일렉",
+      "time": "11/18 17:30",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "한화비전",
+          "market": "KR",
+          "code": "489790",
+          "effect": "neutral"
+        },
+        {
+          "name": "한미반도체",
+          "market": "KR",
+          "code": "042700",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "매각설 해소로 불확실성은 줄었지만 HBM TC본더 고객 확대 속도가 한미반도체와의 경쟁 구도의 핵심 변수.",
+      "signals": {
+        "segment": "장비(TC본더)"
+      }
+    },
+    {
+      "category": "foundry",
+      "title": "TSMC, AI 고객사별 신용한도 설정 보도",
+      "url": "https://247wallst.com/investing/2026/11/18/tsmc-is-reportedly-setting-credit-limits-for-ai-customers/",
+      "summary": "공상시보를 인용해 TSMC가 ASIC 고객 중심으로 고객별 신용한도를 두고, 초과 주문에는 추가 현금·선급금을 요구한다고 보도(TSMC 논평 없음). 고객 선수금은 6월 말 2342억3000만 대만달러로 3월 말 대비 56% 증가. 10월 매출은 5868억9000만 대만달러(+59.7%)로 사상 최대.",
+      "source": "24/7 Wall St.",
+      "time": "11/18 22:37",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "TSMC",
+          "market": "GLOBAL",
+          "code": "2330.TW",
+          "effect": "positive"
+        },
+        {
+          "name": "MediaTek",
+          "market": "GLOBAL",
+          "code": "2454.TW",
+          "effect": "negative"
+        }
+      ],
+      "insight": "공급자 우위가 강해 TSMC는 현금흐름·리스크 관리에 유리하나, 자금력이 약한 ASIC 설계사는 자금 조달 부담이 커짐.",
+      "signals": {
+        "segment": "파운드리",
+        "capacity": "10월 매출 사상 최대"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "네덜란드, 대중국 반도체 장비 수출통제 강화 요구(美 MATCH법) 거부",
+      "url": "https://dataconomy.com/2026/11/18/netherlands-rejects-us-push-for-tougher-china-chip-export/",
+      "summary": "美 MATCH법은 네덜란드·일본 등 동맹국이 150일 내 중국향 반도체 장비 판매·서비스 제한을 미국 수준으로 맞추지 않으면 미국이 일방적으로 통제를 적용하도록 함. 네덜란드 외교부는 '동맹 간 용납할 수 없다'고 반발. 작년 ASML 매출의 약 3분의 1이 중국.",
+      "source": "Dataconomy",
+      "time": "11/18 20:02",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "ASML",
+          "market": "GLOBAL",
+          "code": "ASML.AS",
+          "effect": "negative"
+        },
+        {
+          "name": "도쿄일렉트론",
+          "market": "GLOBAL",
+          "code": "8035.T",
+          "effect": "negative"
+        },
+        {
+          "name": "Applied Materials",
+          "market": "US",
+          "code": "AMAT",
+          "effect": "mixed"
+        },
+        {
+          "name": "Lam Research",
+          "market": "US",
+          "code": "LRCX",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "법안 통과 시 비미국 장비사의 중국 매출이 직접 타격. 동맹국 반발로 입법 경로·시점이 장비주 변동성 요인.",
+      "signals": {
+        "segment": "장비",
+        "trade": "美 MATCH법(동맹국 대중 장비 통제 동조 요구)"
+      }
+    },
+    {
+      "category": "memory",
+      "title": "마이크론, TomorrowX 서밋서 \"AI가 메모리 전망 재편\"",
+      "url": "https://uk.investing.com/news/stock-market-news/micron-at-tomorrowx-summit-ai-memory-demand-reshapes-outlook-93CH-4991427",
+      "summary": "마이크론은 2027년 생산량의 75%가 이미 판매 완료됐다고 밝힘. 선급금·약정 320억달러 규모의 공급계약(SCA) 26건을 체결했고 다수가 5년 이상 take-or-pay 조건. 칩스법 제약이 12월 9일 만료되면 초과 현금을 주주환원할 계획.",
+      "source": "Investing.com",
+      "time": "11/19 04:10",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        }
+      ],
+      "insight": "장기·선급 계약 확산은 메모리 사이클 변동성을 줄이는 구조 변화 신호로, 피크아웃 우려에 대한 반론 근거.",
+      "signals": {
+        "segment": "메모리",
+        "price": "2027년 생산량 75% 판매 완료"
+      }
+    },
+    {
+      "category": "equipment",
+      "title": "456X 반도체·AI 모닝 브리프(11/18): 번스타인 WFE 전망 상향",
+      "url": "https://456xresearch.substack.com/p/456x-semi-ai-morning-brief-november",
+      "summary": "번스타인이 WFE(전공정 장비) 시장 전망을 2026년 1480억→1560억달러, 2027년 2040억→2170억달러, 2028년 2590억→2790억달러로 상향, 2028년 DRAM 장비는 960억→1040억달러. 현물시장에서 DDR5는 보합, DDR4 약세, NAND 현물-고정가 격차 20% 초과.",
+      "source": "456X Research",
+      "time": "11/18 20:11",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "ASML",
+          "market": "GLOBAL",
+          "code": "ASML.AS",
+          "effect": "positive"
+        },
+        {
+          "name": "Applied Materials",
+          "market": "US",
+          "code": "AMAT",
+          "effect": "positive"
+        },
+        {
+          "name": "Lam Research",
+          "market": "US",
+          "code": "LRCX",
+          "effect": "positive"
+        },
+        {
+          "name": "KLA",
+          "market": "US",
+          "code": "KLAC",
+          "effect": "positive"
+        },
+        {
+          "name": "도쿄일렉트론",
+          "market": "GLOBAL",
+          "code": "8035.T",
+          "effect": "positive"
+        }
+      ],
+      "insight": "DRAM 장비 투자 확대 전망은 국내 전공정 장비주에도 우호적. 단 2차 요약 출처라 원 리포트 확인 필요.",
+      "signals": {
+        "segment": "장비",
+        "capacity": "WFE 2027년 2170억달러 전망",
+        "price": "NAND 현물-고정가 격차 20% 초과"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "HBM만으론 부족…AI 메모리 계층화 경쟁 본격화 [반도체레이다]",
+      "url": "https://www.ddaily.co.kr/page/view/2026111816294526614",
+      "summary": "엔비디아 베라 루빈의 베라 CPU에 SOCAMM2 모듈이 탑재되며 SK하이닉스·마이크론·삼성전자가 공급. 삼성·SK는 CXL 메모리 모듈의 인텔·AMD CPU 호환성 검증 중이며, SK하이닉스와 샌디스크는 NAND 적층형 HBF 표준화 추진. 상용화는 내년부터 확대 예상.",
+      "source": "디지털데일리",
+      "time": "11/18 16:33",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        }
+      ],
+      "insight": "SOCAMM2·CXL·HBF로 AI 메모리 수요가 HBM 밖으로 확장되면 메모리 업체의 고부가 제품군이 넓어짐.",
+      "signals": {
+        "segment": "메모리(SOCAMM2·CXL·HBF)"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "코스피 상장사 3분기 영업이익 264% 증가…삼전닉스가 견인",
+      "url": "https://www.etnews.com/20261118000381",
+      "summary": "12월 결산 코스피 상장사 635곳의 1~9월 누적 영업이익은 638조2829억원으로 264.4% 증가, 매출은 31.3% 증가. 삼성전자·SK하이닉스를 제외하면 영업이익 증가율은 63.9%. 두 회사 매출 합계는 737조1400억원으로 전체의 약 24.4%.",
+      "source": "전자신문",
+      "time": "11/18 15:26",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        }
+      ],
+      "insight": "국내 증시 이익 성장의 상당 부분이 메모리 2사에 집중돼 있어 반도체 업황이 지수 방향을 좌우하는 구조.",
+      "signals": {
+        "segment": "메모리"
+      }
+    },
+    {
+      "category": "others",
+      "title": "엔비디아 전사회의서 조직 수습 총력…'포스트 젠슨 황' 체제 준비",
+      "url": "https://www.etnews.com/20261119000005",
+      "summary": "콜레트 크레스 임시 CEO가 18일(현지) 첫 전사회의를 열고 전략·차세대 AI칩 로드맵·TSMC 협력에 변화가 없다고 강조. 이사회는 외부 CEO를 물색 중이며 젠슨 황의 복귀 의사는 거부.",
+      "source": "전자신문",
+      "time": "11/19 08:37",
+      "region": "US",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "로드맵 유지 메시지에도 외부 CEO 선임까지 지배구조 불확실성이 엔비디아와 공급망 주가의 할인 요인으로 남을 수 있음.",
+      "signals": {
+        "segment": "팹리스"
+      }
+    }
+  ]
+}
