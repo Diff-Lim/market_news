@@ -1,0 +1,523 @@
+{
+  "published_at": "2026-11-21T07:17",
+  "industry": "robot",
+  "title": "로봇 투자 브리핑",
+  "emoji": "🦾",
+  "sources": [
+    "Ad-hoc-news",
+    "CBC뉴스",
+    "GlobeNewswire",
+    "Longbridge",
+    "MarketScreener(Reuters)",
+    "PR Newswire",
+    "Robotics & Automation News",
+    "글로벌이코노믹",
+    "뉴스핌",
+    "로봇신문",
+    "이데일리",
+    "잡포스트",
+    "재경일보",
+    "전자신문",
+    "중앙이코노미뉴스",
+    "핀포인트뉴스"
+  ],
+  "briefing": [
+    "로보티즈, 폴렌로보틱스와 40억원 액추에이터 계약 → 확정 수주에도 주가 -7.7%",
+    "나스닥 -2.25% 여파로 국내 로봇주 동반 급락 → 두산로보틱스·현대무벡스·레인보우 약세",
+    "중국의 소프트뱅크-ABB 로봇 인수 차단 → ABB 로봇사업부 상장 검토, 소프트뱅크 부담",
+    "삼성전자 노태문 사장 RX(로봇) TF 전념 → 삼성 로봇 우선순위 상향, 레인보우 관심",
+    "머스크 '옵티머스 1~2개월 내 비연출 시연' → TSLA·휴머노이드 테마 단기 재료"
+  ],
+  "market_snapshot": [],
+  "watchlist_notes": [
+    {
+      "name": "NVIDIA",
+      "note": "야스카와전기가 2030년 휴머노이드 출시를 위해 자율학습을 후지쯔·엔비디아와 협력하겠다고 밝힘. 최근 24시간 내 엔비디아 자체 로봇 발표는 확인되지 않음.",
+      "article_urls": [
+        "https://www.g-enews.com/article/Global-Biz/2026/11/202611201759263325e7e8286d56_1"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-23",
+      "event": "Symbotic(SYM) 4분기·2026 회계연도 실적 발표(미국 장 마감 후, KST 11/24 07:00 웹캐스트)",
+      "tickers": [
+        "SYM"
+      ],
+      "source_url": "https://finviz.com/news/411991/symbotic-announces-date-for-reporting-fourth-quarter-and-fiscal-year-2026-financial-results"
+    },
+    {
+      "date": "2026-11-25",
+      "event": "샤오펑 AI 데이(광저우) — 휴머노이드 IRON 시연",
+      "tickers": [
+        "XPEV",
+        "9868.HK"
+      ],
+      "source_url": "https://investing.com/news/company-news/xpeng-to-showcase-humanoid-robot-at-ai-day-event-next-week-93CH-5039539"
+    }
+  ],
+  "requests": [],
+  "filings": [
+    {
+      "market": "KR",
+      "code": "108490",
+      "name": "로보티즈",
+      "date": "2026-11-20",
+      "title": "단일판매ㆍ공급계약체결",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900120"
+    }
+  ],
+  "articles": [
+    {
+      "category": "deal",
+      "title": "로보티즈, 폴렌로보틱스와 40억원 부품 공급계약",
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02141846645647688",
+      "summary": "로보티즈가 허깅페이스 자회사 프랑스 폴렌로보틱스와 다이나믹셀-X 액추에이터 39.78억원 공급계약을 공시(작년 매출의 10.22%, 2026.11.19~2027.4.18, 선급금 50%). 1차 공급분으로, 폴렌은 '마이크로덕' 초기 2만대·내년 5만대 이상(대당 15개 탑재)을 계획. 회사는 주문이 생산능력을 넘어 내년 2~3분기 증설 예정.",
+      "source": "이데일리",
+      "time": "11/20 09:07",
+      "region": "KR",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "로보티즈",
+          "market": "KR",
+          "code": "108490",
+          "effect": "positive"
+        }
+      ],
+      "insight": "조회공시 '미확정' 건이 실제 수주로 확정된 첫 물량. 폴렌 계획대로면 후속 발주와 증설이 실적 레버리지의 관건.",
+      "signals": {
+        "segment": "부품",
+        "component": "액추에이터(다이나믹셀-X)",
+        "customer": "폴렌로보틱스(허깅페이스 자회사) 39.78억원",
+        "mass_production": "마이크로덕 초기 2만대, 내년 5만대+ 계획"
+      }
+    },
+    {
+      "category": "market",
+      "title": "로보티즈 주가, 11월 20일 234,500원 7.68% 하락",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565527",
+      "summary": "공급계약 공시에도 로보티즈 주가는 전일 254,000원에서 234,500원으로 7.68% 하락(장중 저가 231,000원). 거래대금 1,041억원, 시가총액 3조4,404억원으로 52주 최고가 492,000원의 절반에 못 미침.",
+      "source": "중앙이코노미뉴스",
+      "time": "11/20 16:39",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "로보티즈",
+          "market": "KR",
+          "code": "108490",
+          "effect": "negative"
+        }
+      ],
+      "insight": "계약 규모(40억원) 대비 시총 3.4조원으로 기대가 이미 반영된 구간. 호재에도 하락해 업종 심리 영향이 더 큰 상황."
+    },
+    {
+      "category": "market",
+      "title": "로봇주 동반 급락…앤트로픽 상장에도 기술주 한파",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=629021",
+      "summary": "전날 나스닥이 2.25% 떨어지며 20일 오전 국내 로봇주 동반 급락. 고영 -8.40%, 제우스 -8.03%, 현대무벡스 -7.20%, 유진로봇 -5.70%, 두산로보틱스 -5.52%(47,900원), 레인보우로보틱스 -3.41%(411,000원). 기술주 고평가·AI 투자 수익성 우려가 배경으로 지목됨.",
+      "source": "CBC뉴스",
+      "time": "11/20 11:07",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "두산로보틱스",
+          "market": "KR",
+          "code": "454910",
+          "effect": "negative"
+        },
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "negative"
+        },
+        {
+          "name": "현대무벡스",
+          "market": "KR",
+          "code": "319400",
+          "effect": "negative"
+        },
+        {
+          "name": "고영",
+          "market": "KR",
+          "code": "098460",
+          "effect": "negative"
+        }
+      ],
+      "insight": "개별 재료보다 미국 기술주 매도가 로봇 테마를 끌어내린 날. 나스닥 방향이 단기 수급의 핵심 변수."
+    },
+    {
+      "category": "market",
+      "title": "레인보우로보틱스, 로봇주 조정에 3.88% 하락",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239899",
+      "summary": "레인보우로보틱스가 오후 3시1분 기준 409,000원으로 3.88% 하락(장중 432,000~405,000원), 거래대금 445억원. 11/18 미라콤아이앤씨 제휴로 급등한 뒤 조정.",
+      "source": "잡포스트",
+      "time": "11/20 15:14",
+      "region": "KR",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "negative"
+        }
+      ],
+      "insight": "제휴 재료로 급등 후 이틀째 차익실현. 제휴의 실제 매출화 여부 확인 전까지 변동성 지속 가능."
+    },
+    {
+      "category": "risk",
+      "title": "[마감분석] 에이엘로봇, 뚜렷한 공시 없이 21%대 급락 마감",
+      "url": "https://news.jkn.co.kr/post/1110450",
+      "summary": "11/18 코스닥에 상장한 에이엘로봇(공모가 17,600원)이 20일 10,690원(-21.40%)으로 마감. 최근 7일간 공시·뉴스는 없었음. 상장 사흘 만에 공모가 대비 약 39% 하락.",
+      "source": "재경일보",
+      "time": "11/20 15:48",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "신규 상장 로봇주가 공모가를 크게 밑돌아 로봇 IPO 투자심리 냉각 신호. 후속 로봇 공모주 수요예측에 부담.",
+      "signals": {
+        "segment": "산업/협동"
+      }
+    },
+    {
+      "category": "others",
+      "title": "삼성전자, 반도체 '실적 주역' 3인 사장 발탁…전영현·노태문 미래사업 전념",
+      "url": "https://www.etnews.com/20261120000029",
+      "summary": "삼성전자가 2027년 정기 사장단 인사 발표. 노태문 DX부문장은 MX사업부장을 최원준 사장에게 넘기고, RX(로봇) 사업 TF장은 유지하며 로봇 등 신수종 사업 준비에 집중. 부사장 이하 인사·조직개편은 곧 발표.",
+      "source": "전자신문",
+      "time": "11/20 09:16",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "neutral"
+        },
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "positive"
+        }
+      ],
+      "insight": "DX부문장이 로봇 TF에 전념하는 구도로 삼성 로봇 사업 우선순위가 높아짐. 후속 조직개편에서 로봇 전담 조직 신설 여부가 관전 포인트.",
+      "signals": {
+        "segment": "휴머노이드"
+      }
+    },
+    {
+      "category": "market",
+      "title": "써모 피셔·다나허 약세에도 의료기술 성장 기대… 큐렉소·미래컴퍼니·리브스메드 기회 잡을까",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506133",
+      "summary": "인튜이티브서지컬 약세가 국내 수술로봇주에 단기 부담. 국내 상장 의료로봇 7개사 상반기 합산 매출은 전년비 39.9% 늘고 합산 영업손익은 흑자 전환. 해외 인허가·공급계약·수익성이 점검 포인트로 제시됨.",
+      "source": "핀포인트뉴스",
+      "time": "11/20 07:38",
+      "region": "KR",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "큐렉소",
+          "market": "KR",
+          "code": "060280",
+          "effect": "mixed"
+        },
+        {
+          "name": "미래컴퍼니",
+          "market": "KR",
+          "code": "049950",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "미국 수술로봇 대장주 약세와 국내 업체 실적 개선이 엇갈리는 구간. 해외 허가·수출 계약이 차별화 요인.",
+      "signals": {
+        "segment": "의료/수술"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "베이스그룹, 美 군사 로봇 기업 '파운데이션'에 2000억원 투자 추진",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49702",
+      "summary": "베이스그룹이 에릭 트럼프가 전략고문인 미국 군사용 휴머노이드 기업 파운데이션에 1.5억달러(약 2,000억원) 투자를 검토 중이라고 확인. 로봇용 알루미늄·배터리용 리튬 공급 합작사 설립 계획 포함. 파운데이션 누적 투자유치액은 1,100만달러.",
+      "source": "로봇신문",
+      "time": "11/20 12:11",
+      "region": "US",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "국내 소재 기업이 미국 휴머노이드 공급망 진입을 노리는 사례. 투자 확정 여부와 관세·정치 리스크를 함께 봐야 함.",
+      "signals": {
+        "segment": "휴머노이드",
+        "component": "알루미늄 소재"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "LSK아이로봇, 9회차 전환사채 8억원 조기상환",
+      "url": "https://www.newspim.com/news/view/20261120000667",
+      "summary": "LSK아이로봇이 제9회차 CB 28.03억원 중 8.03억원을 만기 전 취득, 잔액 20억원. 올해 CB 상환·취득 규모는 약 100억원. 3분기 연결 영업이익 7.68억원으로 흑자 전환.",
+      "source": "뉴스핌",
+      "time": "11/20 14:02",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "CB 잔액 축소로 잠재 물량(오버행) 부담 완화. 흑자 전환 지속 여부가 관건."
+    },
+    {
+      "category": "policy",
+      "title": "전북도의회, 로봇·수소 초광역특구 지정…특별법 제정 건의",
+      "url": "https://www.newspim.com/news/view/20261120000460",
+      "summary": "전북도의회가 초광역권전략산업특구 특별법 조속 제정과 전북 로봇·수소 특구 우선 지정을 요구하는 건의안 채택. 피지컬AI 위탁생산시설·실증센터 구축, 공용시설 국비 지원 비율 70~100% 상향 요청.",
+      "source": "뉴스핌",
+      "time": "11/20 10:52",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "지역 로봇 특구·피지컬AI 인프라 정책 흐름. 특별법 국회 통과 여부가 실질 수혜의 조건."
+    },
+    {
+      "category": "deal",
+      "title": "ABB, 소프트뱅크 매각 무산 시 로봇사업부 상장 검토",
+      "url": "https://www.marketscreener.com/news/abb-considers-robotics-listing-if-sale-to-softbank-fails-sources-say-ce785ed3da8ef126",
+      "summary": "로이터에 따르면 중국이 소프트뱅크의 ABB 로봇사업부 인수(54억달러)를 차단하자, ABB는 거래가 무산되면 로봇사업부 상장·스핀오프를 검토 중(소식통 2명). 로봇사업부의 약 30%인 중국 사업을 분리해 중국 기업에 매각하거나 별도 상장하는 방안도 논의. 협상은 수주~내년까지 걸릴 수 있음.",
+      "source": "MarketScreener(Reuters)",
+      "time": "11/21 01:26",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "ABB",
+          "market": "GLOBAL",
+          "code": "ABBN.SW",
+          "effect": "mixed"
+        },
+        {
+          "name": "소프트뱅크그룹",
+          "market": "GLOBAL",
+          "code": "9984.T",
+          "effect": "negative"
+        }
+      ],
+      "insight": "세계 2위권 산업용 로봇 M&A가 중국 규제로 흔들림. 소프트뱅크 피지컬AI 전략 차질과 ABB 로봇 분리상장 시 재평가 가능성이 공존.",
+      "signals": {
+        "segment": "산업/협동"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "美 로크웰, 오스트리아 AMR업체 애질록스 인수",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49711",
+      "summary": "로크웰오토메이션이 지게차형 AMR 업체 애질록스 인수 최종계약 체결(인수가 비공개). 로크웰은 AMR 사업이 2배 이상 커질 것으로 보며, 거래 종결은 2027 회계연도 2분기 예상. 자회사 OTTO와 결합해 유럽·북미 공략.",
+      "source": "로봇신문",
+      "time": "11/20 16:40",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Rockwell Automation",
+          "market": "US",
+          "code": "ROK",
+          "effect": "positive"
+        }
+      ],
+      "insight": "글로벌 자동화 기업의 물류 AMR 통합 가속. 국내 물류로봇 업체에는 경쟁 심화이자 M&A 밸류 비교 기준.",
+      "signals": {
+        "segment": "물류"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "야스카와전기, 2030년 AI 휴머노이드 출시 목표…미·중 추격 본격화",
+      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611201759263325e7e8286d56_1",
+      "summary": "일본 야스카와전기가 인수한 도쿄로보틱스를 기반으로 2030년까지 AI 휴머노이드 출시 목표. 첫 타깃은 농업 분야이며, 자율학습은 후지쯔·엔비디아와 협력해 해결할 계획.",
+      "source": "글로벌이코노믹",
+      "time": "11/20 18:00",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "야스카와전기",
+          "market": "GLOBAL",
+          "code": "6506.T",
+          "effect": "positive"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "positive"
+        }
+      ],
+      "insight": "일본 산업용 로봇 대장주의 휴머노이드 진출 선언. 2030년 목표라 단기 실적 영향은 제한적이고 장기 포지셔닝 성격.",
+      "signals": {
+        "segment": "휴머노이드",
+        "component": "로봇 AI 모델(엔비디아 협력)",
+        "mass_production": "2030년 출시 목표"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "안드로이드 창시자 '앤디 루빈', 휴머노이드 로봇 공개…겐키 로보틱스 첫 공식 행보",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49710",
+      "summary": "앤디 루빈의 일본 휴머노이드 스타트업 겐키로보틱스가 다카이치 총리 관저에서 이족보행 로봇 실물을 처음 공개. 관절 액추에이터 4종 자체 설계. 2026년 4월 시리즈A에서 기업가치 약 10억달러로 평가된 것으로 보도.",
+      "source": "로봇신문",
+      "time": "11/20 16:31",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "시연 단계의 비상장 사례. 액추에이터 내재화 흐름은 외부 부품 공급사에 장기 변수.",
+      "signals": {
+        "segment": "휴머노이드",
+        "component": "자체 설계 액추에이터"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "[A주 포커스] 휴머노이드주 국지적 급등…머스크 '옵티머스 12~18개월 내 집안일'",
+      "url": "https://longbridge.com/en/news/306211315",
+      "summary": "머스크가 TomorrowX 서밋에서 옵티머스가 12~18개월 안에 설거지·쓰레기 버리기 등 집안일을 할 것이라고 말하고, 1~2개월 내 실제 시연 영상을 공개하겠다고 밝힘. 중국 A주 휴머노이드 테마주 일부가 상한가 등 국지적 급등.",
+      "source": "Longbridge",
+      "time": "11/20 12:06",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Tesla",
+          "market": "US",
+          "code": "TSLA",
+          "effect": "positive"
+        }
+      ],
+      "insight": "발언·시연 예고성 재료로 양산 근거는 아님. 1~2개월 내 시연 영상이 나오면 휴머노이드 테마 재점화 가능.",
+      "signals": {
+        "segment": "휴머노이드",
+        "mass_production": "가정용 12~18개월 내(머스크 발언)"
+      }
+    },
+    {
+      "category": "market",
+      "title": "유비테크, 홍콩 로봇주 매도에 하락…수주잔고·칩 자회사와는 엇갈린 흐름",
+      "url": "https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/ubtech-slides-in-hong-kong-robot-rout-as-order-book-and-chip-unit-tell-a-different-story/70540385",
+      "summary": "홍콩 로봇·AI주 동반 매도로 유비테크가 -8.5%(전 거래일 -4.1%). Yongda Auto와 U1 Pro 400대 협약, Tianyi Telecom과 3년 10만대 이상 목표 협약(확정 주문 아님), 칩 합작사 5억위안 유치(기업가치 40억위안) 등 회사 소식은 긍정적.",
+      "source": "Ad-hoc-news",
+      "time": "11/21 00:21",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "UBTech",
+          "market": "GLOBAL",
+          "code": "9880.HK",
+          "effect": "negative"
+        }
+      ],
+      "insight": "한·미·홍콩 로봇주가 동시에 조정받는 글로벌 심리 악화. 대형 '협약'은 확정 주문과 구분해 봐야 함.",
+      "signals": {
+        "segment": "휴머노이드",
+        "customer": "Yongda Auto 400대 협약"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "존디어, 농업 AI 기업 오차드 인수",
+      "url": "https://roboticsandautomationnews.com/2026/11/20/john-deere-acquires-orchard-ai-to-expand-precision-agriculture-capabilities/107365",
+      "summary": "존디어가 샌프란시스코 농업 AI 기업 Orchard Robotics를 인수(금액 비공개). 차량 장착 AI 카메라로 나무당 수백 장 이미지를 분석해 수확량·과실 수·크기 데이터를 만들고, 디어의 G5 디스플레이와 연동.",
+      "source": "Robotics & Automation News",
+      "time": "11/20 19:03",
+      "region": "US",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Deere & Company",
+          "market": "US",
+          "code": "DE",
+          "effect": "positive"
+        }
+      ],
+      "insight": "농기계 대기업의 농업 로봇·비전 AI 내재화. 농업 자동화가 로봇 수요처로 확대되는 흐름.",
+      "signals": {
+        "segment": "서비스"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "MMI, 수술로봇 시마니에 전기수술 가위 추가",
+      "url": "https://globenewswire.com/news-release/2026/11/20/3407449/0/en/mmi-adds-energy-capabilities-to-the-symani-surgical-system-with-the-introduction-of-nanowrist-monopolar-scissors.html",
+      "summary": "미세수술 로봇 기업 MMI가 Symani용 관절형 전기수술 가위를 유럽에 출시. 10월 CE 인증을 받았고 미국 FDA 510(k)는 심사 중.",
+      "source": "GlobeNewswire",
+      "time": "11/20 23:00",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Intuitive Surgical",
+          "market": "US",
+          "code": "ISRG",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "미세수술 틈새 시장에서 비상장 경쟁사의 기구 확장. FDA 허가 시 수술로봇 경쟁 구도에 변수.",
+      "signals": {
+        "segment": "의료/수술"
+      }
+    },
+    {
+      "category": "market",
+      "title": "AGIBOT, 호주 클라우드 노드 구축하고 호주·뉴질랜드 진출",
+      "url": "https://www.prnewswire.com/apac/news-releases/agibot-launches-australian-cloud-node-to-accelerate-market-expansion-and-local-robotics-deployment-across-australia-and-new-zealand-302946872.html",
+      "summary": "중국 휴머노이드 기업 AGIBOT이 호주에 클라우드 노드를 구축하고 호주·뉴질랜드 시장 진출. 오클랜드 박람회(11/20~22)에서 시연하며 청소·보안 순찰·서비스 분야 공략. 투자 규모는 비공개.",
+      "source": "PR Newswire",
+      "time": "11/20 20:33",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "중국 휴머노이드 업체의 해외 확장 가속. 국내·일본 업체에는 해외 서비스로봇 시장 가격 경쟁 압력.",
+      "signals": {
+        "segment": "휴머노이드"
+      }
+    }
+  ]
+}
