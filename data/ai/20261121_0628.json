@@ -794,5 +794,199 @@
         "competition": "애플 자체 에이전트 vs 서드파티"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-21T06:32+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-18",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261118000151",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-20",
+        "title": "[기재정정]타법인주식및출자증권취득결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800721",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "035720",
+        "name": "카카오",
+        "date": "2026-11-19",
+        "title": "주식등의대량보유상황보고서(약식)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000011",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "AMD",
+        "name": "AMD",
+        "date": "2026-11-20",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000218/amd-20261118.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ORCL",
+        "name": "Oracle",
+        "date": "2026-11-20",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526470351/orcl-20261118.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 125.53,
+        "change_pct": -14.01,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:AMD": {
+        "symbol": "AMD",
+        "close": 424.39,
+        "change_pct": -13.25,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:AVGO": {
+        "symbol": "AVGO",
+        "close": 304.41,
+        "change_pct": -12.19,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:ANT": {
+        "symbol": "ANT",
+        "close": 88.91,
+        "change_pct": -8.5,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:CRWV": {
+        "symbol": "CRWV",
+        "close": 39.51,
+        "change_pct": -12.02,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 183100.0,
+        "change_pct": -7.01,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:000660": {
+        "symbol": "000660.KS",
+        "close": 1113000.0,
+        "change_pct": -5.92,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:MU": {
+        "symbol": "MU",
+        "close": 594.51,
+        "change_pct": -13.89,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:GOOGL": {
+        "symbol": "GOOGL",
+        "close": 265.29,
+        "change_pct": -2.7,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:META": {
+        "symbol": "META",
+        "close": 560.84,
+        "change_pct": -5.93,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:AMZN": {
+        "symbol": "AMZN",
+        "close": 246.82,
+        "change_pct": -4.1,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:NBIS": {
+        "symbol": "NBIS",
+        "close": 81.31,
+        "change_pct": -16.11,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:ORCL": {
+        "symbol": "ORCL",
+        "close": 101.19,
+        "change_pct": -8.48,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "GLOBAL:9984.T": {
+        "symbol": "9984.T",
+        "close": 3025.0,
+        "change_pct": -14.48,
+        "currency": "JPY",
+        "date": "11/20"
+      },
+      "GLOBAL:8035.T": {
+        "symbol": "8035.T",
+        "close": 8309.0,
+        "change_pct": -7.06,
+        "currency": "JPY",
+        "date": "11/20"
+      },
+      "GLOBAL:2330.TW": {
+        "symbol": "2330.TW",
+        "close": 2000.0,
+        "change_pct": -4.76,
+        "currency": "TWD",
+        "date": "11/20"
+      },
+      "KR:017670": {
+        "symbol": "017670.KS",
+        "close": 69700.0,
+        "change_pct": -13.09,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:018260": {
+        "symbol": "018260.KS",
+        "close": 209500.0,
+        "change_pct": -2.33,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:035720": {
+        "symbol": "035720.KS",
+        "close": 31000.0,
+        "change_pct": -2.82,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:AAPL": {
+        "symbol": "AAPL",
+        "close": 342.56,
+        "change_pct": -1.9,
+        "currency": "USD",
+        "date": "11/20"
+      }
+    },
+    "quotes_as_of": "11/20",
+    "notes": []
+  }
 }
