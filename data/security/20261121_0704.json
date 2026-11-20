@@ -515,5 +515,166 @@
         "demand_driver": "위탁·공급망 보안"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-21T07:04+09:00",
+    "filings": [
+      {
+        "market": "US",
+        "code": "PANW",
+        "name": "Palo Alto Networks",
+        "date": "2026-11-19",
+        "title": "분기보고서(10-Q)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000033/panw-20261031.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "PANW",
+        "name": "Palo Alto Networks",
+        "date": "2026-11-18",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/panw-20261117.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "SBC",
+        "name": "SBC Medical Group",
+        "date": "2026-11-19",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1930313/000149315226053135/form8-k.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "EQNR",
+        "name": "Equinor",
+        "date": "2026-11-20",
+        "title": "해외기업 수시보고(6-K) — FORM 6-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1140625/000117184326007614/f6k_112026.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "EQNR",
+        "name": "Equinor",
+        "date": "2026-11-18",
+        "title": "해외기업 수시보고(6-K) — FORM 6-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1140625/000117184326007534/f6k_111826.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "EQNR",
+        "name": "Equinor",
+        "date": "2026-11-18",
+        "title": "해외기업 수시보고(6-K) — FORM 6-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1140625/000117184326007533/f6k_111826.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:ZS": {
+        "symbol": "ZS",
+        "close": 194.82,
+        "change_pct": -5.29,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:CRWD": {
+        "symbol": "CRWD",
+        "close": 229.44,
+        "change_pct": -5.76,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:PANW": {
+        "symbol": "PANW",
+        "close": 343.32,
+        "change_pct": -5.09,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:JPM": {
+        "symbol": "JPM",
+        "close": 310.53,
+        "change_pct": -3.03,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:V": {
+        "symbol": "V",
+        "close": 401.87,
+        "change_pct": -0.09,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:MA": {
+        "symbol": "MA",
+        "close": 625.59,
+        "change_pct": -0.15,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:SBC": {
+        "symbol": "SBC",
+        "close": 5.17,
+        "change_pct": -7.68,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:BCE": {
+        "symbol": "BCE",
+        "close": 21.86,
+        "change_pct": 2.48,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:FFIV": {
+        "symbol": "FFIV",
+        "close": 303.99,
+        "change_pct": -4.43,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "GLOBAL:4755.T": {
+        "symbol": "4755.T",
+        "close": 554.7,
+        "change_pct": -8.98,
+        "currency": "JPY",
+        "date": "11/20"
+      },
+      "US:EQNR": {
+        "symbol": "EQNR",
+        "close": 39.31,
+        "change_pct": -0.96,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "KR:067280": {
+        "symbol": "067280.KQ",
+        "close": 28000.0,
+        "change_pct": 0.72,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:018260": {
+        "symbol": "018260.KS",
+        "close": 209500.0,
+        "change_pct": -2.33,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:CPNG": {
+        "symbol": "CPNG",
+        "close": 14.27,
+        "change_pct": 1.49,
+        "currency": "USD",
+        "date": "11/20"
+      }
+    },
+    "quotes_as_of": "11/20",
+    "notes": []
+  }
 }
