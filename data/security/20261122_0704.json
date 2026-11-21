@@ -3,7 +3,15 @@
   "industry": "security",
   "title": "보안 투자 브리핑",
   "emoji": "🛡️",
-  "sources": ["Yahoo Finance", "TipRanks", "Stocks Today", "BleepingComputer", "데일리시큐", "지디넷코리아", "디지털데일리"],
+  "sources": [
+    "Yahoo Finance",
+    "TipRanks",
+    "Stocks Today",
+    "BleepingComputer",
+    "데일리시큐",
+    "지디넷코리아",
+    "디지털데일리"
+  ],
   "briefing": [
     "크라우드스트라이크-지스케일러 인수 협상 보도 → ZS 시간외 +16~20%, CRWD 시간외 약 -5~8%",
     "Jefferies, ZS 적정 인수가 주당 255달러 제시 → 성사 시 PANW 경쟁 부담(독과점 심사 변수)",
@@ -12,18 +20,73 @@
     "에이비엘바이오·한전 해킹 주장 잇따라 → 실제 유출 확인 여부가 개별 주가 변수"
   ],
   "market_snapshot": [
-    {"label": "CRWD 11/20 종가", "value": "$229.44 (-5.76%)", "source": "Motley Fool", "url": "https://www.fool.com/investing/2026/11/20/crowd-pleaser-crowdstrike-wants-to-buy-zscaler/"},
-    {"label": "ZS 11/20 종가", "value": "$194.82 (-5.29%)", "source": "Motley Fool", "url": "https://www.fool.com/investing/2026/11/20/crowd-pleaser-crowdstrike-wants-to-buy-zscaler/"},
-    {"label": "PANW 11/20 종가", "value": "$343.32 (-5.1%)", "source": "Stocks Today", "url": "https://stockstoday.com/93-of-stocks-fall-as-crowdstrike-courts-zscaler/"},
-    {"label": "S&P 500 11/20 종가", "value": "6,910 (-3.7%)", "source": "Stocks Today", "url": "https://stockstoday.com/93-of-stocks-fall-as-crowdstrike-courts-zscaler/"}
+    {
+      "label": "CRWD 11/20 종가",
+      "value": "$229.44 (-5.76%)",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/20/crowd-pleaser-crowdstrike-wants-to-buy-zscaler/"
+    },
+    {
+      "label": "ZS 11/20 종가",
+      "value": "$194.82 (-5.29%)",
+      "source": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/20/crowd-pleaser-crowdstrike-wants-to-buy-zscaler/"
+    },
+    {
+      "label": "PANW 11/20 종가",
+      "value": "$343.32 (-5.1%)",
+      "source": "Stocks Today",
+      "url": "https://stockstoday.com/93-of-stocks-fall-as-crowdstrike-courts-zscaler/"
+    },
+    {
+      "label": "S&P 500 11/20 종가",
+      "value": "6,910 (-3.7%)",
+      "source": "Stocks Today",
+      "url": "https://stockstoday.com/93-of-stocks-fall-as-crowdstrike-courts-zscaler/"
+    }
   ],
   "watchlist_notes": [],
   "events": [
-    {"date": "2026-11-30", "event": "루브릭 FY27 3분기 실적 발표(미 장 마감 후)", "tickers": ["RBRK"], "source_url": "https://finviz.com/news/420947/rubrik-to-report-third-quarter-fiscal-2027-financial-results-on-november-30-2026"},
-    {"date": "2026-12-01", "event": "크라우드스트라이크 FY27 3분기 실적 발표(미 장 마감 후)", "tickers": ["CRWD"], "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-announces-date-fiscal-third-quarter-2027-financial"},
-    {"date": "2026-12-01", "event": "옥타 FY27 3분기 실적 발표(미 장 마감 후)", "tickers": ["OKTA"], "source_url": "https://finviz.com/news/413169/okta-to-announce-third-quarter-fiscal-year-2027-financial-results-on-december-1-2026"},
-    {"date": "2026-12-02", "event": "지스케일러 FY27 1분기 실적 발표(미 장 마감 후)", "tickers": ["ZS"], "source_url": "https://ir.zscaler.com/news-releases/news-release-details/zscaler-host-first-quarter-fiscal-year-2027-earnings-conference"},
-    {"date": "2026-12-03", "event": "센티넬원 FY27 3분기 실적 발표(미 장 마감 후)", "tickers": ["S"], "source_url": "https://finviz.com/news/422106/sentinelone-announces-date-of-fiscal-third-quarter-2027-financial-results-conference-call-and-participation-in-upcoming-investor-conference"}
+    {
+      "date": "2026-11-30",
+      "event": "루브릭 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "RBRK"
+      ],
+      "source_url": "https://finviz.com/news/420947/rubrik-to-report-third-quarter-fiscal-2027-financial-results-on-november-30-2026"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "크라우드스트라이크 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "CRWD"
+      ],
+      "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-announces-date-fiscal-third-quarter-2027-financial"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "옥타 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "OKTA"
+      ],
+      "source_url": "https://finviz.com/news/413169/okta-to-announce-third-quarter-fiscal-year-2027-financial-results-on-december-1-2026"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "지스케일러 FY27 1분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "ZS"
+      ],
+      "source_url": "https://ir.zscaler.com/news-releases/news-release-details/zscaler-host-first-quarter-fiscal-year-2027-earnings-conference"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "센티넬원 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "S"
+      ],
+      "source_url": "https://finviz.com/news/422106/sentinelone-announces-date-of-fiscal-third-quarter-2027-financial-results-conference-call-and-participation-in-upcoming-investor-conference"
+    }
   ],
   "requests": [],
   "filings": [],
@@ -40,11 +103,24 @@
       "impact": "mixed",
       "horizon": "short",
       "tickers": [
-        {"name": "Zscaler", "market": "US", "code": "ZS", "effect": "positive"},
-        {"name": "CrowdStrike", "market": "US", "code": "CRWD", "effect": "negative"}
+        {
+          "name": "Zscaler",
+          "market": "US",
+          "code": "ZS",
+          "effect": "positive"
+        },
+        {
+          "name": "CrowdStrike",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "negative"
+        }
       ],
       "insight": "인수 프리미엄 기대로 ZS는 강세, CRWD는 재무 부담·희석 우려로 약세. 협상 결렬 가능성도 있어 단기 변동성 확대 구간.",
-      "signals": {"event_type": "M&A(협상 보도)", "affected": "ZS 수혜 / CRWD 부담"}
+      "signals": {
+        "event_type": "M&A(협상 보도)",
+        "affected": "ZS 수혜 / CRWD 부담"
+      }
     },
     {
       "category": "deal",
@@ -58,12 +134,30 @@
       "impact": "mixed",
       "horizon": "mid",
       "tickers": [
-        {"name": "Zscaler", "market": "US", "code": "ZS", "effect": "positive"},
-        {"name": "CrowdStrike", "market": "US", "code": "CRWD", "effect": "mixed"},
-        {"name": "Palo Alto Networks", "market": "US", "code": "PANW", "effect": "negative"}
+        {
+          "name": "Zscaler",
+          "market": "US",
+          "code": "ZS",
+          "effect": "positive"
+        },
+        {
+          "name": "CrowdStrike",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "mixed"
+        },
+        {
+          "name": "Palo Alto Networks",
+          "market": "US",
+          "code": "PANW",
+          "effect": "negative"
+        }
       ],
       "insight": "증권사가 제시한 255달러는 시간외 가격 대비 추가 여지를 시사. 통합 플랫폼 경쟁 심화로 PANW에는 부담 요인.",
-      "signals": {"event_type": "M&A", "affected": "ZS 수혜 / PANW 경쟁 부담"}
+      "signals": {
+        "event_type": "M&A",
+        "affected": "ZS 수혜 / PANW 경쟁 부담"
+      }
     },
     {
       "category": "market",
@@ -77,12 +171,29 @@
       "impact": "negative",
       "horizon": "short",
       "tickers": [
-        {"name": "CrowdStrike", "market": "US", "code": "CRWD", "effect": "negative"},
-        {"name": "Zscaler", "market": "US", "code": "ZS", "effect": "negative"},
-        {"name": "Palo Alto Networks", "market": "US", "code": "PANW", "effect": "negative"}
+        {
+          "name": "CrowdStrike",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "negative"
+        },
+        {
+          "name": "Zscaler",
+          "market": "US",
+          "code": "ZS",
+          "effect": "negative"
+        },
+        {
+          "name": "Palo Alto Networks",
+          "market": "US",
+          "code": "PANW",
+          "effect": "negative"
+        }
       ],
       "insight": "M&A 재료와 별개로 성장주 전반의 위험회피가 보안 대형주 밸류에이션을 누르는 중. 다음 주 이후 실적 시즌이 반등 계기가 될지 주목.",
-      "signals": {"event_type": "시장 수급"}
+      "signals": {
+        "event_type": "시장 수급"
+      }
     },
     {
       "category": "breach",
@@ -96,11 +207,25 @@
       "impact": "negative",
       "horizon": "short",
       "tickers": [
-        {"name": "Microsoft", "market": "US", "code": "MSFT", "effect": "negative"},
-        {"name": "Okta", "market": "US", "code": "OKTA", "effect": "positive"}
+        {
+          "name": "Microsoft",
+          "market": "US",
+          "code": "MSFT",
+          "effect": "negative"
+        },
+        {
+          "name": "Okta",
+          "market": "US",
+          "code": "OKTA",
+          "effect": "positive"
+        }
       ],
       "insight": "MS 신원관리 플랫폼 결함이 4개월 가까이 존재했다는 점은 기업 고객의 신원보안 이중화·ITDR 수요 논거가 될 수 있음.",
-      "signals": {"event_type": "대형 취약점", "affected": "MSFT 신뢰도 부담", "demand_driver": "신원보안(ITDR)"}
+      "signals": {
+        "event_type": "대형 취약점",
+        "affected": "MSFT 신뢰도 부담",
+        "demand_driver": "신원보안(ITDR)"
+      }
     },
     {
       "category": "breach",
@@ -115,7 +240,10 @@
       "horizon": "mid",
       "tickers": [],
       "insight": "미 연방기관 연쇄 침해는 연방 보안 예산·패치관리 강화 논의로 이어질 수 있어 공공 보안 수요 측면의 참고 신호.",
-      "signals": {"event_type": "침해사고(정부)", "demand_driver": "미 연방 보안 예산"}
+      "signals": {
+        "event_type": "침해사고(정부)",
+        "demand_driver": "미 연방 보안 예산"
+      }
     },
     {
       "category": "breach",
@@ -129,10 +257,18 @@
       "impact": "negative",
       "horizon": "short",
       "tickers": [
-        {"name": "에이비엘바이오", "market": "KR", "code": "298380", "effect": "negative"}
+        {
+          "name": "에이비엘바이오",
+          "market": "KR",
+          "code": "298380",
+          "effect": "negative"
+        }
       ],
       "insight": "바이오 기업은 기술이전·임상 데이터 유출 시 협상력 훼손 우려가 있어, 데이터 공개 여부와 회사 해명이 단기 주가 변수.",
-      "signals": {"event_type": "침해사고(주장)", "affected": "에이비엘바이오(피해 주장)"}
+      "signals": {
+        "event_type": "침해사고(주장)",
+        "affected": "에이비엘바이오(피해 주장)"
+      }
     },
     {
       "category": "breach",
@@ -146,10 +282,19 @@
       "impact": "mixed",
       "horizon": "mid",
       "tickers": [
-        {"name": "한국전력", "market": "KR", "code": "015760", "effect": "negative"}
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "negative"
+        }
       ],
       "insight": "공기업 연쇄 유출 의혹은 공공·기반시설 보안 예산 확대 논거. 사실 확인 시 한전엔 과징금·평판 리스크.",
-      "signals": {"event_type": "침해사고(주장)", "affected": "한국전력(피해 주장)", "demand_driver": "공공·기반시설 보안 예산"}
+      "signals": {
+        "event_type": "침해사고(주장)",
+        "affected": "한국전력(피해 주장)",
+        "demand_driver": "공공·기반시설 보안 예산"
+      }
     },
     {
       "category": "breach",
@@ -164,7 +309,10 @@
       "horizon": "short",
       "tickers": [],
       "insight": "같은 조직이 국내 상장사를 연달아 게시해 표적화 가능성. 회사 확인 전까지는 참고 수준.",
-      "signals": {"event_type": "침해사고(주장)", "affected": "LIG아큐버(피해 주장)"}
+      "signals": {
+        "event_type": "침해사고(주장)",
+        "affected": "LIG아큐버(피해 주장)"
+      }
     },
     {
       "category": "breach",
@@ -179,7 +327,95 @@
       "horizon": "mid",
       "tickers": [],
       "insight": "API 무단 호출(봇) 유출이 5개월간 탐지되지 않은 사례로, 중견 유통사의 API·봇 방어 수요를 보여주는 신호.",
-      "signals": {"event_type": "침해사고", "demand_driver": "API·봇 보안"}
+      "signals": {
+        "event_type": "침해사고",
+        "demand_driver": "API·봇 보안"
+      }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-22T07:05+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "015760",
+        "name": "한국전력공사",
+        "date": "2026-11-20",
+        "title": "주주총회소집공고",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000205",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "015760",
+        "name": "한국전력공사",
+        "date": "2026-11-20",
+        "title": "주주총회소집결의",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800298",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "PANW",
+        "name": "Palo Alto Networks",
+        "date": "2026-11-19",
+        "title": "분기보고서(10-Q)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000033/panw-20261031.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:ZS": {
+        "symbol": "ZS",
+        "close": 194.82,
+        "change_pct": -5.29,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:CRWD": {
+        "symbol": "CRWD",
+        "close": 229.44,
+        "change_pct": -5.76,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:PANW": {
+        "symbol": "PANW",
+        "close": 343.32,
+        "change_pct": -5.09,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:MSFT": {
+        "symbol": "MSFT",
+        "close": 484.52,
+        "change_pct": -2.77,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:OKTA": {
+        "symbol": "OKTA",
+        "close": 191.46,
+        "change_pct": -7.44,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "KR:298380": {
+        "symbol": "298380.KS",
+        "close": 35250.0,
+        "change_pct": -6.87,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:015760": {
+        "symbol": "015760.KS",
+        "close": 25550.0,
+        "change_pct": 1.19,
+        "currency": "KRW",
+        "date": "11/20"
+      }
+    },
+    "quotes_as_of": "11/20",
+    "notes": []
+  }
 }
