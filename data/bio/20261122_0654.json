@@ -1,0 +1,174 @@
+{
+  "published_at": "2026-11-22T06:54",
+  "industry": "bio",
+  "title": "바이오·헬스 투자 브리핑",
+  "emoji": "🧬",
+  "sources": ["Capricor 보도자료", "BioPharma Dive", "Bayer 보도자료", "GlobeNewswire", "팜이데일리", "더바이오", "메디팜헬스뉴스", "메디파나뉴스"],
+  "briefing": [
+    "FDA, 캐프리코 DMD 세포치료제 두 번째 CRL·데이터 무결성 지적 → CAPR 시간외 -78%, 소형 희귀질환주 부담",
+    "바이엘 라운드업 집단소송 최대 72.5억달러 합의 최종 승인 → 바이엘 최대 법률 리스크 완화(항소는 변수)",
+    "한미약품 비만약 '에페' 초도물량 100억원 완판 → 국산 GLP-1 상업화 기대 유지",
+    "알테오젠 RCPS 전환가 23만3077원으로 하향 → 잠재 희석 주식수 증가는 수급 부담",
+    "다음 주 KYMR 2b상(11/23), BBIO(11/27)·VRTX(11/30) FDA 결정일 대기"
+  ],
+  "market_snapshot": [
+    {"label": "나스닥 바이오테크지수(NBI) 11/20 종가", "value": "6,781.89 (-1.73%)", "source": "Yahoo Finance", "url": "https://finance.yahoo.com/quote/%5Enbi/"}
+  ],
+  "watchlist_notes": [],
+  "events": [
+    {"date": "2026-11-23", "event": "카이메라 KT-621 아토피피부염 BROADEN2 2b상 결과 발표(07:00 ET)", "tickers": ["KYMR"], "source_url": "https://investors.kymeratx.com/news-releases/news-release-details/kymera-therapeutics-announce-kt-621-broaden2-phase-2b-atopic"},
+    {"date": "2026-11-23", "event": "캐프리코 CRL 관련 컨퍼런스콜(08:30 ET)", "tickers": ["CAPR"], "source_url": "https://www.capricor.com/investors/news-events/press-releases/detail/360/capricor-therapeutics-provides-regulatory-update-on"},
+    {"date": "2026-11-27", "event": "브릿지바이오 BBP-418(LGMD2I/R9) FDA PDUFA(우선심사)", "tickers": ["BBIO"], "source_url": "https://lifesciencedaily.news/fda-drug-approval-decisions/"},
+    {"date": "2026-11-30", "event": "버텍스 포베타시셉트 IgA신증 가속승인 PDUFA", "tickers": ["VRTX"], "source_url": "https://www.rttnews.com/3656952/vertex-fda-accepts-bla-submission-for-povetacicept-assigns-pdufa-target-action-date-of-nov-30.aspx"},
+    {"date": "2026-12-01", "event": "큐로셀 CAR-T '림카토' 건강보험 적용 시작", "tickers": [], "source_url": "https://www.biospectator.com/news/view/30483"},
+    {"date": "2026-12-04", "event": "ESMO Asia 2026(싱가포르, 12/4~6)", "tickers": [], "source_url": "https://ecancer.org/en/conference/1657-esmo-asia-congress-2026"}
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "approval",
+      "title": "캐프리코, 듀센근이영양증 데라미오셀 BLA 관련 규제 업데이트(FDA 두 번째 CRL)",
+      "url": "https://www.capricor.com/investors/news-events/press-releases/detail/360/capricor-therapeutics-provides-regulatory-update-on",
+      "summary": "FDA가 DMD 세포치료제 데라미오셀 재제출 BLA에 보완요구서(CRL)를 발행. 유효성의 실질적 증거가 충분치 않고 기타 임상 결함이 있다는 판단. 회사는 HOPE-2·HOPE-3가 1차 평가변수를 충족했다는 입장. 9/30 현금성 자산 약 1.985억달러. 주가는 종가 7.59달러에서 시간외 1.63달러(-78.5%, RTTNews).",
+      "source": "Capricor 보도자료",
+      "time": "11/21 09:55",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [{"name": "Capricor Therapeutics", "market": "US", "code": "CAPR", "effect": "negative"}],
+      "insight": "두 번째 CRL로 미국 승인 경로가 크게 지연. 시가총액 대부분이 소멸해 현금 가치와 유럽·일본 협의가 남은 변수.",
+      "signals": {"stage": "허가신청(재제출)", "event": "FDA CRL(2회차)", "indication": "듀센근이영양증/동종 세포치료", "next_catalyst": "11/23 컨퍼런스콜"}
+    },
+    {
+      "category": "policy",
+      "title": "FDA, 캐프리코 듀센 세포치료제 다시 반려",
+      "url": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
+      "summary": "FDA가 별도 성명에서 HOPE-3 시험의 맹검 위반과 통계분석계획 사후 변경 등 '심각한 데이터 무결성 위반'을 지적. 희귀질환 유연성이 신뢰할 수 있는 데이터를 대가로 할 수는 없다고 밝힘. 회사 CEO는 데이터를 지지한다는 입장.",
+      "source": "BioPharma Dive",
+      "time": "11/22 00:46",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [{"name": "Capricor Therapeutics", "market": "US", "code": "CAPR", "effect": "negative"}],
+      "insight": "FDA가 희귀질환 유연성 기조 속에서도 데이터 무결성에는 선을 그은 신호. 사후 분석·평가변수 변경에 기댄 소형 바이오에 부담.",
+      "signals": {"event": "FDA 데이터 무결성 위반 성명", "indication": "희귀질환/세포·유전자치료"}
+    },
+    {
+      "category": "risk",
+      "title": "법원, 라운드업 집단소송 합의 최종 승인",
+      "url": "https://www.bayer.com/media/en-us/court-grants-final-approval-to-roundup-class-settlement",
+      "summary": "미국 세인트루이스 주법원이 현재·미래 라운드업 비호지킨림프종 청구를 포괄하는 전국 집단소송 합의를 최종 승인. 기지급분 포함 최대 72.5억달러 규모로, 몬산토가 최대 21년간 상한이 있는 연간 지급. 승인은 항소 대상이며 항소 시 지급이 중단됨.",
+      "source": "Bayer 보도자료",
+      "time": "11/21 08:49",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [{"name": "바이엘", "market": "GLOBAL", "code": "BAYN.DE", "effect": "positive"}],
+      "insight": "바이엘 주가를 눌러온 최대 법률 리스크의 대부분이 정리되는 단계. 남은 변수는 항소와 합의 미참여 소송.",
+      "signals": {"deal": "합의 총액 최대 72.5억달러(기지급 포함), 최대 21년 분할"}
+    },
+    {
+      "category": "risk",
+      "title": "아비박스, 공매도 보고서에 대한 입장",
+      "url": "https://www.globenewswire.com/news-release/2026/11/20/3407840/0/en/abivax-statement-on-short-seller-report.html",
+      "summary": "아비박스가 스콜피온캐피털 공매도 보고서를 '사실과 다르고 오해의 소지가 있다'고 반박. 일부 결론은 스콜피온이 의뢰·자금을 댄 연구에 근거한다고 지적. 궤양성대장염 오베파지모드 3상 ABTECT 결과를 지지하며 연내 FDA 신약허가신청(NDA) 제출을 예상.",
+      "source": "GlobeNewswire",
+      "time": "11/21 06:33",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [{"name": "Abivax", "market": "US", "code": "ABVX", "effect": "mixed"}],
+      "insight": "회사 반박으로 단기 낙폭 일부 회복 여지는 있으나, 안전성 의문 해소는 연내 NDA 제출과 FDA 심사로 확인해야 함.",
+      "signals": {"stage": "3상 완료/허가신청 준비", "indication": "궤양성대장염", "next_catalyst": "연내 FDA NDA 제출"}
+    },
+    {
+      "category": "earnings",
+      "title": "한미약품 '에페' 초도물량 100억 완판…비만신약 흥행 청신호[바이오맥짚기]",
+      "url": "https://pharm.edaily.co.kr/News/Read?newsId=01725286645648016&mediaCodeNo=257",
+      "summary": "20일 증시 급락에도 한미약품은 6% 넘게 상승. 국산 비만약 '에페' 초도물량 100억원어치가 완판됐다는 소식이 배경. HK이노엔은 위식도역류질환 신약을 내년 1월 미국에 출시할 계획.",
+      "source": "팜이데일리",
+      "time": "11/21 08:30",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {"name": "한미약품", "market": "KR", "code": "128940", "effect": "positive"},
+        {"name": "HK이노엔", "market": "KR", "code": "195940", "effect": "positive"}
+      ],
+      "insight": "국산 GLP-1 비만약의 첫 판매 데이터. 재주문 속도가 4분기·내년 실적 기대를 좌우할 전망.",
+      "signals": {"stage": "시판", "event": "초도물량 100억원 완판", "indication": "비만/GLP-1"}
+    },
+    {
+      "category": "capital",
+      "title": "[제약.바이오 주간 공시 분석] HLB 합병 재추진·신약 임상 진전…제약·바이오 실적 희비 엇갈려",
+      "url": "https://www.medipharmhealth.co.kr/news/article.html?no=121543",
+      "summary": "알테오젠은 주가 하락으로 상환전환우선주 전환가액을 27만4208원에서 23만3077원으로 조정, 전환 가능 주식수가 52만8830주에서 62만2152주로 증가. 큐라클은 20일 FDA에 CU06-1004 당뇨병성 황반부종 2b상 IND 제출(156명, 24주). 지아이이노베이션은 마루호로부터 마일스톤 350만달러 수령.",
+      "source": "메디팜헬스뉴스",
+      "time": "11/21 09:41",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {"name": "알테오젠", "market": "KR", "code": "196170", "effect": "negative"},
+        {"name": "큐라클", "market": "KR", "code": "365270", "effect": "positive"}
+      ],
+      "insight": "알테오젠은 리픽싱으로 잠재 희석 주식이 약 9만3천주 늘어 수급 부담. 큐라클은 미국 2b상 진입 절차가 개별 촉매.",
+      "signals": {"stage": "2b상 IND(큐라클)", "event": "RCPS 전환가 조정, FDA IND 제출", "indication": "당뇨병성 황반부종"}
+    },
+    {
+      "category": "tech",
+      "title": "AI로 신약개발 속도전…빅파마는 '시간 단축', 국내는 '성과 검증'",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=422345",
+      "summary": "노바티스는 후보물질 발굴 기간이 약 3년에서 18~24개월로 줄었다고 밝힘. 한미약품 AI 플랫폼으로 설계한 HM17321은 제넨텍에 기술이전(선급금 1억9000만달러, 총 최대 약 23억달러). SK바이오팜은 엔비디아 B200 128장 확보. 정부 K-MELODY 사업 예산 348억원.",
+      "source": "메디파나뉴스",
+      "time": "11/21 20:54",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [{"name": "한미약품", "market": "KR", "code": "128940", "effect": "positive"}],
+      "insight": "AI 신약 테마가 기대 단계에서 기술이전 등 성과 검증 단계로 이동. 선급금 확인된 딜 보유 기업이 차별화.",
+      "signals": {"deal": "HM17321: 선급금 1.9억달러 / 총 최대 약 23억달러", "indication": "AI 신약개발"}
+    },
+    {
+      "category": "clinical",
+      "title": "MSD, 인제니아 '타이스펙투스' ME-RVO 후기 임상 등록…총 5건 모집 목표 5천명 돌파",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30522",
+      "summary": "MSD가 VEGF/TIE2 이중항체 타이스펙투스(MK-8748)로 망막정맥폐쇄 황반부종 2/3상(1188명, 아일리아 2mg 비교)을 등록, 2026년 12월 시작 예정. 후기 임상 5건·총 5172명. 원개발사 인제니아(비상장)와의 계약은 선급금 13억달러, 총 30억달러.",
+      "source": "더바이오",
+      "time": "11/21 09:47",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {"name": "Merck & Co.", "market": "US", "code": "MRK", "effect": "positive"},
+        {"name": "Regeneron", "market": "US", "code": "REGN", "effect": "negative"}
+      ],
+      "insight": "MSD가 안과 이중항체 후기 개발을 넓히며 아일리아 중심 시장에 경쟁 압력이 커질 수 있음. 장기 변수.",
+      "signals": {"stage": "2/3상", "indication": "망막정맥폐쇄 황반부종/VEGF·TIE2 이중항체", "deal": "선급금 13억달러 / 총 30억달러", "next_catalyst": "2026년 12월 임상 개시"}
+    },
+    {
+      "category": "others",
+      "title": "김태한이 부른 이원직, 삼성·롯데바이오 거쳐 HLB펩 수장으로[화제의 바이오人]",
+      "url": "https://pharm.edaily.co.kr/News/Read?newsId=01121766645648344&mediaCodeNo=257",
+      "summary": "이원직 전 롯데바이오로직스 대표가 HLB펩 사장으로 합류, 2027년 3월 주총에서 각자대표 선임 예정. HLB펩 2025년 매출 50억원·영업손실 73억원, 3분기 누적 매출 42억원(+20.3%). 오송 공장 가동률 12.7%.",
+      "source": "팜이데일리",
+      "time": "11/22 06:00",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "mid",
+      "tickers": [{"name": "HLB펩", "market": "KR", "code": "196300", "effect": "neutral"}],
+      "insight": "CDMO 전문 경영인 영입은 펩타이드 CDMO 확대 신호이나, 낮은 가동률과 적자로 실적 개선 확인이 필요.",
+      "signals": {"indication": "펩타이드 CDMO"}
+    }
+  ]
+}
