@@ -3,7 +3,12 @@
   "industry": "robot",
   "title": "로봇 투자 브리핑",
   "emoji": "🦾",
-  "sources": ["연합뉴스(뉴스통)", "한국경제", "글로벌이코노믹", "Tesla North"],
+  "sources": [
+    "연합뉴스(뉴스통)",
+    "한국경제",
+    "글로벌이코노믹",
+    "Tesla North"
+  ],
   "briefing": [
     "코스피 주간 -7.95% 급락장에도 로봇주 강세 → 레인보우로보틱스 +12%, 코스닥 시총 4위",
     "삼성 CES 2027 휴머노이드 공개 기대가 촉매 → 실적·수주 아닌 기대감 주도, 변동성 유의",
@@ -13,8 +18,25 @@
   "market_snapshot": [],
   "watchlist_notes": [],
   "events": [
-    {"date": "2026-11-25", "event": "샤오펑 2026 AI 데이(광저우, 베이징시간 14:00) — 휴머노이드 IRON 무대 시연", "tickers": ["XPEV", "9868.HK"], "source_url": "https://cnevpost.com/2026/11/19/xpeng-to-hold-2026-ai-day-nov-25/"},
-    {"date": "2026-12-02", "event": "RoboNext 로봇 전시회(오사카 INTEX, 12/2~4, 일본로봇공업회 주최)", "tickers": ["6954.T", "6506.T", "6324.T"], "source_url": "https://ifr.org/event/robonext"}
+    {
+      "date": "2026-11-25",
+      "event": "샤오펑 2026 AI 데이(광저우, 베이징시간 14:00) — 휴머노이드 IRON 무대 시연",
+      "tickers": [
+        "XPEV",
+        "9868.HK"
+      ],
+      "source_url": "https://cnevpost.com/2026/11/19/xpeng-to-hold-2026-ai-day-nov-25/"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "RoboNext 로봇 전시회(오사카 INTEX, 12/2~4, 일본로봇공업회 주최)",
+      "tickers": [
+        "6954.T",
+        "6506.T",
+        "6324.T"
+      ],
+      "source_url": "https://ifr.org/event/robonext"
+    }
   ],
   "requests": [],
   "filings": [],
@@ -31,14 +53,42 @@
       "impact": "positive",
       "horizon": "short",
       "tickers": [
-        {"name": "레인보우로보틱스", "market": "KR", "code": "277810", "effect": "positive"},
-        {"name": "로보티즈", "market": "KR", "code": "108490", "effect": "positive"},
-        {"name": "삼현", "market": "KR", "code": "437730", "effect": "positive"},
-        {"name": "에스비비테크", "market": "KR", "code": "389500", "effect": "positive"},
-        {"name": "디케이티", "market": "KR", "code": "290550", "effect": "positive"}
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "positive"
+        },
+        {
+          "name": "로보티즈",
+          "market": "KR",
+          "code": "108490",
+          "effect": "positive"
+        },
+        {
+          "name": "삼현",
+          "market": "KR",
+          "code": "437730",
+          "effect": "positive"
+        },
+        {
+          "name": "에스비비테크",
+          "market": "KR",
+          "code": "389500",
+          "effect": "positive"
+        },
+        {
+          "name": "디케이티",
+          "market": "KR",
+          "code": "290550",
+          "effect": "positive"
+        }
       ],
       "insight": "시장 급락에도 수급이 로봇주로 쏠렸지만 근거는 삼성 휴머노이드 공개 '기대'. 실제 매출·수주 확인 전까지 이벤트 전후 급등락 가능성이 큼.",
-      "signals": {"segment": "휴머노이드·부품", "customer": "삼성전자 휴머노이드 공개 기대(CES 2027)"}
+      "signals": {
+        "segment": "휴머노이드·부품",
+        "customer": "삼성전자 휴머노이드 공개 기대(CES 2027)"
+      }
     },
     {
       "category": "risk",
@@ -53,7 +103,10 @@
       "horizon": "mid",
       "tickers": [],
       "insight": "휴머노이드 테마의 선행 시장인 중국에서 자금 유입이 급감. 실적 없이 기대감으로 오른 국내 로봇주에도 밸류에이션 부담 신호로 작용할 수 있음.",
-      "signals": {"segment": "휴머노이드", "component": "감속기(저장환둥 상장 철회)"}
+      "signals": {
+        "segment": "휴머노이드",
+        "component": "감속기(저장환둥 상장 철회)"
+      }
     },
     {
       "category": "humanoid",
@@ -66,9 +119,19 @@
       "importance": 2,
       "impact": "positive",
       "horizon": "long",
-      "tickers": [{"name": "Tesla", "market": "US", "code": "TSLA", "effect": "positive"}],
+      "tickers": [
+        {
+          "name": "Tesla",
+          "market": "US",
+          "code": "TSLA",
+          "effect": "positive"
+        }
+      ],
       "insight": "옵티머스 전용 공장 설비 투자 정황으로 양산 준비가 진행 중임을 시사. 다만 회사 확인 전 관찰 기반 정보라 '시연·발표' 수준으로 봐야 함.",
-      "signals": {"segment": "휴머노이드", "mass_production": "오스틴 옵티머스 공장 건설 중, 프리몬트 첫 양산품질 생산"}
+      "signals": {
+        "segment": "휴머노이드",
+        "mass_production": "오스틴 옵티머스 공장 건설 중, 프리몬트 첫 양산품질 생산"
+      }
     },
     {
       "category": "humanoid",
@@ -81,9 +144,19 @@
       "importance": 1,
       "impact": "positive",
       "horizon": "mid",
-      "tickers": [{"name": "Tesla", "market": "US", "code": "TSLA", "effect": "positive"}],
+      "tickers": [
+        {
+          "name": "Tesla",
+          "market": "US",
+          "code": "TSLA",
+          "effect": "positive"
+        }
+      ],
       "insight": "액추에이터 제조·공급사 준비 인력 확충은 부품 공급망 구축 단계 진입을 뜻함. 감속기·액추에이터 공급사 선정 뉴스로 이어지는지 관찰 포인트.",
-      "signals": {"segment": "휴머노이드", "component": "모터·액추에이터·전장"}
+      "signals": {
+        "segment": "휴머노이드",
+        "component": "모터·액추에이터·전장"
+      }
     },
     {
       "category": "components",
@@ -98,7 +171,77 @@
       "horizon": "long",
       "tickers": [],
       "insight": "로봇손은 휴머노이드 원가의 핵심 부품인데 중국산 저가 공세로 단가가 급락 중. 국내 부품사에는 시장 확대와 가격 경쟁 압박이 동시에 작용.",
-      "signals": {"segment": "부품", "component": "로봇손(그리퍼)"}
+      "signals": {
+        "segment": "부품",
+        "component": "로봇손(그리퍼)"
+      }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-22T07:14+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "108490",
+        "name": "로보티즈",
+        "date": "2026-11-20",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900120",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:277810": {
+        "symbol": "277810.KS",
+        "close": 408000.0,
+        "change_pct": -4.11,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:108490": {
+        "symbol": "108490.KS",
+        "close": 233500.0,
+        "change_pct": -8.07,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:437730": {
+        "symbol": "437730.KS",
+        "close": 52100.0,
+        "change_pct": -2.25,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:389500": {
+        "symbol": "389500.KS",
+        "close": 34050.0,
+        "change_pct": -5.94,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:290550": {
+        "symbol": "290550.KS",
+        "close": 29450.0,
+        "change_pct": -5.91,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:TSLA": {
+        "symbol": "TSLA",
+        "close": 345.82,
+        "change_pct": -7.64,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 125.53,
+        "change_pct": -14.01,
+        "currency": "USD",
+        "date": "11/20"
+      }
+    },
+    "quotes_as_of": "11/20",
+    "notes": []
+  }
 }
