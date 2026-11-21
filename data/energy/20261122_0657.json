@@ -537,5 +537,171 @@
         "commodity": "미 휘발유 $3.69/gal, 재고 +510만배럴"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-22T06:57+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "034020",
+        "name": "두산에너빌리티",
+        "date": "2026-11-20",
+        "title": "주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000468",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "015760",
+        "name": "한국전력공사",
+        "date": "2026-11-20",
+        "title": "주주총회소집공고",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000205",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "015760",
+        "name": "한국전력공사",
+        "date": "2026-11-20",
+        "title": "주주총회소집결의",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800298",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "373220",
+        "name": "LG에너지솔루션",
+        "date": "2026-11-19",
+        "title": "기업가치제고계획예고(안내공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800476",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "009830",
+        "name": "한화솔루션",
+        "date": "2026-11-20",
+        "title": "풍문또는보도에대한해명(미확정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800618",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:034020": {
+        "symbol": "034020.KS",
+        "close": 40750.0,
+        "change_pct": -6.96,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:052690": {
+        "symbol": "052690.KS",
+        "close": 63000.0,
+        "change_pct": -6.11,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:051600": {
+        "symbol": "051600.KS",
+        "close": 34050.0,
+        "change_pct": -2.16,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:015760": {
+        "symbol": "015760.KS",
+        "close": 25550.0,
+        "change_pct": 1.19,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:BE": {
+        "symbol": "BE",
+        "close": 142.39,
+        "change_pct": -15.3,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:CCJ": {
+        "symbol": "CCJ",
+        "close": 58.0,
+        "change_pct": -5.57,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:VST": {
+        "symbol": "VST",
+        "close": 115.25,
+        "change_pct": -7.17,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:CEG": {
+        "symbol": "CEG",
+        "close": 237.41,
+        "change_pct": -5.8,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:XOM": {
+        "symbol": "XOM",
+        "close": 159.99,
+        "change_pct": 0.67,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:CVX": {
+        "symbol": "CVX",
+        "close": 208.37,
+        "change_pct": 0.91,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "KR:010950": {
+        "symbol": "010950.KS",
+        "close": 97300.0,
+        "change_pct": -3.66,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:006400": {
+        "symbol": "006400.KS",
+        "close": 402500.0,
+        "change_pct": -6.07,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:373220": {
+        "symbol": "373220.KS",
+        "close": 299500.0,
+        "change_pct": -0.83,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:009830": {
+        "symbol": "009830.KS",
+        "close": 19410.0,
+        "change_pct": -6.68,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:010120": {
+        "symbol": "010120.KS",
+        "close": 109700.0,
+        "change_pct": -9.19,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:NEE": {
+        "symbol": "NEE",
+        "close": 83.45,
+        "change_pct": -0.41,
+        "currency": "USD",
+        "date": "11/20"
+      }
+    },
+    "quotes_as_of": "11/20",
+    "notes": []
+  }
 }
