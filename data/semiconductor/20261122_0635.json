@@ -1,0 +1,661 @@
+{
+  "published_at": "2026-11-22T06:35",
+  "industry": "semiconductor",
+  "title": "반도체 투자 브리핑",
+  "emoji": "💾",
+  "sources": [
+    "BigGo Finance",
+    "FinanceFeeds",
+    "Longbridge",
+    "Motley Fool",
+    "Tom's Hardware",
+    "Yahoo Finance",
+    "마켓잉크",
+    "서울경제",
+    "서울경제(영문)",
+    "아시아경제",
+    "이코노미트리뷴",
+    "이코노믹리뷰",
+    "이투데이",
+    "코리아헤럴드",
+    "한국경제"
+  ],
+  "briefing": [
+    "SOX 하루 -10.7%·주간 -17.1%(2001년 이후 최악) → 월요일 삼성전자·SK하이닉스 추가 하방 압력",
+    "BNK, SK하이닉스 목표가 105만원(현재가 하회)으로 하향 → 메모리 피크아웃 논쟁 본격화",
+    "증권사 목표가 극단 분산(하나·키움 하향 vs 유안타 상향) → 2028년 DRAM 가격 전망이 관건",
+    "美 BIS 신규 규정·해외 데이터센터 금지 검토 → 삼성 파운드리·TSMC·엔비디아 중국 매출 부담",
+    "SK하이닉스 용인 팹 클린룸 2027년 2월로 조기화 → 국내 전공정 장비 수주 선행 신호"
+  ],
+  "market_snapshot": [
+    {
+      "label": "필라델피아 반도체지수(11/20)",
+      "value": "8,408.59 (-10.73%)",
+      "source": "Nasdaq Global Indexes",
+      "url": "https://indexes.nasdaqomx.com/Index/Overview/SOX"
+    },
+    {
+      "label": "SOX 주간 등락",
+      "value": "-17.13%",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/81c15013-c97c-4909-99a7-f0ad2147a10e"
+    },
+    {
+      "label": "엔비디아 종가(11/20)",
+      "value": "$125.53 (-14.01%)",
+      "source": "Motley Fool",
+      "url": "https://fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors"
+    },
+    {
+      "label": "코스피(11/20)",
+      "value": "4,869.96 (-5.21%)",
+      "source": "서울경제(영문)",
+      "url": "https://en.sedaily.com/society/2026/11/21/us-chip-export-curbs-widen-samsung-halts-ai-chip-shipments"
+    }
+  ],
+  "watchlist_notes": [
+    {
+      "name": "삼성전자",
+      "note": "11/20 -7.01%. 美 수출규제로 중국향 AI칩 출하 중단, 2029년까지 메모리 완판 단독 보도, 증권사 목표가 엇갈림",
+      "article_urls": [
+        "https://en.sedaily.com/society/2026/11/21/us-chip-export-curbs-widen-samsung-halts-ai-chip-shipments",
+        "https://www.economytribune.co.kr/news/articleView.html?idxno=3904497",
+        "https://www.econovill.com/news/articleView.html?idxno=758068"
+      ]
+    },
+    {
+      "name": "SK하이닉스",
+      "note": "BNK 목표가 105만원 하향, 소프트뱅크 1조달러 인수 타진설(검토 중단), 용인 팹 클린룸 조기화",
+      "article_urls": [
+        "https://www.hankyung.com/article/2026112113316",
+        "https://m.sedaily.com/article/20117215",
+        "https://view.asiae.co.kr/article/2026112111404045668"
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "note": "11/20 -14.01%, 주간 -23%. SEC 회계 조사 보도, 젠슨 황 상원 청문회 예정",
+      "article_urls": [
+        "https://fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors",
+        "https://longbridge.com/en/news/306352194"
+      ]
+    },
+    {
+      "name": "HBM",
+      "note": "엔비디아 급락·조사로 HBM 수요 경로 불확실성 확대, 반면 LTA 기반 장기 공급계약 보도",
+      "article_urls": [
+        "https://www.economytribune.co.kr/news/articleView.html?idxno=3904497",
+        "https://www.econovill.com/news/articleView.html?idxno=758068"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-24",
+      "event": "앰바렐라 FY27 3분기 실적 발표(미국 장 마감 후)",
+      "tickers": [
+        "AMBA"
+      ],
+      "source_url": "https://finviz.com/news/418029/ambarella-announces-third-quarter-fiscal-year-2027-earnings-conference-call-to-be-held-november-24-2026"
+    },
+    {
+      "date": "2026-11-26",
+      "event": "한국은행 금융통화위원회(기준금리 3.00%→3.25% 인상 예상)",
+      "tickers": [],
+      "source_url": "https://www.etoday.co.kr/news/view/2651071"
+    },
+    {
+      "date": "2026-11-26",
+      "event": "미국 추수감사절 휴장(11/27 조기 폐장)",
+      "tickers": [],
+      "source_url": "https://financefeeds.com/intel-intc-stock-51-saturday-week-ahead-after-14-percent-weekly-drop-bull-56-bear-48/"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "젠슨 황 하원 서면 인터뷰(12/2 법무총괄 인터뷰)",
+      "tickers": [
+        "NVDA"
+      ],
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-face-senators-first-142852627.html"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "마벨 FY27 3분기 실적 발표(미국 장 마감 후)",
+      "tickers": [
+        "MRVL"
+      ],
+      "source_url": "https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "market",
+      "title": "나스닥100, AI 트레이드 청산에 주간 5.6% 급락…S&P500 조정 국면 진입",
+      "url": "https://finance.biggo.com/news/81c15013-c97c-4909-99a7-f0ad2147a10e",
+      "source": "BigGo Finance",
+      "time": "11/21 11:05",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "11/20(현지) 필라델피아 반도체지수가 10.73% 급락, 주간 -17.13%. 엔비디아 -14.01%(125.53달러), AMD -13.25%, 마이크론 -13.86%, 샌디스크 -16.03%, 브로드컴 -12%대, AMAT -10.75%, TSMC ADR -9.48%. 일본도 키옥시아 -11.7%, 어드밴테스트 -10.3%, 도쿄일렉트론 -7.1%.",
+      "insight": "메모리·장비·GPU 가리지 않은 일괄 투매로, 월요일 국내 반도체주 시초가에 추가 하방 압력이 이어질 수 있는 구간.",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "negative"
+        },
+        {
+          "name": "AMD",
+          "market": "US",
+          "code": "AMD",
+          "effect": "negative"
+        },
+        {
+          "name": "어드밴테스트",
+          "market": "GLOBAL",
+          "code": "6857.T",
+          "effect": "negative"
+        },
+        {
+          "name": "도쿄일렉트론",
+          "market": "GLOBAL",
+          "code": "8035.T",
+          "effect": "negative"
+        }
+      ],
+      "signals": {
+        "segment": "전 분야(GPU·메모리·장비)"
+      }
+    },
+    {
+      "category": "market",
+      "title": "반도체주, 2001년 이후 최악의 한 주…나스닥은 약세장 문턱",
+      "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html",
+      "source": "Yahoo Finance",
+      "time": "11/21 21:42",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "SOX는 주간 약 -17%로 2001년 이후 최악, 9/30 이후 약 3분의 1 하락. 10/1~11/20 반도체주 낙폭(-33%)은 2008년 10~11월(-35%)에 근접. 주간 마이크론·마벨·엔비디아 20% 넘게, TSMC·AMD·램리서치·AMAT·KLA 15~19% 하락. 엔비디아는 10/6 고점 이후 시총 약 2.7조달러 감소.",
+      "insight": "낙폭이 2008년 금융위기 수준에 근접해 단기 반등 여지와 함께, 실적 전망 하향 여부가 다음 방향을 가를 변수.",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "negative"
+        },
+        {
+          "name": "Marvell",
+          "market": "US",
+          "code": "MRVL",
+          "effect": "negative"
+        },
+        {
+          "name": "Lam Research",
+          "market": "US",
+          "code": "LRCX",
+          "effect": "negative"
+        },
+        {
+          "name": "TSMC",
+          "market": "GLOBAL",
+          "code": "2330.TW",
+          "effect": "negative"
+        }
+      ]
+    },
+    {
+      "category": "market",
+      "title": "반토막 났는데 '주가 더 빠진다'…하이닉스 결국 터졌다 [종목+]",
+      "url": "https://www.hankyung.com/article/2026112113316",
+      "source": "한국경제",
+      "time": "11/21 12:08",
+      "region": "KR",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "BNK투자증권이 SK하이닉스 목표주가를 165만원에서 105만원으로 36% 내리고 '보유' 유지. 현재가(111만3000원)보다 낮은 목표가. 내년 영업이익 추정치를 12% 낮추고 2027년 2~3분기 채널 재고조정과 가격 급락을 예상. 올해 DRAM 출하 증가율(+38%)이 비트 수요(+24%)를 웃돈다고 분석.",
+      "insight": "현재가 아래 목표가가 나오며 메모리 피크아웃 논쟁이 본격화. 공급 증가율>수요 증가율 논리가 확산되는지 주목.",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "signals": {
+        "segment": "메모리",
+        "price": "BNK, 2027년 2~3Q 가격 급락 전망"
+      }
+    },
+    {
+      "category": "market",
+      "title": "美 기술주 급락에 코스피 4900선 이탈…다음주 금리 변수에 촉각",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=758068",
+      "source": "이코노믹리뷰",
+      "time": "11/21 22:49",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "증권사 목표가 엇갈림: 키움 삼성전자 29만원·SK하이닉스 180만원, 하나 40만원·280만원, 모건스탠리 30만9000원·160만원으로 하향, 유안타는 69만원·370만원으로 상향. 키움은 DRAM 가격 2027년 +17%, 2028년 -54% 전망. SK하이닉스는 2027~28년 생산능력 절반 이상을 장기계약(LTA)으로 확보한 것으로 알려짐.",
+      "insight": "하향이 대세지만 목표가 분산이 극단적으로 커져, 2028년 가격 사이클 전망이 밸류에이션 판단의 핵심 변수로 부상.",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        }
+      ],
+      "signals": {
+        "segment": "메모리",
+        "price": "키움: DRAM 2027 +17%, 2028 -54%"
+      }
+    },
+    {
+      "category": "market",
+      "title": "삼성전자·SK하이닉스 급락…반도체 전망 놓고 애널리스트 의견 엇갈려",
+      "url": "https://www.koreaherald.com/article/10944729",
+      "source": "코리아헤럴드",
+      "time": "11/21 16:48",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "11/20 삼성전자 -7.01%(18만3100원), SK하이닉스 -5.92%(111만3000원), 외국인 1.14조원·기관 9513억원 순매도. 비관론: AI 하드웨어 버블. 낙관론: KB증권은 2027년 DRAM 가격 +40%, NAND +30%, DRAM 수요 +25% 대비 공급 +18% 전망, 현물가 하락에도 고정가는 상승 중이라고 봄.",
+      "insight": "현물가 하락과 고정가 상승의 괴리가 핵심 쟁점. 12월 고정가 발표가 낙관·비관론을 가를 확인 지점.",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "signals": {
+        "segment": "메모리",
+        "price": "KB: 2027 DRAM +40%, NAND +30%"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "미국 반도체 수출규제 확대…삼성, 중국향 AI칩 출하 중단",
+      "url": "https://en.sedaily.com/society/2026/11/21/us-chip-export-curbs-widen-samsung-halts-ai-chip-shipments",
+      "source": "서울경제(영문)",
+      "time": "11/21 10:35",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "11/19 발효된 美 BIS 신규 규정으로 미국 기술로 만든 칩의 중국 고객 판매에 허가가 필요해짐. 삼성은 바이두 쿤룬·바이트댄스향 AI칩 출하를 멈췄고 TSMC도 첨단 출하 중단. 샤오미·오포·비보 스마트폰 칩도 허가 대상. 삼성 매출의 중국 비중은 약 20%.",
+      "insight": "규제가 AI칩을 넘어 스마트폰 칩까지 확대돼 파운드리·모바일 부품의 중국 매출 공백 규모가 실적 추정 하향 요인.",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "삼성전기",
+          "market": "KR",
+          "code": "009150",
+          "effect": "negative"
+        },
+        {
+          "name": "TSMC",
+          "market": "GLOBAL",
+          "code": "2330.TW",
+          "effect": "negative"
+        }
+      ],
+      "signals": {
+        "segment": "파운드리",
+        "trade": "BIS 신규 규정 11/19 발효, 중국 고객 판매 허가제"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "손정의, SK하이닉스 '1조 달러 인수' 저울질…\"현재는 검토 중단\"",
+      "url": "https://m.sedaily.com/article/20117215",
+      "source": "서울경제",
+      "time": "11/21 12:15",
+      "region": "KR",
+      "importance": 2,
+      "impact": "neutral",
+      "horizon": "short",
+      "summary": "디인포메이션에 따르면 손정의 소프트뱅크 회장이 최대 1조달러(약 1400조원) 규모로 SK하이닉스 인수를 미국 금융기관에 타진. 고점 시총에 40% 프리미엄을 얹은 규모. 소프트뱅크는 '현재 적극 검토하지 않는다'고 밝힘. SK하이닉스 시총은 약 777조원.",
+      "insight": "실현 가능성은 낮지만 급락 국면에서 글로벌 자본이 SK하이닉스 가치를 높게 본다는 신호로 심리 지지 재료가 될 수 있음.",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "neutral"
+        },
+        {
+          "name": "소프트뱅크그룹",
+          "market": "GLOBAL",
+          "code": "9984.T",
+          "effect": "neutral"
+        }
+      ]
+    },
+    {
+      "category": "memory",
+      "title": "[단독] 삼성전자, 2029년까지 메모리 사실상 완판…2031년 장기 공급계약도 추진",
+      "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3904497",
+      "source": "이코노미트리뷴",
+      "time": "11/21 12:54",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "업계 관계자 1명을 인용, 삼성전자 2027~2029년 메모리 생산능력 대부분이 계약 완료됐고 일부 고객은 2031년까지 장기공급계약(LTA)을 원함. 10개 고객과 LTA 체결, 10곳과 협상 중이며 2030년까지 생산능력의 60~70%를 가격 하한선 있는 LTA로 채우는 목표. 2027년 범용 DRAM 웨이퍼 캐파는 사실상 소진.",
+      "insight": "단일 소스 단독 보도라 확인 필요. 사실이면 가격 하한 있는 LTA가 '피크아웃' 우려를 완화하는 반론 근거.",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        }
+      ],
+      "signals": {
+        "segment": "메모리",
+        "price": "2027 범용 DRAM 웨이퍼 캐파 소진, 가격 하한 LTA"
+      }
+    },
+    {
+      "category": "foundry",
+      "title": "31조원 용인 첫 팹, 내년 2월 클린룸 연다",
+      "url": "https://view.asiae.co.kr/article/2026112111404045668",
+      "source": "아시아경제",
+      "time": "11/21 11:40",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "SK하이닉스 용인 첫 팹이 당초 5월보다 3개월 이른 2027년 2월 첫 클린룸을 연다. 2030년 말까지 클린룸 6개, 총투자 31조원(초기 9.4조+추가 21.6조). 용수·변전소·송전선은 완료. 삼성전자 시스템반도체 국가산단(6개 팹)도 부지 조성 착수.",
+      "insight": "클린룸 조기 가동은 2027년 장비 반입 시점이 당겨진다는 뜻으로, 국내 전공정 장비주 수주 일정의 선행 신호.",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "neutral"
+        }
+      ],
+      "signals": {
+        "segment": "메모리",
+        "capacity": "용인 1기 클린룸 2027년 2월로 3개월 앞당김, 총 31조원"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "엔비디아, 18년 만의 최악의 주간 뒤 SEC 조사까지…투자자에게 의미는",
+      "url": "https://fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors",
+      "source": "Motley Fool",
+      "time": "11/21 15:10",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "엔비디아는 11/20 14.01% 내린 125.53달러, 주간 -23%로 2008년 10월 이후 최악. 로이터는 SEC가 회계 조사를 시작했다고 보도. 기사는 지역별 매출 집계 기준(청구지→고객 본사) 변경이 쟁점일 수 있다고 추정. FY2026 중국 본사 고객 매출 197억달러. 선행 PER 약 8배.",
+      "insight": "조사 범위가 불확실한 동안 엔비디아 밸류에이션 디스카운트가 지속돼 HBM 공급사 심리에도 부담.",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ]
+    },
+    {
+      "category": "policy",
+      "title": "젠슨 황, SEC 회계 조사 속 상원 은행위 공개 청문회 출석 예정",
+      "url": "https://longbridge.com/en/news/306352194",
+      "source": "Longbridge",
+      "time": "11/21 11:34",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "팀 스콧 상원 은행위원장실은 젠슨 황 전 CEO가 공개 청문회에서 증언한다고 확인. 날짜는 미정으로 12/3을 요청했고 '크리스마스 전' 개최를 희망, 러트닉 상무장관도 초청. 로이터는 SEC 집행국이 회계 문제를 들여다보고 있다고 보도.",
+      "insight": "12월 초 의회 일정이 이어져 대중국 판매·회계 이슈 헤드라인 리스크가 연말까지 엔비디아 밸류체인에 남을 전망.",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "signals": {
+        "trade": "상원 은행위 청문회(12/3 요청)"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "트럼프, 미국 기업의 해외 데이터센터 건설 금지 검토…대신 '막대한 세금' 부과안도",
+      "url": "https://tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition",
+      "source": "Tom's Hardware",
+      "time": "11/22 01:29",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "악시오스에 따르면 트럼프 대통령이 미국 기업의 해외 데이터센터 건설을 금지하거나 과세하길 원하며 내각과는 논의하지 않은 상태. 중국 AI 기업이 해외 데이터센터의 제한 엔비디아 칩을 쓰는 우회로가 문제. 원격접근보안법은 하원 통과 후 상원 계류.",
+      "insight": "현실화되면 하이퍼스케일러 해외 CAPEX가 위축돼 GPU·HBM 수요 경로가 바뀔 수 있는 정책 불확실성.",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "signals": {
+        "trade": "해외 데이터센터 금지/과세 검토"
+      }
+    },
+    {
+      "category": "market",
+      "title": "개미들 피눈물 쏟아지는데…무디스가 본 '삼전닉스의 미래'",
+      "url": "https://www.hankyung.com/article/2026112113727",
+      "source": "한국경제",
+      "time": "11/21 14:30",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "무디스는 2027년 아태 전망에서 국내 메모리 업체가 AI 수요와 제한적 공급 증가의 수혜를 이어갈 것으로 봄. 아태 비금융 기업 EBITDA 증가율은 2026년 53%에서 2027년 약 12%로 둔화 예상(TMT 제외 8%→2%).",
+      "insight": "신용평가사는 업황 펀더멘털을 유지로 판단, 주가 급락이 이익 훼손보다 밸류에이션 조정이라는 해석에 힘을 실음.",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        }
+      ],
+      "signals": {
+        "segment": "메모리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "美 AI 규제에도 꺾이지 않는 반도체⋯\"2030년까지 슈퍼사이클\"",
+      "url": "https://etoday.co.kr/news/view/2650948",
+      "source": "이투데이",
+      "time": "11/21 07:00",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "KB증권은 미국의 강한 AI 규제 가능성은 낮다고 보며 중국은 세계 메모리 수요의 약 29%. 유진투자증권 비관 시나리오(2027년 중반 2018년식 다운사이클)에서도 2028년 영업이익 삼성전자 316.2조원, SK하이닉스 230.1조원. 전공정 장비주는 3개월 평균 -30.2%지만 2028년 이익 27.0% 증가 전망.",
+      "insight": "장비주 낙폭이 이익 전망 대비 과도하다는 시각. 용인 팹 조기 가동과 함께 장비 수주 재료 확인이 필요.",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        }
+      ],
+      "signals": {
+        "segment": "메모리·장비",
+        "capacity": "램리서치, 2027년 WFE 2000억달러 상회 전망"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "실적 전망은 오르고 주가는 내리고…코스닥 640선까지 밀린 증시, 다음주 변수 점검",
+      "url": "https://www.market-ink.co.kr/news/articleView.html?idxno=15688",
+      "source": "마켓잉크",
+      "time": "11/21 17:53",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "long",
+      "summary": "미국 법원이 삼성전자·SK하이닉스·마이크론 대상 DRAM 가격담합 집단소송 진행을 허용해 주초 메모리주에 부담. 다음주 코스피 밴드는 5000~6100 제시.",
+      "insight": "소송은 단기 주가보다 장기 비용 리스크. 가격 상승기마다 반복되는 담합 소송이라 결과까지 시간이 길 전망.",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        },
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "negative"
+        }
+      ],
+      "signals": {
+        "segment": "메모리",
+        "trade": "美 DRAM 가격담합 집단소송 진행"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "SC26에서 AMD·엔비디아 등 고성능 컴퓨팅의 미래 공개",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/this-week-on-toms-hardware-premium-21-november-2026-amd-nvidia-and-more-show-off-the-future-of-high-performance-computing-at-sc26",
+      "source": "Tom's Hardware",
+      "time": "11/22 01:00",
+      "region": "US",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "TOP500에서 AMD 점유 시스템이 40% 이상(전년비 +14%), EPYC+MI355X 기반 Lux가 14위로 데뷔. 엔비디아는 2028년 루빈 HPC 변형(CUDA 코어 5만개 이상) 공개. 삼성·SK하이닉스·마이크론은 자동화 팹용 로봇 충전 표준화 협의체 결성.",
+      "insight": "HPC 시장에서 AMD 점유율 확대가 확인돼 GPU 공급망 다변화가 HBM 고객 분산에 우호적.",
+      "tickers": [
+        {
+          "name": "AMD",
+          "market": "US",
+          "code": "AMD",
+          "effect": "positive"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "neutral"
+        }
+      ],
+      "signals": {
+        "segment": "팹리스"
+      }
+    },
+    {
+      "category": "market",
+      "title": "인텔 51.28달러, 실적 발표 후 최저 종가…주간 14% 하락",
+      "url": "https://financefeeds.com/intel-intc-stock-51-saturday-week-ahead-after-14-percent-weekly-drop-bull-56-bear-48/",
+      "source": "FinanceFeeds",
+      "time": "11/21 22:30",
+      "region": "US",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "인텔은 11/20 7.97% 내린 51.28달러로 마감, 시간외 53.00달러(+3.36%). 주간 약 -14%, 10/29 종가(92.07달러) 대비 약 -44%. 목요일엔 18A-P 첫 외부 고객 소식에 1.92% 올랐었음. 컨센서스는 '보유', 평균 목표가 90.65달러.",
+      "insight": "18A 외부 고객 확보 호재도 섹터 투매를 이기지 못해, 파운드리 경쟁 구도보다 매크로 수급이 주가를 지배하는 국면.",
+      "tickers": [
+        {
+          "name": "Intel",
+          "market": "US",
+          "code": "INTC",
+          "effect": "negative"
+        }
+      ],
+      "signals": {
+        "segment": "파운드리"
+      }
+    }
+  ]
+}
