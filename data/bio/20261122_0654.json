@@ -3,7 +3,16 @@
   "industry": "bio",
   "title": "바이오·헬스 투자 브리핑",
   "emoji": "🧬",
-  "sources": ["Capricor 보도자료", "BioPharma Dive", "Bayer 보도자료", "GlobeNewswire", "팜이데일리", "더바이오", "메디팜헬스뉴스", "메디파나뉴스"],
+  "sources": [
+    "Capricor 보도자료",
+    "BioPharma Dive",
+    "Bayer 보도자료",
+    "GlobeNewswire",
+    "팜이데일리",
+    "더바이오",
+    "메디팜헬스뉴스",
+    "메디파나뉴스"
+  ],
   "briefing": [
     "FDA, 캐프리코 DMD 세포치료제 두 번째 CRL·데이터 무결성 지적 → CAPR 시간외 -78%, 소형 희귀질환주 부담",
     "바이엘 라운드업 집단소송 최대 72.5억달러 합의 최종 승인 → 바이엘 최대 법률 리스크 완화(항소는 변수)",
@@ -12,16 +21,59 @@
     "다음 주 KYMR 2b상(11/23), BBIO(11/27)·VRTX(11/30) FDA 결정일 대기"
   ],
   "market_snapshot": [
-    {"label": "나스닥 바이오테크지수(NBI) 11/20 종가", "value": "6,781.89 (-1.73%)", "source": "Yahoo Finance", "url": "https://finance.yahoo.com/quote/%5Enbi/"}
+    {
+      "label": "나스닥 바이오테크지수(NBI) 11/20 종가",
+      "value": "6,781.89 (-1.73%)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5Enbi/"
+    }
   ],
   "watchlist_notes": [],
   "events": [
-    {"date": "2026-11-23", "event": "카이메라 KT-621 아토피피부염 BROADEN2 2b상 결과 발표(07:00 ET)", "tickers": ["KYMR"], "source_url": "https://investors.kymeratx.com/news-releases/news-release-details/kymera-therapeutics-announce-kt-621-broaden2-phase-2b-atopic"},
-    {"date": "2026-11-23", "event": "캐프리코 CRL 관련 컨퍼런스콜(08:30 ET)", "tickers": ["CAPR"], "source_url": "https://www.capricor.com/investors/news-events/press-releases/detail/360/capricor-therapeutics-provides-regulatory-update-on"},
-    {"date": "2026-11-27", "event": "브릿지바이오 BBP-418(LGMD2I/R9) FDA PDUFA(우선심사)", "tickers": ["BBIO"], "source_url": "https://lifesciencedaily.news/fda-drug-approval-decisions/"},
-    {"date": "2026-11-30", "event": "버텍스 포베타시셉트 IgA신증 가속승인 PDUFA", "tickers": ["VRTX"], "source_url": "https://www.rttnews.com/3656952/vertex-fda-accepts-bla-submission-for-povetacicept-assigns-pdufa-target-action-date-of-nov-30.aspx"},
-    {"date": "2026-12-01", "event": "큐로셀 CAR-T '림카토' 건강보험 적용 시작", "tickers": [], "source_url": "https://www.biospectator.com/news/view/30483"},
-    {"date": "2026-12-04", "event": "ESMO Asia 2026(싱가포르, 12/4~6)", "tickers": [], "source_url": "https://ecancer.org/en/conference/1657-esmo-asia-congress-2026"}
+    {
+      "date": "2026-11-23",
+      "event": "카이메라 KT-621 아토피피부염 BROADEN2 2b상 결과 발표(07:00 ET)",
+      "tickers": [
+        "KYMR"
+      ],
+      "source_url": "https://investors.kymeratx.com/news-releases/news-release-details/kymera-therapeutics-announce-kt-621-broaden2-phase-2b-atopic"
+    },
+    {
+      "date": "2026-11-23",
+      "event": "캐프리코 CRL 관련 컨퍼런스콜(08:30 ET)",
+      "tickers": [
+        "CAPR"
+      ],
+      "source_url": "https://www.capricor.com/investors/news-events/press-releases/detail/360/capricor-therapeutics-provides-regulatory-update-on"
+    },
+    {
+      "date": "2026-11-27",
+      "event": "브릿지바이오 BBP-418(LGMD2I/R9) FDA PDUFA(우선심사)",
+      "tickers": [
+        "BBIO"
+      ],
+      "source_url": "https://lifesciencedaily.news/fda-drug-approval-decisions/"
+    },
+    {
+      "date": "2026-11-30",
+      "event": "버텍스 포베타시셉트 IgA신증 가속승인 PDUFA",
+      "tickers": [
+        "VRTX"
+      ],
+      "source_url": "https://www.rttnews.com/3656952/vertex-fda-accepts-bla-submission-for-povetacicept-assigns-pdufa-target-action-date-of-nov-30.aspx"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "큐로셀 CAR-T '림카토' 건강보험 적용 시작",
+      "tickers": [],
+      "source_url": "https://www.biospectator.com/news/view/30483"
+    },
+    {
+      "date": "2026-12-04",
+      "event": "ESMO Asia 2026(싱가포르, 12/4~6)",
+      "tickers": [],
+      "source_url": "https://ecancer.org/en/conference/1657-esmo-asia-congress-2026"
+    }
   ],
   "requests": [],
   "filings": [],
@@ -37,9 +89,21 @@
       "importance": 3,
       "impact": "negative",
       "horizon": "short",
-      "tickers": [{"name": "Capricor Therapeutics", "market": "US", "code": "CAPR", "effect": "negative"}],
+      "tickers": [
+        {
+          "name": "Capricor Therapeutics",
+          "market": "US",
+          "code": "CAPR",
+          "effect": "negative"
+        }
+      ],
       "insight": "두 번째 CRL로 미국 승인 경로가 크게 지연. 시가총액 대부분이 소멸해 현금 가치와 유럽·일본 협의가 남은 변수.",
-      "signals": {"stage": "허가신청(재제출)", "event": "FDA CRL(2회차)", "indication": "듀센근이영양증/동종 세포치료", "next_catalyst": "11/23 컨퍼런스콜"}
+      "signals": {
+        "stage": "허가신청(재제출)",
+        "event": "FDA CRL(2회차)",
+        "indication": "듀센근이영양증/동종 세포치료",
+        "next_catalyst": "11/23 컨퍼런스콜"
+      }
     },
     {
       "category": "policy",
@@ -52,9 +116,19 @@
       "importance": 2,
       "impact": "negative",
       "horizon": "mid",
-      "tickers": [{"name": "Capricor Therapeutics", "market": "US", "code": "CAPR", "effect": "negative"}],
+      "tickers": [
+        {
+          "name": "Capricor Therapeutics",
+          "market": "US",
+          "code": "CAPR",
+          "effect": "negative"
+        }
+      ],
       "insight": "FDA가 희귀질환 유연성 기조 속에서도 데이터 무결성에는 선을 그은 신호. 사후 분석·평가변수 변경에 기댄 소형 바이오에 부담.",
-      "signals": {"event": "FDA 데이터 무결성 위반 성명", "indication": "희귀질환/세포·유전자치료"}
+      "signals": {
+        "event": "FDA 데이터 무결성 위반 성명",
+        "indication": "희귀질환/세포·유전자치료"
+      }
     },
     {
       "category": "risk",
@@ -67,9 +141,18 @@
       "importance": 3,
       "impact": "positive",
       "horizon": "long",
-      "tickers": [{"name": "바이엘", "market": "GLOBAL", "code": "BAYN.DE", "effect": "positive"}],
+      "tickers": [
+        {
+          "name": "바이엘",
+          "market": "GLOBAL",
+          "code": "BAYN.DE",
+          "effect": "positive"
+        }
+      ],
       "insight": "바이엘 주가를 눌러온 최대 법률 리스크의 대부분이 정리되는 단계. 남은 변수는 항소와 합의 미참여 소송.",
-      "signals": {"deal": "합의 총액 최대 72.5억달러(기지급 포함), 최대 21년 분할"}
+      "signals": {
+        "deal": "합의 총액 최대 72.5억달러(기지급 포함), 최대 21년 분할"
+      }
     },
     {
       "category": "risk",
@@ -82,9 +165,20 @@
       "importance": 2,
       "impact": "mixed",
       "horizon": "short",
-      "tickers": [{"name": "Abivax", "market": "US", "code": "ABVX", "effect": "mixed"}],
+      "tickers": [
+        {
+          "name": "Abivax",
+          "market": "US",
+          "code": "ABVX",
+          "effect": "mixed"
+        }
+      ],
       "insight": "회사 반박으로 단기 낙폭 일부 회복 여지는 있으나, 안전성 의문 해소는 연내 NDA 제출과 FDA 심사로 확인해야 함.",
-      "signals": {"stage": "3상 완료/허가신청 준비", "indication": "궤양성대장염", "next_catalyst": "연내 FDA NDA 제출"}
+      "signals": {
+        "stage": "3상 완료/허가신청 준비",
+        "indication": "궤양성대장염",
+        "next_catalyst": "연내 FDA NDA 제출"
+      }
     },
     {
       "category": "earnings",
@@ -98,11 +192,25 @@
       "impact": "positive",
       "horizon": "mid",
       "tickers": [
-        {"name": "한미약품", "market": "KR", "code": "128940", "effect": "positive"},
-        {"name": "HK이노엔", "market": "KR", "code": "195940", "effect": "positive"}
+        {
+          "name": "한미약품",
+          "market": "KR",
+          "code": "128940",
+          "effect": "positive"
+        },
+        {
+          "name": "HK이노엔",
+          "market": "KR",
+          "code": "195940",
+          "effect": "positive"
+        }
       ],
       "insight": "국산 GLP-1 비만약의 첫 판매 데이터. 재주문 속도가 4분기·내년 실적 기대를 좌우할 전망.",
-      "signals": {"stage": "시판", "event": "초도물량 100억원 완판", "indication": "비만/GLP-1"}
+      "signals": {
+        "stage": "시판",
+        "event": "초도물량 100억원 완판",
+        "indication": "비만/GLP-1"
+      }
     },
     {
       "category": "capital",
@@ -116,11 +224,25 @@
       "impact": "mixed",
       "horizon": "short",
       "tickers": [
-        {"name": "알테오젠", "market": "KR", "code": "196170", "effect": "negative"},
-        {"name": "큐라클", "market": "KR", "code": "365270", "effect": "positive"}
+        {
+          "name": "알테오젠",
+          "market": "KR",
+          "code": "196170",
+          "effect": "negative"
+        },
+        {
+          "name": "큐라클",
+          "market": "KR",
+          "code": "365270",
+          "effect": "positive"
+        }
       ],
       "insight": "알테오젠은 리픽싱으로 잠재 희석 주식이 약 9만3천주 늘어 수급 부담. 큐라클은 미국 2b상 진입 절차가 개별 촉매.",
-      "signals": {"stage": "2b상 IND(큐라클)", "event": "RCPS 전환가 조정, FDA IND 제출", "indication": "당뇨병성 황반부종"}
+      "signals": {
+        "stage": "2b상 IND(큐라클)",
+        "event": "RCPS 전환가 조정, FDA IND 제출",
+        "indication": "당뇨병성 황반부종"
+      }
     },
     {
       "category": "tech",
@@ -133,9 +255,19 @@
       "importance": 1,
       "impact": "positive",
       "horizon": "long",
-      "tickers": [{"name": "한미약품", "market": "KR", "code": "128940", "effect": "positive"}],
+      "tickers": [
+        {
+          "name": "한미약품",
+          "market": "KR",
+          "code": "128940",
+          "effect": "positive"
+        }
+      ],
       "insight": "AI 신약 테마가 기대 단계에서 기술이전 등 성과 검증 단계로 이동. 선급금 확인된 딜 보유 기업이 차별화.",
-      "signals": {"deal": "HM17321: 선급금 1.9억달러 / 총 최대 약 23억달러", "indication": "AI 신약개발"}
+      "signals": {
+        "deal": "HM17321: 선급금 1.9억달러 / 총 최대 약 23억달러",
+        "indication": "AI 신약개발"
+      }
     },
     {
       "category": "clinical",
@@ -149,11 +281,26 @@
       "impact": "positive",
       "horizon": "long",
       "tickers": [
-        {"name": "Merck & Co.", "market": "US", "code": "MRK", "effect": "positive"},
-        {"name": "Regeneron", "market": "US", "code": "REGN", "effect": "negative"}
+        {
+          "name": "Merck & Co.",
+          "market": "US",
+          "code": "MRK",
+          "effect": "positive"
+        },
+        {
+          "name": "Regeneron",
+          "market": "US",
+          "code": "REGN",
+          "effect": "negative"
+        }
       ],
       "insight": "MSD가 안과 이중항체 후기 개발을 넓히며 아일리아 중심 시장에 경쟁 압력이 커질 수 있음. 장기 변수.",
-      "signals": {"stage": "2/3상", "indication": "망막정맥폐쇄 황반부종/VEGF·TIE2 이중항체", "deal": "선급금 13억달러 / 총 30억달러", "next_catalyst": "2026년 12월 임상 개시"}
+      "signals": {
+        "stage": "2/3상",
+        "indication": "망막정맥폐쇄 황반부종/VEGF·TIE2 이중항체",
+        "deal": "선급금 13억달러 / 총 30억달러",
+        "next_catalyst": "2026년 12월 임상 개시"
+      }
     },
     {
       "category": "others",
@@ -166,9 +313,142 @@
       "importance": 1,
       "impact": "neutral",
       "horizon": "mid",
-      "tickers": [{"name": "HLB펩", "market": "KR", "code": "196300", "effect": "neutral"}],
+      "tickers": [
+        {
+          "name": "HLB펩",
+          "market": "KR",
+          "code": "196300",
+          "effect": "neutral"
+        }
+      ],
       "insight": "CDMO 전문 경영인 영입은 펩타이드 CDMO 확대 신호이나, 낮은 가동률과 적자로 실적 개선 확인이 필요.",
-      "signals": {"indication": "펩타이드 CDMO"}
+      "signals": {
+        "indication": "펩타이드 CDMO"
+      }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-22T06:55+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "196170",
+        "name": "알테오젠",
+        "date": "2026-11-20",
+        "title": "[기재정정]전환주식의전환가액조정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900596",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "196170",
+        "name": "알테오젠",
+        "date": "2026-11-20",
+        "title": "전환주식의전환가액조정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900333",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "196170",
+        "name": "알테오젠",
+        "date": "2026-11-19",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000022",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "365270",
+        "name": "큐라클",
+        "date": "2026-11-20",
+        "title": "투자판단관련주요경영사항(임상시험계획승인신청)              (당뇨병성 황반부종 치료제(CU06) 미국 FDA 제2b상 임상시험계획(IND) 승인 신청)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900267",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "196300",
+        "name": "HLB펩",
+        "date": "2026-11-20",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120900631",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:CAPR": {
+        "symbol": "CAPR",
+        "close": 7.59,
+        "change_pct": 0.8,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "GLOBAL:BAYN.DE": {
+        "symbol": "BAYN.DE",
+        "close": 53.36,
+        "change_pct": -2.41,
+        "currency": "EUR",
+        "date": "11/20"
+      },
+      "US:ABVX": {
+        "symbol": "ABVX",
+        "close": 73.2,
+        "change_pct": -9.24,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "KR:128940": {
+        "symbol": "128940.KS",
+        "close": 449500.0,
+        "change_pct": 6.52,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:195940": {
+        "symbol": "195940.KS",
+        "close": 38600.0,
+        "change_pct": 2.66,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:196170": {
+        "symbol": "196170.KQ",
+        "close": 174400.0,
+        "change_pct": 0.98,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:365270": {
+        "symbol": "365270.KS",
+        "close": 7100.0,
+        "change_pct": -1.39,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:MRK": {
+        "symbol": "MRK",
+        "close": 133.72,
+        "change_pct": 0.69,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:REGN": {
+        "symbol": "REGN",
+        "close": 920.69,
+        "change_pct": -0.29,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "KR:196300": {
+        "symbol": "196300.KS",
+        "close": 3095.0,
+        "change_pct": 1.81,
+        "currency": "KRW",
+        "date": "11/20"
+      }
+    },
+    "quotes_as_of": "11/20",
+    "notes": []
+  }
 }
