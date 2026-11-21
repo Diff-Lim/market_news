@@ -657,5 +657,123 @@
         "segment": "파운드리"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-22T06:39+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-20",
+        "title": "[기재정정]타법인주식및출자증권취득결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800721",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "AMD",
+        "name": "AMD",
+        "date": "2026-11-20",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000218/amd-20261118.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 125.53,
+        "change_pct": -14.01,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:MU": {
+        "symbol": "MU",
+        "close": 594.51,
+        "change_pct": -13.89,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:AMD": {
+        "symbol": "AMD",
+        "close": 424.39,
+        "change_pct": -13.25,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "GLOBAL:6857.T": {
+        "symbol": "6857.T",
+        "close": 24255.0,
+        "change_pct": -10.32,
+        "currency": "JPY",
+        "date": "11/20"
+      },
+      "GLOBAL:8035.T": {
+        "symbol": "8035.T",
+        "close": 8309.0,
+        "change_pct": -7.06,
+        "currency": "JPY",
+        "date": "11/20"
+      },
+      "US:MRVL": {
+        "symbol": "MRVL",
+        "close": 122.28,
+        "change_pct": -11.69,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:LRCX": {
+        "symbol": "LRCX",
+        "close": 183.27,
+        "change_pct": -10.02,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "GLOBAL:2330.TW": {
+        "symbol": "2330.TW",
+        "close": 2000.0,
+        "change_pct": -4.76,
+        "currency": "TWD",
+        "date": "11/20"
+      },
+      "KR:000660": {
+        "symbol": "000660.KS",
+        "close": 1113000.0,
+        "change_pct": -5.92,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 183100.0,
+        "change_pct": -7.01,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:009150": {
+        "symbol": "009150.KS",
+        "close": 774000.0,
+        "change_pct": -12.54,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "GLOBAL:9984.T": {
+        "symbol": "9984.T",
+        "close": 3025.0,
+        "change_pct": -14.48,
+        "currency": "JPY",
+        "date": "11/20"
+      },
+      "US:INTC": {
+        "symbol": "INTC",
+        "close": 51.28,
+        "change_pct": -7.97,
+        "currency": "USD",
+        "date": "11/20"
+      }
+    },
+    "quotes_as_of": "11/20",
+    "notes": []
+  }
 }
