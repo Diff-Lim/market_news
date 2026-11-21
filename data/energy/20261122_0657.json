@@ -1,0 +1,541 @@
+{
+  "published_at": "2026-11-22T06:57",
+  "industry": "energy",
+  "title": "에너지 투자 브리핑",
+  "emoji": "⚡",
+  "sources": [
+    "CBC뉴스",
+    "Discovery Alert",
+    "FinanceFeeds",
+    "IBTimes",
+    "Iran International",
+    "Neutron Bytes",
+    "OilPrice.com",
+    "The Closing Print",
+    "The Motley Fool",
+    "Türkiye Today",
+    "비즈워치",
+    "중앙이코노미뉴스",
+    "톱스타뉴스",
+    "한국경제"
+  ],
+  "briefing": [
+    "AI 전력 트레이드 청산 → 두산에너빌리티 -8%·블룸 -15%·VST -7%, 원전·전력주 수급 부담",
+    "유가 3주 연속 주간 하락(브렌트 $92.57) → 11/29 OPEC+ 2027 쿼터가 다음 변수",
+    "우라늄 현물 $90 견조 vs 카메코 52주 고점 대비 -43% → 가격·주가 괴리 확대",
+    "2차전지·태양광 신저가권(삼성SDI 40만원 이탈, 한화솔루션) → 3차 ESS 입찰·12/4 美 관세 주목",
+    "한전 녹색프리미엄 그린워싱 논란 → 그린요금제·PPA 전환 등 요금제 개편 이슈"
+  ],
+  "market_snapshot": [
+    {
+      "label": "브렌트유(1월물, 11/20)",
+      "value": "$92.57",
+      "source": "IBTimes",
+      "url": "https://www.ibtimes.com.au/oil-prices-tanker-fire-strait-hormuz-weekly-loss-1879042"
+    },
+    {
+      "label": "WTI(12월물, 11/20)",
+      "value": "$83.98",
+      "source": "IBTimes",
+      "url": "https://www.ibtimes.com.au/oil-prices-tanker-fire-strait-hormuz-weekly-loss-1879042"
+    },
+    {
+      "label": "우라늄 현물(11/20)",
+      "value": "$90.02/lb",
+      "source": "Discovery Alert",
+      "url": "https://discoveryalert.com/analysis/uranium-stocks-spot-price-selloff-november-2026/"
+    },
+    {
+      "label": "육지 SMP 가중평균(11/21)",
+      "value": "111.24원/kWh",
+      "source": "전력거래소",
+      "url": "https://new.kpx.or.kr/smpInland.es?mid=a10606080100&device=pc"
+    },
+    {
+      "label": "코스피(11/20)",
+      "value": "4,869.96 (주간 -7.95%)",
+      "source": "이코노믹리뷰",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=758068"
+    }
+  ],
+  "watchlist_notes": [],
+  "events": [
+    {
+      "date": "2026-11-26",
+      "event": "한국은행 금통위 기준금리 결정(시장은 3.25% 인상 예상)",
+      "tickers": [],
+      "source_url": "https://www.econovill.com/news/articleView.html?idxno=758068"
+    },
+    {
+      "date": "2026-11-26",
+      "event": "LG에너지솔루션 폴란드 브로츠와프 ESS 배터리 생산라인 공개",
+      "tickers": [
+        {
+          "name": "LG에너지솔루션",
+          "market": "KR",
+          "code": "373220"
+        }
+      ],
+      "source_url": "https://sateconomy.co.kr/news/view/1065538921275225"
+    },
+    {
+      "date": "2026-11-29",
+      "event": "OPEC+ 전체 회의 — 2027년 생산 쿼터 결정",
+      "tickers": [
+        {
+          "name": "ExxonMobil",
+          "market": "US",
+          "code": "XOM"
+        },
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950"
+        }
+      ],
+      "source_url": "https://financefeeds.com/brent-crude-oil-price-92-57-saturday-week-ahead-opec-plus-29-november-bull-96-bear-89/"
+    },
+    {
+      "date": "2026-12-04",
+      "event": "미국 폴리실리콘·파생제품(셀·웨이퍼·모듈) 최저수입가격+15% 관세 시한",
+      "tickers": [
+        {
+          "name": "First Solar",
+          "market": "US",
+          "code": "FSLR"
+        },
+        {
+          "name": "한화솔루션",
+          "market": "KR",
+          "code": "009830"
+        }
+      ],
+      "source_url": "https://finance.yahoo.com/energy/articles/china-solar-exports-surge-21-101500589.html"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "nuclear",
+      "title": "두산에너빌리티 주가 8%대 급락…원전주 애프터마켓 '희비', 한국전력·금화피에스시는 상승",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=629223",
+      "summary": "11/20 두산에너빌리티 -8.1%(40,250원), 한전기술 -7.0%, 우진 -7.2%, 한전KPS -2.1% 등 원전주가 일제히 급락. 같은 날 코스피는 -5.21%(4,869.96), 코스닥 -5.71%. 반면 한국전력은 +1.1%(25,550원)로 상승 마감.",
+      "source": "CBC뉴스",
+      "time": "11/22 00:15",
+      "region": "KR",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "두산에너빌리티",
+          "market": "KR",
+          "code": "034020",
+          "effect": "negative"
+        },
+        {
+          "name": "한전기술",
+          "market": "KR",
+          "code": "052690",
+          "effect": "negative"
+        },
+        {
+          "name": "한전KPS",
+          "market": "KR",
+          "code": "051600",
+          "effect": "negative"
+        },
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "positive"
+        }
+      ],
+      "insight": "AI 전력 테마 매도가 원전 밸류체인 전반으로 번짐. 개별 악재가 아닌 수급 충격이라 시장 안정 여부가 반등 관건이고, 한전은 방어주 성격 부각.",
+      "signals": {
+        "segment": "원전/SMR"
+      }
+    },
+    {
+      "category": "market",
+      "title": "장 마감 및 주간 요약(2026-11-20): AI 전력주 투매, 블룸에너지 -15%·카메코 -5.6%",
+      "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/",
+      "summary": "11/20 데이터센터 트레이드 청산으로 블룸에너지 -15.30%($142.39), 우라늄 채굴 ETF URNM -6.54%, 카메코 -5.6%. 에너지 섹터(XLE)는 당일 -0.62%로 선방했으나 주간 -6.85%, 유틸리티 주간 -3.07%.",
+      "source": "The Closing Print",
+      "time": "11/21 07:20",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Bloom Energy",
+          "market": "US",
+          "code": "BE",
+          "effect": "negative"
+        },
+        {
+          "name": "Cameco",
+          "market": "US",
+          "code": "CCJ",
+          "effect": "negative"
+        }
+      ],
+      "insight": "AI 전력 수요 기대를 반영했던 연료전지·우라늄주가 가장 크게 빠짐. 국내 원전·전력기기주 월요일 수급에도 부담 요인.",
+      "signals": {
+        "segment": "원전/SMR · 수소"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "11월이 끝나기 전 비스트라 주식을 사야 할 한 가지 이유",
+      "url": "https://www.fool.com/investing/2026/11/21/1-compelling-reason-to-buy-vistra-stock-before-november-ends/",
+      "summary": "비스트라(VST)는 11/20 -7.17%($115.25) 마감, 연초 대비 약 -20%. 데이터센터 거점 규제당국의 전력계약 견제, AI 매도세, 텍사스 등 중간선거 결과가 원인으로 거론. 자사주 매입 15억달러 증액, 2027년 물량 대부분 헤지, 조정 EBITDA 가이던스 77~85억달러 유지.",
+      "source": "The Motley Fool",
+      "time": "11/22 04:45",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Vistra",
+          "market": "US",
+          "code": "VST",
+          "effect": "mixed"
+        },
+        {
+          "name": "Constellation Energy",
+          "market": "US",
+          "code": "CEG",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "데이터센터 전력계약에 대한 규제 리스크가 주가 하락 요인으로 부상. 반면 헤지 물량과 가이던스로 이익 가시성은 유지된다는 시각.",
+      "signals": {
+        "segment": "원전/SMR · 전력",
+        "policy": "데이터센터 전력계약 규제 견제"
+      }
+    },
+    {
+      "category": "oilgas",
+      "title": "호르무즈 인근 유조선 화재로 유가 반등…브렌트는 3주 연속 주간 하락",
+      "url": "https://www.ibtimes.com.au/oil-prices-tanker-fire-strait-hormuz-weekly-loss-1879042",
+      "summary": "11/20 브렌트(1월물) $92.57(+0.64%), WTI(12월물) $83.98(+0.93%)로 반등했으나 주간으로는 각각 약 -3.4%, -5.2%로 3주 연속 하락. 미 해군 호위로 걸프 수출이 회복되고 2027년 공급과잉 전망이 부담.",
+      "source": "IBTimes",
+      "time": "11/21 13:09",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "ExxonMobil",
+          "market": "US",
+          "code": "XOM",
+          "effect": "negative"
+        },
+        {
+          "name": "Chevron",
+          "market": "US",
+          "code": "CVX",
+          "effect": "negative"
+        },
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "지정학 이벤트에도 유가가 주간 하락을 이어가며 공급과잉 쪽으로 무게. 업스트림엔 부담, 국내 정유사는 원가 하락과 재고손실이 엇갈림.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "브렌트 $92.57·WTI $83.98, 3주 연속 주간 하락"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "브렌트유 $92.57: OPEC+ 2027년 쿼터 결정까지 8일",
+      "url": "https://financefeeds.com/brent-crude-oil-price-92-57-saturday-week-ahead-opec-plus-29-november-bull-96-bear-89/",
+      "summary": "OPEC+ 전체 회원국이 11/29(일) 회의에서 2027년 생산량을 결정할 예정. 2027년 기준치가 될 생산능력 검토는 11/16 논의했으나 마무리되지 않음. 핵심국은 11/1 12월 생산량을 9월 수준으로 동결.",
+      "source": "FinanceFeeds",
+      "time": "11/21 15:50",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "ExxonMobil",
+          "market": "US",
+          "code": "XOM",
+          "effect": "mixed"
+        },
+        {
+          "name": "Chevron",
+          "market": "US",
+          "code": "CVX",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "공급과잉 우려 속 2027년 쿼터와 기준 생산능력 결정이 다음 유가 방향의 핵심 변수. 회의 전후 정유·석유주 변동성 확대 가능.",
+      "signals": {
+        "segment": "석유/가스",
+        "policy": "OPEC+ 2027년 쿼터(11/29)"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "이란, 미국 증강에도 호르무즈 대치 준비 신호",
+      "url": "https://www.iranintl.com/en/202611216643",
+      "summary": "혁명수비대 연계 매체가 중국행 유조선 호송 선단을 촉구하며, 미국 개입 시 UAE·사우디·카타르 석유시설 타격을 위협. 하르그섬 인근에 유조선 14척 이상 집결. 이란 생산량은 약 180만배럴/일로 전쟁 전 절반 수준.",
+      "source": "Iran International",
+      "time": "11/21 11:29",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "봉쇄 돌파 시도가 현실화되면 걸프 산유시설 리스크가 재부각돼 유가 하락 추세를 되돌릴 수 있는 변수.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "유가 상방 리스크"
+      }
+    },
+    {
+      "category": "battery",
+      "title": "최근 5거래일 삼성SDI 주가 40만원선 이탈",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565595",
+      "summary": "삼성SDI는 11/20 398,500원(-7.00%)으로 마감하며 40만원선을 내줌. 5거래일 종가는 463,500→441,000→440,500→430,000→398,500원으로 주간 약 -14%.",
+      "source": "중앙이코노미뉴스",
+      "time": "11/21 10:53",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성SDI",
+          "market": "KR",
+          "code": "006400",
+          "effect": "negative"
+        }
+      ],
+      "insight": "ESS 수주 기대에도 시장 급락에 동반 약세. 이달 발표 예정인 3차 ESS 중앙계약시장 결과가 단기 모멘텀 변수.",
+      "signals": {
+        "segment": "2차전지/ESS"
+      }
+    },
+    {
+      "category": "battery",
+      "title": "11월 셋째주 LG에너지솔루션 주가 52주 최저가 근접",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565612",
+      "summary": "LG에너지솔루션은 11/20 297,500원(-1.5%)으로 마감, 52주 최저가 290,500원에 근접(52주 최고 506,000원). 시가총액 약 69.6조원, 예상 EPS는 -4,031원.",
+      "source": "중앙이코노미뉴스",
+      "time": "11/21 11:16",
+      "region": "KR",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "LG에너지솔루션",
+          "market": "KR",
+          "code": "373220",
+          "effect": "negative"
+        }
+      ],
+      "insight": "실적 적자 전망 속 52주 저점 지지 여부가 관심. 11/26 폴란드 ESS 라인 공개가 단기 이벤트.",
+      "signals": {
+        "segment": "2차전지/ESS"
+      }
+    },
+    {
+      "category": "renewable",
+      "title": "11월 3주차 한화솔루션 주가 하락세 지속",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16282103",
+      "summary": "한화솔루션은 11/20 19,140원(-7.98%)으로 5거래일 연속 하락, 장중 19,110원으로 기존 52주 최저가(20,150원)를 하향 돌파. PBR 0.43배, 시총 약 4.3조원.",
+      "source": "톱스타뉴스",
+      "time": "11/21 12:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "한화솔루션",
+          "market": "KR",
+          "code": "009830",
+          "effect": "negative"
+        }
+      ],
+      "insight": "공정위 담합 조사와 시장 급락이 겹치며 52주 신저가. 12/4 미국 폴리실리콘 관세 발효 일정이 다음 변수.",
+      "signals": {
+        "segment": "태양광/풍력"
+      }
+    },
+    {
+      "category": "market",
+      "title": "최근 5거래일 한국전력 주가 24400원대 등락",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16282111",
+      "summary": "한국전력은 11/18 장중 52주 최저가 24,400원을 기록한 뒤 반등해 11/20 25,550원(+1.19%)으로 마감. 지수 급락일에도 상승.",
+      "source": "톱스타뉴스",
+      "time": "11/21 12:01",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "positive"
+        }
+      ],
+      "insight": "3분기 이익 급감 뒤 저점권에서 방어주 수급 유입. 유가 하락은 연료비 부담 완화 요인.",
+      "signals": {
+        "segment": "전력"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "웃돈 주고 샀는데 가짜?…애플·BMW 의심에 기업들 '초비상' [김리안의 에네르기파WAR]",
+      "url": "https://www.hankyung.com/article/202611209672i",
+      "summary": "한국형 RE100 이행량 44,787GWh 중 84.6%가 한전 녹색프리미엄. 기업 RE100 담당자 평가에서 녹색프리미엄은 GHG 프로토콜 품질기준 8개 중 4개 미충족. 한전은 특정 전원 연계형 그린요금제(UGT) 도입을 검토 중이며 VPP 사업자는 반대.",
+      "source": "한국경제",
+      "time": "11/21 09:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "녹색프리미엄의 그린워싱 리스크로 수출기업의 PPA 전환 압력이 커질 수 있음. 재생에너지 PPA 수요와 한전 요금제 개편에 구조적 영향.",
+      "signals": {
+        "segment": "태양광/풍력",
+        "policy": "녹색프리미엄·그린요금제(UGT) 검토"
+      }
+    },
+    {
+      "category": "grid",
+      "title": "미국서 1300억 따내고 베트남선 매출 2배…LS일렉트릭 질주",
+      "url": "https://news.bizwatch.co.kr/article/industry/2026/11/20/0035",
+      "summary": "LS ELECTRIC이 베트남 박닌 2공장을 준공. 베트남 매출은 2022년 1,100억원에서 2026년 2,200억원으로 늘고 2030년 4,700억원이 목표. 미국 빅테크 데이터센터향 9,380만달러(약 1,300억원) 수주도 재확인. 엘앤에프는 1,515억원 CB 발행.",
+      "source": "비즈워치",
+      "time": "11/21 15:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "LS ELECTRIC",
+          "market": "KR",
+          "code": "010120",
+          "effect": "positive"
+        }
+      ],
+      "insight": "주가 급락과 별개로 미국 데이터센터·동남아 수요 기반의 수주·증설은 이어지는 중. 펀더멘털과 수급 간 괴리 확인 포인트.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "order": "미 데이터센터 약 1,300억원(기존 공시분)"
+      }
+    },
+    {
+      "category": "nuclear",
+      "title": "우라늄 주식은 반토막 났는데 현물가는 왜 90달러 근처를 지키나",
+      "url": "https://discoveryalert.com/analysis/uranium-stocks-spot-price-selloff-november-2026/",
+      "summary": "우라늄 현물가는 11/20 $90.02/lb, 장기가격은 사상 최고 $99. 반면 카메코는 52주 고점 대비 -43%, URNM -50%, SPUT은 NAV 대비 20% 할인. 한수원은 2028~2037년분 U3O8 약 1,560만lb 입찰을 개시(12/28 마감).",
+      "source": "Discovery Alert",
+      "time": "11/22 01:12",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Cameco",
+          "market": "US",
+          "code": "CCJ",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "주가 급락은 AI·모멘텀 바스켓 기계적 매도 영향이 크고 우라늄 가격은 견조. 실물 가격과 주가의 괴리가 커진 상태.",
+      "signals": {
+        "segment": "원전/SMR",
+        "commodity": "우라늄 현물 $90.02/lb, 장기 $99"
+      }
+    },
+    {
+      "category": "nuclear",
+      "title": "원자력 라운드업: 뉴욕주 5GW 원전 마스터플랜, 우렌코-블리칼라 HALEU 계약 등",
+      "url": "https://neutronbytes.com/2026/11/21/new-york-releases-its-nuclear-energy-master-plan/",
+      "summary": "뉴욕주가 신규 원전 5GW 목표의 마스터플랜을 발표, NYPA는 최소 1GW 추진. NYPA는 넥스트에라·홀텍·테라파워·X-에너지 등 10개 개발사를 숏리스트에 올림. 우렌코는 블리칼라 SEALER 원자로용 HALEU 농축 계약 체결.",
+      "source": "Neutron Bytes",
+      "time": "11/22 01:02",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "NextEra Energy",
+          "market": "US",
+          "code": "NEE",
+          "effect": "positive"
+        }
+      ],
+      "insight": "미국 주정부 차원의 대형 신규 원전 수요가 구체화. 기자재 공급망(국내 원전 기자재 포함)에 장기 기회.",
+      "signals": {
+        "segment": "원전/SMR",
+        "policy": "뉴욕주 신규 원전 5GW 목표"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "COP31, 화석연료 문구 논쟁으로 연장 협상…최신 초안서 화석연료 언급 삭제",
+      "url": "https://www.turkiyetoday.com/world/cop31-talks-run-into-overtime-in-turkiye-as-fossil-fuel-dispute-blocks-climate-deal-3232892",
+      "summary": "튀르키예 안탈리아 COP31이 금요일 시한을 넘겨 연장. 목요일 초안(80개 조항)에서 화석연료 관련 문구와 연 1,200억달러 적응기금 목표가 모두 빠짐. 프랑스·파나마 등 12개국이 화석연료 전환 문구를 요구.",
+      "source": "Türkiye Today",
+      "time": "11/21 17:30",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "화석연료 퇴출 합의가 약화되는 흐름은 석유·가스 업계엔 단기 부담 완화, 재생에너지 정책 모멘텀엔 중립~약세.",
+      "signals": {
+        "segment": "석유/가스 · 태양광/풍력",
+        "policy": "COP31 최종 합의문"
+      }
+    },
+    {
+      "category": "oilgas",
+      "title": "추수감사절 휘발유 가격, 최근 급락에도 사상 최고 기록 가능성",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Thanksgiving-Gas-Prices-Could-Break-a-Record-Despite-Recent-Plunge.html",
+      "summary": "AAA 미국 평균 휘발유 가격은 11/20 갤런당 $3.69로 한 달 전 약 $4.30에서 하락. 개스버디는 추수감사절 당일 $3.62로 2022년 기록($3.56)을 웃돌 것으로 전망. 미 휘발유 재고는 510만배럴 증가.",
+      "source": "OilPrice.com",
+      "time": "11/22 04:10",
+      "region": "US",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "휘발유 재고 증가와 가격 하락은 정제마진 둔화 신호. 정유주 수익성 점검 지표.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "미 휘발유 $3.69/gal, 재고 +510만배럴"
+      }
+    }
+  ]
+}
