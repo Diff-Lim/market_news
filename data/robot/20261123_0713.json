@@ -1,0 +1,167 @@
+{
+  "published_at": "2026-11-23T07:13",
+  "industry": "robot",
+  "title": "로봇 투자 브리핑",
+  "emoji": "🦾",
+  "sources": [
+    "Robotics & Automation News",
+    "TeslaNorth",
+    "azat.tv",
+    "東方財富(央广财经)",
+    "서울경제",
+    "연합뉴스",
+    "파이낸셜뉴스"
+  ],
+  "briefing": [
+    "로봇 투자 2026년 607억 달러 전망 vs 상장 로봇주 평균 -21% → 옥석 가리기 국면",
+    "중국 휴머노이드 연 10만 대 생산 전망 → 국내 부품주에 수요·가격 압박 동시",
+    "파운데이션 로보틱스 현금난 → 해외 휴머노이드 스타트업 투자 리스크 부각",
+    "머스크 옵티머스 발언, 양산 정보는 없음 → TSLA·휴머노이드 테마 단기 심리 변수",
+    "국방 로봇 실증 MOU·부품 공급망 국산화 논의 → 국내 정책 모멘텀"
+  ],
+  "market_snapshot": [],
+  "watchlist_notes": [],
+  "events": [],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "market",
+      "title": "로봇 투자, 2026년 607억 달러 전망…펀딩 과열 우려도",
+      "url": "https://roboticsandautomationnews.com/2026/11/22/robotics-investment-set-to-reach-60-7-billion-in-2026-but-funding-boom-raises-concerns/107478/",
+      "summary": "F-Prime(피치북 데이터)은 2026년 로봇 투자액을 607억 달러(2025년 221억 달러)로 전망. 휴머노이드·범용로봇은 99억 달러. IDC 인용 상반기 휴머노이드 출하 약 2.5만 대(+432%). 상장 로봇주는 12개월 평균 -21%, 중국 로봇주 -57%.",
+      "source": "Robotics & Automation News",
+      "time": "11/23 05:11",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "비상장 자금 유입은 급증했지만 상장 로봇주는 부진해 밸류에이션 괴리가 큼. 실제 출하·수주가 확인되는 종목 위주로 옥석 가리기가 이어질 수 있음.",
+      "signals": {
+        "segment": "휴머노이드·범용로봇",
+        "mass_production": "상반기 휴머노이드 출하 약 2.5만 대(IDC)"
+      }
+    },
+    {
+      "category": "market",
+      "title": "자본, 휴머노이드 10만 대 '실전 배치 능력'에 가격을 매기기 시작",
+      "url": "https://finance.eastmoney.com/a/202611223936945273.html",
+      "summary": "창사 세계컴퓨팅대회에서 공업정보화부 자료 인용, 중국 휴머노이드 업체는 2025년 140곳 이상, 2026년 상반기 400여 모델 출시·생산 4만 대 초과, 연간 10만 대 돌파 전망. 후난성은 2028년 로봇 산업망 매출 1000억 위안 목표. 중롄중커는 '하나의 두뇌, 다양한 형태' 플랫폼 발표.",
+      "source": "東方財富(央广财经)",
+      "time": "11/22 21:41",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "중롄중커(Zoomlion)",
+          "market": "GLOBAL",
+          "code": "1157.HK",
+          "effect": "positive"
+        }
+      ],
+      "insight": "중국 휴머노이드 생산이 연 10만 대 규모로 커지면 부품 원가 경쟁이 심해짐. 국내 감속기·액추에이터 업체에는 수요 확대와 가격 압박이 동시에 옴.",
+      "signals": {
+        "segment": "휴머노이드",
+        "mass_production": "中 2026 상반기 4만 대 초과, 연 10만 대 전망"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "에릭 트럼프 투자 '파운데이션 로보틱스', 현금난에 직원 건강보험 중단",
+      "url": "https://azat.tv/en/foundation-robotics-health-benefits-cutoff",
+      "summary": "CNBC 보도 인용. 휴머노이드 '팬텀' 개발사 파운데이션이 10월분부터 소급해 직원 건강보험을 중단했고 10/15 이후 급여 미지급. CEO가 브리지론을 추진 중이며 국내 베이스그룹의 최대 1.5억 달러 투자는 미확정(12월~내년 1월 마무리 예상).",
+      "source": "azat.tv",
+      "time": "11/23 06:30",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "휴머노이드 스타트업 자금난 사례로, 국내 자본의 해외 로봇 투자 리스크를 보여줌. 2차 출처라 CNBC 원문 확인이 필요함.",
+      "signals": {
+        "segment": "휴머노이드(군사용)"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "머스크 \"옵티머스는 테슬라 최고의 제품이 될 것\"",
+      "url": "https://teslanorth.com/2026/11/22/tesla-optimus-musk-best-product",
+      "summary": "머스크가 X에서 옵티머스를 '역대 최고의 제품'이라 언급. 출시일·가격·주문은 미정. 11/18 행사에서 1~2개월 내 시연 가능성을 언급했고, AI5 칩은 옵티머스에 우선 배정. 프리몬트에서 10월 첫 양산 품질 유닛을 생산.",
+      "source": "TeslaNorth",
+      "time": "11/23 05:14",
+      "region": "US",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Tesla",
+          "market": "US",
+          "code": "TSLA",
+          "effect": "positive"
+        }
+      ],
+      "insight": "발언 중심이라 실제 양산·가격 정보는 없음. 1~2개월 내 시연 여부가 국내 휴머노이드 테마주 심리의 단기 변수.",
+      "signals": {
+        "segment": "휴머노이드",
+        "mass_production": "출시일·가격 미정, 10월 첫 양산품질 유닛"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "로봇산업진흥원-2작전사, 국방 첨단로봇·피지컬 AI 확대 맞손",
+      "url": "https://supple.kr/news/cmwrbw1n89fttkwp8aoc1wz2m",
+      "summary": "한국로봇산업진흥원과 육군 제2작전사령부가 국방 분야 첨단로봇·피지컬 AI 도입을 위한 업무협약 체결. 2작전사는 시범부대·테스트베드를 제공하고 진흥원은 실증사업을 기획해 정부 지원사업과 연계, 물류·보급 업무 자동화를 추진.",
+      "source": "연합뉴스",
+      "time": "11/22 13:20",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "국방 물류 로봇 실증 수요가 생기는 정책 신호. 구체적 예산·발주 규모는 아직 없음.",
+      "signals": {
+        "segment": "물류·국방",
+        "customer": "육군 2작전사 시범부대"
+      }
+    },
+    {
+      "category": "components",
+      "title": "[fn이사람] \"中에 쏠린 로봇 부품 생태계, 공급망 확대를\"",
+      "url": "https://fnnews.com/news/202611221837289413",
+      "summary": "과학기술정책연구원 김용기 부연구위원은 로봇의 '두뇌'는 우방 공급망, '몸'(모터·감속기·배터리·영구자석·희토류)은 중국 양산에 의존한다고 지적. 내년부터 휴머노이드 공급망 연구에 착수해 '주권 로봇 밸류체인'을 모색할 계획.",
+      "source": "파이낸셜뉴스",
+      "time": "11/22 18:36",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "감속기·모터·자석 국산화가 정책 의제로 떠오르는 흐름. 국내 부품주 테마의 중장기 근거가 될 수 있음.",
+      "signals": {
+        "component": "모터·감속기·영구자석·희토류"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "하루 13톤 책 오가는 미래엔 물류창고…AI 로봇이 운반·포장한다",
+      "url": "https://m.sedaily.com/article/20117421",
+      "summary": "미래엔이 중기부 'AX 스프린트' 사업으로 세종 공장 물류창고 자동화를 추진. 라온비즈컴이 디지털트윈 기반 모바일 매니퓰레이터를 구축해 시간당 처리량을 400~500권에서 약 1000권으로 늘리고 포장 인력을 5명에서 1~2명으로 줄일 계획(2027년 6월 완료).",
+      "source": "서울경제",
+      "time": "11/22 17:34",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "중소 제조·물류 현장의 정부 지원 로봇 도입 사례. 규모는 작지만 모바일 매니퓰레이터 수요 확산의 단서.",
+      "signals": {
+        "segment": "물류",
+        "customer": "미래엔(중기부 AX 스프린트)"
+      }
+    }
+  ]
+}
