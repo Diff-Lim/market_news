@@ -472,5 +472,163 @@
         "indication": "경카테터 대동맥판막(TAVR)"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-23T06:50+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "000100",
+        "name": "유한양행",
+        "date": "2026-11-20",
+        "title": "기업설명회(IR)개최(안내공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800691",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:005500": {
+        "symbol": "005500.KS",
+        "close": 19450.0,
+        "change_pct": 2.1,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:003850": {
+        "symbol": "003850.KS",
+        "close": 8710.0,
+        "change_pct": -0.68,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:217730": {
+        "symbol": "217730.KS",
+        "close": 1706.0,
+        "change_pct": -2.96,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:SMMT": {
+        "symbol": "SMMT",
+        "close": 9.95,
+        "change_pct": -5.87,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:MRK": {
+        "symbol": "MRK",
+        "close": 133.72,
+        "change_pct": 0.69,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "KR:068270": {
+        "symbol": "068270.KS",
+        "close": 213000.0,
+        "change_pct": -0.93,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:000100": {
+        "symbol": "000100.KS",
+        "close": 80600.0,
+        "change_pct": -0.86,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:069620": {
+        "symbol": "069620.KS",
+        "close": 98100.0,
+        "change_pct": -1.8,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:170900": {
+        "symbol": "170900.KS",
+        "close": 33400.0,
+        "change_pct": -1.76,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:128940": {
+        "symbol": "128940.KS",
+        "close": 449500.0,
+        "change_pct": 6.52,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:326030": {
+        "symbol": "326030.KS",
+        "close": 86800.0,
+        "change_pct": -0.34,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:185750": {
+        "symbol": "185750.KS",
+        "close": 62100.0,
+        "change_pct": 0.16,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:000250": {
+        "symbol": "000250.KQ",
+        "close": 144500.0,
+        "change_pct": 0.84,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "GLOBAL:4568.T": {
+        "symbol": "4568.T",
+        "close": 2707.0,
+        "change_pct": -2.01,
+        "currency": "JPY",
+        "date": "11/20"
+      },
+      "KR:006280": {
+        "symbol": "006280.KS",
+        "close": 130000.0,
+        "change_pct": -1.52,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:064550": {
+        "symbol": "064550.KQ",
+        "close": 7770.0,
+        "change_pct": 20.09,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:214450": {
+        "symbol": "214450.KQ",
+        "close": 275000.0,
+        "change_pct": -1.08,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:145020": {
+        "symbol": "145020.KS",
+        "close": 206500.0,
+        "change_pct": -3.28,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:IVVD": {
+        "symbol": "IVVD",
+        "close": 0.41,
+        "change_pct": -7.4,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:AVR": {
+        "symbol": "AVR",
+        "close": 4.99,
+        "change_pct": -1.96,
+        "currency": "USD",
+        "date": "11/20"
+      }
+    },
+    "quotes_as_of": "11/20",
+    "notes": []
+  }
 }
