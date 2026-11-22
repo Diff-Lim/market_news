@@ -1,0 +1,618 @@
+{
+  "published_at": "2026-11-23T06:55",
+  "industry": "energy",
+  "title": "에너지 투자 브리핑",
+  "emoji": "⚡",
+  "sources": [
+    "Arab News (AFP)",
+    "CBC뉴스",
+    "Discovery Alert",
+    "Euronews",
+    "Fortune",
+    "Milwaukee NNS",
+    "UN News",
+    "Ukrinform",
+    "시사저널e",
+    "에너지데일리",
+    "이투데이",
+    "파이낸셜뉴스",
+    "파이낸셜뉴스(뉴스1)",
+    "파이낸셜뉴스(연합뉴스)",
+    "한국경제"
+  ],
+  "briefing": [
+    "호르무즈 유조선 사고·이란 위협 재고조 → 정유(S-Oil·SK이노) 유가 반등 압력, 변동성↑",
+    "한전 152만명 개인정보 유출 → 한국전력 단기 투자심리 악재, 요금 논의에도 부담",
+    "대형 변압기 수출 1~10월 +31%(미국 71%) → HD현대일렉·효성중공업·LS일렉 수요 견조",
+    "美 원전주·나스닥 급락 여파 → 두산에너빌리티 등 원전주 월요일 수급 변수",
+    "리튬 수산화물 연고점 대비 -54% → 엘앤에프·LG화학 등 소재 4분기 부담"
+  ],
+  "market_snapshot": [
+    {
+      "label": "브렌트유 1월물(11/20)",
+      "value": "$92.57",
+      "source": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-92-57-sunday-week-ahead-opec-plus-29-november-2027-quotas-bull-97-bear-88/"
+    },
+    {
+      "label": "WTI 1월물",
+      "value": "$83.41",
+      "source": "FinanceFeeds",
+      "url": "https://financefeeds.com/brent-crude-oil-price-92-57-sunday-week-ahead-opec-plus-29-november-2027-quotas-bull-97-bear-88/"
+    },
+    {
+      "label": "수산화리튬(11/18)",
+      "value": "$10.85/kg",
+      "source": "시사저널e",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425219"
+    },
+    {
+      "label": "JKM LNG(10월)",
+      "value": "$28.59/MMBtu",
+      "source": "파이낸셜뉴스",
+      "url": "https://www.fnnews.com/news/202611220831082898"
+    }
+  ],
+  "watchlist_notes": [],
+  "events": [
+    {
+      "date": "2026-11-23",
+      "event": "11월 1~20일 수출입 통계 발표",
+      "tickers": [],
+      "source_url": "https://view.asiae.co.kr/article/2026112217234220790"
+    },
+    {
+      "date": "2026-11-25",
+      "event": "미 EIA 주간 원유재고 발표",
+      "tickers": [],
+      "source_url": "https://discoveryalert.com/analysis/crude-oil-price-outlook-brent-opec-november-2026/"
+    },
+    {
+      "date": "2026-11-26",
+      "event": "한국은행 금융통화위원회 기준금리 결정",
+      "tickers": [],
+      "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01328406645648344"
+    },
+    {
+      "date": "2026-11-26",
+      "event": "미국 증시 추수감사절 휴장",
+      "tickers": [],
+      "source_url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01328406645648344"
+    },
+    {
+      "date": "2026-11-29",
+      "event": "OPEC+ 장관회의(2027년 생산쿼터 결정)",
+      "tickers": [
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950"
+        },
+        {
+          "name": "SK이노베이션",
+          "market": "KR",
+          "code": "096770"
+        },
+        {
+          "name": "Exxon Mobil",
+          "market": "US",
+          "code": "XOM"
+        },
+        {
+          "name": "Chevron",
+          "market": "US",
+          "code": "CVX"
+        }
+      ],
+      "source_url": "https://financefeeds.com/brent-crude-oil-price-92-57-sunday-week-ahead-opec-plus-29-november-2027-quotas-bull-97-bear-88/"
+    },
+    {
+      "date": "2026-11-30",
+      "event": "브렌트유 1월물 만기",
+      "tickers": [],
+      "source_url": "https://financefeeds.com/brent-crude-oil-price-92-57-sunday-week-ahead-opec-plus-29-november-2027-quotas-bull-97-bear-88/"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "oilgas",
+      "title": "호르무즈 해협서 '군 병력 연루' 유조선 사고 보고",
+      "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
+      "summary": "UKMTO는 22일(현지) 저녁 오만만 차바하르 인근, 미국 봉쇄선 부근에서 유조선이 군 병력과 연루된 사고를 보고. 이란은 카르그섬 앞에 봉쇄 돌파용 유조선 14척 이상을 준비 중이며, 미국이 자국 유조선을 막으면 걸프 에너지 시설을 즉각 타격하겠다고 위협.",
+      "source": "Euronews",
+      "time": "11/23 03:07",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK이노베이션",
+          "market": "KR",
+          "code": "096770",
+          "effect": "mixed"
+        },
+        {
+          "name": "Exxon Mobil",
+          "market": "US",
+          "code": "XOM",
+          "effect": "positive"
+        }
+      ],
+      "insight": "주말 중 호르무즈 긴장이 재고조돼 3주 연속 하락한 유가의 월요일 반등 압력. 정유주는 재고평가엔 유리하나 원유 조달 차질·가격상한제 부담이 겹침.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "유가 상방 리스크(호르무즈)"
+      }
+    },
+    {
+      "category": "oilgas",
+      "title": "바레인 \"이란, 산업시설 공격해 2명 부상\"…호르무즈서 유조선 피격",
+      "url": "https://www.arabnews.pk/middle-east/bahrain-says-two-injured-in-iranian-attack-on-industrial-site-as-tankers-hit-in-hormuz-3007744",
+      "summary": "바레인은 21일 이란의 민간 산업시설 공격으로 2명이 다쳤다고 발표(밥코 정유공장이 있는 시트라섬 상공 연기 목격). UKMTO는 유조선 1척이 미확인 발사체에, 다른 1척은 기관실에 피격됐다고 밝힘. 이란은 일요일부터 순환 단전 시작.",
+      "source": "Arab News (AFP)",
+      "time": "11/22 19:54",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "공격 대상이 걸프 정유시설로 번지는 신호. 중동산 원유 의존이 큰 국내 정유·화학사 조달 리스크와 유가 변동성 확대 요인.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "브렌트 변동성 확대"
+      }
+    },
+    {
+      "category": "market",
+      "title": "원유 가격 전망: 브렌트, OPEC+ 11월 회의 앞둬",
+      "url": "https://discoveryalert.com/analysis/crude-oil-price-outlook-brent-opec-november-2026/",
+      "summary": "WTI는 지난주 4.44% 하락. PTI 조사에서 애널리스트들은 이번 주 브렌트를 배럴당 89~96달러로 예상. 2027년 공급과잉 전망은 약 200만b/d(골드만삭스)~380만b/d(IEA)로 엇갈리며, 11월 29일 OPEC+ 장관회의가 2027년 쿼터를 정할 예정.",
+      "source": "Discovery Alert",
+      "time": "11/22 22:26",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950",
+          "effect": "mixed"
+        },
+        {
+          "name": "Chevron",
+          "market": "US",
+          "code": "CVX",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "공급과잉 전망(하방)과 호르무즈 리스크(상방)가 맞서는 구간. 29일 OPEC+ 2027년 쿼터가 유가 방향의 1차 분기점.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "브렌트 89~96달러 예상 밴드",
+        "policy": "OPEC+ 2027 쿼터 결정 11/29"
+      }
+    },
+    {
+      "category": "oilgas",
+      "title": "우크라이나군, 1주일간 러시아 석유시설 8곳 타격",
+      "url": "https://www.ukrinform.net/rubric-ato/4187363-ukraines-defence-forces-strike-eight-russian-oil-infrastructure-facilities-in-one-week.html",
+      "summary": "우크라이나 측은 일스키 정유공장(연 약 660만톤) 2회, 살라바트 석유화학(약 1,000만톤), 우파 정유공장 등을 타격했다고 주장. 타타르스탄 송유 펌프장 저장탱크 3기도 공격. 일부 피해는 미확인.",
+      "source": "Ukrinform",
+      "time": "11/22 20:57",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "러시아 정제능력 차질은 경유 등 제품 크랙 강세 요인으로 정유 마진에 우호적일 수 있음(주장 단계, 확인 필요).",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "정제마진(디젤) 상방 요인"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "COP31, 기후 합의 없이 종료…유엔 사무총장 \"과학엔 모호함 없다\"",
+      "url": "https://news.un.org/en/story/2026/11/1168855",
+      "summary": "튀르키예 안탈리아 COP31이 이틀 연장 끝에 22일 포괄 합의문 없이 폐막. 화석연료 문구를 둘러싼 이견이 핵심 쟁점이었고 EU·파나마·마셜제도가 지지를 보류. 구테흐스 총장은 '매우 실망스럽다'고 언급. COP32는 아디스아바바 개최.",
+      "source": "UN News",
+      "time": "11/22 23:37",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "SK이노베이션",
+          "market": "KR",
+          "code": "096770",
+          "effect": "positive"
+        },
+        {
+          "name": "한화솔루션",
+          "market": "KR",
+          "code": "009830",
+          "effect": "negative"
+        },
+        {
+          "name": "First Solar",
+          "market": "US",
+          "code": "FSLR",
+          "effect": "negative"
+        }
+      ],
+      "insight": "화석연료 감축 신호가 약해져 정유·가스엔 단기 안도, 재생에너지엔 정책 모멘텀 약화 요인. 다만 각국 개별 정책이 실적에 더 직접적.",
+      "signals": {
+        "segment": "태양광/풍력",
+        "policy": "COP31 합의 무산(화석연료 문구 이견)"
+      }
+    },
+    {
+      "category": "grid",
+      "title": "'타이밍 미스매치': 데이터센터 전력 수요 연 19%↑, 전력망은 2%↑",
+      "url": "https://fortune.com/2026/11/22/ai-data-centers-power-grid-capacity/",
+      "summary": "2000년 이후 데이터센터 수요는 연 19%, 미국 전력망 용량은 연 2% 증가. BNEF는 데이터센터용 가스발전 181GW 발표를 추적(90% 이상 미국). Marsh는 프로젝트 50~60% 지연 예상, 11월 3일 지역 주민투표 41건 중 40건에서 데이터센터 개발이 부결.",
+      "source": "Fortune",
+      "time": "11/23 01:34",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "GE Vernova",
+          "market": "US",
+          "code": "GEV",
+          "effect": "positive"
+        },
+        {
+          "name": "Bloom Energy",
+          "market": "US",
+          "code": "BE",
+          "effect": "positive"
+        },
+        {
+          "name": "Constellation Energy",
+          "market": "US",
+          "code": "CEG",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "전력망 병목은 가스터빈·현장발전(자가발전) 수요를 키우는 반면, 지역 반대·지연은 AI 전력주 기대의 실행 리스크. 지난주 AI 전력주 매도와 맞물려 볼 지점.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "order": "데이터센터용 가스발전 181GW 발표(BNEF)"
+      }
+    },
+    {
+      "category": "grid",
+      "title": "데이터센터 붐에 위스콘신 전력계획 논쟁 재점화",
+      "url": "https://milwaukeenns.org/2026/11/22/wisconsin-data-center-boom-energy-future-debate-electricity-demand-ratepayers-buildout/",
+      "summary": "위스콘신 PSC 초안은 5년간 주 에너지 사용이 약 40% 늘 것으로 전망(대부분 데이터센터). We Energies 모회사는 5년간 약 475억달러 인프라 투자 계획, 인베너지 가스발전소 2기 인수가는 23억달러에서 약 28억달러로 증가했고 PSC 승인 대기. MS가 케노샤 발전소 전력 구독 예정.",
+      "source": "Milwaukee NNS",
+      "time": "11/23 03:00",
+      "region": "US",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "WEC Energy",
+          "market": "US",
+          "code": "WEC",
+          "effect": "positive"
+        },
+        {
+          "name": "Microsoft",
+          "market": "US",
+          "code": "MSFT",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "미 중서부 유틸리티의 데이터센터발 설비투자 확대 사례. 규제 승인과 요금 전가 논쟁이 유틸리티 주가의 변수.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "order": "5년 475억달러 인프라 투자 계획"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "한전 해킹… 주민번호·계좌·카드번호 등 152만명 정보 유출",
+      "url": "https://www.fnnews.com/news/202611221923247138",
+      "summary": "한전의 두 시스템이 해킹돼 1,520,248명의 개인정보가 유출. 한전ON 고객 650,487명은 주민번호·계좌·카드번호 등 12개 항목, SRM 구매시스템에선 869,761명 정보가 유출됐다. 20일 확인, 22일 공개했고 국정원 등이 조사 중이며 김동철 사장이 사과.",
+      "source": "파이낸셜뉴스",
+      "time": "11/22 19:23",
+      "region": "KR",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "negative"
+        }
+      ],
+      "insight": "공기업 대형 유출로 과징금·소송 및 거버넌스 리스크가 부각. 요금 인상 논의 국면에서 여론 부담도 커질 수 있어 단기 투자심리에 악재.",
+      "signals": {
+        "segment": "전력망/전력기기"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "연료비 급등에도 전기·가스료 동결, 최고가격제 8개월…현실화 요구 커져",
+      "url": "https://www.fnnews.com/news/202611220831082898",
+      "summary": "10월 브렌트 평균 124달러, JKM LNG는 2월 10.82달러에서 10월 28.59달러로 급등. 주택용 전기요금은 14분기, 산업용은 8분기 연속 동결. 한전 3분기 영업이익 1조6,441억원(70.9%↓), 가스공사 미수금 14조6,451억원. 정유업계는 유류 최고가격제로 9월까지 5~6조원 손실 추정.",
+      "source": "파이낸셜뉴스(뉴스1)",
+      "time": "11/22 08:30",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "mixed"
+        },
+        {
+          "name": "한국가스공사",
+          "market": "KR",
+          "code": "036460",
+          "effect": "mixed"
+        },
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950",
+          "effect": "negative"
+        },
+        {
+          "name": "SK이노베이션",
+          "market": "KR",
+          "code": "096770",
+          "effect": "negative"
+        }
+      ],
+      "insight": "연료비와 요금의 괴리가 커져 1분기 요금 결정이 한전·가스공사 실적의 핵심 변수. 정유사는 가격상한제 보상 규모가 손익 분기점.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "JKM 28.59달러/MMBtu(10월)",
+        "policy": "전기·가스요금 동결, 유류 최고가격제"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "확 바뀌는 전력시장…전국 단일가 풀고 발전사끼리 가격경쟁",
+      "url": "https://www.hankyung.com/article/2026112224871",
+      "summary": "2001년 이후 25년 만의 도매전력시장 대개편. 기후에너지환경부가 지역별 한계가격(LMP)과 가격입찰제(PBP) 설계 전담팀을 꾸렸다. 재생에너지 38GW(2030년 100GW 목표)로 계통 포화·출력제어가 늘어난 데 따른 것으로, 비수도권 산업용 전기 인하와 20년 장기 고정계약도 포함.",
+      "source": "한국경제",
+      "time": "11/22 17:54",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "지역별 가격제는 발전원·입지별 수익 구조를 바꾸는 구조적 변화. 한전의 전력구입비 구조와 재생·ESS 사업자 수익성에 장기 영향.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "policy": "LMP·가격입찰제 도입 설계 착수"
+      }
+    },
+    {
+      "category": "grid",
+      "title": "AI 전력망 호황에 대형 변압기 수출 31% 증가…소형은 39% 급감",
+      "url": "https://www.hankyung.com/article/2026112224611",
+      "summary": "1~10월 대형 변압기(1만kVA 초과) 수출은 13억5,800만달러로 30.8% 늘어 이미 2025년 연간(12억9,800만달러)을 넘었다. 미국향이 9억6,000만달러로 70.7%. 반면 소형(650kVA 이하)은 3억달러에서 1억8,400만달러로 38.7% 감소, 동남아 업체에 밀림.",
+      "source": "한국경제",
+      "time": "11/22 18:10",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "HD현대일렉트릭",
+          "market": "KR",
+          "code": "267260",
+          "effect": "positive"
+        },
+        {
+          "name": "효성중공업",
+          "market": "KR",
+          "code": "298040",
+          "effect": "positive"
+        },
+        {
+          "name": "LS ELECTRIC",
+          "market": "KR",
+          "code": "010120",
+          "effect": "positive"
+        },
+        {
+          "name": "제룡전기",
+          "market": "KR",
+          "code": "033100",
+          "effect": "negative"
+        }
+      ],
+      "insight": "지난주 전력기기주 급락에도 미국향 대형 변압기 수출은 견조. 대형 위주 업체와 소형·배전 위주 업체 간 실적 차별화가 이어질 수 있음.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "order": "1~10월 대형 변압기 수출 13.58억달러(+30.8%)"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "[단독] 효성重, AI 전력난 뚫을 '게임 체인저'⋯반도체 변압기 전담팀 띄웠다",
+      "url": "https://www.etoday.co.kr/news/view/2650523",
+      "summary": "효성중공업이 연구소 내 반도체 변압기(SST) 전담팀을 신설, AI 데이터센터를 겨냥. 2022년 22.9kV·1.05MVA급 SST를 개발했으며 더 높은 전압급 상용화를 추진. 16일 SK텔레콤과 345kV 변전소 핵심설비 공급 및 800V 직류배전·SST 공동실증 MOU를 맺었다.",
+      "source": "이투데이",
+      "time": "11/23 05:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "효성중공업",
+          "market": "KR",
+          "code": "298040",
+          "effect": "positive"
+        },
+        {
+          "name": "SK텔레콤",
+          "market": "KR",
+          "code": "017670",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "데이터센터 직류배전 전환에 대비한 차세대 제품 포석. 매출 기여는 아직 먼 단계로 장기 성장 옵션 성격.",
+      "signals": {
+        "segment": "전력망/전력기기"
+      }
+    },
+    {
+      "category": "nuclear",
+      "title": "차세대 원전 SMR 개발 빨라지나…사전검토제 본격 시행",
+      "url": "https://www.fnnews.com/news/202611220733349654",
+      "summary": "원자력안전법 시행령 개정으로 20일부터 SMR 등 신형 원자로 개발자가 건설허가 신청 전 규제 사전검토를 받을 수 있게 됐다. SK이노베이션(테라파워와 개발 중인 소듐냉각고속로) 등 3곳이 신청을 검토 중이고, 한전기술의 반디-60은 2028년 신청 예정.",
+      "source": "파이낸셜뉴스(연합뉴스)",
+      "time": "11/22 07:33",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "SK이노베이션",
+          "market": "KR",
+          "code": "096770",
+          "effect": "positive"
+        },
+        {
+          "name": "한전기술",
+          "market": "KR",
+          "code": "052690",
+          "effect": "positive"
+        }
+      ],
+      "insight": "인허가 기간 단축 기대로 국내 SMR 상용화 일정에 우호적. 실적 영향은 장기이며 단기 주가는 원전주 수급에 좌우.",
+      "signals": {
+        "segment": "원전/SMR",
+        "policy": "SMR 규제 사전검토제 시행(11/20)"
+      }
+    },
+    {
+      "category": "market",
+      "title": "두산에너빌리티 주가 새주 향방은…미국 원전주·나스닥 급락 '변수'되나?",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=629564",
+      "summary": "두산에너빌리티는 코스피가 5% 넘게 빠진 20일 4만원대 초반으로 하락. 같은 날 미국에선 오클로 4.75%, 뉴스케일 11.81%, 나노뉴클리어 8.72% 하락했고 나스닥은 5.28% 급락. 23일 국내 원전주가 미국 하락을 따를지가 관건.",
+      "source": "CBC뉴스",
+      "time": "11/23 00:10",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "두산에너빌리티",
+          "market": "KR",
+          "code": "034020",
+          "effect": "negative"
+        },
+        {
+          "name": "Oklo",
+          "market": "US",
+          "code": "OKLO",
+          "effect": "negative"
+        },
+        {
+          "name": "NuScale Power",
+          "market": "US",
+          "code": "SMR",
+          "effect": "negative"
+        }
+      ],
+      "insight": "AI 전력 테마 매도가 원전주로 번진 상황. 펀더멘털 뉴스보다 미국 성장주 수급이 단기 주가를 좌우할 가능성.",
+      "signals": {
+        "segment": "원전/SMR"
+      }
+    },
+    {
+      "category": "battery",
+      "title": "리튬 가격 약세 길어지나···배터리업계, 판가·재고 부담",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425219",
+      "summary": "수산화리튬은 18일 kg당 10.85달러로 연고점(5/12, 23.75달러) 대비 54.3% 하락. SQM은 4분기 판가 하락을 경고했고 S&P는 내년 리튬 공급 26.8% 증가를 전망. 엘앤에프는 3분기 재고평가손실 426억원으로 영업손실 265억원. 미래에셋증권은 ESS 계약은 시세 연동이 아니어서 마진 개선을 예상.",
+      "source": "시사저널e",
+      "time": "11/22 09:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "엘앤에프",
+          "market": "KR",
+          "code": "066970",
+          "effect": "negative"
+        },
+        {
+          "name": "LG화학",
+          "market": "KR",
+          "code": "051910",
+          "effect": "negative"
+        },
+        {
+          "name": "LG에너지솔루션",
+          "market": "KR",
+          "code": "373220",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "리튬 약세는 양극재 업체 판가·재고평가에 부담, 셀 업체는 ESS 비중이 클수록 방어적. 4분기 소재사 실적 눈높이 하향 가능성.",
+      "signals": {
+        "segment": "2차전지/ESS",
+        "commodity": "수산화리튬 10.85달러/kg, 연고점 대비 -54%"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "[초점] AI 데이터센터 '전력망 문턱' 낮춘다…비수도권 50MW 이하 계통평가 면제",
+      "url": "https://energydaily.co.kr/news/articleView.html?idxno=205329",
+      "summary": "AI 데이터센터 특별법 시행령안에 따르면 비수도권 계약전력 50MW 이하 데이터센터는 전력계통 영향평가를 면제받는다. 특화지구 내 데이터센터는 규모와 관계없이 기술검토만 받고, 대형 사업은 우선 처리 트랙을 적용. 시행일은 2027년 3월 10일.",
+      "source": "에너지데일리",
+      "time": "11/22 15:16",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "비수도권 데이터센터 입지를 유도해 지방 송배전·전력기기 수요를 늘릴 수 있는 제도 변화.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "policy": "AI 데이터센터 특별법 시행령안(2027.3.10 시행)"
+      }
+    }
+  ]
+}
