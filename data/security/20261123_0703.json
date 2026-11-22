@@ -3,7 +3,11 @@
   "industry": "security",
   "title": "보안 투자 브리핑",
   "emoji": "🛡️",
-  "sources": ["보안뉴스", "서울신문", "BleepingComputer"],
+  "sources": [
+    "보안뉴스",
+    "서울신문",
+    "BleepingComputer"
+  ],
   "briefing": [
     "한전 152만명 개인정보 유출 공식 확인(주민·카드번호 포함) → 한국전력 과징금·평판 악재",
     "한전 보안체계 전면 개편 예고 → 공공 비중 큰 국내 보안주 수요 기대(예산 미정)",
@@ -12,17 +16,69 @@
     "주말 CRWD-ZS 인수 협상 새 보도 없음 → 이번 주 실적 공백, 12/1 CRWD 실적이 다음 변수"
   ],
   "market_snapshot": [
-    {"label": "ZS 11/20 종가", "value": "$194.82 (-5.29%), 시간외 $226.65 (+16.34%)", "source": "StockAnalysis", "url": "https://stockanalysis.com/stocks/zs/"},
-    {"label": "PANW 11/20 종가", "value": "$343.32 (-5.09%), 시간외 $334.50 (-2.57%)", "source": "StockAnalysis", "url": "https://stockanalysis.com/stocks/panw/"}
+    {
+      "label": "ZS 11/20 종가",
+      "value": "$194.82 (-5.29%), 시간외 $226.65 (+16.34%)",
+      "source": "StockAnalysis",
+      "url": "https://stockanalysis.com/stocks/zs/"
+    },
+    {
+      "label": "PANW 11/20 종가",
+      "value": "$343.32 (-5.09%), 시간외 $334.50 (-2.57%)",
+      "source": "StockAnalysis",
+      "url": "https://stockanalysis.com/stocks/panw/"
+    }
   ],
   "watchlist_notes": [],
   "events": [
-    {"date": "2026-11-30", "event": "루브릭 FY27 3분기 실적 발표(미 장 마감 후)", "tickers": ["RBRK"], "source_url": "https://finviz.com/news/420947/rubrik-to-report-third-quarter-fiscal-2027-financial-results-on-november-30-2026"},
-    {"date": "2026-12-01", "event": "크라우드스트라이크 FY27 3분기 실적 발표(미 장 마감 후)", "tickers": ["CRWD"], "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-announces-date-fiscal-third-quarter-2027-financial"},
-    {"date": "2026-12-01", "event": "옥타 FY27 3분기 실적 발표(미 장 마감 후)", "tickers": ["OKTA"], "source_url": "https://finviz.com/news/413169/okta-to-announce-third-quarter-fiscal-year-2027-financial-results-on-december-1-2026"},
-    {"date": "2026-12-02", "event": "지스케일러 FY27 1분기 실적 발표(미 장 마감 후)", "tickers": ["ZS"], "source_url": "https://ir.zscaler.com/news-releases/news-release-details/zscaler-host-first-quarter-fiscal-year-2027-earnings-conference"},
-    {"date": "2026-12-02", "event": "넷스코프 FY27 3분기 실적 발표(미 장 마감 후)", "tickers": ["NTSK"], "source_url": "https://finviz.com/news/415452/netskope-to-report-fiscal-third-quarter-2027-financial-results-on-december-2-2026"},
-    {"date": "2026-12-03", "event": "센티넬원 FY27 3분기 실적 발표(미 장 마감 후)", "tickers": ["S"], "source_url": "https://finviz.com/news/422106/sentinelone-announces-date-of-fiscal-third-quarter-2027-financial-results-conference-call-and-participation-in-upcoming-investor-conference"}
+    {
+      "date": "2026-11-30",
+      "event": "루브릭 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "RBRK"
+      ],
+      "source_url": "https://finviz.com/news/420947/rubrik-to-report-third-quarter-fiscal-2027-financial-results-on-november-30-2026"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "크라우드스트라이크 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "CRWD"
+      ],
+      "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-announces-date-fiscal-third-quarter-2027-financial"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "옥타 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "OKTA"
+      ],
+      "source_url": "https://finviz.com/news/413169/okta-to-announce-third-quarter-fiscal-year-2027-financial-results-on-december-1-2026"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "지스케일러 FY27 1분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "ZS"
+      ],
+      "source_url": "https://ir.zscaler.com/news-releases/news-release-details/zscaler-host-first-quarter-fiscal-year-2027-earnings-conference"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "넷스코프 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "NTSK"
+      ],
+      "source_url": "https://finviz.com/news/415452/netskope-to-report-fiscal-third-quarter-2027-financial-results-on-december-2-2026"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "센티넬원 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "S"
+      ],
+      "source_url": "https://finviz.com/news/422106/sentinelone-announces-date-of-fiscal-third-quarter-2027-financial-results-conference-call-and-participation-in-upcoming-investor-conference"
+    }
   ],
   "requests": [],
   "filings": [],
@@ -39,10 +95,19 @@
       "impact": "mixed",
       "horizon": "mid",
       "tickers": [
-        {"name": "한국전력", "market": "KR", "code": "015760", "effect": "negative"}
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "negative"
+        }
       ],
       "insight": "주민·카드번호가 포함된 공공기관 연속 유출로 과징금·소송 부담이 생기는 한편, 보안체계 전면 개편은 공공 보안 수요 확대 신호. 다만 예산·업체는 미정.",
-      "signals": {"event_type": "침해사고", "affected": "피해: 한국전력 / 수혜 기대: 공공 보안 솔루션 기업", "demand_driver": "공공기관 보안체계 개편"}
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 한국전력 / 수혜 기대: 공공 보안 솔루션 기업",
+        "demand_driver": "공공기관 보안체계 개편"
+      }
     },
     {
       "category": "policy",
@@ -56,12 +121,30 @@
       "impact": "mixed",
       "horizon": "long",
       "tickers": [
-        {"name": "SK텔레콤", "market": "KR", "code": "017670", "effect": "negative"},
-        {"name": "KT", "market": "KR", "code": "030200", "effect": "negative"},
-        {"name": "쿠팡", "market": "US", "code": "CPNG", "effect": "negative"}
+        {
+          "name": "SK텔레콤",
+          "market": "KR",
+          "code": "017670",
+          "effect": "negative"
+        },
+        {
+          "name": "KT",
+          "market": "KR",
+          "code": "030200",
+          "effect": "negative"
+        },
+        {
+          "name": "쿠팡",
+          "market": "US",
+          "code": "CPNG",
+          "effect": "negative"
+        }
       ],
       "insight": "과징금 규모가 급증하며 유출이 대기업 실적 리스크로 굳어지는 흐름. 기업 보안 투자 확대 압력은 국내 보안업체 수요의 구조적 근거.",
-      "signals": {"event_type": "제도/예산", "demand_driver": "개인정보 징벌적 과징금"}
+      "signals": {
+        "event_type": "제도/예산",
+        "demand_driver": "개인정보 징벌적 과징금"
+      }
     },
     {
       "category": "market",
@@ -76,7 +159,10 @@
       "horizon": "long",
       "tickers": [],
       "insight": "글로벌과 반대로 국내 피해만 급증해 공급망·랜섬웨어 대응 수요가 늘어날 여지. 개별 기업명은 미공개라 종목 영향은 제한적.",
-      "signals": {"event_type": "침해사고", "demand_driver": "랜섬웨어·공급망 보안"}
+      "signals": {
+        "event_type": "침해사고",
+        "demand_driver": "랜섬웨어·공급망 보안"
+      }
     },
     {
       "category": "tech",
@@ -90,11 +176,78 @@
       "impact": "neutral",
       "horizon": "long",
       "tickers": [
-        {"name": "Apple", "market": "US", "code": "AAPL", "effect": "neutral"},
-        {"name": "Alphabet", "market": "US", "code": "GOOGL", "effect": "neutral"}
+        {
+          "name": "Apple",
+          "market": "US",
+          "code": "AAPL",
+          "effect": "neutral"
+        },
+        {
+          "name": "Alphabet",
+          "market": "US",
+          "code": "GOOGL",
+          "effect": "neutral"
+        }
       ],
       "insight": "OS 내장 AI 에이전트의 앱 데이터 접근이 프라이버시 쟁점으로 부상. AI·에이전트 보안 규제 논의의 초기 신호로 참고.",
-      "signals": {"event_type": "신제품", "demand_driver": "AI 에이전트 보안"}
+      "signals": {
+        "event_type": "신제품",
+        "demand_driver": "AI 에이전트 보안"
+      }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-23T07:04+09:00",
+    "filings": [],
+    "quotes": {
+      "KR:015760": {
+        "symbol": "015760.KS",
+        "close": 25550.0,
+        "change_pct": 1.19,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:017670": {
+        "symbol": "017670.KS",
+        "close": 69700.0,
+        "change_pct": -13.09,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:030200": {
+        "symbol": "030200.KS",
+        "close": 45500.0,
+        "change_pct": -3.81,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:CPNG": {
+        "symbol": "CPNG",
+        "close": 14.27,
+        "change_pct": 1.49,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:AAPL": {
+        "symbol": "AAPL",
+        "close": 342.56,
+        "change_pct": -1.9,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:GOOGL": {
+        "symbol": "GOOGL",
+        "close": 265.29,
+        "change_pct": -2.7,
+        "currency": "USD",
+        "date": "11/20"
+      }
+    },
+    "quotes_as_of": "11/20",
+    "notes": [
+      "DART 조회 실패 한국전력: <urlopen error timed out>",
+      "DART 조회 실패 SK텔레콤: <urlopen error timed out>",
+      "DART 조회 실패 KT: <urlopen error timed out>"
+    ]
+  }
 }
