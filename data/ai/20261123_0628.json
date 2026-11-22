@@ -1,0 +1,725 @@
+{
+  "published_at": "2026-11-23T06:28",
+  "industry": "ai",
+  "title": "AI 투자 브리핑",
+  "emoji": "🤖",
+  "sources": [
+    "Business Insider(AOL)",
+    "FXEmpire",
+    "Fortune",
+    "Fox News",
+    "GlobeNewswire",
+    "Israel Hayom(WSJ 인용)",
+    "The Manila Times(AFP)",
+    "The Storm Media",
+    "Yahoo Finance",
+    "국민일보",
+    "디지털타임스",
+    "세계일보",
+    "아시아투데이",
+    "이데일리",
+    "이투데이",
+    "지디넷코리아",
+    "파이낸셜뉴스"
+  ],
+  "briefing": [
+    "F4 증안펀드 즉시 가동 준비·자사주 한도 완화 → 삼성전자·SK하이닉스 수급 방어(+)",
+    "SK하이닉스 ADR -13%, 코스피200 야간선물 -7% → 월요일 국내 AI·메모리주 갭하락 우려(-)",
+    "엔비디아 조사, SEC→캘리포니아 AG·하원으로 확대 → NVDA·네오클라우드 디스카운트 지속(-)",
+    "텍사스·조지아 주지사 당선인 데이터센터 건설 중단 공약 → DC·전력 밸류체인 장기 리스크(-)",
+    "이번 주 HPE(23일)·델(24일) 실적, PCE(25일), 금통위(26일) → AI 서버 수요 확인 이벤트"
+  ],
+  "market_snapshot": [
+    {
+      "label": "엔비디아 (11/20)",
+      "value": "$125.53 (-14.01%, 주간 약 -23%)",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/22/is-nvidia-a-buy-at-usd125-here-s-my-honest-take/"
+    },
+    {
+      "label": "나스닥 주간 (11/16~20)",
+      "value": "-10.02% (22,617.73)",
+      "source": "FXEmpire",
+      "url": "https://fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337"
+    },
+    {
+      "label": "필라델피아 반도체지수",
+      "value": "6월 고점 대비 -43%",
+      "source": "이투데이",
+      "url": "https://www.etoday.co.kr/news/view/2651348"
+    },
+    {
+      "label": "SK하이닉스 ADR",
+      "value": "$103.57 (-13.11%)",
+      "source": "국민일보",
+      "url": "https://www.kmib.co.kr/article/20261122500763"
+    },
+    {
+      "label": "코스피200 야간선물",
+      "value": "700.00 (-7.01%)",
+      "source": "세계일보",
+      "url": "https://www.segye.com/newsView/20261123500706"
+    },
+    {
+      "label": "코스피 (11/20)",
+      "value": "4,869.96 (-5.21%, 주간 -7.95%)",
+      "source": "이데일리",
+      "url": "https://edaily.co.kr/news/read?mediaCodeNo=257&newsid=01971286645648344"
+    }
+  ],
+  "watchlist_notes": [
+    {
+      "name": "NVIDIA",
+      "note": "SEC 회계 조사에 이어 캘리포니아 AG 소환장, 하원 청문 출석 합의. 메가스피드 후속 밀수망 보도. 주간 -23%, 선행 PER 약 8배.",
+      "article_urls": [
+        "https://fortune.com/2026/11/22/nvidia-next-ceo-international-business-reorganization-ai-equilibrium/",
+        "https://www.etoday.co.kr/news/view/2651350",
+        "https://www.israelhayom.com/2026/11/22/nvidia-chip-smuggling-megaspeed-li-ming-novagate/"
+      ]
+    },
+    {
+      "name": "SK하이닉스",
+      "note": "ADR -13.11%. 키옥시아 CB 전환으로 지분 14.1% 최대주주(이르면 12/4). 지난주 외국인 9,401억원 순매도.",
+      "article_urls": [
+        "https://www.kmib.co.kr/article/20261122500763",
+        "https://www.asiatoday.co.kr/kn/view.php?key=20261122010008230",
+        "https://www.segye.com/newsView/20261123500706"
+      ]
+    },
+    {
+      "name": "삼성전자",
+      "note": "11/20 183,100원(-7.01%), 지난주 외국인 1조7,905억원 순매도. 정부 자사주 한도 완화·증안펀드 준비.",
+      "article_urls": [
+        "https://edaily.co.kr/news/read?mediaCodeNo=257&newsid=01971286645648344",
+        "https://www.fnnews.com/news/202611221848401650"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-23",
+      "event": "앤트로픽 2배 레버리지·인버스 ETF(ANTC·ANTQ) 나스닥 상장",
+      "tickers": [],
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/22/3407972/0/en/defiance-2x-long-and-2x-short-daily-anthropic-etfs-antc-and-antq-begin-trading-monday-nov-23.html"
+    },
+    {
+      "date": "2026-11-23",
+      "event": "HPE 회계 4분기 실적 발표(미국 기준)",
+      "tickers": [
+        "HPE"
+      ],
+      "source_url": "https://www.hkmoneyclub.com/en/2026/11/22/hpe-opens-thanksgiving-weeks-ai-earnings-on-monday-with-43-26-the-floor-to-hold/"
+    },
+    {
+      "date": "2026-11-23",
+      "event": "대만 공매도 증거금률 130→150% 상향 시행",
+      "tickers": [
+        "2330.TW"
+      ],
+      "source_url": "https://world.storm.mg/articles/1183977"
+    },
+    {
+      "date": "2026-11-23",
+      "event": "한국 11월 1~20일 수출 발표",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.segye.com/newsView/20261123500706"
+    },
+    {
+      "date": "2026-11-24",
+      "event": "국내 자사주 매수 주문 한도 완화 시행(3개월)",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "source_url": "https://www.fnnews.com/news/202611221848401650"
+    },
+    {
+      "date": "2026-11-24",
+      "event": "델 테크놀로지스 실적 발표(미국 장 마감 후)",
+      "tickers": [
+        "DELL"
+      ],
+      "source_url": "https://fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337"
+    },
+    {
+      "date": "2026-11-25",
+      "event": "미국 10월 PCE·3분기 GDP 잠정치 발표",
+      "tickers": [],
+      "source_url": "https://fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337"
+    },
+    {
+      "date": "2026-11-26",
+      "event": "한국은행 금통위 기준금리 결정(3.25% 인상 예상) / 미국 추수감사절 휴장",
+      "tickers": [],
+      "source_url": "https://www.fnnews.com/news/202611221812425148"
+    },
+    {
+      "date": "2026-12-04",
+      "event": "SK하이닉스 키옥시아 CB 전환 완료(이르면)",
+      "tickers": [
+        "000660"
+      ],
+      "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261122010008230"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "policy",
+      "title": "한국 F4 \"시장 상황 따라 증안펀드 바로 가동 준비 착수\"",
+      "url": "https://www.fnnews.com/news/202611221848401650",
+      "summary": "이형일 부총리 주재 긴급 거시경제·금융현안 회의(F4)에서 증시안정펀드 즉시 가동 준비(규모·시점 미정), 11/24부터 3개월간 자사주 매수 주문 일일 한도 완화, 3개월간 불법 공매도 특별 감시, 자본시장 개혁 TF 출범 방침을 밝힘. 참석자들은 AI 장기 성장 기대는 유효하다고 언급.",
+      "source": "파이낸셜뉴스",
+      "time": "11/22 18:54",
+      "region": "KR",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        }
+      ],
+      "insight": "외국인 매도로 코스피가 5,000선을 내준 상황에서 정부 수급 대책이 나옴. 증안펀드 규모·집행 시점이 월요일 이후 반등 강도의 변수.",
+      "signals": {
+        "competition": "시총 상위 반도체·AI 대형주 수급 방어 효과 기대"
+      }
+    },
+    {
+      "category": "market",
+      "title": "'코스피 또 떨어지나요'…'블랙먼데이' 공포, 잠 못 드는 개미들",
+      "url": "https://www.kmib.co.kr/article/20261122500763",
+      "summary": "SK하이닉스 ADR이 13.11% 급락한 103.57달러, MSCI 한국 ETF -8.42%, 코스피200 야간선물 -6.99%. 코스피 종가는 1월 20일 이후 최저로 고점 대비 47% 하락, 코스피200 종목의 81%가 고점 대비 40% 이상 하락. BNK투자증권은 4,500~4,700에서 악재 상당 부분 반영으로 봄.",
+      "source": "국민일보",
+      "time": "11/22 15:31",
+      "region": "KR",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        }
+      ],
+      "insight": "미국 AI 투매가 주말 ADR·야간선물에 반영돼 월요일 국내 반도체·AI 대형주 갭하락 가능성이 큼.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "competition": "메모리 대형주에 외국인 매도 집중"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "엔비디아 차기 CEO는 '감독받는 해외 사업'을 이끌어야…\"AI 균형의 완전한 재편\"",
+      "url": "https://fortune.com/2026/11/22/nvidia-next-ceo-international-business-reorganization-ai-equilibrium/",
+      "summary": "캘리포니아 법무장관이 엔비디아에 소환장을 발부했고, 젠슨 황과 팀 테터 법률고문은 하원 3개 위원회 출석에 동의. 하원 외교위는 상무부가 2025년 12월~2026년 5월 21건 허가로 중국 기업에 첨단 칩 879,868개 출하를 승인했다고 공개. 미국은 해외 데이터센터를 통한 원격 접근 허점도 막는 중.",
+      "source": "Fortune",
+      "time": "11/22 21:30",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "CoreWeave",
+          "market": "US",
+          "code": "CRWV",
+          "effect": "negative"
+        },
+        {
+          "name": "Nebius",
+          "market": "US",
+          "code": "NBIS",
+          "effect": "negative"
+        }
+      ],
+      "insight": "조사 범위가 SEC 회계에서 주 법무장관·의회·수출통제로 확대. 중국향 매출과 해외 클라우드 우회 수요가 줄어들 위험.",
+      "signals": {
+        "value_chain": "GPU/가속기",
+        "competition": "중국·원격접속 수요 축소 시 엔비디아·네오클라우드 피해"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "SEC 조사에 18년 만의 최악 한 주까지…엔비디아 불확실성 확대 [AI 패닉 휩싸인 시장]",
+      "url": "https://www.etoday.co.kr/news/view/2651350",
+      "summary": "엔비디아는 지난주 약 23% 하락해 2008년 이후 최악의 한 주를 보냈고 시총 약 1조달러가 증발. 금요일 종가 125.53달러(-14.01%), 선행 PER 약 8배. 로이터에 따르면 SEC 집행국이 회계를 들여다보고 있으며 싱가포르 매출 별도 공시 중단 등이 쟁점으로 거론되고 조사는 수개월 이상 걸릴 수 있음.",
+      "source": "이투데이",
+      "time": "11/22 16:47",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        }
+      ],
+      "insight": "밸류에이션은 선행 PER 8배까지 내려왔지만 조사 결론 전까지 디스카운트가 이어질 수 있음. HBM 공급사 투자심리에도 부담.",
+      "signals": {
+        "value_chain": "GPU/가속기"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "AFP \"엔비디아, 미 회계 조사 직면…혼란 심화\"",
+      "url": "https://www.manilatimes.net/2026/11/22/world/americas-emea/nvidia-faces-us-accounting-probe-amid-deepening-turmoil-media/2475581",
+      "summary": "NYT를 인용해 SEC의 엔비디아 회계 조사는 초기 단계이며, 본사 소재국 기준 매출 공시 변경(싱가포르 제외) 건인지 메가스피드 사건 관련인지 불분명하다고 보도. 주가는 금요일 14%, 주간 20% 넘게 하락. 트럼프는 황에게 '두 번째 기회'를 원했지만 하비 존스 의장은 복귀를 배제.",
+      "source": "The Manila Times(AFP)",
+      "time": "11/22 09:45",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "CEO 공백과 회계 조사가 겹친 지배구조 리스크. 조사 쟁점이 확정되기 전까지 뉴스 흐름에 따라 변동성 확대 예상.",
+      "signals": {
+        "value_chain": "GPU/가속기"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "메가스피드 사건의 숨은 손…엔비디아 칩 밀수망 여전히 가동",
+      "url": "https://www.israelhayom.com/2026/11/22/nvidia-chip-smuggling-megaspeed-li-ming-novagate/",
+      "summary": "WSJ 탐사보도 요약. 중국인 사업가 리밍이 메가스피드 네트워크를 운영했다는 의혹이며, 후속 법인 노바게이트 클라우드가 2026년 1~5월 말레이시아에서 엔비디아 칩 탑재 하드웨어 최소 3억달러어치를 받은 것으로 알려짐. 엔비디아는 2025년 6월 메가스피드를 판매금지 목록에 올렸음.",
+      "source": "Israel Hayom(WSJ 인용)",
+      "time": "11/22 22:15",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "Alibaba",
+          "market": "US",
+          "code": "BABA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "동남아 경유 우회 수출이 계속 드러나면 말레이시아·싱가포르향 출하에 대한 추가 규제 가능성이 커짐.",
+      "signals": {
+        "value_chain": "GPU/가속기"
+      }
+    },
+    {
+      "category": "market",
+      "title": "AI 투자 회의론에 기술주 급락…월가 '반등 동력 어디에'",
+      "url": "https://www.etoday.co.kr/news/view/2651348",
+      "summary": "나스닥100은 주간 10.4% 하락하며 고점 대비 20% 넘게 빠져 약세장에 진입. 필라델피아 반도체지수는 6월 고점 대비 43% 하락, 미 10년물 금리 4.94%. 골드만삭스 패닉지수 10점 만점에 9, CNN 공포탐욕지수 10. AMD는 중국 기업 거래 의혹으로 13% 넘게 하락.",
+      "source": "이투데이",
+      "time": "11/22 16:44",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "AMD",
+          "market": "US",
+          "code": "AMD",
+          "effect": "negative"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "공포지표가 극단에 있어 단기 반등 여지는 있지만, 고금리와 AI 투자 회의론이 겹쳐 반등 재료 확인이 필요한 국면.",
+      "signals": {
+        "value_chain": "GPU/가속기",
+        "competition": "AMD도 중국 거래 의혹으로 동반 하락"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "기술주 매도세가 엔비디아·앤트로픽·나스닥 강타 (라이브)",
+      "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26",
+      "summary": "다우·S&P500 조정 국면 진입, VIX는 2025년 4월 이후 최고 종가. 텍사스·조지아 차기 민주당 주지사 당선인들이 신규 데이터센터 건설 중단을 공약. 앤트로픽은 22개 주관사 일부에 핵심 딜팀이 6개월간 오픈AI·커서·딥시크·허깅페이스 업무를 맡지 않도록 요구했고, 주관사 수수료는 5억달러 이상.",
+      "source": "Fox News",
+      "time": "11/22 21:10",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "데이터센터 핵심 입지인 텍사스·조지아에서 건설 중단 공약이 나와 장기 전력·DC 투자 계획에 정치 리스크가 추가됨.",
+      "signals": {
+        "value_chain": "데이터센터/전력",
+        "capex": "TX·GA 신규 DC 건설 중단 공약"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "역대 최대 IPO가 '고점' 신호였나…월가·실리콘밸리, 앤스로픽 상장에 온도차 뚜렷",
+      "url": "https://www.etoday.co.kr/news/view/2651349",
+      "summary": "앤트로픽은 공모가 83달러로 상장해 첫날(11/19) 장중 115.50달러(시총 약 2조달러)까지 올랐으나 이튿날 8.5% 하락하며 공모가 부근으로 밀림. 상장과 함께 사모 배정 등으로 1,200억달러 이상을 조달했고 직원 250억달러 이상 조기 매도가 허용됨. 일부 전략가는 시장 고점 신호로 해석.",
+      "source": "이투데이",
+      "time": "11/22 16:45",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "공모가(83달러) 방어 여부가 AI 모델 기업 밸류에이션의 기준점. 이탈 시 데이터브릭스 등 후속 AI IPO·투자 유치에 부담.",
+      "signals": {
+        "value_chain": "모델",
+        "competition": "오픈AI 등 비상장 모델사 밸류에이션 기준점"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "디파이언스 앤트로픽 2배 레버리지·인버스 ETF(ANTC·ANTQ) 23일 상장",
+      "url": "https://www.globenewswire.com/news-release/2026/11/22/3407972/0/en/defiance-2x-long-and-2x-short-daily-anthropic-etfs-antc-and-antq-begin-trading-monday-nov-23.html",
+      "summary": "디파이언스는 앤트로픽(ANT) 일간 2배 롱 ETF(ANTC)와 2배 숏 ETF(ANTQ)를 11월 23일 나스닥에 상장한다고 발표. 총보수 0.71%. 보도자료는 ANT가 11/18 83달러에 공모가를 정하고 11/19 거래를 시작해 약 935억달러를 조달했다고 밝힘.",
+      "source": "GlobeNewswire",
+      "time": "11/23 05:23",
+      "region": "US",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "레버리지·인버스 상품이 한꺼번에 상장돼 앤트로픽 주가의 일중 변동성이 커질 수 있음.",
+      "signals": {
+        "value_chain": "모델"
+      }
+    },
+    {
+      "category": "market",
+      "title": "앤트로픽부터 엔비디아까지, 월가의 기묘하고 거친 한 주",
+      "url": "https://finance.yahoo.com/markets/article/from-anthropic-to-nvidia-wall-street-just-had-a-bizarre-wild-week-110000443.html",
+      "summary": "ANT는 공모가 83달러 대비 111.50달러에 시작했지만 금요일 88달러로 마감. 기사는 IPO가 1.2조달러 밸류에 810억달러를 조달해 스페이스X(750억달러)를 넘는 역대 최대라고 전함. 엔비디아 크레스 임시 CEO는 전사 회의에서 직원 임금 인상과 추가 주식 지급을 약속했으나 질문은 직접 받지 않음.",
+      "source": "Yahoo Finance",
+      "time": "11/22 20:00",
+      "region": "US",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "엔비디아가 인재 이탈 방지에 나선 것은 주가 급락이 내부 보상 구조에도 부담이 되고 있다는 신호.",
+      "signals": {
+        "value_chain": "GPU/가속기"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "SK하이닉스, 日 키옥시아 최대주주 된다…지분 14.1% 간접 확보",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261122010008230",
+      "summary": "SK하이닉스가 키옥시아 전환사채 1,290억엔(약 1조950억원)을 주식으로 전환해 간접 지분 약 14.1%로 최대주주가 됨. 전환은 이르면 12/4 완료 예정이며, 회사는 경영 참여 확대 계획은 없다고 밝힘. 손정의 회장의 SK하이닉스 1조달러 인수 검토(현재 중단) 보도도 함께 다룸.",
+      "source": "아시아투데이",
+      "time": "11/22 07:41",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        },
+        {
+          "name": "키옥시아",
+          "market": "GLOBAL",
+          "code": "285A.T",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "AI 서버용 eSSD 수요를 겨냥한 낸드 협력 지분이 확대됨. 다만 경영 참여 계획이 없어 단기 실적 영향은 제한적.",
+      "signals": {
+        "value_chain": "HBM/메모리"
+      }
+    },
+    {
+      "category": "infra",
+      "title": "[안광섭 AI 진테제] AI칩을 사는 곳이 바뀌었다",
+      "url": "https://zdnet.co.kr/view/?no=20261122175852",
+      "summary": "외부 칼럼. GPU를 빌려 사서 임대하는 네오클라우드가 압박을 받으며 엔비디아의 네오클라우드 약정은 360억→320억달러로 줄었고, 코어위브 부채는 약 500억달러. 제인스트리트·아폴로·블랙스톤 등 금융사가 새 컴퓨팅 구매자로 부상. NHN은 11/19 11.10% 하락. 국내 AI 데이터센터 사업자는 고객 계약으로 평가받을 것이라는 주장.",
+      "source": "지디넷코리아",
+      "time": "11/22 17:58",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "CoreWeave",
+          "market": "US",
+          "code": "CRWV",
+          "effect": "negative"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "mixed"
+        },
+        {
+          "name": "NHN",
+          "market": "KR",
+          "code": "181710",
+          "effect": "negative"
+        }
+      ],
+      "insight": "GPU 수요의 주체가 부채 의존 네오클라우드에서 금융사로 바뀌는 중. 국내 GPU 클라우드주는 확정 고객 계약 여부가 차별화 요인.",
+      "signals": {
+        "value_chain": "클라우드",
+        "competition": "네오클라우드 약세, 금융권 컴퓨팅 수요 부상"
+      }
+    },
+    {
+      "category": "market",
+      "title": "3주간 세 번의 타격: 엔비디아와 미국 유권자가 대만 증시를 가라앉힌 방식",
+      "url": "https://world.storm.mg/articles/1183977",
+      "summary": "대만 가권지수는 11/20 36,033.29(-6.23%)로 주간 약 17.5% 하락, 대만 VIX는 52.13까지 상승. TSMC ADR은 11/20 약 9.5% 하락. 대만 금융감독위원회는 공매도 증거금률을 130%에서 150%로 올렸고 11/23부터 시행.",
+      "source": "The Storm Media",
+      "time": "11/23 06:00",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "TSMC",
+          "market": "GLOBAL",
+          "code": "2330.TW",
+          "effect": "negative"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "대만이 공매도 규제로 방어에 나섰지만 TSMC ADR 급락이 월요일 현지 주가에 반영될 가능성이 큼.",
+      "signals": {
+        "value_chain": "GPU/가속기",
+        "competition": "AI 파운드리 대표주 동반 조정"
+      }
+    },
+    {
+      "category": "market",
+      "title": "'월요일 내 계좌 괜찮을까'…美 반도체 쇼크, 삼전·닉스 여파는",
+      "url": "https://edaily.co.kr/news/read?mediaCodeNo=257&newsid=01971286645648344",
+      "summary": "11/20 종가 삼성전자 183,100원(-7.01%), SK하이닉스 1,113,000원(-5.92%), 코스피 4,869.96(-5.21%). 코스피는 주간 7.95% 하락, 외국인 4조5,583억원 순매도. 마이크론(-13.89%)이 국내 메모리주의 핵심 참고 지표로 지목됨. 하나증권은 12개월 선행 PBR 0.94배 적용 시 약 4,300을 하단 시나리오로 제시.",
+      "source": "이데일리",
+      "time": "11/22 21:07",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "insight": "증권사가 제시하는 코스피 하단은 4,300~4,700. 마이크론 급락이 국내 메모리주 추가 조정의 근거로 거론됨.",
+      "signals": {
+        "value_chain": "HBM/메모리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "수출 1조달러인데 코스피 8% 급락…美 하이닉스 13% 폭락, 월요일 개장은? [숫자 뒤의 진실]",
+      "url": "https://www.segye.com/newsView/20261123500706",
+      "summary": "올해 누적 수출이 11/19 1조달러를 넘었고, 11월 1~10일 반도체 수출은 166억3,200만달러로 전년 대비 331.2% 증가. 지난주 외국인은 삼성전자 1조7,905억원, SK하이닉스 9,401억원을 순매도. 코스피200 야간선물은 700.00(-7.01%)으로 마감.",
+      "source": "세계일보",
+      "time": "11/23 05:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "반도체 수출 지표는 강하지만 주가는 AI 투자 회의론을 따라 움직이는 중. 오늘 발표되는 11월 1~20일 수출이 실적 측면 확인 재료.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "monetization": "11월 1~10일 반도체 수출 +331.2%"
+      }
+    },
+    {
+      "category": "market",
+      "title": "엔진 꺼지는 AI 랠리…엄습하는 '4000피 공포'",
+      "url": "https://www.dt.co.kr/article/12096543",
+      "summary": "삼성전자·SK하이닉스가 코스피 시총의 49%를 차지하며, 올해 시총 고점 대비 감소분의 68%가 두 종목에서 나옴. 유진투자증권은 코스피 바닥을 4,500~4,600으로 제시. 신용융자 잔고는 668억7,000만원 늘어난 108조8,990억원.",
+      "source": "디지털타임스",
+      "time": "11/22 16:35",
+      "region": "KR",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "insight": "지수가 두 메모리 종목에 쏠려 있고 신용잔고가 여전히 많아, 추가 하락 시 반대매매 물량이 나올 위험.",
+      "signals": {
+        "value_chain": "HBM/메모리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "AI 매도세에 투자자 긴장…전문가 5인이 말하는 '저가 매수냐, 관망이냐'",
+      "url": "https://www.aol.com/articles/ai-sell-off-investors-edge-110101000.html",
+      "summary": "댄 나일스는 엔비디아와 선행 이익 3~4배 수준인 삼성전자·SK하이닉스를 보유 중이라며 1997~98년형 장세를 경고. 웰스파고 투자연구소·다이너스티는 매수 기회로 봄. 패스스톤은 기술주가 팬데믹 이전 이후 처음으로 S&P500보다 낮은 선행 배수에 거래된다고 지적. 네이션와이드는 감정적 매도가 단기적으로 저가 매수를 압도할 수 있다고 경고.",
+      "source": "Business Insider(AOL)",
+      "time": "11/22 20:01",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "mixed"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "밸류에이션 매력에 대해서는 의견이 모이지만, 바닥 시점은 지켜보자는 의견이 많음.",
+      "signals": {
+        "value_chain": "GPU/가속기"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "이번 주 전망: AI 매도세 이후 휴장 단축 주간, PCE에 주목",
+      "url": "https://fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337",
+      "summary": "지난주 나스닥 -10.02%(22,617.73), S&P500 -8.61%(6,910.39), 다우 -8.02%(48,147.33). 지지선은 나스닥 22,407, S&P500 6,682. 델은 화요일 장 마감 후 실적 발표(EPS 예상 6.59달러, 매출 492억달러), 수요일 근원 PCE(전월비 0.3% 예상)와 3분기 GDP(3.5% 예상) 발표.",
+      "source": "FXEmpire",
+      "time": "11/22 23:35",
+      "region": "US",
+      "importance": 2,
+      "impact": "neutral",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Dell Technologies",
+          "market": "US",
+          "code": "DELL",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "이번 주 AI 서버 수요는 델(화)·HPE(월) 실적으로 확인됨. 서버 수주잔고가 AI 투자 회의론을 반박할 수 있을지가 관건.",
+      "signals": {
+        "value_chain": "서버/네트워크",
+        "monetization": "델 매출 컨센서스 492억달러"
+      }
+    }
+  ]
+}
