@@ -163,5 +163,34 @@
         "customer": "미래엔(중기부 AX 스프린트)"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-23T07:14+09:00",
+    "filings": [],
+    "quotes": {
+      "GLOBAL:1157.HK": {
+        "symbol": "1157.HK",
+        "close": 5.05,
+        "change_pct": -2.13,
+        "currency": "HKD",
+        "date": "11/20"
+      },
+      "US:TSLA": {
+        "symbol": "TSLA",
+        "close": 345.82,
+        "change_pct": -7.64,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 125.53,
+        "change_pct": -14.01,
+        "currency": "USD",
+        "date": "11/20"
+      }
+    },
+    "quotes_as_of": "11/20",
+    "notes": []
+  }
 }
