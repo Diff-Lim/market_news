@@ -614,5 +614,288 @@
         "policy": "AI 데이터센터 특별법 시행령안(2027.3.10 시행)"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-23T06:56+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "009830",
+        "name": "한화솔루션",
+        "date": "2026-11-20",
+        "title": "풍문또는보도에대한해명(미확정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800618",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "015760",
+        "name": "한국전력공사",
+        "date": "2026-11-20",
+        "title": "주주총회소집공고",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000205",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "015760",
+        "name": "한국전력공사",
+        "date": "2026-11-20",
+        "title": "주주총회소집결의",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800298",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "036460",
+        "name": "한국가스공사",
+        "date": "2026-11-20",
+        "title": "[첨부정정]주요사항보고서(자기주식처분결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000404",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "298040",
+        "name": "효성중공업",
+        "date": "2026-11-20",
+        "title": "유형자산취득결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800844",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "034020",
+        "name": "두산에너빌리티",
+        "date": "2026-11-20",
+        "title": "주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000468",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "066970",
+        "name": "엘앤에프",
+        "date": "2026-11-20",
+        "title": "주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000238",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "051910",
+        "name": "LG화학",
+        "date": "2026-11-20",
+        "title": "동일인등출자계열회사와의상품ㆍ용역거래",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000409",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "051910",
+        "name": "LG화학",
+        "date": "2026-11-20",
+        "title": "특수관계인으로부터부동산임차",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000402",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "051910",
+        "name": "LG화학",
+        "date": "2026-11-20",
+        "title": "기업가치제고계획(자율공시)              (2026년 이행현황)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120800332",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "WEC",
+        "name": "WEC Energy",
+        "date": "2026-11-20",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/783325/000078332526000112/wec-20261119.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:010950": {
+        "symbol": "010950.KS",
+        "close": 97300.0,
+        "change_pct": -3.66,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:096770": {
+        "symbol": "096770.KS",
+        "close": 94400.0,
+        "change_pct": -3.97,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:XOM": {
+        "symbol": "XOM",
+        "close": 159.99,
+        "change_pct": 0.67,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:CVX": {
+        "symbol": "CVX",
+        "close": 208.37,
+        "change_pct": 0.91,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "KR:009830": {
+        "symbol": "009830.KS",
+        "close": 19410.0,
+        "change_pct": -6.68,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:FSLR": {
+        "symbol": "FSLR",
+        "close": 137.59,
+        "change_pct": -9.45,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:GEV": {
+        "symbol": "GEV",
+        "close": 699.33,
+        "change_pct": -7.53,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:BE": {
+        "symbol": "BE",
+        "close": 142.39,
+        "change_pct": -15.3,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:CEG": {
+        "symbol": "CEG",
+        "close": 237.41,
+        "change_pct": -5.8,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:WEC": {
+        "symbol": "WEC",
+        "close": 117.07,
+        "change_pct": 0.83,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:MSFT": {
+        "symbol": "MSFT",
+        "close": 484.52,
+        "change_pct": -2.77,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "KR:015760": {
+        "symbol": "015760.KS",
+        "close": 25550.0,
+        "change_pct": 1.19,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:036460": {
+        "symbol": "036460.KS",
+        "close": 37500.0,
+        "change_pct": -1.7,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:267260": {
+        "symbol": "267260.KS",
+        "close": 386500.0,
+        "change_pct": -6.98,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:298040": {
+        "symbol": "298040.KS",
+        "close": 1679000.0,
+        "change_pct": -6.51,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:010120": {
+        "symbol": "010120.KS",
+        "close": 109700.0,
+        "change_pct": -9.19,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:033100": {
+        "symbol": "033100.KQ",
+        "close": 36150.0,
+        "change_pct": -6.1,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:017670": {
+        "symbol": "017670.KS",
+        "close": 69700.0,
+        "change_pct": -13.09,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:052690": {
+        "symbol": "052690.KS",
+        "close": 63000.0,
+        "change_pct": -6.11,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:034020": {
+        "symbol": "034020.KS",
+        "close": 40750.0,
+        "change_pct": -6.96,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "US:OKLO": {
+        "symbol": "OKLO",
+        "close": 19.85,
+        "change_pct": -4.75,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "US:SMR": {
+        "symbol": "SMR",
+        "close": 3.36,
+        "change_pct": -11.81,
+        "currency": "USD",
+        "date": "11/20"
+      },
+      "KR:066970": {
+        "symbol": "066970.KS",
+        "close": 68700.0,
+        "change_pct": -5.63,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:051910": {
+        "symbol": "051910.KS",
+        "close": 203000.0,
+        "change_pct": -3.1,
+        "currency": "KRW",
+        "date": "11/20"
+      },
+      "KR:373220": {
+        "symbol": "373220.KS",
+        "close": 299500.0,
+        "change_pct": -0.83,
+        "currency": "KRW",
+        "date": "11/20"
+      }
+    },
+    "quotes_as_of": "11/20",
+    "notes": []
+  }
 }
