@@ -1,0 +1,634 @@
+{
+  "published_at": "2026-11-24T07:15",
+  "industry": "robot",
+  "title": "로봇 투자 브리핑",
+  "emoji": "🦾",
+  "sources": [
+    "AP(WSVN)",
+    "Aju Press",
+    "Briefs",
+    "EBN",
+    "EVXL",
+    "Global Times",
+    "StockTitan(GlobeNewswire)",
+    "The Crane China",
+    "Unite.AI",
+    "ad-hoc-news",
+    "서울경제",
+    "서울신문",
+    "아주경제",
+    "와이드경제",
+    "이데일리",
+    "잡포스트",
+    "파이낸셜뉴스",
+    "한국경제"
+  ],
+  "briefing": [
+    "AI 악재 회피 자금 유입 → 휴림로봇 상한가, 로보티즈·하이젠알앤엠 등 국내 로봇주 강세",
+    "엔비디아 젠슨 황 복귀로 NVDA 급반등 → 국내 로봇주 순환매 자금 이탈 가능성 주의",
+    "Symbotic 첫 연간 흑자·가이던스 성장 → 물류 자동화(SYM) 실적 확인, 주가 반응 체크",
+    "중국 돌봄로봇 지원책 → 유니트리 상한가, 중국 휴머노이드 테마 강세",
+    "LG전자 휴머노이드 2027년 1분기 공개·액추에이터 외판 → 부품 국산화 경쟁 심화"
+  ],
+  "market_snapshot": [
+    {
+      "label": "코스피(11/23)",
+      "value": "4,708.54 (-3.31%)",
+      "source": "재경일보",
+      "url": "https://news.jkn.co.kr/post/1116765"
+    },
+    {
+      "label": "중국 창업판지수(11/23)",
+      "value": "2,280.20 (+3.08%)",
+      "source": "Global Times",
+      "url": "https://www.globaltimes.cn/page/202611/1374872.shtml"
+    }
+  ],
+  "watchlist_notes": [
+    {
+      "name": "NVIDIA",
+      "note": "젠슨 황 CEO 복귀로 장중 약 31% 급등. LG전자와 휴머노이드 공동 개발, NVentures가 로봇 AI 스타트업 Embo 투자 참여.",
+      "article_urls": [
+        "https://wsvn.com/news/us-world/nvidia-ai-stocks-surge-huang-return/",
+        "https://www.ebn.co.kr/news/articleView.html?idxno=1732640",
+        "https://www.unite.ai/robot-ai-startup-embo-secures-110m-seed-investment-led-by-a16z/"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-25",
+      "event": "클로봇, 본사에 보스턴다이나믹스 SPOT 시연장 개소",
+      "tickers": [
+        "466100"
+      ],
+      "source_url": "https://www.irobotnews.com/news/articleView.html?idxno=49729"
+    },
+    {
+      "date": "2026-11-30",
+      "event": "중국 신용거래 최저 증거금률 100%→80% 인하 시행",
+      "tickers": [],
+      "source_url": "https://www.ajupress.com/view/20261123160870789"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "Humanoids Summit Silicon Valley(12/1~2, 샌머테이오)",
+      "tickers": [],
+      "source_url": "https://humanoidssummit.com/silicon-valley-2026"
+    },
+    {
+      "date": "2026-12-08",
+      "event": "Lunate, 휴머노이드 로봇 ETF(ROBOTS) 아부다비 거래소 상장",
+      "tickers": [],
+      "source_url": "https://www.indexbox.io/blog/lunate-to-launch-humanoid-robots-etf-on-abu-dhabi-securities-exchange/"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "earnings",
+      "title": "Symbotic, 2026 회계연도 4분기 실적 발표…첫 연간 GAAP 흑자",
+      "url": "https://www.stocktitan.net/news/SYM/symbotic-reports-fourth-quarter-and-fiscal-year-2026-rdm4re447svt.html",
+      "summary": "4분기 매출 7.78억달러(+26%), 순이익 5,500만달러(전년 -900만달러), 조정 EBITDA 1.14억달러. FY26 매출 28억달러(+25%), 순이익 1.33억달러로 첫 연간 흑자. FY27 1분기 가이던스 매출 8.05~8.25억달러, 조정 EBITDA 1.1~1.2억달러.",
+      "source": "StockTitan(GlobeNewswire)",
+      "time": "11/24 06:01",
+      "region": "US",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Symbotic",
+          "market": "US",
+          "code": "SYM",
+          "effect": "positive"
+        },
+        {
+          "name": "Walmart",
+          "market": "US",
+          "code": "WMT",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "물류 자동화 대표주가 흑자 전환과 성장 가이던스를 동시에 제시. 실적 후 주가 반응은 아직 미확인이라 오늘 미국 장 확인 필요.",
+      "signals": {
+        "segment": "물류",
+        "customer": "월마트 중심 대형 유통 물류센터"
+      }
+    },
+    {
+      "category": "market",
+      "title": "유니트리 상한가 20%…정책 지원·투자심리에 중국 휴머노이드주 급등",
+      "url": "https://www.globaltimes.cn/page/202611/1374872.shtml",
+      "summary": "유니트리(688836.SS)가 상한가 20%로 708위안에 마감, 시총 2,863.6억위안. 창업판지수 +3.08%, 과창판 종합 +2.62%. 머스크의 옵티머스 가사노동 발언과 발개위 등 4개 부처의 돌봄 서비스 로봇 지원 방안이 촉매로 거론됨.",
+      "source": "Global Times",
+      "time": "11/23 21:07",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Unitree Robotics",
+          "market": "GLOBAL",
+          "code": "688836.SS",
+          "effect": "positive"
+        }
+      ],
+      "insight": "중국 정부 지원책이 휴머노이드 대장주 상한가로 직결. 국내 로봇주와 같은 날 동반 강세여서 글로벌 테마 수급 확인 지표로 볼 만함.",
+      "signals": {
+        "segment": "휴머노이드"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "코스피 하락에도 로봇주 강세…휴림로봇 상한가[특징주]",
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01938486645648672",
+      "summary": "휴림로봇이 한화로보틱스·울트라이노베이션과 삼성전기 웨이퍼 이송(EFEM) 자동화 설비용 로봇 공급 최종계약을 맺어 상한가(5,720원). 7월 MOU 후속으로 설치처는 삼성전기 베트남 공장. 계약 금액은 미공개, DART 공시도 없음.",
+      "source": "이데일리",
+      "time": "11/23 10:38",
+      "region": "KR",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "휴림로봇",
+          "market": "KR",
+          "code": "090710",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전기",
+          "market": "KR",
+          "code": "009150",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "실제 공급계약이지만 금액 미공개·공시 없음. 상한가 이후 매출 비중 확인 전까지는 단기 이벤트성 급등으로 보는 게 안전.",
+      "signals": {
+        "segment": "산업/협동",
+        "customer": "삼성전기 베트남 공장(EFEM)"
+      }
+    },
+    {
+      "category": "market",
+      "title": "선방하는 코스닥…'AI 악재' 피해 로봇·화장품·여행·바이오 향했다",
+      "url": "https://m.sedaily.com/article/20117600",
+      "summary": "엔비디아 회계 조사 보도와 미국 해외 데이터센터 과세 경고로 AI 인프라주에서 빠진 자금이 국내 피지컬 AI 로봇주로 이동. 오전 휴림로봇 +17.73%, 하이젠알앤엠 +6.23%, 로보티즈 +5.35%, 뉴로메카 +4.97%, 유일로보틱스 +4.54%, 로보스타 +4.03%.",
+      "source": "서울경제",
+      "time": "11/23 10:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "하이젠알앤엠",
+          "market": "KR",
+          "code": "160190",
+          "effect": "positive"
+        },
+        {
+          "name": "뉴로메카",
+          "market": "KR",
+          "code": "348340",
+          "effect": "positive"
+        },
+        {
+          "name": "유일로보틱스",
+          "market": "KR",
+          "code": "388720",
+          "effect": "positive"
+        },
+        {
+          "name": "로보스타",
+          "market": "KR",
+          "code": "090360",
+          "effect": "positive"
+        }
+      ],
+      "insight": "실적이 아닌 순환매 성격의 상승. AI 인프라주가 반등하면 자금이 되돌아갈 수 있어 지속성은 제한적."
+    },
+    {
+      "category": "market",
+      "title": "'춤만 추는' 휴머노이드…상용화 지연에 로봇株 주가 1년 전으로 회귀",
+      "url": "https://www.hankyung.com/article/202611234584i",
+      "summary": "연초 대비 레인보우로보틱스 -14.56%, 로보티즈 -5.75%, 두산로보틱스 -39.04%. 유안타증권 집계로 코스닥 로봇 업종은 올해 -29%. 증권가는 휴머노이드 본격 상용화를 2030년 이후로 보고 실적 중심 선별을 권고.",
+      "source": "한국경제",
+      "time": "11/23 16:27",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "mixed"
+        },
+        {
+          "name": "로보티즈",
+          "market": "KR",
+          "code": "108490",
+          "effect": "mixed"
+        },
+        {
+          "name": "두산로보틱스",
+          "market": "KR",
+          "code": "454910",
+          "effect": "negative"
+        }
+      ],
+      "insight": "하루 급등에도 연간으로는 업종이 1년 전 수준. 상용화 시점이 늦어질수록 실제 매출이 나는 종목과 테마주의 격차가 커질 전망.",
+      "signals": {
+        "segment": "휴머노이드",
+        "mass_production": "본격 상용화 2030년 이후 전망"
+      }
+    },
+    {
+      "category": "market",
+      "title": "[특징주]하락장 속 로봇주 강세…휴림로봇 27%·빅웨이브로보틱스 13% '상승'",
+      "url": "https://www.ajunews.com/view/20261123093859063",
+      "summary": "한국투자증권은 지난 6년간 11월 말~2월 말 로봇주가 시장을 크게 웃돌았다며 CES 2027(1/6~9)을 앞둔 선취매로 해석. 삼성·현대차의 관련 뉴스 흐름을 기대. 9시 30분 빅웨이브로보틱스 +13.06%, 아이로보틱스 +5.10%.",
+      "source": "아주경제",
+      "time": "11/23 09:42",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "휴림로봇",
+          "market": "KR",
+          "code": "090710",
+          "effect": "positive"
+        }
+      ],
+      "insight": "CES 전 계절성 랠리가 반복돼 왔다는 분석. 이벤트 후 차익실현도 반복될 수 있어 진입 시점 관리가 중요."
+    },
+    {
+      "category": "earnings",
+      "title": "\"레인보우로보틱스, 본격 성장궤도 진입\"...주가 '57만원' 파격 전망",
+      "url": "https://www.fnnews.com/news/202611230856104772",
+      "summary": "유진투자증권이 매수·목표가 57만원 제시(11/20 종가 40.8만원 대비 약 40% 상회). 1~3분기 매출 353억원(+67%), 삼성 대상 매출 118억원으로 이미 지난해 연간(104억원) 초과. 2027년 매출 795억원·영업이익 10억원으로 첫 흑자 전망.",
+      "source": "파이낸셜뉴스",
+      "time": "11/23 09:02",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "삼성 매출 확대가 숫자로 확인되는 점이 근거. 흑자 전환 시점(2027년) 전망은 증권사 추정이라 분기 실적으로 검증 필요.",
+      "signals": {
+        "segment": "휴머노이드",
+        "customer": "삼성전자 매출 118억원(1~3분기)"
+      }
+    },
+    {
+      "category": "components",
+      "title": "아이엘, 中 로봇핸드 유니콘과 독점 공급계약…휴머노이드 부품사업 진출",
+      "url": "https://www.hankyung.com/article/202611234083i",
+      "summary": "아이엘이 중국 XYNOVA의 로봇핸드·휴머노이드 관절 액추에이터 한국 독점 공급계약 체결(11/20). XYNOVA는 기업가치 10억달러 이상, CATL·샤오미·JD 등이 투자. 주력은 23자유도 로봇핸드 Flex 2. 계약 금액·기간 미공개.",
+      "source": "한국경제",
+      "time": "11/23 13:19",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "아이엘",
+          "market": "KR",
+          "code": "307180",
+          "effect": "positive"
+        }
+      ],
+      "insight": "중국 부품의 국내 유통권이라 자체 기술보다는 판매 실적이 관건. 금액 미공개라 매출 기여는 아직 판단 어려움.",
+      "signals": {
+        "segment": "부품",
+        "component": "로봇핸드·관절 액추에이터(중국산)"
+      }
+    },
+    {
+      "category": "components",
+      "title": "로보티즈 24만9000원 강세…휴머노이드 액추에이터 양산 기대",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240198",
+      "summary": "로보티즈가 장중 249,000원(+6.64%)까지 상승. 로보월드에서 휴머노이드 AI 워커와 액추에이터 기술을 선보였고, 1월 AI Sapiens와 대·소형 액추에이터를 출시하며 초기 물량 대부분을 국내 생산할 계획.",
+      "source": "잡포스트",
+      "time": "11/23 13:37",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "로보티즈",
+          "market": "KR",
+          "code": "108490",
+          "effect": "positive"
+        }
+      ],
+      "insight": "액추에이터 국산 공급망의 대표주. 1월 출시 후 실제 수주·출하 규모가 확인 포인트.",
+      "signals": {
+        "segment": "부품",
+        "component": "액추에이터",
+        "mass_production": "2027년 1월 출시, 국내 생산"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "LG전자 로봇 투자 본궤도…인수 기업 '시너지 입증'은 언제",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732640",
+      "summary": "LG전자가 엔비디아와 개발한 이족보행 휴머노이드를 2027년 1분기 공개, 하반기 판매 계획. 베어로보틱스 지분 56.9% 보유, 6월 약 128억원에 키니시 기술 인수. AXIUM 액추에이터를 내년부터 외부 판매 예정.",
+      "source": "EBN",
+      "time": "11/24 06:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "LG전자",
+          "market": "KR",
+          "code": "066570",
+          "effect": "mixed"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "positive"
+        }
+      ],
+      "insight": "LG의 휴머노이드·액추에이터 외판 일정이 구체화. 인수 기업의 매출 시너지는 아직 확인 전이라 중장기 관점.",
+      "signals": {
+        "segment": "휴머노이드",
+        "component": "AXIUM 액추에이터, 엔비디아 플랫폼",
+        "mass_production": "2027년 1분기 공개, 하반기 판매"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "두산로보틱스 1.58% 상승…매출 성장 속 적자 축소 여부 관건",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240289",
+      "summary": "두산로보틱스 장중 48,250원(+1.58%). 3분기 매출 162억원(+59.1%), 영업손실 134억원. 누적 매출 491억원(+146%), 누적 영업손실 399억원.",
+      "source": "잡포스트",
+      "time": "11/23 14:37",
+      "region": "KR",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "두산로보틱스",
+          "market": "KR",
+          "code": "454910",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "매출은 빠르게 늘지만 적자 폭이 커 연초 대비 -39% 주가의 부담 요인. 적자 축소 확인이 반등 조건.",
+      "signals": {
+        "segment": "산업/협동"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "[특징주] 에이엘로봇, 전일 급락 딛고 반등",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=304447",
+      "summary": "11월 셋째 주 상장한 에이엘로봇이 13.47% 오른 12,130원(13시). 전 거래일 -20.34% 급락. 작년 순손실 219억원으로 완전자본잠식 상태.",
+      "source": "와이드경제",
+      "time": "11/23 13:06",
+      "region": "KR",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "에이엘로봇",
+          "market": "KR",
+          "code": "471800",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "신규 상장 로봇주의 하루 ±20% 등락은 테마 과열 신호. 재무 상태(완전자본잠식)를 함께 봐야 함."
+    },
+    {
+      "category": "policy",
+      "title": "휴머노이드와 격투 시대… '사람 안 해치는 로봇' 경쟁 불붙다",
+      "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/24/20261124031004",
+      "summary": "LG전자가 한국로봇산업진흥원과 휴머노이드 안전·사용성 평가체계 구축 MOU. 국내엔 휴머노이드 안전 기준이 아직 없고, 정부는 연내 안전 가이드를 발표할 예정. 국제표준 ISO 25785-1은 2028년 상반기 예상.",
+      "source": "서울신문",
+      "time": "11/24 00:57",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "LG전자",
+          "market": "KR",
+          "code": "066570",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "안전 기준은 현장 도입 속도를 좌우하는 변수. 연내 정부 가이드가 실제 도입 허들을 낮출지 확인 필요.",
+      "signals": {
+        "segment": "휴머노이드"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "머스크 \"테슬라 차량은 AI4 유지, AI5 칩은 옵티머스로\"",
+      "url": "https://evxl.co/2026/11/23/musk-tesla-cars-stay-ai4-ai5-chip-optimus/",
+      "summary": "머스크가 X에서 AI5 칩을 옵티머스에 쓰고 차량은 AI4에 남긴다고 밝힘. 메모리 가격 상승으로 AI4 단가가 2배가 됐다고 언급. AI5는 AI4 대비 약 10~12배 연산 성능이며 볼륨 생산은 2027년 4월경 목표.",
+      "source": "EVXL",
+      "time": "11/23 21:59",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Tesla",
+          "market": "US",
+          "code": "TSLA",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        }
+      ],
+      "insight": "최신 칩을 차량보다 옵티머스에 먼저 배정할 만큼 우선순위가 높다는 신호. AI5 양산 시점이 옵티머스 일정의 선행지표.",
+      "signals": {
+        "segment": "휴머노이드",
+        "component": "AI5 칩(로봇 AI 연산)",
+        "mass_production": "AI5 볼륨 생산 2027년 4월경 목표"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "중국 증시, 부양 기대에 상승…로봇주 급등",
+      "url": "https://www.ajupress.com/view/20261123160870789",
+      "summary": "발개위 등 4개 부처가 노인·아동 돌봄 서비스 실행방안을 발표하고 서비스로봇·외골격의 요양시설 도입을 지원. 신용거래 최저 증거금률을 100%에서 80%로 낮춤(11/30 시행). 렌즈테크놀로지는 AgiBot G2 휴머노이드 수십 대를 스마트폰 테스트 라인에 배치.",
+      "source": "Aju Press",
+      "time": "11/23 16:08",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Unitree Robotics",
+          "market": "GLOBAL",
+          "code": "688836.SS",
+          "effect": "positive"
+        },
+        {
+          "name": "Lens Technology",
+          "market": "GLOBAL",
+          "code": "300433.SZ",
+          "effect": "positive"
+        }
+      ],
+      "insight": "중국이 돌봄 수요처를 정책으로 열어주는 흐름. 증거금 완화(11/30)로 중국 테마 수급도 단기적으로 강해질 수 있음.",
+      "signals": {
+        "segment": "서비스",
+        "customer": "요양시설, 렌즈테크놀로지 테스트 라인"
+      }
+    },
+    {
+      "category": "market",
+      "title": "엔비디아, 젠슨 황 CEO 복귀에 급등…S&P500 4.7%↑",
+      "url": "https://wsvn.com/news/us-world/nvidia-ai-stocks-surge-huang-return/",
+      "summary": "엔비디아 이사회가 젠슨 황의 CEO 복귀를 승인하자 NVDA가 장중 약 31% 급등. S&P500 +4.7%, 나스닥 약 +6.5%로 지난주 급락분의 절반 이상을 회복.",
+      "source": "AP(WSVN)",
+      "time": "11/24 06:21",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "positive"
+        }
+      ],
+      "insight": "전날 국내 로봇주로 몰린 'AI 악재 회피' 자금이 AI 인프라로 되돌아갈 수 있음. 오늘 국내 로봇주 수급 변화 주의.",
+      "signals": {
+        "component": "피지컬 AI 플랫폼"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "앤트그룹, 휴머노이드 스타트업 심플렉시티에 1억달러 투자 주도",
+      "url": "https://www.briefs.co/news/ant-group-leads-100-million-bet-on-simplexity-s-humanoid-rob/",
+      "summary": "리오토 출신이 창업한 항저우 심플렉시티가 앤트그룹 주도로 1억달러를 유치, 기업가치 16억달러. 텐센트·알리바바 참여. 바퀴형 휴머노이드 iX 공개, 고객사로 리더드라이브(감속기)·항차(지게차) 명시.",
+      "source": "Briefs",
+      "time": "11/23 15:30",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Leaderdrive",
+          "market": "GLOBAL",
+          "code": "688017.SS",
+          "effect": "positive"
+        }
+      ],
+      "insight": "중국 빅테크 자본이 휴머노이드로 계속 유입. 중국 감속기 업체의 고객 확보는 국내 부품사 원가 경쟁 부담.",
+      "signals": {
+        "segment": "휴머노이드",
+        "customer": "리더드라이브, 항차"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "로봇 AI 스타트업 Embo, a16z 주도 1.1억달러 시드 투자 유치",
+      "url": "https://www.unite.ai/robot-ai-startup-embo-secures-110m-seed-investment-led-by-a16z/",
+      "summary": "로봇 파운데이션 모델 스타트업 Embo가 a16z 주도로 1.1억달러 시드 유치. 엔비디아 NVentures 참여. 인터넷 영상으로 월드모델을 사전학습한 뒤 휴머노이드 플릿 데이터로 파인튜닝하는 방식.",
+      "source": "Unite.AI",
+      "time": "11/24 03:54",
+      "region": "US",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "positive"
+        }
+      ],
+      "insight": "엔비디아가 로봇 AI 모델 생태계에 지분을 넓히는 사례. 단기 주가 영향은 작음.",
+      "signals": {
+        "component": "로봇 파운데이션 모델"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "인튜이티브 서지컬: 병원들, 4.5억달러 반독점 합의안 예비승인 신청",
+      "url": "https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/intuitive-surgical-aktie-krankenhaeuser-beantragen-vergleichsgenehmigung/70545126",
+      "summary": "다빈치 반독점 집단소송에서 병원 측이 현금 4.5억달러 합의안 예비승인을 신청. 5년간 유지보수·기구 재처리 시장 개방 조치 포함, 심리는 2027년 4월 1일. BTIG는 목표가를 454달러에서 513달러로 상향(11/18).",
+      "source": "ad-hoc-news",
+      "time": "11/23 11:49",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Intuitive Surgical",
+          "market": "US",
+          "code": "ISRG",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "소송 불확실성 해소는 긍정, 기구·서비스 시장 개방은 고마진 반복 매출에 부담. 합의 비용은 일회성.",
+      "signals": {
+        "segment": "의료/수술"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "중국 스타트업 51곳, 한 주간 5.1억달러 유치(11월 23일 주간)",
+      "url": "https://thecranechina.substack.com/p/51-china-startups-raise-510m-week",
+      "summary": "중국 로봇 분야에서 관절 토크센서 업체 Blue Point 시리즈 D3, INFIFORCE Pre-B, 즈둥웨이라이 Pre-A+(약 1억위안) 등 투자가 이어짐.",
+      "source": "The Crane China",
+      "time": "11/24 00:04",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "센서·관절 등 중국 부품 스타트업에 자금이 몰리며 공급망 내재화가 빨라지는 흐름.",
+      "signals": {
+        "segment": "부품",
+        "component": "관절 토크센서"
+      }
+    }
+  ]
+}
