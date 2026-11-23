@@ -1,0 +1,965 @@
+{
+  "published_at": "2026-11-24T06:58",
+  "industry": "energy",
+  "title": "에너지 투자 브리핑",
+  "emoji": "⚡",
+  "sources": [
+    "24/7 Wall St.",
+    "BOE Report(Reuters)",
+    "OilPrice.com",
+    "Philadelphia Inquirer",
+    "The Motley Fool",
+    "TipRanks",
+    "Utility Dive",
+    "뉴스1",
+    "디일렉",
+    "머니투데이",
+    "서울경제TV",
+    "이코노믹리뷰",
+    "이투데이",
+    "지디넷코리아",
+    "파이낸셜뉴스",
+    "핀포인트뉴스",
+    "한국경제",
+    "헤럴드경제"
+  ],
+  "briefing": [
+    "WTI 80달러 하회 후 80.17달러 마감(-3.9%) → S-Oil·SK이노 재고손실 부담, 한전 연료비엔 우호",
+    "Nvidia 젠슨 황 복귀에 美 AI 전력주 반등(GEV·VST·BE) → 국내 전력기기·원전주 되돌림 주목",
+    "LS전선 뉴욕 송전망 7,000억원 케이블 수주 → LS·대한전선 북미 송전망 수혜 부각",
+    "체코 원전 시공사 계약 해지·원전 공론화 파행 → 두산에너빌리티 등 원전주 심리 부담",
+    "한전 유출 개보위 조사·요금 동결 장기화 → 한국전력 단기 악재 지속"
+  ],
+  "market_snapshot": [
+    {
+      "label": "WTI 1월물(11/23)",
+      "value": "$80.17 (-3.88%)",
+      "source": "이투데이",
+      "url": "https://www.etoday.co.kr/news/view/2651918"
+    },
+    {
+      "label": "브렌트 1월물(11/23)",
+      "value": "$89.37 (-3.46%)",
+      "source": "이투데이",
+      "url": "https://www.etoday.co.kr/news/view/2651918"
+    },
+    {
+      "label": "헨리허브 천연가스 12월물",
+      "value": "$3.184/MMBtu (-6.7%)",
+      "source": "BOE Report(Reuters)",
+      "url": "https://boereport.com/2026/11/23/us-natgas-falls-nearly-8-on-bearish-weather-view-storage-surplus/"
+    },
+    {
+      "label": "Peco 전력 공급요금(12/1~)",
+      "value": "12.96¢/kWh (+10.3%)",
+      "source": "Philadelphia Inquirer",
+      "url": "https://inquirer.com/business/energy/peco-electricity-rate-increase-data-centers-20261123.html"
+    }
+  ],
+  "watchlist_notes": [],
+  "events": [
+    {
+      "date": "2026-11-25",
+      "event": "원전 공론화 1차 공개토론회(확대측 전문가 불참)",
+      "tickers": [
+        {
+          "name": "두산에너빌리티",
+          "market": "KR",
+          "code": "034020"
+        }
+      ],
+      "source_url": "https://biz.heraldcorp.com/article/10946375"
+    },
+    {
+      "date": "2026-11-25",
+      "event": "S-Oil 샤힌 프로젝트 준공식",
+      "tickers": [
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950"
+        }
+      ],
+      "source_url": "https://www.sentv.co.kr/article/view/sentv202611230123"
+    },
+    {
+      "date": "2026-11-27",
+      "event": "2027년 재생에너지 제도개편(RPS→경쟁입찰) 설명회",
+      "tickers": [
+        {
+          "name": "한화솔루션",
+          "market": "KR",
+          "code": "009830"
+        }
+      ],
+      "source_url": "https://www.news1.kr/society/general-society/6362971"
+    },
+    {
+      "date": "2026-11-29",
+      "event": "OPEC+ 장관회의(2027년 생산정책)",
+      "tickers": [
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950"
+        },
+        {
+          "name": "Exxon Mobil",
+          "market": "US",
+          "code": "XOM"
+        }
+      ],
+      "source_url": "https://admiralmarkets.com/analytics/traders-blog/opec-meeting-november-29-2026-preview"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "펜실베이니아 12개 중 11개 유틸리티 전기요금 인상",
+      "tickers": [
+        {
+          "name": "Exelon",
+          "market": "US",
+          "code": "EXC"
+        }
+      ],
+      "source_url": "https://inquirer.com/business/energy/peco-electricity-rate-increase-data-centers-20261123.html"
+    },
+    {
+      "date": "2026-12-11",
+      "event": "원전 공론화 시민참여단 숙의(~12/13)",
+      "tickers": [
+        {
+          "name": "두산에너빌리티",
+          "market": "KR",
+          "code": "034020"
+        }
+      ],
+      "source_url": "https://newspim.com/news/view/20261123001159"
+    }
+  ],
+  "requests": [],
+  "filings": [
+    {
+      "market": "KR",
+      "code": "006260",
+      "name": "LS",
+      "date": "2026-11-23",
+      "title": "[기재정정] 단일판매·공급계약체결(자회사의 주요경영사항) — LS전선 뉴욕 케이블",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800001"
+    },
+    {
+      "market": "KR",
+      "code": "096770",
+      "name": "SK이노베이션",
+      "date": "2026-11-23",
+      "title": "[기재정정] 주요사항보고서(회사합병결정) — SKIET 합병 일정 변경",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000308"
+    }
+  ],
+  "articles": [
+    {
+      "category": "oilgas",
+      "title": "국제유가, 중동발 공급 우려 완화에 WTI 3.9% 하락…장중 80달러 밑돌아",
+      "url": "https://www.etoday.co.kr/news/view/2651918",
+      "source": "이투데이",
+      "time": "11/24 06:29",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "mixed",
+      "horizon": "short",
+      "summary": "WTI 1월물은 80.17달러(-3.88%)로 마감, 장중 79.89달러로 8월 말 이후 최저. 브렌트는 89.37달러(-3.46%). 호르무즈 우회 물량 지속과 리비아 샤라라 송유관 재가동이 공급 우려를 낮췄음. 트럼프는 평화협상 불발 시 내년 초 이란 공습 재개 가능성 언급.",
+      "tickers": [
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950",
+          "effect": "negative"
+        },
+        {
+          "name": "SK이노베이션",
+          "market": "KR",
+          "code": "096770",
+          "effect": "negative"
+        },
+        {
+          "name": "Exxon Mobil",
+          "market": "US",
+          "code": "XOM",
+          "effect": "negative"
+        },
+        {
+          "name": "Chevron",
+          "market": "US",
+          "code": "CVX",
+          "effect": "negative"
+        }
+      ],
+      "insight": "유가 급락은 정유사 4분기 재고평가손실 요인. 반대로 한전·가스공사 등 연료비 부담 기업엔 숨통. 11/29 OPEC+ 회의가 다음 분기점.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "WTI $80.17·브렌트 $89.37, 하락"
+      }
+    },
+    {
+      "category": "oilgas",
+      "title": "공급 복귀가 걸프 공격을 압도하며 유가 4% 가까이 급락",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Slides-Nearly-4-as-Returning-Supply-Outweighs-Gulf-Attacks.html",
+      "source": "OilPrice.com",
+      "time": "11/24 00:51",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "IEA는 이란 전쟁 이후 처음으로 공급이 수요를 웃돈다고 평가. JP모건은 2027년 상반기 브렌트 70달러대 후반을 전망. 현물 브렌트의 선물 대비 프리미엄은 10월 초 약 31달러에서 약 1달러로 축소(골드만). 호르무즈 통과량은 10월 일 1,220만 배럴에서 최근 950만 배럴로 감소(Kpler).",
+      "tickers": [
+        {
+          "name": "Exxon Mobil",
+          "market": "US",
+          "code": "XOM",
+          "effect": "negative"
+        },
+        {
+          "name": "Chevron",
+          "market": "US",
+          "code": "CVX",
+          "effect": "negative"
+        }
+      ],
+      "insight": "현물 프리미엄 소멸은 공급 경색이 풀렸다는 신호. 정유·업스트림주는 중동 리스크보다 공급과잉 내러티브에 더 민감해질 구간.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "브렌트 현물 프리미엄 $31→$1"
+      }
+    },
+    {
+      "category": "oilgas",
+      "title": "미국 천연가스, 따뜻한 날씨 전망·재고 과잉에 8% 가까이 급락",
+      "url": "https://boereport.com/2026/11/23/us-natgas-falls-nearly-8-on-bearish-weather-view-storage-surplus/",
+      "source": "BOE Report(Reuters)",
+      "time": "11/24 05:47",
+      "region": "US",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "NYMEX 12월물 천연가스는 3.184달러/MMBtu(-6.7%)로 마감, 2월 이후 최대 일간 낙폭 수준. 온화한 겨울 전망에 난방 수요가 줄고 재고는 평년보다 80bcf 많음.",
+      "tickers": [],
+      "insight": "가스 가격 약세는 가스 발전 비중이 큰 IPP의 연료비엔 우호적이나 가스 생산업체엔 부담.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "헨리허브 $3.184, 하락"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "코노코필립스, 노르웨이 사업 44억 달러에 Vår Energi에 매각하고 철수",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-to-Exit-Norway-in-44-Billion-Deal-With-Vr-Energi.html",
+      "source": "OilPrice.com",
+      "time": "11/23 20:00",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "코노코필립스(COP)가 노르웨이 사업과 영국 티사이드 터미널 지분 40.25%를 44.25억 달러에 매각. 해당 자산 생산량은 일 약 12만 boe. 2027년 1분기 말 종결 예정이며 대금은 2027년 자사주 매입 등에 활용.",
+      "tickers": [
+        {
+          "name": "ConocoPhillips",
+          "market": "US",
+          "code": "COP",
+          "effect": "positive"
+        },
+        {
+          "name": "Vår Energi",
+          "market": "GLOBAL",
+          "code": "VAR.OL",
+          "effect": "positive"
+        }
+      ],
+      "insight": "유가 하락기에 비핵심 자산을 팔아 주주환원 재원을 확보하는 흐름. 메이저들의 포트폴리오 재편 신호로 볼 수 있음.",
+      "signals": {
+        "segment": "석유/가스",
+        "order": "매각가 44.25억 달러"
+      }
+    },
+    {
+      "category": "oilgas",
+      "title": "한국, 카타르에 호르무즈 재개 시 LNG 우선 공급 요청",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Asks-Qatar-for-Priority-LNG-Once-Hormuz-Reopens.html",
+      "source": "OilPrice.com",
+      "time": "11/23 22:30",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "김정관 산업부 장관이 서울에서 카타르 알카비 에너지장관에게 호르무즈 정상화 시 LNG 우선 공급을 요청. 카타르에너지는 4월부터 불가항력을 매달 연장해 최소 12월 말까지 유지. 고가 현물 LNG로 4월 국내 석탄발전이 40% 늘었음.",
+      "tickers": [
+        {
+          "name": "한국가스공사",
+          "market": "KR",
+          "code": "036460",
+          "effect": "mixed"
+        },
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "카타르 물량 복귀 시점이 가스공사 조달비·한전 연료비(SMP)를 좌우. 확정 전까지는 고가 현물 의존 부담 지속.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "LNG 공급 불가항력 12월 말까지"
+      }
+    },
+    {
+      "category": "grid",
+      "title": "Nvidia 젠슨 황 복귀에 AI 전력주 급반등",
+      "url": "https://www.tipranks.com/news/ai-power-stocks-rally-hard-as-jensen-huangs-nvidia-return-sparks-energy-rally",
+      "source": "TipRanks",
+      "time": "11/24 03:00",
+      "region": "US",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "short",
+      "summary": "젠슨 황의 Nvidia CEO 복귀로 나스닥이 급반등한 23일, 지난주 급락했던 AI 전력주가 장중 반등. 블룸에너지 +22%, GE버노바 +9.1%, 비스트라 +8.3%, 오클로 +7.8%, 컨스텔레이션 +5.8%(장중 기준). 유틸리티 ETF(XLU)는 +0.8%에 그침.",
+      "tickers": [
+        {
+          "name": "GE Vernova",
+          "market": "US",
+          "code": "GEV",
+          "effect": "positive"
+        },
+        {
+          "name": "Vistra",
+          "market": "US",
+          "code": "VST",
+          "effect": "positive"
+        },
+        {
+          "name": "Constellation Energy",
+          "market": "US",
+          "code": "CEG",
+          "effect": "positive"
+        },
+        {
+          "name": "Bloom Energy",
+          "market": "US",
+          "code": "BE",
+          "effect": "positive"
+        },
+        {
+          "name": "Oklo",
+          "market": "US",
+          "code": "OKLO",
+          "effect": "positive"
+        }
+      ],
+      "insight": "지난주 AI 전력주 투매가 Nvidia 이슈 해소로 되돌려짐. 오늘 국내 전력기기·원전주(전날 -3%대)에 반등 수급이 들어올지 관건.",
+      "signals": {
+        "segment": "전력망/전력기기"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "블룸에너지 오늘 왜 오르나",
+      "url": "https://www.fool.com/investing/2026/11/23/why-bloom-energy-is-up-today/",
+      "source": "The Motley Fool",
+      "time": "11/24 03:20",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "summary": "블룸에너지(BE)는 23일 오후 1시27분(ET) 169.33달러(+18.9%). 젠슨 황 복귀와 함께 주요 고객 오라클이 OpenAI 계약용 자금을 확보했다고 밝힌 영향. 단 뉴멕시코 '프로젝트 주피터' 연료전지 마이크로그리드는 대기 허가가 남아 있음.",
+      "tickers": [
+        {
+          "name": "Bloom Energy",
+          "market": "US",
+          "code": "BE",
+          "effect": "positive"
+        },
+        {
+          "name": "Oracle",
+          "market": "US",
+          "code": "ORCL",
+          "effect": "positive"
+        }
+      ],
+      "insight": "오라클 자금 조달 우려 해소가 데이터센터 온사이트 전원 수요 신뢰를 회복시킨 셈. 대기 허가가 남은 리스크.",
+      "signals": {
+        "segment": "수소"
+      }
+    },
+    {
+      "category": "nuclear",
+      "title": "에너지퓨얼스, 우라늄 100만 파운드 생산 계획에 14% 급등…오클로 12%·뉴스케일 13% 상승",
+      "url": "https://247wallst.com/investing/2026/11/23/energy-fuels-surges-8-on-plan-to-produce-1-million-pounds-of-uranium-oklo-climbs-7-nuscale-power-gains-6/",
+      "source": "24/7 Wall St.",
+      "time": "11/23 23:09",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "summary": "에너지퓨얼스(UUUU)가 화이트메사 공장에서 U3O8 약 100만 파운드 생산 캠페인을 발표해 14% 상승. 2027년 계약 판매량은 111만 파운드로 2026년 대비 35% 증가. 오클로(+12%)·뉴스케일(+13%)은 개별 재료 없이 섹터 반등.",
+      "tickers": [
+        {
+          "name": "Energy Fuels",
+          "market": "US",
+          "code": "UUUU",
+          "effect": "positive"
+        },
+        {
+          "name": "Oklo",
+          "market": "US",
+          "code": "OKLO",
+          "effect": "positive"
+        },
+        {
+          "name": "NuScale Power",
+          "market": "US",
+          "code": "SMR",
+          "effect": "positive"
+        }
+      ],
+      "insight": "SMR주 반등은 개별 재료 없는 수급성. 국내 SMR 밸류체인(두산에너빌리티)도 단기 동조 가능성.",
+      "signals": {
+        "segment": "원전/SMR",
+        "commodity": "우라늄 생산 확대"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "美 법무부, 넥스트에라-도미니언 반독점 조사 종결…주 청문회는 계속",
+      "url": "https://www.utilitydive.com/news/doj-closes-nextera-dominion-antitrust-probe-as-state-hearings-continue/875489/",
+      "source": "Utility Dive",
+      "time": "11/24 01:27",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "미 법무부가 넥스트에라-도미니언 합병 반독점 심사를 종결. 조건은 ISO-NE 시장감시인이 5년간 발전소 폐지 계획을 검토하는 것. 버지니아 청문회 진행 중이며 캐롤라이나 청문회와 FERC·NRC 승인이 남았음.",
+      "tickers": [
+        {
+          "name": "NextEra Energy",
+          "market": "US",
+          "code": "NEE",
+          "effect": "positive"
+        },
+        {
+          "name": "Dominion Energy",
+          "market": "US",
+          "code": "D",
+          "effect": "positive"
+        }
+      ],
+      "insight": "연방 반독점 관문을 넘어 합병 불확실성 한 단계 해소. 남은 변수는 주 규제당국과 FERC·NRC.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "policy": "DOJ 반독점 심사 종결"
+      }
+    },
+    {
+      "category": "grid",
+      "title": "미쓰비시중공업 CEO \"오프그리드 비용 탓에 데이터센터는 다시 유틸리티로\"",
+      "url": "https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146/",
+      "source": "Utility Dive",
+      "time": "11/24 03:00",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "미쓰비시중공업은 상반기(FY26) 대형 가스터빈 8GW를 수주(FY25 연간 16GW)하고 수주잔고 37GW. 2030년까지 약 31억 달러를 들여 터빈 생산능력을 2배로 늘릴 계획. 글로벌 수요는 올해 약 100GW에서 향후 5년 연 70GW 수준으로 전망.",
+      "tickers": [
+        {
+          "name": "미쓰비시중공업",
+          "market": "GLOBAL",
+          "code": "7011.T",
+          "effect": "positive"
+        },
+        {
+          "name": "GE Vernova",
+          "market": "US",
+          "code": "GEV",
+          "effect": "positive"
+        },
+        {
+          "name": "Siemens Energy",
+          "market": "GLOBAL",
+          "code": "ENR.DE",
+          "effect": "positive"
+        },
+        {
+          "name": "두산에너빌리티",
+          "market": "KR",
+          "code": "034020",
+          "effect": "positive"
+        }
+      ],
+      "insight": "가스터빈 잔고는 견조하지만 공급사의 증설과 수요 정점(100GW→70GW) 전망이 동시에 나옴. 장기 마진 사이클 점검 필요.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "order": "상반기 8GW, 잔고 37GW"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "FERC, MISO 기존 계통연계 대기열 신속 처리안 승인",
+      "url": "https://www.utilitydive.com/news/ferc-miso-interconnection-queue-study/875449/",
+      "source": "Utility Dive",
+      "time": "11/23 23:05",
+      "region": "US",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "FERC가 11/20 MISO 안을 승인. 약 35GW 규모 DPP-2022 사이클의 비현실적 프로젝트를 위약금 없이 철회할 수 있고, 업그레이드 비용 기준 철회 한도는 35%에서 50%로 상향. 전체 대기열은 태양광 44GW·배터리 25GW 등 약 125GW.",
+      "tickers": [],
+      "insight": "대기열 정리는 실제 착공 가능한 태양광·ESS 프로젝트의 연계 속도를 높여 모듈·배터리 수요 가시성 개선 요인.",
+      "signals": {
+        "segment": "태양광/풍력",
+        "policy": "MISO 계통연계 절차 개선"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "펜실베이니아 Peco, 데이터센터발 전력망 부담에 12월 1일 전기요금 인상",
+      "url": "https://inquirer.com/business/energy/peco-electricity-rate-increase-data-centers-20261123.html",
+      "source": "Philadelphia Inquirer",
+      "time": "11/24 06:22",
+      "region": "US",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "Peco의 공급요금이 kWh당 11.76센트에서 12.96센트(+10.3%)로 오르고, 월 700kWh 평균 요금은 5.3% 상승. PJM 용량경매 가격 상승 탓이며 PJM은 여름 경매에서 약 6,800MW 부족. 펜실베이니아 12개 유틸리티 중 11곳이 12/1 요금 인상.",
+      "tickers": [
+        {
+          "name": "Exelon",
+          "market": "US",
+          "code": "EXC",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "PJM 용량가 상승은 발전사(CEG·VST) 수익엔 우호적이나 요금 반발로 정치·규제 리스크가 커지는 구도. 12월 PJM 경매가 변수.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "commodity": "Peco 공급요금 +10.3%"
+      }
+    },
+    {
+      "category": "grid",
+      "title": "LS전선, 美 뉴욕 초고압 전력망 사업에 7000억원 케이블 공급",
+      "url": "https://www.fnnews.com/news/202611230901297996",
+      "source": "파이낸셜뉴스",
+      "time": "11/23 09:04",
+      "region": "US",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "LS전선 미국 법인이 뉴욕전력청(NYPA)·New York Transco의 'Propel NY Energy' 사업에서 약 7,000억원을 수주. 345kV 해저·지중 케이블 약 145km로 공급·시공·시운전까지 맡음. 국내 전선업계 역대 최대 대미 수출. 같은 날 LS는 발주처를 공개하는 정정공시를 냈음.",
+      "tickers": [
+        {
+          "name": "LS",
+          "market": "KR",
+          "code": "006260",
+          "effect": "positive"
+        },
+        {
+          "name": "대한전선",
+          "market": "KR",
+          "code": "001440",
+          "effect": "positive"
+        }
+      ],
+      "insight": "북미 송전망 투자가 케이블 공급에서 시공까지 확장되는 사례. 미국 현지 생산 거점을 가진 전선사 수주 가시성 강화.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "order": "약 7,000억원(본사 계약 4,525억원), 2030년까지"
+      }
+    },
+    {
+      "category": "market",
+      "title": "AI 데이터센터 전력 수요 늘었는데…전력기기주 차익 실현 직격탄",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507242",
+      "source": "핀포인트뉴스",
+      "time": "11/23 19:37",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "23일 코스피가 3.31% 급락한 가운데 HD현대일렉트릭·효성중공업·일진전기·산일전기·대한전선·LS 등 전력기기주가 차익실현으로 하락. LS ELECTRIC(+1.82%, 111,700원)과 가온전선(+4.55%)은 상승.",
+      "tickers": [
+        {
+          "name": "HD현대일렉트릭",
+          "market": "KR",
+          "code": "267260",
+          "effect": "negative"
+        },
+        {
+          "name": "효성중공업",
+          "market": "KR",
+          "code": "298040",
+          "effect": "negative"
+        },
+        {
+          "name": "LS ELECTRIC",
+          "market": "KR",
+          "code": "010120",
+          "effect": "positive"
+        },
+        {
+          "name": "대한전선",
+          "market": "KR",
+          "code": "001440",
+          "effect": "negative"
+        }
+      ],
+      "insight": "실적이 아닌 수급발 조정. 간밤 미국 AI 전력주 반등이 오늘 되돌림 재료가 될 수 있으나, 수주잔고의 매출 전환 속도가 중기 변수.",
+      "signals": {
+        "segment": "전력망/전력기기"
+      }
+    },
+    {
+      "category": "nuclear",
+      "title": "\"전체 일정 차질 없다\"…팀코리아, 체코 원전 적기 준공 다짐",
+      "url": "https://www.hankyung.com/article/2026112340377",
+      "source": "한국경제",
+      "time": "11/23 12:33",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "한수원은 11/20 대우건설·두산에너빌리티 컨소시엄과의 체코 두코바니 시공협력 협약을 해지(공사비 산정 이견). 한수원·한전기술·한전원자력연료·한전KPS·두산에너빌리티는 23일 공동성명으로 적기 준공을 다짐. 2027년 7월까지 새 시공사 선정, 2029년 11월 착공 계획.",
+      "tickers": [
+        {
+          "name": "두산에너빌리티",
+          "market": "KR",
+          "code": "034020",
+          "effect": "mixed"
+        },
+        {
+          "name": "대우건설",
+          "market": "KR",
+          "code": "047040",
+          "effect": "negative"
+        },
+        {
+          "name": "한전기술",
+          "market": "KR",
+          "code": "052690",
+          "effect": "neutral"
+        },
+        {
+          "name": "한전KPS",
+          "market": "KR",
+          "code": "051600",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "두산의 주기기 공급은 유지되나 시공사 교체로 일정 지연 우려가 원전주 심리에 부담. 같은 날 두산에너빌리티는 장중 4만원선 이탈(CBC뉴스).",
+      "signals": {
+        "segment": "원전/SMR",
+        "order": "체코 두코바니 5·6호기 시공사 재선정"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "'원전 공론' 확대측 전문가들, 참여 중단 선언…12차 전기본 지연 가능성",
+      "url": "https://biz.heraldcorp.com/article/10946375",
+      "source": "헤럴드경제",
+      "time": "11/23 15:49",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "정용훈(KAIST)·정범진(경희대)·최성열(서울대) 교수가 2050년 원전 비중을 질문에 넣을 때까지 11/25 공개토론 등 활동을 중단한다고 선언. 현재 질문은 2040년 비중만 다룸. 공론화위는 12/11~13 시민참여단 숙의를 예정대로 진행한다는 입장. 공론 결과는 12차 전력수급기본계획에 반영.",
+      "tickers": [
+        {
+          "name": "두산에너빌리티",
+          "market": "KR",
+          "code": "034020",
+          "effect": "negative"
+        },
+        {
+          "name": "한전기술",
+          "market": "KR",
+          "code": "052690",
+          "effect": "negative"
+        }
+      ],
+      "insight": "원전 비중을 정할 12차 전기본의 불확실성이 커지는 신호. 원전 기자재 업체의 국내 신규 물량 기대에 변수.",
+      "signals": {
+        "segment": "원전/SMR",
+        "policy": "원전 공론화·12차 전기본"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "한전 152만명 개인정보유출 '2차 피해' 우려에…개보위, 전격 조사 착수",
+      "url": "https://www.etoday.co.kr/news/view/2651857",
+      "source": "이투데이",
+      "time": "11/23 17:09",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "개인정보보호위원회가 한전 개인정보 유출에 현장조사 등 조사에 착수. 한전ON 이용자 650,487명의 주민번호·계좌·카드번호와 전자조달시스템(SRM) 869,761건이 유출. 한전은 11/19 해커의 협박 메일을 받았음. 23일 한전 주가는 장중 3%대 하락(글로벌이코노믹).",
+      "tickers": [
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "negative"
+        }
+      ],
+      "insight": "과징금·배상 규모는 미정이나 규제 조사 착수로 단기 심리 악재가 이어질 수 있음. 요금 현실화 논의에도 여론 부담.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "policy": "개보위 조사"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "李정부도 전기·가스요금 '폭탄 돌리기'",
+      "url": "https://biz.heraldcorp.com/article/10945974",
+      "source": "헤럴드경제",
+      "time": "11/23 11:21",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "한전 3분기 연결 영업이익은 1조6,441억원으로 전년 대비 70.9% 감소, 4분기 적자 가능성. 부채 209.6조원에 하루 이자 약 118억원. 주택용 요금은 14분기, 산업용은 8분기째 동결. 가스공사 미수금은 약 15조원, 부채비율 345%.",
+      "tickers": [
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "negative"
+        },
+        {
+          "name": "한국가스공사",
+          "market": "KR",
+          "code": "036460",
+          "effect": "negative"
+        }
+      ],
+      "insight": "요금 동결 장기화로 한전·가스공사 재무 악화. 간밤 유가 급락은 연료비 부담을 덜 요인이나 요금 인상 여부가 핵심 촉매.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "policy": "전기·가스요금 동결"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "신규 재생에너지, 정부 상한가 내 입찰…27일 제도개편 설명회",
+      "url": "https://www.news1.kr/society/general-society/6362971",
+      "source": "뉴스1",
+      "time": "11/23 14:50",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "summary": "2027년부터 신규 태양광·풍력은 정부 상한가 내 경쟁입찰로 한전과 장기 고정가격 계약을 맺음. REC 현물시장은 2029년 말까지 운영하고 RPS는 단계적으로 폐지. 기후에너지환경부가 11/27 설명회를 엶.",
+      "tickers": [
+        {
+          "name": "한화솔루션",
+          "market": "KR",
+          "code": "009830",
+          "effect": "mixed"
+        },
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "장기계약 전환은 발전사업자 수익 가시성을 높이나 상한가 경쟁입찰로 단가 하락 압력. 모듈·풍력 기자재 수요엔 중립 이상.",
+      "signals": {
+        "segment": "태양광/풍력",
+        "policy": "RPS→장기계약 경쟁입찰(2027~)"
+      }
+    },
+    {
+      "category": "oilgas",
+      "title": "에쓰오일 샤힌 준공 임박…'원료 안정' vs '감축 부담'",
+      "url": "https://www.sentv.co.kr/article/view/sentv202611230123",
+      "source": "서울경제TV",
+      "time": "11/23 17:58",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "9.26조원 규모 S-Oil 샤힌 프로젝트(에틸렌 연 180만톤, TC2C 공정)가 11/25 준공식을 연다. 이는 대산·여수에서 확정된 에틸렌 감축량 249만톤의 약 72%에 해당. 울산 구조조정 논의(S-Oil·SK지오센트릭·대한유화)는 교착 상태.",
+      "tickers": [
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950",
+          "effect": "mixed"
+        },
+        {
+          "name": "대한유화",
+          "market": "KR",
+          "code": "006650",
+          "effect": "negative"
+        }
+      ],
+      "insight": "대형 신규 설비 가동은 장기 원가 경쟁력 요인이나 석유화학 공급과잉 속 정부 감축 압박이 S-Oil에 추가 부담이 될 수 있음.",
+      "signals": {
+        "segment": "석유/가스",
+        "policy": "석유화학 구조조정"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "SK이노·SKIET, 합병비율 그대로…일정 다시 짠다",
+      "url": "https://zdnet.co.kr/view/?no=20261123165935",
+      "source": "지디넷코리아",
+      "time": "11/23 17:09",
+      "region": "KR",
+      "importance": 2,
+      "impact": "neutral",
+      "horizon": "short",
+      "summary": "SK이노베이션-SKIET 합병비율은 SKIET 1주당 SK이노 0.1174540주로 유지(11/23 정정공시). 임시주총은 11/24에서 12/17로 연기, 합병기일·신주 상장일은 미정. 금감원의 두 차례 정정 요구 이후이며 일부 SKIET 소액주주는 비율에 반발.",
+      "tickers": [
+        {
+          "name": "SK이노베이션",
+          "market": "KR",
+          "code": "096770",
+          "effect": "neutral"
+        },
+        {
+          "name": "SK아이이테크놀로지",
+          "market": "KR",
+          "code": "361610",
+          "effect": "negative"
+        }
+      ],
+      "insight": "비율 유지로 SKIET 소액주주 불만 지속. 12/17 주총 통과 여부와 주식매수청구 규모가 단기 변수.",
+      "signals": {
+        "segment": "2차전지/ESS"
+      }
+    },
+    {
+      "category": "battery",
+      "title": "LG엔솔 \"2년치 물량 확보\"…연간 영업익 3배 성장 가능",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=758218",
+      "source": "이코노믹리뷰",
+      "time": "11/23 16:23",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "LG에너지솔루션 3분기 매출 9.64조원(+59%), 영업이익 7,560억원. ESS 수주잔고 약 160GWh(iM증권 추정)로 2028년까지 생산능력 대부분 물량 확보. 증권가는 2027년 영업이익을 약 3.09조원으로 2026년(약 1.08조원)의 3배로 추정. 북미 ESS 생산능력은 연말 50GWh 이상.",
+      "tickers": [
+        {
+          "name": "LG에너지솔루션",
+          "market": "KR",
+          "code": "373220",
+          "effect": "positive"
+        }
+      ],
+      "insight": "EV 둔화를 ESS가 메우는 구도. 23일 주가는 시장 급락에 -2.67%였으나 실적 가시성은 높아지는 중.",
+      "signals": {
+        "segment": "2차전지/ESS",
+        "order": "ESS 잔고 약 160GWh"
+      }
+    },
+    {
+      "category": "battery",
+      "title": "中 배터리 장비 도입 어려워진다…수출통제 반사이익에 촉각",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65765",
+      "source": "디일렉",
+      "time": "11/23 17:06",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "중국이 권취기·스태킹기·주액기 수출을 허가제로 묶는 조치를 2027년 1월 10일 시행 예정. 중국 잉허커지 장비를 쓰는 LG엔솔·삼성SDI·SK온의 조달 차질 우려. 인도 타타 배터리 자회사 Agratas는 윤성F&C·피엔티·하나기술 등 한국 장비사를 주로 선정.",
+      "tickers": [
+        {
+          "name": "LG에너지솔루션",
+          "market": "KR",
+          "code": "373220",
+          "effect": "negative"
+        },
+        {
+          "name": "삼성SDI",
+          "market": "KR",
+          "code": "006400",
+          "effect": "negative"
+        }
+      ],
+      "insight": "셀 3사엔 증설 일정·원가 리스크, 국내 장비사엔 대체 수요 기회. 시행일(1/10) 전 조달 앞당기기 여부 주목.",
+      "signals": {
+        "segment": "2차전지/ESS",
+        "policy": "중국 배터리 장비 수출허가제"
+      }
+    },
+    {
+      "category": "battery",
+      "title": "유진證 \"AI가 바꾸는 ESS 시장⋯LG엔솔·삼성SDI, 전력망 제어로 사업 확대\"",
+      "url": "https://www.etoday.co.kr/news/view/2651421",
+      "source": "이투데이",
+      "time": "11/23 08:04",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "유진투자증권은 AI 데이터센터발 국내 고속응답 ESS 수요를 1.8~3.7GW로 추정. ESS 중앙계약시장 1·2차 낙찰은 1.13GW, 3차는 1.18GW. 삼성SDI는 2029년부터 3년간 주피터파워에 LFP 16GWh 공급, SK온은 대만전력 1.2GWh 입찰 계획.",
+      "tickers": [
+        {
+          "name": "삼성SDI",
+          "market": "KR",
+          "code": "006400",
+          "effect": "positive"
+        },
+        {
+          "name": "LG에너지솔루션",
+          "market": "KR",
+          "code": "373220",
+          "effect": "positive"
+        }
+      ],
+      "insight": "ESS 경쟁 축이 용량에서 계통 제어로 이동. 국내 3차 중앙계약 결과가 단기 수주 촉매.",
+      "signals": {
+        "segment": "2차전지/ESS",
+        "order": "삼성SDI 주피터파워 16GWh"
+      }
+    },
+    {
+      "category": "renewable",
+      "title": "에너지 인허가 개편안 美상원 통과에 태양광·ESS 수혜 가속화",
+      "url": "https://supple.kr/news/cmwtpzdlqwltekwp81e8jrn7t",
+      "source": "머니투데이",
+      "time": "11/24 05:30",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "미 상원이 11/19 통과시킨 에너지 인허가 개편안은 ESS 환경심사 간소화, 데이터센터의 전력망 증설 비용 부담을 담음. 하원 통과와 서명이 남았음. SEIA는 2028~2035년 태양광 설치가 167GW 늘 것으로 추정.",
+      "tickers": [
+        {
+          "name": "한화솔루션",
+          "market": "KR",
+          "code": "009830",
+          "effect": "positive"
+        },
+        {
+          "name": "LG에너지솔루션",
+          "market": "KR",
+          "code": "373220",
+          "effect": "positive"
+        },
+        {
+          "name": "First Solar",
+          "market": "US",
+          "code": "FSLR",
+          "effect": "positive"
+        }
+      ],
+      "insight": "하원 통과 시 미국 태양광·ESS 프로젝트 착공 속도 개선. 북미 생산거점 보유 기업이 수혜 중심.",
+      "signals": {
+        "segment": "태양광/풍력",
+        "policy": "美 에너지 인허가 개편안(상원 통과)"
+      }
+    }
+  ]
+}
