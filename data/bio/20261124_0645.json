@@ -1,0 +1,681 @@
+{
+  "published_at": "2026-11-24T06:45",
+  "industry": "bio",
+  "title": "바이오·헬스 투자 브리핑",
+  "emoji": "🧬",
+  "sources": [
+    "BioPharma Dive",
+    "Kymera 보도자료(SEC 8-K)",
+    "RTTNews",
+    "STAT News",
+    "더바이오",
+    "팜이데일리",
+    "한국경제"
+  ],
+  "briefing": [
+    "카이메라 경구 KT-621 2b상 전 용량 유의 → KYMR 급등, 듀피젠트(SNY·REGN) 경쟁 부담",
+    "브릿지바이오 웰젬다 PDUFA 전 FDA 승인+PRV 획득 → BBIO 긍정",
+    "큐로셀 CAR-T 림카토 12/1 건보 적용 → 큐로셀 상한가",
+    "아리바이오 AR1001 美 허가신청 추진(전체군 미유의) → 삼진제약 변동성",
+    "이번 주 PDUFA: 폴리피드(11/28), 버텍스·코젠트(11/30), 오스코텍 임시주총(12/1)"
+  ],
+  "market_snapshot": [],
+  "watchlist_notes": [],
+  "events": [
+    {
+      "date": "2026-11-28",
+      "event": "폴리피드 D-PLEX100(대장수술 부위 감염 예방) FDA PDUFA",
+      "tickers": [
+        "PYPD"
+      ],
+      "source_url": "https://www.biopharmawatch.com/fda-calendar"
+    },
+    {
+      "date": "2026-11-30",
+      "event": "버텍스 포베타시셉트(IgA 신증) FDA PDUFA",
+      "tickers": [
+        "VRTX"
+      ],
+      "source_url": "https://www.biopharmawatch.com/fda-calendar"
+    },
+    {
+      "date": "2026-11-30",
+      "event": "코젠트 베주클라스티닙+수니티닙(GIST) FDA PDUFA",
+      "tickers": [
+        "COGT"
+      ],
+      "source_url": "https://www.biopharmawatch.com/fda-calendar"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "큐로셀 CAR-T '림카토' 건강보험 적용 시작",
+      "tickers": [
+        "372320"
+      ],
+      "source_url": "https://www.hankyung.com/article/2026112332376"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "오스코텍 임시주주총회(초다수결의제 폐지·이사 선임)",
+      "tickers": [
+        "039200"
+      ],
+      "source_url": "https://pharm.edaily.co.kr/News/Read?newsId=03365286645648672&mediaCodeNo=257"
+    },
+    {
+      "date": "2026-12-04",
+      "event": "미국뇌전증학회 AES 2026(덴버, ~12/8) — SK바이오팜 포스터 10건",
+      "tickers": [
+        "326030"
+      ],
+      "source_url": "https://www.thebionews.net/news/articleView.html?idxno=30549"
+    },
+    {
+      "date": "2026-12-08",
+      "event": "샌안토니오 유방암 심포지엄(SABCS, ~12/11)",
+      "tickers": [],
+      "source_url": "https://www.aacr.org/about-the-aacr/newsroom/media-advisories/reserve-housing-and-register-today-san-antonio-breast-cancer-symposium-2026-december-8-11/"
+    }
+  ],
+  "requests": [],
+  "filings": [
+    {
+      "market": "KR",
+      "code": "033270",
+      "name": "한국유나이티드제약",
+      "date": "2026-11-23",
+      "title": "투자판단관련주요경영사항(무릎 골관절염 치료제 제3상 임상시험계획 신청)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800707"
+    },
+    {
+      "market": "KR",
+      "code": "354200",
+      "name": "엔젠바이오",
+      "date": "2026-11-23",
+      "title": "[기재정정] 주요사항보고서(유상증자결정)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000390"
+    },
+    {
+      "market": "KR",
+      "code": "102940",
+      "name": "코오롱생명과학",
+      "date": "2026-11-23",
+      "title": "[기재정정] 주요사항보고서(전환사채권발행결정)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000337"
+    },
+    {
+      "market": "KR",
+      "code": "115180",
+      "name": "큐리언트",
+      "date": "2026-11-23",
+      "title": "유상증자최종발행가액확정",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900451"
+    },
+    {
+      "market": "KR",
+      "code": "054180",
+      "name": "메디콕스",
+      "date": "2026-11-23",
+      "title": "횡령ㆍ배임사실확인",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900157"
+    },
+    {
+      "market": "KR",
+      "code": "299660",
+      "name": "셀리드",
+      "date": "2026-11-23",
+      "title": "소송등의제기ㆍ신청(경영권분쟁소송)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900397"
+    }
+  ],
+  "articles": [
+    {
+      "category": "clinical",
+      "title": "카이메라, 경구 KT-621 아토피피부염 BROADEN2 2b상 긍정적 결과 발표",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001815442/000119312526470926/d188151dex991.htm",
+      "summary": "244명 대상 16주 2b상에서 1차 평가변수(EASI 변화율)가 '모든 용량군에서 위약 대비 통계적으로 유의한 개선'. 중용량 EASI 72% 감소(위약 27%, p<0.0001), EASI-75 62% vs 22%. 결막염 11.1~19.7%(경증~중등증). 3상은 2027년 중반 시작 예정.",
+      "source": "Kymera 보도자료(SEC 8-K)",
+      "time": "11/23 21:00",
+      "region": "US",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Kymera Therapeutics",
+          "market": "US",
+          "code": "KYMR",
+          "effect": "positive"
+        },
+        {
+          "name": "Sanofi",
+          "market": "US",
+          "code": "SNY",
+          "effect": "negative"
+        },
+        {
+          "name": "Regeneron",
+          "market": "US",
+          "code": "REGN",
+          "effect": "negative"
+        }
+      ],
+      "insight": "경구 STAT6 분해제가 듀피젠트급 효능 가능성을 보여 장중 약 30% 급등. 듀피젠트(SNY·REGN) 장기 경쟁 변수로 부상.",
+      "signals": {
+        "stage": "2b상",
+        "event": "1차 평가변수 충족(전 용량 p<0.0001)",
+        "indication": "아토피피부염 / 경구 STAT6 단백질 분해제",
+        "next_catalyst": "3상 2027년 중반 개시, 천식 2b상 2027년 말"
+      }
+    },
+    {
+      "category": "clinical",
+      "title": "듀피젠트 아토피피부염 경쟁 후보의 큰 승리",
+      "url": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/",
+      "summary": "STAT은 카이메라 KT-621 2상 결과를 두고 '알약 형태의 듀피젠트 수준 효과' 가능성을 제시. Seeking Alpha에 따르면 KYMR 주가는 결과 발표 후 장중 약 30% 급등.",
+      "source": "STAT News",
+      "time": "11/23 23:43",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Kymera Therapeutics",
+          "market": "US",
+          "code": "KYMR",
+          "effect": "positive"
+        },
+        {
+          "name": "Sanofi",
+          "market": "US",
+          "code": "SNY",
+          "effect": "negative"
+        },
+        {
+          "name": "Regeneron",
+          "market": "US",
+          "code": "REGN",
+          "effect": "negative"
+        }
+      ],
+      "insight": "주사제 중심 아토피 시장에서 경구제 전환 기대가 커지는 신호. 3상 재현 여부가 핵심.",
+      "signals": {
+        "indication": "아토피피부염 / 경구 vs 주사 생물학적제제"
+      }
+    },
+    {
+      "category": "approval",
+      "title": "FDA, 브릿지바이오 '웰젬다'(BBP-418) 승인…사지대 근이영양증 첫 치료제",
+      "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/",
+      "summary": "FDA가 LGMD2I/R9 치료제 웰젬다(BBP-418)를 PDUFA(11/27)보다 앞서 정규승인. FORTIFY 12개월 보행속도 +0.27m/s(p<0.0001), FVC 약 5%p 개선(p=0.0071). 희귀소아질환 우선심사바우처도 획득. 가격은 미공개, 미국 즉시 출시.",
+      "source": "STAT News",
+      "time": "11/24 06:23",
+      "region": "US",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "BridgeBio Pharma",
+          "market": "US",
+          "code": "BBIO",
+          "effect": "positive"
+        }
+      ],
+      "insight": "PDUFA 리스크 조기 해소 + PRV(매각 시 현금화 가능) 확보. 승인 소식에 장중 약 4% 상승. 출시 후 가격·처방 속도가 다음 관전 포인트.",
+      "signals": {
+        "stage": "시판",
+        "event": "FDA 정규승인(PDUFA 전 조기)",
+        "indication": "LGMD2I/R9 / 경구 리비톨",
+        "next_catalyst": "유럽 신청 2028년 상반기"
+      }
+    },
+    {
+      "category": "clinical",
+      "title": "인비비드, VYD2311 3상 DECLARATION 중간분석서 1·2차 평가변수 충족",
+      "url": "https://www.rttnews.com/3717144/invivyd-says-declaration-phase-3-trial-of-vyd2311-met-primary-and-secondary-endpoints.aspx",
+      "summary": "2,359명 대상 코로나19 예방 항체 3상 중간분석에서 1·2차 평가변수 충족. 평균 중화역가가 90일간 70~90% 예방효과와 부합한다고 밝혔으나 이는 역가 기반 추정치이며 p값은 미공개. 가속승인 BLA 제출 계획(2027년 1분기 목표).",
+      "source": "RTTNews",
+      "time": "11/23 21:36",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Invivyd",
+          "market": "US",
+          "code": "IVVD",
+          "effect": "positive"
+        }
+      ],
+      "insight": "실제 감염 예방 효능이 아닌 역가 대리지표 기반이라 규제 심사에서 해석 차이 여지. BLA 제출 일정이 다음 촉매.",
+      "signals": {
+        "stage": "3상(중간분석)",
+        "event": "1·2차 평가변수 충족(역가 기반)",
+        "indication": "코로나19 예방 / 단클론항체",
+        "next_catalyst": "BLA 제출 2027년 1분기"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "일라이 릴리, 헌팅턴병 신약 개발사 LoQus23 최대 7.25억달러에 인수",
+      "url": "https://biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448",
+      "summary": "릴리가 경구 MSH3 억제제 LQT-23(전임상)을 보유한 LoQus23을 현금 최대 7.25억달러에 인수. 선급금은 비공개, 나머지는 개발·허가 마일스톤 조건. STAT에 따르면 릴리의 2026년 15번째 인수.",
+      "source": "BioPharma Dive",
+      "time": "11/24 01:17",
+      "region": "US",
+      "importance": 2,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Eli Lilly",
+          "market": "US",
+          "code": "LLY",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "비만 외 신경계 파이프라인 확장을 위한 릴리의 초기단계 볼트온 M&A 지속. 금액 규모상 실적 영향은 제한적.",
+      "signals": {
+        "stage": "전임상",
+        "indication": "헌팅턴병 / 경구 MSH3 억제제",
+        "deal": "선급금 비공개, 총액 최대 7.25억달러"
+      }
+    },
+    {
+      "category": "approval",
+      "title": "큐로셀, 국산 항암제 '림카토' 건보 적용에 '상한가'",
+      "url": "https://www.hankyung.com/article/2026112332376",
+      "summary": "국내 개발 첫 CAR-T 림카토가 12월 1일부터 건강보험 적용(상한금액 1회 280,016,050원). 대상은 재발·불응 성인 거대B세포림프종. 23일 장 초반 주가는 29.95% 오른 27,550원으로 상한가. 2027년 상반기 적응증 확대 3상 계획.",
+      "source": "한국경제",
+      "time": "11/23 09:11",
+      "region": "KR",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "큐로셀",
+          "market": "KR",
+          "code": "372320",
+          "effect": "positive"
+        }
+      ],
+      "insight": "급여 등재로 실제 매출 발생 구간 진입. 12/1 적용 이후 처방 병원 수·투여 건수가 실적 가시성의 관건.",
+      "signals": {
+        "stage": "시판",
+        "event": "건강보험 급여 적용(12/1)",
+        "indication": "거대B세포림프종 / CAR-T",
+        "next_catalyst": "2027년 상반기 적응증 확대 3상"
+      }
+    },
+    {
+      "category": "clinical",
+      "title": "\"먹는 치매약, 장기 효과\"…아리바이오, 美 허가신청",
+      "url": "https://www.hankyung.com/article/2026112350301",
+      "summary": "아리바이오가 AR1001 미국 신약허가 신청을 내년 하반기 추진. 3상 단독요법군(604명) CDR-SB 악화 0.44점 차(p=0.0266, '유의수준 0.03 충족'). 전체 환자군에서는 '통계적으로 유의한 효과를 입증하지 못했다'. 12월 첫째 주 전체 데이터 수령 후 pre-NDA 미팅 추진.",
+      "source": "한국경제",
+      "time": "11/23 17:35",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼진제약",
+          "market": "KR",
+          "code": "005500",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "전체군 실패·하위군 성공 구도라 FDA 허가 가능성에는 불확실성 큼. 국내 판권 보유 삼진제약 등 관련주 변동성 지속 요인.",
+      "signals": {
+        "stage": "3상 완료 → 허가신청 준비",
+        "event": "전체군 유의성 미확보, 단독요법군 충족",
+        "indication": "알츠하이머병 / 경구 PDE5 억제제",
+        "next_catalyst": "12월 첫째 주 전체 데이터, pre-NDA 미팅"
+      }
+    },
+    {
+      "category": "clinical",
+      "title": "[단독] \"릴리 도입 신약, 연내 임상 결과\"",
+      "url": "https://www.hankyung.com/article/2026112350271",
+      "summary": "올릭스가 일라이 릴리에 기술이전한 MASH 후보 OLX702A(MARC1 siRNA) 호주 1상 데이터를 분석 중이며 연내 결과 예정. 중간 결과 단회 투여 후 간지방 평균 60~70% 감소. 비만 후보 OLX501A는 내년 상반기 IND 계획.",
+      "source": "한국경제",
+      "time": "11/23 17:37",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "올릭스",
+          "market": "KR",
+          "code": "226950",
+          "effect": "positive"
+        },
+        {
+          "name": "Eli Lilly",
+          "market": "US",
+          "code": "LLY",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "L/O 파트너 릴리 품목의 1상 최종 데이터가 연내 촉매. 마일스톤 수령·후속 개발 결정에 연결되는 이벤트.",
+      "signals": {
+        "stage": "1상",
+        "indication": "MASH·비만 / siRNA",
+        "next_catalyst": "OLX702A 1상 결과 연내, OLX501A IND 2027년 상반기"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "\"종근당, 연매출 1800억 공백 전망…목표가↓\"-유안타",
+      "url": "https://www.hankyung.com/article/2026112329236",
+      "summary": "유안타증권이 종근당 목표가를 12만원→9.7만원으로 하향(매수 유지). 아토젯·펙수클루 공동판매 종료와 프롤리아 약가 인하로 연 약 1,800억원 매출 공백 예상. 내년 매출 1조5,852억원(-10.6%), 영업이익 773억원(-9.2%) 전망.",
+      "source": "한국경제",
+      "time": "11/23 08:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "종근당",
+          "market": "KR",
+          "code": "185750",
+          "effect": "negative"
+        }
+      ],
+      "insight": "도입 품목 계약 종료가 전통 제약사 외형에 직접 타격. 신규 도입·자체 신약으로 공백을 메울 수 있는지가 관건.",
+      "signals": {}
+    },
+    {
+      "category": "capital",
+      "title": "오스코텍 \"최대주주의 이사회 진입은 '적대적 인수'…주주 보호 먼저 합의해야\"",
+      "url": "https://pharm.edaily.co.kr/News/Read?newsId=03365286645648672&mediaCodeNo=257",
+      "summary": "12월 1일 오스코텍 임시주총 안건은 초다수결의제 폐지와 김성연(제노스코 최대주주)·고종성 이사 선임. 1·2대 주주 합산 지분 약 22%. 회사 측은 모든 주주에 최대주주와 같은 조건을 보장하는 합의를 먼저 하자고 제안하며 이해상충 문제 제기.",
+      "source": "팜이데일리",
+      "time": "11/23 17:25",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "오스코텍",
+          "market": "KR",
+          "code": "039200",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "렉라자 로열티 기반 오스코텍의 지배구조 분쟁. 12/1 임시주총 표 대결 결과가 단기 주가 변수.",
+      "signals": {
+        "next_catalyst": "12/1 임시주주총회"
+      }
+    },
+    {
+      "category": "licensing",
+      "title": "에이인비, 셀트리온과 AI 기반 항체신약 후보물질 발굴 계약 체결",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30556",
+      "summary": "셀트리온이 표적을 선정하면 에이인비가 생성형 AI 플랫폼 ALT-D로 후보를 설계·최적화하고 초기 검증까지 수행. 전임상·임상·상업화는 셀트리온이 담당. 표적 수와 금액은 비공개.",
+      "source": "더바이오",
+      "time": "11/23 11:03",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "셀트리온",
+          "market": "KR",
+          "code": "068270",
+          "effect": "positive"
+        }
+      ],
+      "insight": "셀트리온의 신약 전환 전략에서 AI 발굴 협업 확대. 금액 비공개로 단기 실적 영향은 없음.",
+      "signals": {
+        "indication": "항체신약 / AI 설계",
+        "deal": "비공개"
+      }
+    },
+    {
+      "category": "clinical",
+      "title": "SK플라즈마, 에임드바이오와 공동 개발 ADC 항암신약 후보 美 임상1상 추진",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30574",
+      "summary": "ROR1 표적 ADC 'AMB303'(Topo1 저해제 페이로드)의 1상 IND를 11월 21일 FDA에 제출. 진행성·전이성 고형암과 림프종 대상 최초 인체 시험. DART에도 에임드바이오의 임상시험계획승인신청 공시(11/23)가 올라옴.",
+      "source": "더바이오",
+      "time": "11/23 16:28",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "국내 ADC 파이프라인의 미국 임상 진입 사례. ROR1 ADC는 글로벌 경쟁이 치열해 차별화 데이터 확인 필요.",
+      "signals": {
+        "stage": "1상 IND 제출",
+        "indication": "고형암·림프종 / ROR1 ADC"
+      }
+    },
+    {
+      "category": "clinical",
+      "title": "큐리언트, 美 FDA '아드릭세티닙' 임상 변경 승인…1차 치료요법 평가",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30540",
+      "summary": "FDA가 MD앤더슨 주도 AML 시험 프로토콜 변경을 승인해, 신규 진단 환자 1차 치료로 아드릭세티닙(Q702)+베네토클락스/아자시티딘 3제 병용 평가가 가능해짐. 용량증량 결과는 다음 달 ASH 2026에서 발표.",
+      "source": "더바이오",
+      "time": "11/23 09:06",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "큐리언트",
+          "market": "KR",
+          "code": "115180",
+          "effect": "positive"
+        }
+      ],
+      "insight": "ASH 발표가 단기 촉매. 같은 날 유상증자 최종 발행가 확정 공시가 있어 수급 부담도 함께 고려.",
+      "signals": {
+        "stage": "1상",
+        "indication": "급성골수성백혈병(AML) / Axl·Mer·CSF1R 저해제",
+        "next_catalyst": "ASH 2026(12월) 용량증량 결과"
+      }
+    },
+    {
+      "category": "clinical",
+      "title": "신라젠, 항암신약 후보 'BAL0891' 임상1상 분석 결과 2건 ENA 2026서 공개",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30560",
+      "summary": "파클리탁셀 병용 용량증량 19명에서 최고 용량 240mg까지 용량제한독성(DLT) 없음. 평가 가능 13명의 질병통제율(DCR) 약 77%. 효능·안전성 균형 용량은 BAL0891 80mg+파클리탁셀 80mg/m².",
+      "source": "더바이오",
+      "time": "11/23 10:47",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "신라젠",
+          "market": "KR",
+          "code": "215600",
+          "effect": "positive"
+        }
+      ],
+      "insight": "초기 1상 소규모 데이터로 반응률(ORR) 등 추가 지표 공개 전까지 해석에 한계.",
+      "signals": {
+        "stage": "1상",
+        "event": "ENA 2026 학회 발표",
+        "indication": "고형암 / TTK·PLK1 이중 저해제"
+      }
+    },
+    {
+      "category": "clinical",
+      "title": "SK바이오팜, 美 뇌전증학회서 '세노바메이트' 새 임상 데이터 공개",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30549",
+      "summary": "12월 4~8일 미국 덴버에서 열리는 AES 2026에서 세노바메이트(엑스코프리) 포스터 10건 발표 예정. 전신강직간대발작·소아 국소발작 등 적응증 확대, 용량 최적화, 장기·실사용 데이터 포함. 수치 결과는 미공개.",
+      "source": "더바이오",
+      "time": "11/23 09:22",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "SK바이오팜",
+          "market": "KR",
+          "code": "326030",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "미국 처방 확대 근거 축적 차원의 학회 이벤트. 실적 변수는 여전히 엑스코프리 미국 처방 추이.",
+      "signals": {
+        "stage": "시판",
+        "event": "AES 2026 포스터 10건",
+        "indication": "뇌전증",
+        "next_catalyst": "AES 2026(12/4~8)"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "바로팜, 정우신약 최종 인수예정자 선정…100억원에 지분 100% 확보 추진",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30584",
+      "summary": "회생 절차 중인 정우신약의 최종 인수예정자로 선정. 제3자배정 유상증자로 신주 20,002,000주 전량을 약 100억원에 인수(자기자본의 15.15%). 계약금 약 10억원 납부, 거래 종결 목표는 내년 상반기.",
+      "source": "더바이오",
+      "time": "11/23 19:12",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "의약품 유통 기업의 제조사 수직계열화 시도. 인수 후 생산설비 정상화 비용이 변수.",
+      "signals": {
+        "deal": "약 100억원(지분 100%), 계약금 약 10억원"
+      }
+    },
+    {
+      "category": "clinical",
+      "title": "유나이티드제약, 무릎 골관절염 치료제 후보 'USI002' 국내 임상3상 신청",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30582",
+      "summary": "공동개발사 UNS바이오가 23일 식약처에 3상 IND 제출. 서방형 제제로 무릎 골관절염 환자 168명 대상 다기관·무작위배정·이중맹검 활성대조 비열등성 설계. 한국유나이티드제약도 같은 날 투자판단 관련 주요경영사항 공시.",
+      "source": "더바이오",
+      "time": "11/23 18:40",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "한국유나이티드제약",
+          "market": "KR",
+          "code": "033270",
+          "effect": "positive"
+        }
+      ],
+      "insight": "개량신약 3상 '신청' 단계로 승인·결과까지는 시간이 남음.",
+      "signals": {
+        "stage": "3상 IND 신청",
+        "indication": "무릎 골관절염 / 서방형 개량신약"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "한미약품, 글로벌 항암 권위자 '라파엘 베하르' 박사 영입",
+      "url": "https://thebionews.net/news/articleView.html?idxno=30575",
+      "summary": "한미약품이 미래성장부문 항암센터에 앱토즈 바이오사이언스 CMO 출신 라파엘 베하르 박사를 영입. 그는 한미의 AML 후보 투스페티닙 글로벌 개발에 참여했으며 적응증·바이오마커·병용 전략을 자문할 예정.",
+      "source": "더바이오",
+      "time": "11/23 17:14",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "한미약품",
+          "market": "KR",
+          "code": "128940",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "투스페티닙 등 항암 파이프라인 글로벌 개발 강화 의지. 직접적 주가 영향은 제한적.",
+      "signals": {
+        "indication": "AML / 투스페티닙"
+      }
+    },
+    {
+      "category": "clinical",
+      "title": "현대바이오 '페니트리움', 전립선암 1상서 전이 병변 축소 확인",
+      "url": "https://www.hankyung.com/article/202611234256i",
+      "summary": "서울대병원 전이성 거세저항성 전립선암 1상에서 엔잘루타마이드+페니트리움 병용 환자 1명의 PSA 하락과 전이 림프절 축소, 내성 환자 1명의 PSA 감소를 회사가 공개. 환자 2명 사례이며 상세 데이터는 미공개.",
+      "source": "한국경제",
+      "time": "11/23 14:11",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "현대바이오",
+          "market": "KR",
+          "code": "048410",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "2명 사례 수준이라 통계적 근거로 보기 어려움. 테마성 주가 변동에 유의.",
+      "signals": {
+        "stage": "1상",
+        "indication": "전이성 거세저항성 전립선암"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "'카보메틱스', 신장암 2차 치료 급여 확대…\"면역항암제 이후 선택지 넓어졌다\"",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30579",
+      "summary": "전이성·재발성 투명세포 신세포암 2차 이상 단독요법 급여에서 'VEGF 표적치료 후' 조건이 삭제돼, 옵디보+여보이 치료 후 진행 환자도 급여 사용 가능. 근거인 CaboPoint 2상 ORR 40.5%, mPFS 10.9개월.",
+      "source": "더바이오",
+      "time": "11/23 17:55",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Exelixis",
+          "market": "US",
+          "code": "EXEL",
+          "effect": "positive"
+        }
+      ],
+      "insight": "국내 면역항암 이후 치료 시장 확대. 국내 상장사 직접 영향은 없음.",
+      "signals": {
+        "indication": "신세포암 / 다중 TKI"
+      }
+    },
+    {
+      "category": "others",
+      "title": "강력한 항암제 성과로 다음 장을 여는 젠맙",
+      "url": "https://www.statnews.com/2026/11/23/genmab-cancer-drugs-oncology-clinical-trials/",
+      "summary": "젠맙이 10월 서로 다른 3개 암종에서 핵심 임상 성공을 거둠. 이 중 2개 제품은 대형 파트너 없이 직접 상업화해야 하며 CEO는 '결국 실행력에 달렸다'고 언급.",
+      "source": "STAT News",
+      "time": "11/23 18:30",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Genmab",
+          "market": "US",
+          "code": "GMAB",
+          "effect": "positive"
+        }
+      ],
+      "insight": "로열티 기업에서 자체 상업화 기업으로 전환하는 구간. 출시 비용과 초기 매출 속도가 밸류에이션 변수.",
+      "signals": {
+        "indication": "항암 / 항체·ADC"
+      }
+    }
+  ]
+}
