@@ -677,5 +677,280 @@
         "indication": "항암 / 항체·ADC"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-24T06:46+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "372320",
+        "name": "큐로셀",
+        "date": "2026-11-23",
+        "title": "전환가액의조정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900660",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005500",
+        "name": "삼진제약",
+        "date": "2026-11-23",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000335",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-23",
+        "title": "[기재정정]투자설명서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000318",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-23",
+        "title": "주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000315",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-23",
+        "title": "[발행조건확정]증권신고서(지분증권)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000305",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-23",
+        "title": "[기재정정]주요사항보고서(유상증자결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000278",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-23",
+        "title": "유상증자최종발행가액확정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900451",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "033270",
+        "name": "유나이티드",
+        "date": "2026-11-23",
+        "title": "임원ㆍ주요주주특정증권등거래계획보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000404",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "033270",
+        "name": "유나이티드",
+        "date": "2026-11-23",
+        "title": "투자판단관련주요경영사항              (무릎 골관절염 치료제 제3상 임상시험계획 신청)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800707",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "048410",
+        "name": "현대바이오",
+        "date": "2026-11-23",
+        "title": "의결권대리행사권유참고서류",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000251",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "048410",
+        "name": "현대바이오",
+        "date": "2026-11-23",
+        "title": "주주총회소집공고",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000248",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "KYMR",
+        "name": "Kymera Therapeutics",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526470995/d159818d8k.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "KYMR",
+        "name": "Kymera Therapeutics",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1815442/000119312526470926/d188151d8k.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "IVVD",
+        "name": "Invivyd",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1832038/000119312526471002/ivvd-20261123.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:KYMR": {
+        "symbol": "KYMR",
+        "close": 150.37,
+        "change_pct": 30.4,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:SNY": {
+        "symbol": "SNY",
+        "close": 46.77,
+        "change_pct": 0.54,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:REGN": {
+        "symbol": "REGN",
+        "close": 942.24,
+        "change_pct": 2.34,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:BBIO": {
+        "symbol": "BBIO",
+        "close": 79.12,
+        "change_pct": 4.07,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:IVVD": {
+        "symbol": "IVVD",
+        "close": 0.49,
+        "change_pct": 17.53,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:LLY": {
+        "symbol": "LLY",
+        "close": 1364.6,
+        "change_pct": 1.3,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "KR:372320": {
+        "symbol": "372320.KS",
+        "close": 27550.0,
+        "change_pct": 29.95,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:005500": {
+        "symbol": "005500.KS",
+        "close": 18940.0,
+        "change_pct": -2.62,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:226950": {
+        "symbol": "226950.KS",
+        "close": 75200.0,
+        "change_pct": -2.72,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:185750": {
+        "symbol": "185750.KS",
+        "close": 58400.0,
+        "change_pct": -5.96,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:039200": {
+        "symbol": "039200.KQ",
+        "close": 30800.0,
+        "change_pct": -2.69,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:068270": {
+        "symbol": "068270.KS",
+        "close": 202000.0,
+        "change_pct": -5.16,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:115180": {
+        "symbol": "115180.KS",
+        "close": 12600.0,
+        "change_pct": -4.4,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:215600": {
+        "symbol": "215600.KS",
+        "close": 1865.0,
+        "change_pct": -0.16,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:326030": {
+        "symbol": "326030.KS",
+        "close": 81100.0,
+        "change_pct": -6.57,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:033270": {
+        "symbol": "033270.KS",
+        "close": 15580.0,
+        "change_pct": -4.48,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:128940": {
+        "symbol": "128940.KS",
+        "close": 436000.0,
+        "change_pct": -3.0,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:048410": {
+        "symbol": "048410.KQ",
+        "close": 6200.0,
+        "change_pct": 2.14,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "US:EXEL": {
+        "symbol": "EXEL",
+        "close": 66.82,
+        "change_pct": 3.39,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:GMAB": {
+        "symbol": "GMAB",
+        "close": 53.17,
+        "change_pct": 5.08,
+        "currency": "USD",
+        "date": "11/23"
+      }
+    },
+    "quotes_as_of": "11/23",
+    "notes": []
+  }
 }
