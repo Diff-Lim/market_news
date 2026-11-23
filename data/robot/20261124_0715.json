@@ -630,5 +630,190 @@
         "component": "관절 토크센서"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-24T07:15+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "471800",
+        "name": "에이엘로봇",
+        "date": "2026-11-23",
+        "title": "분기보고서 (2026.09)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000239",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "SYM",
+        "name": "Symbotic",
+        "date": "2026-11-23",
+        "title": "연간보고서(10-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1837240/000183724026000049/sym-20260926.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "SYM",
+        "name": "Symbotic",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1837240/000183724026000047/sym-20261123.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "NVDA",
+        "name": "NVIDIA",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:SYM": {
+        "symbol": "SYM",
+        "close": 34.97,
+        "change_pct": 12.44,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:WMT": {
+        "symbol": "WMT",
+        "close": 129.58,
+        "change_pct": 1.27,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "GLOBAL:688836.SS": {
+        "symbol": "688836.SS",
+        "close": 708.0,
+        "change_pct": 20.0,
+        "currency": "CNY",
+        "date": "11/23"
+      },
+      "KR:090710": {
+        "symbol": "090710.KQ",
+        "close": 5720.0,
+        "change_pct": 30.0,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:009150": {
+        "symbol": "009150.KS",
+        "close": 778000.0,
+        "change_pct": 0.52,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:160190": {
+        "symbol": "160190.KS",
+        "close": 14590.0,
+        "change_pct": 6.89,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:348340": {
+        "symbol": "348340.KS",
+        "close": 13510.0,
+        "change_pct": 3.29,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:388720": {
+        "symbol": "388720.KS",
+        "close": 55200.0,
+        "change_pct": 4.35,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:090360": {
+        "symbol": "090360.KQ",
+        "close": 55700.0,
+        "change_pct": 2.01,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:277810": {
+        "symbol": "277810.KS",
+        "close": 402000.0,
+        "change_pct": -1.47,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:108490": {
+        "symbol": "108490.KS",
+        "close": 246000.0,
+        "change_pct": 5.35,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:454910": {
+        "symbol": "454910.KS",
+        "close": 47550.0,
+        "change_pct": 0.11,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 177500.0,
+        "change_pct": -3.06,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:307180": {
+        "symbol": "307180.KS",
+        "close": 3910.0,
+        "change_pct": -2.98,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:066570": {
+        "symbol": "066570.KS",
+        "close": 123600.0,
+        "change_pct": -5.36,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 165.05,
+        "change_pct": 31.48,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:TSLA": {
+        "symbol": "TSLA",
+        "close": 385.46,
+        "change_pct": 11.46,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "GLOBAL:300433.SZ": {
+        "symbol": "300433.SZ",
+        "close": 23.71,
+        "change_pct": 3.18,
+        "currency": "CNY",
+        "date": "11/23"
+      },
+      "GLOBAL:688017.SS": {
+        "symbol": "688017.SS",
+        "close": 260.28,
+        "change_pct": 12.77,
+        "currency": "CNY",
+        "date": "11/23"
+      },
+      "US:ISRG": {
+        "symbol": "ISRG",
+        "close": 416.23,
+        "change_pct": 4.31,
+        "currency": "USD",
+        "date": "11/23"
+      }
+    },
+    "quotes_as_of": "11/23",
+    "notes": []
+  }
 }
