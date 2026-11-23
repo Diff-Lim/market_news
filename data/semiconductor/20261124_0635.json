@@ -798,5 +798,232 @@
       ],
       "insight": "반도체 중심 인사로 메모리·파운드리 경쟁력 회복에 무게. 조직개편 내용 확인 필요."
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-24T06:36+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-23",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000192",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "003160",
+        "name": "디아이",
+        "date": "2026-11-23",
+        "title": "주식등의대량보유상황보고서(약식)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000074",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "420770",
+        "name": "기가비스",
+        "date": "2026-11-23",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900324",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "NVDA",
+        "name": "NVIDIA",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 165.05,
+        "change_pct": 31.48,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:CRWV": {
+        "symbol": "CRWV",
+        "close": 48.33,
+        "change_pct": 22.32,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:NBIS": {
+        "symbol": "NBIS",
+        "close": 97.8,
+        "change_pct": 20.28,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:MU": {
+        "symbol": "MU",
+        "close": 707.7,
+        "change_pct": 19.04,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "KR:000660": {
+        "symbol": "000660.KS",
+        "close": 1113000.0,
+        "change_pct": -5.92,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 183100.0,
+        "change_pct": -7.01,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "US:LRCX": {
+        "symbol": "LRCX",
+        "close": 209.76,
+        "change_pct": 14.45,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:MRVL": {
+        "symbol": "MRVL",
+        "close": 144.74,
+        "change_pct": 18.37,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:AMAT": {
+        "symbol": "AMAT",
+        "close": 346.87,
+        "change_pct": 14.62,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:AMD": {
+        "symbol": "AMD",
+        "close": 453.46,
+        "change_pct": 6.85,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "GLOBAL:2330.TW": {
+        "symbol": "2330.TW",
+        "close": 2000.0,
+        "change_pct": -4.76,
+        "currency": "TWD",
+        "date": "11/23"
+      },
+      "US:KLAC": {
+        "symbol": "KLAC",
+        "close": 145.85,
+        "change_pct": 14.96,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "GLOBAL:ASML.AS": {
+        "symbol": "ASML.AS",
+        "close": 1272.2,
+        "change_pct": 8.92,
+        "currency": "EUR",
+        "date": "11/23"
+      },
+      "US:AVGO": {
+        "symbol": "AVGO",
+        "close": 313.55,
+        "change_pct": 3.0,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:GOOGL": {
+        "symbol": "GOOGL",
+        "close": 282.1,
+        "change_pct": 6.34,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "GLOBAL:2454.TW": {
+        "symbol": "2454.TW",
+        "close": 3350.0,
+        "change_pct": -9.95,
+        "currency": "TWD",
+        "date": "11/23"
+      },
+      "KR:240810": {
+        "symbol": "240810.KS",
+        "close": 65600.0,
+        "change_pct": -14.47,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:084370": {
+        "symbol": "084370.KQ",
+        "close": 71000.0,
+        "change_pct": -12.02,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:095610": {
+        "symbol": "095610.KQ",
+        "close": 78200.0,
+        "change_pct": -13.5,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:036930": {
+        "symbol": "036930.KQ",
+        "close": 145100.0,
+        "change_pct": -9.31,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:003160": {
+        "symbol": "003160.KS",
+        "close": 25200.0,
+        "change_pct": -12.04,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:086390": {
+        "symbol": "086390.KQ",
+        "close": 9580.0,
+        "change_pct": -6.17,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:353200": {
+        "symbol": "353200.KS",
+        "close": 73900.0,
+        "change_pct": -12.85,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:007660": {
+        "symbol": "007660.KS",
+        "close": 69600.0,
+        "change_pct": -16.14,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:222800": {
+        "symbol": "222800.KQ",
+        "close": 99700.0,
+        "change_pct": -11.61,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:420770": {
+        "symbol": "420770.KS",
+        "close": 70700.0,
+        "change_pct": -11.4,
+        "currency": "KRW",
+        "date": "11/23"
+      }
+    },
+    "quotes_as_of": "11/23",
+    "notes": []
+  }
 }
