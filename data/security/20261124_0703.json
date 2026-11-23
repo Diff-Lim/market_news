@@ -1,0 +1,611 @@
+{
+  "published_at": "2026-11-24T07:03",
+  "industry": "security",
+  "title": "보안 투자 브리핑",
+  "emoji": "🛡️",
+  "sources": [
+    "BNN Bloomberg",
+    "BleepingComputer",
+    "CrowdStrike",
+    "Reuters",
+    "SEC EDGAR",
+    "SecurityWeek",
+    "Stocktwits",
+    "Yahoo Finance",
+    "디지털데일리",
+    "보안뉴스",
+    "전자신문"
+  ],
+  "briefing": [
+    "CRWD, ZS를 439억 달러 전액 주식 인수 → ZS +17.7%, CRWD -8.9%(희석 우려)",
+    "CRWD 순신규 ARR 사상 최대·ZS 가이던스 철회 → 실적보다 딜·반독점이 주가 변수",
+    "보안 M&A 기대로 OKTA·NET·S·FTNT 동반 강세 → S·NTSK 다음 후보 거론",
+    "MS 애저 API 관리 결함 악용 키 탈취 → MSFT 클라우드 신뢰 이슈, ID·비밀관리 수요",
+    "한전 개인정보위 조사·삼성증권 8천건 유출·롯데카드 공시 과징금 → 국내 보안 규제 압력↑"
+  ],
+  "market_snapshot": [
+    {
+      "label": "ZS 11/23 종가",
+      "value": "$229.24 (+17.67%)",
+      "source": "The Motley Fool",
+      "url": "https://fool.com/investing/2026/11/23/why-zscaler-stock-rocketed-higher-today"
+    },
+    {
+      "label": "CRWD 11/23 종가",
+      "value": "$208.97 (-8.92%)",
+      "source": "The Motley Fool",
+      "url": "https://fool.com/investing/2026/11/23/why-zscaler-stock-rocketed-higher-today"
+    }
+  ],
+  "watchlist_notes": [],
+  "events": [
+    {
+      "date": "2026-11-30",
+      "event": "루브릭 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "RBRK"
+      ],
+      "source_url": "https://finviz.com/news/420947/rubrik-to-report-third-quarter-fiscal-2027-financial-results-on-november-30-2026"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "옥타 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "OKTA"
+      ],
+      "source_url": "https://finviz.com/news/413169/okta-to-announce-third-quarter-fiscal-year-2027-financial-results-on-december-1-2026"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "넷스코프 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "NTSK"
+      ],
+      "source_url": "https://finviz.com/news/415452/netskope-to-report-fiscal-third-quarter-2027-financial-results-on-december-2-2026"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "센티넬원 FY27 3분기 실적 발표(미 장 마감 후)",
+      "tickers": [
+        "S"
+      ],
+      "source_url": "https://finviz.com/news/422106/sentinelone-announces-date-of-fiscal-third-quarter-2027-financial-results-conference-call-and-participation-in-upcoming-investor-conference"
+    }
+  ],
+  "requests": [],
+  "filings": [
+    {
+      "market": "US",
+      "code": "CRWD",
+      "name": "크라우드스트라이크",
+      "date": "2026-11-23",
+      "title": "8-K: FY27 3분기 실적 및 지스케일러 인수 계약",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"
+    },
+    {
+      "market": "US",
+      "code": "ZS",
+      "name": "지스케일러",
+      "date": "2026-11-23",
+      "title": "8-K: FY27 1분기 실적(가이던스 철회)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001713683/000119312526470942/d255961dex991.htm"
+    }
+  ],
+  "articles": [
+    {
+      "category": "deal",
+      "title": "크라우드스트라이크, 지스케일러 인수…네트워크 보안·제로트러스트를 Falcon 플랫폼에 통합",
+      "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/",
+      "summary": "CRWD가 ZS를 기업가치 439억 달러에 전액 주식으로 인수하는 최종 계약 체결. ZS 1주당 CRWD 1.135주(11/20 종가 기준 $260.41, 프리미엄 34%). 합병 후 지분 CRWD 84.1%·ZS 15.9%. 합산 ARR 100억 달러+, 30개월 내 매출 시너지 약 10억 달러·18~24개월 내 비용 시너지 5억 달러 목표. CRWD FY28 하반기 종결 예상.",
+      "source": "CrowdStrike",
+      "time": "11/23 19:39",
+      "region": "US",
+      "importance": 3,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "크라우드스트라이크",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "mixed"
+        },
+        {
+          "name": "지스케일러",
+          "market": "US",
+          "code": "ZS",
+          "effect": "positive"
+        },
+        {
+          "name": "팔로알토네트웍스",
+          "market": "US",
+          "code": "PANW",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "보안 업계 최대급 통합으로 '플랫폼화' 경쟁이 본격화. 전액 주식 거래라 CRWD는 희석 부담, ZS는 교환비율(CRWD 주가)에 연동.",
+      "signals": {
+        "event_type": "M&A",
+        "affected": "인수: CRWD(희석) / 피인수: ZS(프리미엄)",
+        "demand_driver": "통합 보안 플랫폼·제로트러스트",
+        "metric": "합산 ARR 100억 달러+"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "크라우드스트라이크 FY27 3분기 실적: 매출 15.8억 달러(+28%), 순신규 ARR 사상 최대",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm",
+      "summary": "인수 발표와 함께 예정(12/1)보다 앞당겨 실적 공개. 매출 15.8억 달러(+28%), ARR 62.6억 달러(+27%), 순신규 ARR 4.192억 달러로 분기 최대, non-GAAP EPS 0.34달러. 4분기 매출 가이던스 16.38~16.44억 달러, FY27 연간 60.78~60.84억 달러.",
+      "source": "SEC EDGAR",
+      "time": "11/23 19:39",
+      "region": "US",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "크라우드스트라이크",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "positive"
+        }
+      ],
+      "insight": "본업 수요는 사상 최대 순신규 ARR로 견조함이 확인됐지만, 시장은 인수 희석에 더 반응(주가 -8.9%). 실적과 주가의 괴리가 관전 포인트.",
+      "signals": {
+        "event_type": "실적",
+        "metric": "ARR 62.6억 달러(+27%), 순신규 ARR 4.19억 달러(최대)"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "지스케일러 FY27 1분기 실적: 매출 9.49억 달러(+20%), 가이던스 철회·컨퍼런스콜 취소",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001713683/000119312526470942/d255961dex991.htm",
+      "summary": "ZS도 예정(12/2)보다 앞당겨 실적 공개. 매출 9.493억 달러(+20%), ARR 38.82억 달러(+21%), FCF 4.165억 달러(마진 44%), non-GAAP EPS 1.23달러. 인수 계약에 따라 가이던스를 철회하고 실적 콜을 취소.",
+      "source": "SEC EDGAR",
+      "time": "11/23 19:39",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "지스케일러",
+          "market": "US",
+          "code": "ZS",
+          "effect": "positive"
+        }
+      ],
+      "insight": "가이던스 철회로 ZS 주가는 이제 실적보다 CRWD 주가·거래 종결 가능성(반독점)에 연동되는 '합병 차익' 국면.",
+      "signals": {
+        "event_type": "실적",
+        "metric": "ARR 38.82억 달러(+21%), FCF 마진 44%, 가이던스 철회"
+      }
+    },
+    {
+      "category": "market",
+      "title": "지스케일러, 크라우드스트라이크와 440억 달러 빅딜에 보안주 랠리 주도",
+      "url": "https://finance.yahoo.com/technology/ai/articles/zscaler-stock-leads-cybersecurity-rally-154855250.html",
+      "summary": "11/23 장중 ZS +17%, CRWD -5%, 옥타 +10%, 클라우드플레어 +9%, 센티넬원 +9%, 포티넷 +5%, 팔로알토 +4%. 댄 아이브스는 CRWD 아웃퍼폼 유지하며 '보안 산업 통합의 가장 분명한 신호'라고 평가.",
+      "source": "Yahoo Finance",
+      "time": "11/24 00:48",
+      "region": "US",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "옥타",
+          "market": "US",
+          "code": "OKTA",
+          "effect": "positive"
+        },
+        {
+          "name": "클라우드플레어",
+          "market": "US",
+          "code": "NET",
+          "effect": "positive"
+        },
+        {
+          "name": "센티넬원",
+          "market": "US",
+          "code": "S",
+          "effect": "positive"
+        },
+        {
+          "name": "포티넷",
+          "market": "US",
+          "code": "FTNT",
+          "effect": "positive"
+        },
+        {
+          "name": "팔로알토네트웍스",
+          "market": "US",
+          "code": "PANW",
+          "effect": "positive"
+        }
+      ],
+      "insight": "인수 프리미엄 34%가 중소형 보안주 전반의 M&A 기대를 끌어올림. 이벤트성 랠리라 실적(12/1 OKTA, 12/3 S)에서 재확인 필요.",
+      "signals": {
+        "event_type": "M&A",
+        "affected": "수혜: OKTA·NET·S·FTNT 등 잠재 피인수·동종 기업"
+      }
+    },
+    {
+      "category": "market",
+      "title": "JP모건 \"CRWD의 ZS 인수, 보안 플랫폼 확장\"…증권사 목표가 잇따라 조정",
+      "url": "https://stocktwits.com/news-articles/markets/equity/crowd-strike-s-zscaler-acquisition-could-broaden-security-platform-says-jp-morgan-analysts-weigh-opportunities-and-risks/cNbpTQZR9jT",
+      "summary": "JP모건은 CRWD 목표가 235→240달러(비중확대) 상향하며 성장률·FCF 마진 희석 우려 언급. 바클레이즈 235→265달러. 시티즌스는 센티넬원 목표가 25→28달러, 잠재 인수 대상으로 지목. 오펜하이머는 포티넷·체크포인트가 M&A 압박을 받을 수 있고 넷스코프·센티넬원이 후보라고 분석.",
+      "source": "Stocktwits",
+      "time": "11/23 22:27",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "크라우드스트라이크",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "mixed"
+        },
+        {
+          "name": "센티넬원",
+          "market": "US",
+          "code": "S",
+          "effect": "positive"
+        },
+        {
+          "name": "넷스코프",
+          "market": "US",
+          "code": "NTSK",
+          "effect": "positive"
+        },
+        {
+          "name": "포티넷",
+          "market": "US",
+          "code": "FTNT",
+          "effect": "mixed"
+        },
+        {
+          "name": "체크포인트",
+          "market": "US",
+          "code": "CHKP",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "증권가는 거래를 긍정 평가하면서도 희석을 지적. 다음 M&A 후보(S·NTSK) 거론으로 중소형주 프리미엄 형성 가능.",
+      "signals": {
+        "event_type": "M&A",
+        "affected": "후보 거론: S·NTSK / 대응 압박: FTNT·CHKP"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "크라우드스트라이크, 440억 달러 지스케일러 인수로 네트워크 보안에 베팅(로이터)",
+      "url": "https://investing.com/news/stock-market-news/crowdstrike-bets-on-network-security-with-439-billion-zscaler-deal-5044856",
+      "summary": "로이터 보도. 계약 파기 수수료 14억 달러. IG 애널리스트는 반독점 심사 가능성이 '분명히 있다'면서도 차단을 가정하기는 이르다고 언급. 거래 기사 작성 시점 ZS +13%, CRWD 약 -12%.",
+      "source": "Reuters",
+      "time": "11/23 19:39",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "크라우드스트라이크",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "mixed"
+        },
+        {
+          "name": "지스케일러",
+          "market": "US",
+          "code": "ZS",
+          "effect": "positive"
+        }
+      ],
+      "insight": "반독점 심사 기간(약 1년)이 ZS의 합병 차익(종가가 교환가치보다 약 3.5% 낮음)과 CRWD 주가 변동성의 핵심 변수.",
+      "signals": {
+        "event_type": "M&A",
+        "affected": "CRWD·ZS"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "마이크로소프트 애저 결함 악용돼 고객 API 자격증명 탈취",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "summary": "Azure API Management 클래식 티어 결함이 악용돼 저장된 비밀값·키가 유출. MS는 11/18 인지, 11/19 접근 경로 차단(권고 MZK9-GH0, CVE 미부여). 고객은 자격증명 교체 필요. 노르웨이 에퀴노르·스카게라크 에너지가 피해.",
+      "source": "BleepingComputer",
+      "time": "11/24 04:42",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "마이크로소프트",
+          "market": "US",
+          "code": "MSFT",
+          "effect": "negative"
+        },
+        {
+          "name": "에퀴노르",
+          "market": "US",
+          "code": "EQNR",
+          "effect": "negative"
+        }
+      ],
+      "insight": "Entra Connect Health(11/22)에 이어 MS 클라우드 신원·키 관리 사고 연속. 클라우드 보안·비밀관리(CYBR 등) 수요 논거 강화.",
+      "signals": {
+        "event_type": "대형 취약점",
+        "affected": "피해: MSFT·에퀴노르 / 수혜 기대: 클라우드·ID 보안",
+        "demand_driver": "클라우드 자격증명 관리"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "개인정보위, 한전 152만명 개인정보 유출 조사 착수",
+      "url": "https://www.etnews.com/20261123000481",
+      "summary": "개인정보위가 초동대응팀을 꾸려 현장조사 착수. 한전은 11/19 해커 협박메일 수신, 11/20 다크웹 게시 확인, 11/22 신고. 한전ON 650,487명(주민·계좌·카드번호 등)과 전자조달(SRM) 869,761명 유출. 10월 35,528명 유출에 이은 사고.",
+      "source": "전자신문",
+      "time": "11/23 17:07",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "negative"
+        }
+      ],
+      "insight": "주민·카드번호 포함 대규모 유출로 개인정보위 과징금 산정이 다음 변수. 한전 실적 대비 규모는 작아도 공공 보안 예산 확대 근거.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 한국전력",
+        "demand_driver": "공공기관 보안체계 개편"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "삼성증권 고객 개인정보 8241건 유출... '고객의소리' 서비스 노린 해킹",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147441",
+      "summary": "11/21 오후 홈페이지 고객의소리(VOC) 접수 서비스에 비인가 접근. 고객 첨부파일 8,241명분 유출(이름·계좌번호·주소·운전면허번호 등 13개 항목). IP 차단 후 서비스 중단.",
+      "source": "보안뉴스",
+      "time": "11/23 10:57",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성증권",
+          "market": "KR",
+          "code": "016360",
+          "effect": "negative"
+        }
+      ],
+      "insight": "계좌번호·면허번호 유출로 금융당국 제재 가능성. 규모는 작지만 증권사 웹 서비스 보안 점검 수요로 이어질 수 있음.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 삼성증권",
+        "demand_driver": "금융권 웹 보안"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "금융위, 롯데카드에 10억 과징금…해킹 유출위험 공시 미흡",
+      "url": "https://www.ddaily.co.kr/page/view/2026112319184962000",
+      "summary": "자본시장법상 공시위반으로 과징금 약 10.2억원(상한 20억원). 2025년 9월 회사채 1,700억원 발행 때 증권신고서에 유출 위험을 기재하지 않음. 297만명 유출 사고 관련.",
+      "source": "디지털데일리",
+      "time": "11/23 19:19",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "해킹 사고가 개인정보 과징금을 넘어 '공시 책임'으로 확대된 선례. 상장사 사고 공시 부담↑ → 이사회 차원 보안 투자 압력.",
+      "signals": {
+        "event_type": "제도/예산",
+        "affected": "피해: 롯데카드(비상장)",
+        "demand_driver": "사고 공시 책임 강화"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "[더존비즈온 사태] 11월23일 현황... 제네시스랩·인천공항시설관리 등 2곳 추가",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147443",
+      "summary": "더존 백업서비스 서버 불법 접근 사고로 잠재 유출 기관에 제네시스랩·인천공항시설관리가 추가돼 누적 48곳. 주민번호·계좌번호 노출 가능성.",
+      "source": "보안뉴스",
+      "time": "11/23 11:19",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "더존비즈온",
+          "market": "KR",
+          "code": "012510",
+          "effect": "negative"
+        }
+      ],
+      "insight": "피해 기관 수가 계속 늘어 SaaS 공급망 사고로서 고객 이탈·손해배상 리스크가 커지는 중.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 더존비즈온 및 고객사 48곳",
+        "demand_driver": "SaaS·백업 공급망 보안"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "인스피언, 라온시큐리티 지분 인수…2031년 100% 목표",
+      "url": "https://www.ddaily.co.kr/page/view/2026112315510709253",
+      "summary": "코스닥 인스피언이 모의해킹·보안컨설팅사 라온시큐리티 지분 80% 인수(금액 비공개, 자기자본 5% 미만). 2031년 100% 목표. AI 취약점진단·PTaaS 구독사업, 고객사 600여곳 교차판매 계획.",
+      "source": "디지털데일리",
+      "time": "11/23 15:53",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "인스피언",
+          "market": "KR",
+          "code": "465480",
+          "effect": "positive"
+        }
+      ],
+      "insight": "소형 보안사의 서비스형 모의해킹(PTaaS) 진출. 규모가 작아 단기 실적 영향은 제한적.",
+      "signals": {
+        "event_type": "M&A",
+        "affected": "인수: 인스피언",
+        "demand_driver": "AI 취약점진단·구독형 서비스"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "N-able, Mail Assure 사이버공격 후 공개된 치명적 결함 패치",
+      "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
+      "summary": "SSRF 취약점(CVSS 9.3) 패치. Mail Assure 서비스는 11/16 중단 후 11/21 복구. 호스팅 서버 1대에서 자격증명이 접근됐을 가능성. 근본원인 분석은 2주 내 공개 예정.",
+      "source": "SecurityWeek",
+      "time": "11/24 00:06",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "N-able",
+          "market": "US",
+          "code": "NABL",
+          "effect": "negative"
+        }
+      ],
+      "insight": "보안·IT관리 벤더 자체가 피해를 입은 사례로 MSP 고객 신뢰·이탈 리스크. 2주 내 분석 결과가 추가 변수.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: N-able"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "KOTA(한국트러스트연합) 공식 출범…보안 수요·공급·학계 협력",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147463",
+      "summary": "창립총회에 약 110명 참석. 공급사 부회장으로 드림시큐리티 오석주, SGA솔루션즈 최영철, 마크애니 금동기 선임. 수요기업 문제 기반 공동 PoC 추진 계획.",
+      "source": "보안뉴스",
+      "time": "11/23 17:25",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "드림시큐리티",
+          "market": "KR",
+          "code": "203650",
+          "effect": "neutral"
+        },
+        {
+          "name": "SGA솔루션즈",
+          "market": "KR",
+          "code": "184230",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "신뢰·인증 보안 업계 협의체로 직접 매출 영향은 없지만 제로트러스트 공동 PoC가 공공 수요로 이어지는지 관찰.",
+      "signals": {
+        "event_type": "제도/예산",
+        "demand_driver": "제로트러스트·신뢰 인프라"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "\"선의의 해커가 찾은 보안구멍 202개, 장애없이 조치 완료\"",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147442",
+      "summary": "과기정통부·국정원·KISA 첫 취약점 공개제도(CVD) 시범사업 결과. 화이트해커 698명이 1,343건 제보, 202건 유효·전량 조치. 민간 7곳·공공 8곳 참여. 내년부터 제도화 계획.",
+      "source": "보안뉴스",
+      "time": "11/23 12:00",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "취약점 공개제도 제도화 시 버그바운티·모의해킹 서비스 수요 확대 가능. 예산·대상 범위는 미정.",
+      "signals": {
+        "event_type": "제도/예산",
+        "demand_driver": "취약점 공개제도 제도화"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "이스트시큐리티, 앤트로픽 사이버 검증 프로그램 'CVP' 합류",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147431",
+      "summary": "이스트소프트 자회사 이스트시큐리티가 앤트로픽 CVP에 합류. Claude를 활용한 취약점 연구와 알약 Agentic EDR 고도화 계획.",
+      "source": "보안뉴스",
+      "time": "11/23 09:17",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "이스트소프트",
+          "market": "KR",
+          "code": "047560",
+          "effect": "positive"
+        }
+      ],
+      "insight": "AI 보안 테마 연결고리. 매출 기여는 미확인이라 참고 수준.",
+      "signals": {
+        "event_type": "신제품",
+        "demand_driver": "AI 보안·에이전틱 EDR"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "Bell, 지난주 고객 정보 노출된 사이버공격 조사 중",
+      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/23/bell-investigating-cyberattack-that-exposed-customer-information-last-week/",
+      "summary": "캐나다 통신사 Bell(BCE)이 고객 이름·주소·계좌번호·최근 납부액이 노출된 공격을 조사 중. 카드·은행계좌 번호는 포함되지 않았고 연방경찰(RCMP)에 신고.",
+      "source": "BNN Bloomberg",
+      "time": "11/24 00:41",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "BCE",
+          "market": "US",
+          "code": "BCE",
+          "effect": "negative"
+        }
+      ],
+      "insight": "통신사 고객정보 사고가 국내외에서 이어짐. 금융정보 미포함으로 주가 영향은 제한적일 전망.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: BCE"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "드라고스 \"AI 추론 제공업체들, 해킹·프롬프트 탈취 탐지 못해\"",
+      "url": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
+      "summary": "드라고스가 미끼 프롬프트 약 200만건으로 조사한 결과 최소 3개 AI 추론 제공업체가 침해돼 고객 프롬프트가 탈취됨. 약 200개의 AWS 테스트 키 도난. OpenRouter·Phala·Together AI·MiniMax 등이 관련.",
+      "source": "SecurityWeek",
+      "time": "11/23 21:16",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "AI 인프라 공급망의 보안 공백 사례로 AI·에이전트 보안 수요 논거. 피해 업체 대부분 비상장.",
+      "signals": {
+        "event_type": "침해사고",
+        "demand_driver": "AI 보안"
+      }
+    }
+  ]
+}
