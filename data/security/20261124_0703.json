@@ -607,5 +607,210 @@
         "demand_driver": "AI 보안"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-24T07:04+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "465480",
+        "name": "인스피언",
+        "date": "2026-11-23",
+        "title": "타법인주식및출자증권취득결정(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900752",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "CRWD",
+        "name": "크라우드스트라이크",
+        "date": "2026-11-23",
+        "title": "분기보고서(10-Q)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000038/crwd-20261031.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "CRWD",
+        "name": "크라우드스트라이크",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K) — FORM 8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_8k.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "CRWD",
+        "name": "크라우드스트라이크",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ZS",
+        "name": "지스케일러",
+        "date": "2026-11-23",
+        "title": "주총 위임장(DEF 14A)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000223/zs-20261123.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ZS",
+        "name": "지스케일러",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526471211/d115803d8k.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ZS",
+        "name": "지스케일러",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961d8k.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:CRWD": {
+        "symbol": "CRWD",
+        "close": 208.97,
+        "change_pct": -8.92,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:ZS": {
+        "symbol": "ZS",
+        "close": 229.24,
+        "change_pct": 17.67,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:PANW": {
+        "symbol": "PANW",
+        "close": 353.43,
+        "change_pct": 2.94,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:OKTA": {
+        "symbol": "OKTA",
+        "close": 206.28,
+        "change_pct": 7.74,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:NET": {
+        "symbol": "NET",
+        "close": 291.13,
+        "change_pct": 5.88,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:S": {
+        "symbol": "S",
+        "close": 24.49,
+        "change_pct": 6.9,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:FTNT": {
+        "symbol": "FTNT",
+        "close": 131.1,
+        "change_pct": 5.25,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:NTSK": {
+        "symbol": "NTSK",
+        "close": 25.82,
+        "change_pct": 7.9,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:CHKP": {
+        "symbol": "CHKP",
+        "close": 159.25,
+        "change_pct": 2.82,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:MSFT": {
+        "symbol": "MSFT",
+        "close": 492.5,
+        "change_pct": 1.65,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "US:EQNR": {
+        "symbol": "EQNR",
+        "close": 38.64,
+        "change_pct": -1.7,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "KR:015760": {
+        "symbol": "015760.KS",
+        "close": 24850.0,
+        "change_pct": -2.74,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:016360": {
+        "symbol": "016360.KS",
+        "close": 67600.0,
+        "change_pct": -2.31,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:465480": {
+        "symbol": "465480.KQ",
+        "close": 2925.0,
+        "change_pct": -2.66,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "US:NABL": {
+        "symbol": "NABL",
+        "close": 5.06,
+        "change_pct": 8.35,
+        "currency": "USD",
+        "date": "11/23"
+      },
+      "KR:203650": {
+        "symbol": "203650.KS",
+        "close": 1875.0,
+        "change_pct": -3.75,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:184230": {
+        "symbol": "184230.KS",
+        "close": 2265.0,
+        "change_pct": -6.02,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "KR:047560": {
+        "symbol": "047560.KQ",
+        "close": 5840.0,
+        "change_pct": -4.58,
+        "currency": "KRW",
+        "date": "11/23"
+      },
+      "US:BCE": {
+        "symbol": "BCE",
+        "close": 21.8,
+        "change_pct": -0.27,
+        "currency": "USD",
+        "date": "11/23"
+      }
+    },
+    "quotes_as_of": "11/23",
+    "notes": []
+  }
 }
