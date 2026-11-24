@@ -892,5 +892,295 @@
         "value_chain": "클라우드"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-25T06:27+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-23",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000192",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005380",
+        "name": "현대자동차",
+        "date": "2026-11-24",
+        "title": "자기주식처분결과보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000343",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "035720",
+        "name": "카카오",
+        "date": "2026-11-23",
+        "title": "소송등의제기ㆍ신청(일정금액이상의청구)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800003",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "032640",
+        "name": "LG유플러스",
+        "date": "2026-11-23",
+        "title": "기업설명회(IR)개최(안내공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800371",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "DELL",
+        "name": "Dell Technologies",
+        "date": "2026-11-24",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/dell-20261124.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "NVDA",
+        "name": "NVIDIA",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ARM",
+        "name": "Arm Holdings",
+        "date": "2026-11-23",
+        "title": "해외기업 수시보고(6-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1973239/000197323926000155/arm-20261123.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "MU",
+        "name": "Micron",
+        "date": "2026-11-24",
+        "title": "주총 위임장(DEF 14A)",
+        "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312526000034/mu-20261124.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "HPE",
+        "name": "Hewlett Packard Enterprise",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000097/hpe-20261123.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "HPQ",
+        "name": "HP Inc",
+        "date": "2026-11-24",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000054/hpq-20261124.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "BABA",
+        "name": "Alibaba",
+        "date": "2026-11-23",
+        "title": "해외기업 수시보고(6-K) — FORM 6-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926130757/tm2630460d1_6k.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:DELL": {
+        "symbol": "DELL",
+        "close": 295.28,
+        "change_pct": -11.83,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 155.38,
+        "change_pct": -5.86,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "KR:000660": {
+        "symbol": "000660.KS",
+        "close": 1085000.0,
+        "change_pct": -2.52,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 177500.0,
+        "change_pct": -3.06,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "US:AMD": {
+        "symbol": "AMD",
+        "close": 413.27,
+        "change_pct": -8.86,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:ARM": {
+        "symbol": "ARM",
+        "close": 161.56,
+        "change_pct": -8.55,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:AMZN": {
+        "symbol": "AMZN",
+        "close": 252.29,
+        "change_pct": -1.21,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:GOOGL": {
+        "symbol": "GOOGL",
+        "close": 279.05,
+        "change_pct": -1.08,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "KR:017670": {
+        "symbol": "017670.KS",
+        "close": 64600.0,
+        "change_pct": -7.32,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "US:CRWV": {
+        "symbol": "CRWV",
+        "close": 42.6,
+        "change_pct": -11.85,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:NBIS": {
+        "symbol": "NBIS",
+        "close": 87.31,
+        "change_pct": -10.73,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:IREN": {
+        "symbol": "IREN",
+        "close": 12.95,
+        "change_pct": -11.54,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:ORCL": {
+        "symbol": "ORCL",
+        "close": 109.5,
+        "change_pct": -3.68,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:MU": {
+        "symbol": "MU",
+        "close": 629.79,
+        "change_pct": -11.01,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:SNDK": {
+        "symbol": "SNDK",
+        "close": 77.95,
+        "change_pct": -17.42,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:HPE": {
+        "symbol": "HPE",
+        "close": 40.19,
+        "change_pct": -16.31,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:HPQ": {
+        "symbol": "HPQ",
+        "close": 27.94,
+        "change_pct": -3.32,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:BABA": {
+        "symbol": "BABA",
+        "close": 84.86,
+        "change_pct": -1.37,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:MSFT": {
+        "symbol": "MSFT",
+        "close": 496.13,
+        "change_pct": 0.74,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "KR:035420": {
+        "symbol": "035420.KS",
+        "close": 150000.0,
+        "change_pct": -7.18,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:005380": {
+        "symbol": "005380.KS",
+        "close": 247500.0,
+        "change_pct": -2.94,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:035720": {
+        "symbol": "035720.KS",
+        "close": 28950.0,
+        "change_pct": -6.61,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:012450": {
+        "symbol": "012450.KS",
+        "close": 575000.0,
+        "change_pct": -4.96,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:030200": {
+        "symbol": "030200.KS",
+        "close": 43900.0,
+        "change_pct": -3.52,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:032640": {
+        "symbol": "032640.KS",
+        "close": 14720.0,
+        "change_pct": -1.67,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:018260": {
+        "symbol": "018260.KS",
+        "close": 177200.0,
+        "change_pct": -15.42,
+        "currency": "KRW",
+        "date": "11/24"
+      }
+    },
+    "quotes_as_of": "11/24",
+    "notes": []
+  }
 }
