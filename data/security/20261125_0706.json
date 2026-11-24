@@ -1,0 +1,607 @@
+{
+  "published_at": "2026-11-25T07:06",
+  "industry": "security",
+  "title": "보안 투자 브리핑",
+  "emoji": "🛡️",
+  "sources": [
+    "BleepingComputer",
+    "Investing.com",
+    "SecurityWeek",
+    "The Register",
+    "Yahoo Finance(Investing.com)",
+    "뉴스1",
+    "뉴스웨이",
+    "데이터넷",
+    "데일리시큐",
+    "보안뉴스",
+    "전자신문",
+    "지디넷코리아"
+  ],
+  "briefing": [
+    "체크포인트 관리서버 22곳 피해 공격 공개 → CHKP 신뢰도 부담, 경쟁 방화벽엔 교체 수요",
+    "라드웨어 클라우드 WAF 키 노출 → RDWR 후속 공시·고객 이탈 리스크",
+    "CRWD–ZS 딜 스프레드 약 3%, ZS 하향 잇따라 → ZS는 CRWD 연동 딜 종목화",
+    "국내 정보보호 상장사 3Q 매출 +20% → 안랩·지니언스·드림시큐리티 실적 확인",
+    "금융권 방화벽 점검(12/31)·내년 제로트러스트 → 금융보안 발주 기대"
+  ],
+  "market_snapshot": [
+    {
+      "label": "CIBR 사이버보안 ETF (11/23 종가)",
+      "value": "$94.88",
+      "source": "YCharts",
+      "url": "https://ycharts.com/companies/CIBR/price"
+    }
+  ],
+  "watchlist_notes": [],
+  "events": [
+    {
+      "date": "2026-11-30",
+      "event": "루브릭 FY27 3분기 실적 발표(장 마감 후)",
+      "tickers": [
+        "RBRK"
+      ],
+      "source_url": "https://s203.q4cdn.com/667520861/files/doc_news/Rubrik-to-Report-Third-Quarter-Fiscal-2027-Financial-Results-on-November-30-2026-2026.pdf"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "옥타 FY27 3분기 실적 발표(장 마감 후)",
+      "tickers": [
+        "OKTA"
+      ],
+      "source_url": "https://investingnews.com/okta-to-announce-third-quarter-fiscal-year-2027-financial-results-on-december-1-2026/"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "엔키화이트햇 공모주 청약(12/1~2)",
+      "tickers": [],
+      "source_url": "https://newsway.co.kr/news/view?ud=2026112413374347933"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "넷스코프 FY27 3분기 실적 발표(장 마감 후)",
+      "tickers": [
+        "NTSK"
+      ],
+      "source_url": "https://finviz.com/news/415452/netskope-to-report-fiscal-third-quarter-2027-financial-results-on-december-2-2026"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "센티넬원 FY27 3분기 실적 발표(장 마감 후)",
+      "tickers": [
+        "S"
+      ],
+      "source_url": "https://finviz.com/news/422106/sentinelone-announces-date-of-fiscal-third-quarter-2027-financial-results-conference-call-and-participation-in-upcoming-investor-conference"
+    },
+    {
+      "date": "2026-12-08",
+      "event": "세일포인트 FY27 3분기 실적 발표(장 시작 전)",
+      "tickers": [
+        "SAIL"
+      ],
+      "source_url": "https://finviz.com/news/421626/sailpoint-announces-date-of-fiscal-third-quarter-2027-earnings-conference-call-and-participation-in-upcoming-investor-conference"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "breach",
+      "title": "체크포인트 보안관리 서버, AI 활용 공격 캠페인에 해킹돼",
+      "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
+      "summary": "GreyNoise에 따르면 위협그룹 GT13이 한국 포함 약 10개국 에너지·금융·정부·제조 등 최소 22개 조직의 체크포인트 보안관리 서버를 침해. SmartConsole CVE-2026-16232 등 12개 CVE(시트릭스·익스체인지·vCenter 포함)를 악용, AI 에이전트 자동화가 의심되며 접근이 유지됐을 가능성.",
+      "source": "SecurityWeek",
+      "time": "11/24 23:21",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "체크포인트",
+          "market": "US",
+          "code": "CHKP",
+          "effect": "negative"
+        },
+        {
+          "name": "Broadcom",
+          "market": "US",
+          "code": "AVGO",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "보안 벤더 자체 관리제품이 공격 통로가 된 사례로 체크포인트 신뢰도·갱신 협상에 부담. 경쟁 방화벽 벤더엔 교체 수요 논거.",
+      "signals": {
+        "event_type": "대형 취약점·침해사고",
+        "affected": "피해: 체크포인트 / 수혜 가능: 경쟁 방화벽·위협탐지 벤더",
+        "demand_driver": "AI 자동화 공격 대응"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "라드웨어, 고객 클라우드 접근 키 노출된 침해 사실 공개",
+      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "summary": "라드웨어 Cloud WAF 내부 관리 API가 인증 없이 인터넷에 노출돼 11/19 공격자가 고객 연락처와 일부 고객의 AWS S3·Azure Blob·SFTP 로그 내보내기 자격증명에 접근. 약 10시간 뒤 탐지. 고객 1.25만여 곳 중 피해 규모는 미공개, 게시 시점 공식 입장·SEC 제출 없음.",
+      "source": "BleepingComputer",
+      "time": "11/25 02:49",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Radware",
+          "market": "US",
+          "code": "RDWR",
+          "effect": "negative"
+        }
+      ],
+      "insight": "보안 벤더 클라우드 서비스 침해는 고객 이탈·공시(6-K) 리스크로 직결. 후속 공시와 피해 고객 수가 주가 변수.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 라드웨어(및 고객사)"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "페닌슐라 에너지, 미국 우라늄 광산 사이버 사고로 거래 정지",
+      "url": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+      "summary": "호주 상장 페닌슐라 에너지가 와이오밍 Lance 우라늄 프로젝트 운영시스템이 금요일 밤 사이버 사고를 당해 거래 정지를 요청. 생산 차질 여부는 미공개, 미국·호주 행정시스템은 영향 없음. 정지는 11/25 거래 재개 또는 발표 시까지.",
+      "source": "SecurityWeek",
+      "time": "11/24 19:35",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Peninsula Energy",
+          "market": "GLOBAL",
+          "code": "PEN.AX",
+          "effect": "negative"
+        }
+      ],
+      "insight": "운영기술(OT) 공격이 상장사 거래정지로 이어진 사례. 생산 차질 공개 여부가 재개 후 주가 방향을 좌우, OT 보안 수요 논거.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 페닌슐라 에너지",
+        "demand_driver": "OT·핵심광물 인프라 보안"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "VMware, ESX·vCenter 치명적 취약점 패치",
+      "url": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
+      "summary": "브로드컴이 VMware 제품 취약점 23개를 패치. vCenter 인증우회(CVE-2026-123903, CVSS 9.8), ESX 코드실행(9.8 두 건·9.3 한 건) 포함, Avi 로드밸런서 취약점 8개. 실제 악용 보고는 아직 없음.",
+      "source": "SecurityWeek",
+      "time": "11/25 01:32",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Broadcom",
+          "market": "US",
+          "code": "AVGO",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "핵심 가상화 인프라 취약점으로 기업 긴급 패치 부담. vCenter는 체크포인트 공격 캠페인에도 쓰인 경로라 악용 여부 주시.",
+      "signals": {
+        "event_type": "대형 취약점",
+        "affected": "벤더: 브로드컴(VMware)"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "EU 집행위, EU 아카데미 침해로 데이터 탈취 확인",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "summary": "EU 집행위원회가 학습 플랫폼 EU 아카데미에서 이름·이메일이 탈취됐다고 확인. 10/22 시작된 공격에 AI 모의해킹 프레임워크 ARTEX가 쓰였고 내부 HR 플랫폼 Sysper도 장애. 올해 세 번째 집행위 침해.",
+      "source": "BleepingComputer",
+      "time": "11/25 01:22",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "EU 기관 반복 침해는 NIS2·주권 보안 예산 확대 논거. 직접 영향 상장사는 없음.",
+      "signals": {
+        "event_type": "침해사고",
+        "demand_driver": "EU NIS2·공공 보안 예산"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "OpenAI·시스코, 미패치 리눅스 시스템 보호 오픈소스 도구 공개",
+      "url": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
+      "summary": "OpenAI와 시스코가 eBPF와 AI 에이전트로 패치 전 취약점 악용을 막는 '실드'를 생성하는 오픈소스 도구 'Shirudo'를 공개. Isovalent Tetragon 기반이며 재부팅 불필요. 프리릴리스 단계로 운영 환경용은 아님.",
+      "source": "SecurityWeek",
+      "time": "11/24 21:20",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Cisco",
+          "market": "US",
+          "code": "CSCO",
+          "effect": "positive"
+        }
+      ],
+      "insight": "AI 네이티브 도구가 런타임·취약점관리 시장에 진입, 무료 오픈소스라 기존 벤더 가격 경쟁 압력이 될 수 있음.",
+      "signals": {
+        "event_type": "신제품",
+        "demand_driver": "AI 보안·가상 패치"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "앤트로픽, AI 오용 탐지 기업용 보호장치 확대",
+      "url": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
+      "summary": "앤트로픽이 여러 요청에 걸친 악성 패턴을 탐지해 SIEM으로 보고하는 Enterprise Frontier Safeguards를 공개 베타로 출시. 포춘100의 4분의 1이 개발에 참여, Claude 플랫폼·AWS·구글 클라우드에서 제공.",
+      "source": "SecurityWeek",
+      "time": "11/24 22:30",
+      "region": "US",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "AI 모델사가 AI 사용 모니터링 영역에 직접 진입. 에이전트 보안 시장에서 기존 보안 벤더와의 협력·경쟁 구도 변화 신호.",
+      "signals": {
+        "event_type": "신제품",
+        "demand_driver": "AI·에이전트 보안"
+      }
+    },
+    {
+      "category": "market",
+      "title": "크라우드스트라이크의 지스케일러 전액 주식 인수: 거래 구조상 위험이 피인수 주주에게 이전",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-bid-zscaler-deal-202415003.html",
+      "summary": "11/24 장중 CRWD 210.10달러(+0.54%), ZS 230.75달러(+0.66%). 교환비율 1.135 기준 ZS 내재가치는 238.47달러로 발표 시점(260.41달러) 대비 약 8% 낮고 ZS는 그보다 약 3.2% 아래 거래. 나스닥100 -2.10% 약세 속 버팀. 구겐하임은 CRWD 매수로 상향.",
+      "source": "Yahoo Finance(Investing.com)",
+      "time": "11/25 05:24",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "CrowdStrike",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "mixed"
+        },
+        {
+          "name": "Zscaler",
+          "market": "US",
+          "code": "ZS",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "ZS는 이제 CRWD 주가에 연동되는 딜 종목. 약 3% 스프레드는 시장이 반독점 심사 등 완료 리스크를 일부 반영한다는 뜻.",
+      "signals": {
+        "event_type": "M&A",
+        "affected": "CRWD(인수자)·ZS(피인수)"
+      }
+    },
+    {
+      "category": "market",
+      "title": "제프리스, 크라우드스트라이크 인수 계기로 지스케일러 투자의견 '보유'로 하향",
+      "url": "https://www.investing.com/news/analyst-ratings/jefferies-downgrades-zscaler-stock-rating-to-hold-on-crowdstrike-deal-93CH-5047168",
+      "summary": "제프리스가 ZS를 매수→보유로 낮추고 목표가는 250→260달러로 조정. CY27 FCF 약 43배 가격이라 경쟁 입찰 가능성은 낮다고 봄. 같은 날 웨드부시(중립, 260달러)·오펜하이머(Perform)도 하향, D.A.데이비드슨은 매수(278달러)로 상향.",
+      "source": "Investing.com",
+      "time": "11/24 15:51",
+      "region": "US",
+      "importance": 2,
+      "impact": "neutral",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Zscaler",
+          "market": "US",
+          "code": "ZS",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "ZS 하향은 사업 악화가 아니라 딜 가격에 상단이 묶인 데 따른 것. 경쟁 입찰 기대가 낮다는 데 증권사 견해가 모임.",
+      "signals": {
+        "event_type": "M&A",
+        "affected": "ZS"
+      }
+    },
+    {
+      "category": "market",
+      "title": "크라우드스트라이크, 지스케일러에 440억달러 투입…고객들은 가격 인상 우려",
+      "url": "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877",
+      "summary": "지스케일러 고객 약 8천 곳은 크라우드스트라이크를 쓰지 않고 2천여 곳은 둘 다 사용. 고객들은 가격 인상, Falcon 강제 전환, Red Canary 거취를 우려. 합병 시 ARR 100억달러 이상.",
+      "source": "The Register",
+      "time": "11/24 21:22",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "CrowdStrike",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "mixed"
+        },
+        {
+          "name": "Palo Alto Networks",
+          "market": "US",
+          "code": "PANW",
+          "effect": "positive"
+        },
+        {
+          "name": "Fortinet",
+          "market": "US",
+          "code": "FTNT",
+          "effect": "positive"
+        }
+      ],
+      "insight": "단일 벤더 종속을 꺼리는 고객이 PANW·FTNT 등 대안 플랫폼으로 이동할 여지. 교차판매 시너지와 이탈 리스크가 공존.",
+      "signals": {
+        "event_type": "M&A",
+        "affected": "수혜 가능: PANW·FTNT",
+        "metric": "합산 ARR 100억달러+"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "하나저축은행도 해킹…고객 552명 개인정보 유출",
+      "url": "https://www.news1.kr/finance/general-finance/6364784",
+      "summary": "11/16 하나저축은행 모바일웹 '고객확인 재이행' 시스템에 외부 침입이 발생해 552명의 주민번호·주소·직장명 등 19개 항목이 유출. 추가 피해는 조사 중. 올해 해킹당한 저축은행은 예가람·웰컴·DB·OK에 이어 5곳째.",
+      "source": "뉴스1",
+      "time": "11/24 18:26",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "하나금융지주",
+          "market": "KR",
+          "code": "086790",
+          "effect": "negative"
+        }
+      ],
+      "insight": "모회사 실적 영향은 미미하나 2금융권 사고 연쇄로 금융보안 규제·투자 강화 압력이 커지는 흐름.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 하나저축은행(하나금융지주 계열)",
+        "demand_driver": "금융권 보안 규제 강화"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "웰컴페이먼츠·KIS정보통신서도 개인정보 유출",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147490",
+      "summary": "KIS정보통신 VAN 업무지원 서버에 비정상 접근이 있어 고객 208명·직원 654명 등 862건이 유출(11/19 확인). 웰컴페이먼츠는 가맹점 관리자 페이지를 통해 결제내역 등 1,326건이 유출.",
+      "source": "보안뉴스",
+      "time": "11/24 12:12",
+      "region": "KR",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "PG·VAN 결제 인프라까지 사고 확산. 두 회사는 비상장이나 결제망 보안 점검·제재 확대 가능성은 금융보안 수요 요인.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: KIS정보통신·웰컴페이먼츠(비상장)"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "HD현대로보틱스 해킹으로 개인정보 유출, 기업명·부서·직책 등 10개 항목",
+      "url": "https://www.dailysecu.com/news/articleView.html?idxno=209681",
+      "summary": "11/19 HD현대로보틱스 홈페이지 회원 DB가 해킹돼 이름·ID·암호화된 비밀번호·회사명·부서·직책·연락처 등 10개 항목이 유출(11/20 확인). 규모는 미공개, 내부망·생산설비 침해는 확인되지 않음.",
+      "source": "데일리시큐",
+      "time": "11/24 08:11",
+      "region": "KR",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "제조 대기업 계열 비상장사 사고. 기업 간 사칭·스피어피싱 2차 피해 위험이 커져 B2B 이메일 보안 수요 요인.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: HD현대로보틱스(비상장)"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "'rERP' 해킹, 파장은?... 약한 고리 대학 노린 '산학연' 전체 위기",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147469",
+      "summary": "해커 'KimJEN'이 대학 데이터 압축파일 31개를 공개, 28개 대학이 확인되고 17개 폴더가 연구행정시스템 rERP 데이터. 6개 대학이 유출 공지. 분석 결과 rERP 자체 결함·공급사 침해 증거는 없고 AI 해킹 도구 'ARTEX' 사용이 추정됨.",
+      "source": "보안뉴스",
+      "time": "11/24 09:43",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "보안 투자가 약한 대학·연구기관이 표적이 되며 교육·공공 부문 보안 예산 확대 논의로 이어질 수 있음.",
+      "signals": {
+        "event_type": "침해사고",
+        "demand_driver": "대학·공공 보안 예산"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "잇달은 해킹이 영향?...정보보호 상장사 32곳 3분기 매출합 20%↑",
+      "url": "https://zdnet.co.kr/view/?no=20261124142948",
+      "summary": "정보보호 상장사 32곳의 3분기 매출 합계는 7,731억원(+20.0%). 안랩 영업이익 109억원(+38.7%)으로 1위, 드림시큐리티 98억원(2.5배), 지니언스 38억원(3배 이상), 오픈베이스 매출 978억원(+92.7%). 이글루는 매출 +75.9%지만 누적 영업적자.",
+      "source": "지디넷코리아",
+      "time": "11/24 18:57",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "안랩",
+          "market": "KR",
+          "code": "053800",
+          "effect": "positive"
+        },
+        {
+          "name": "드림시큐리티",
+          "market": "KR",
+          "code": "203650",
+          "effect": "positive"
+        },
+        {
+          "name": "지니언스",
+          "market": "KR",
+          "code": "263860",
+          "effect": "positive"
+        },
+        {
+          "name": "오픈베이스",
+          "market": "KR",
+          "code": "049480",
+          "effect": "positive"
+        },
+        {
+          "name": "이글루",
+          "market": "KR",
+          "code": "067920",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "연이은 해킹 사태가 테마를 넘어 실제 매출·이익으로 확인되는 단계. 4분기 공공·금융 발주가 실적 지속성의 관건.",
+      "signals": {
+        "metric": "32개사 3Q 매출 7,731억원(+20%)",
+        "demand_driver": "연쇄 침해사고 후 보안 투자 확대"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "더존비즈온·안랩, 사이버보안 역량 강화 맞손",
+      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=300464",
+      "summary": "해킹 사태를 겪은 더존비즈온이 안랩과 기술·사업협력 MOU를 체결. ERP 등 주요 솔루션 보안 강화, 공동연구, 솔루션 연동, 보안컨설팅·서비스 공동사업을 검토. 구체 일정·금액은 없음.",
+      "source": "데이터넷",
+      "time": "11/24 09:37",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "더존비즈온",
+          "market": "KR",
+          "code": "012510",
+          "effect": "positive"
+        },
+        {
+          "name": "안랩",
+          "market": "KR",
+          "code": "053800",
+          "effect": "positive"
+        }
+      ],
+      "insight": "더존비즈온은 신뢰 회복 조치, 안랩은 ERP 고객 기반 보안 사업 기회. MOU 단계라 매출 반영은 후속 계약 확인 필요.",
+      "signals": {
+        "event_type": "제휴",
+        "affected": "수혜: 안랩",
+        "demand_driver": "침해 후 보안 강화"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "파이오링크, 베트남 사이버 보안 시장 공략 박차 ··· 'VSEC'와 전략적 제휴",
+      "url": "https://www.datanet.co.kr/news/articleView.html?idxno=300487",
+      "summary": "파이오링크가 베트남 보안관제(MSSP) 기업 VSEC와 전략적 MOU를 체결해 양국 사업 발굴과 솔루션 공동 연구·개발을 추진.",
+      "source": "데이터넷",
+      "time": "11/24 14:19",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "파이오링크",
+          "market": "KR",
+          "code": "170790",
+          "effect": "positive"
+        }
+      ],
+      "insight": "해외 확장 모멘텀이나 MOU 단계라 단기 실적 영향은 제한적.",
+      "signals": {
+        "event_type": "제휴"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "엔키화이트햇 \"보안 점검 수요 확대···올해 매출 70% 증가 예상\"",
+      "url": "https://newsway.co.kr/news/view?ud=2026112413374347933",
+      "summary": "모의해킹 기업 엔키화이트햇이 공모가 희망밴드 1.3만~1.65만원, 170만주(221~281억원) 공모. 수요예측 ~11/26, 청약 12/1~2, 12/11 코스닥 상장 예정(주관 신영증권). 2025년 매출 142억원(+78%), 2026년 목표 매출 242억원·영업이익 56억원.",
+      "source": "뉴스웨이",
+      "time": "11/24 14:58",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "오펜시브 보안 신규 상장주로 수요예측 결과가 국내 보안 섹터 밸류에이션 온도계 역할.",
+      "signals": {
+        "event_type": "IPO",
+        "demand_driver": "보안 점검·모의해킹 수요"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "[2026 보안 이슈 결산-2] 망분리 깬 AI 해킹 공격... 금융권, '자율·복원력' 시동",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147449",
+      "summary": "9/30 이후 금융권 피해는 37개사·40건·약 47.3만건. 금융위·금감원은 580개 금융사에 외부접속 방화벽 경로 점검을 지시(12/31 CEO 서명 제출). AI·SaaS 망분리 예외(75개사)는 상시화, 2027년 1분기 탈망분리 보안체계·제로트러스트 추진.",
+      "source": "보안뉴스",
+      "time": "11/24 17:30",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "연말 점검 마감과 내년 1분기 제로트러스트 전환은 금융권 보안 발주 수요의 근거.",
+      "signals": {
+        "event_type": "제도/예산",
+        "demand_driver": "망분리 완화·제로트러스트·금융당국 점검"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "보안 전문가들 \"'차르' 신설보다 실권 강화…산업 육성도 챙겨야\"",
+      "url": "https://www.etnews.com/20261124000385",
+      "summary": "정부의 사이버보안 '차르' 신설 구상에 대해 전문가들은 새 기구보다 국가안보실에 부처 예산 조정권을 주자고 제언. 국가안보실 보안산업 비서관 신설 제안도 나옴(KISIA 김진수 회장 등).",
+      "source": "전자신문",
+      "time": "11/24 16:00",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "컨트롤타워 개편과 예산 조정권 향방이 내년 공공 보안 예산 규모를 좌우할 변수.",
+      "signals": {
+        "event_type": "제도/예산",
+        "demand_driver": "국가 사이버보안 거버넌스 개편"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "잇단 해킹에 與 보안분과 출범…사이버보안 정책 손본다",
+      "url": "https://www.news1.kr/it-science/security-hacking/6364562",
+      "summary": "더불어민주당 과학기술혁신특위가 보안분과를 출범해 정보보호 R&D와 보안산업 육성 과제를 발굴할 계획.",
+      "source": "뉴스1",
+      "time": "11/24 16:31",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "여당 차원의 입법·예산 논의 착수로 보안산업 정책 지원 기대가 이어짐.",
+      "signals": {
+        "event_type": "제도/예산"
+      }
+    }
+  ]
+}
