@@ -1,0 +1,786 @@
+{
+  "published_at": "2026-11-25T06:35",
+  "industry": "semiconductor",
+  "title": "반도체 투자 브리핑",
+  "emoji": "💾",
+  "sources": [
+    "MarketScreener(Reuters)",
+    "Stocktwits",
+    "Yahoo Finance",
+    "데이터투자",
+    "디일렉",
+    "디지털데일리",
+    "디지털투데이",
+    "아이뉴스24",
+    "아주경제",
+    "이데일리",
+    "이투데이",
+    "재경일보",
+    "전자신문",
+    "핀포인트뉴스",
+    "한국경제"
+  ],
+  "briefing": [
+    "엔비디아 랠리 하루 만에 반납, SOX -7.9% → 국내 반도체주 전일 +6%대 반등분 되돌림 압력",
+    "BNP, 마이크론 중립·목표가 775달러 → 메모리 2028년 다운사이클 우려 확산",
+    "골드만·모건스탠리·BNK 목표가 하향 → 삼성전자·SK하이닉스 밸류에이션 상단 논쟁",
+    "Entity List·MATCH Act 등 미 수출통제 강화 → 삼성·하이닉스 중국 팹·우회수요 리스크",
+    "HPSP 1,000억 자사주 소각·기가비스 수주 급증 → 장비주 개별 호재"
+  ],
+  "market_snapshot": [
+    {
+      "label": "필라델피아 반도체지수(11/24)",
+      "value": "8,832.50 (-7.88%)",
+      "source": "Nasdaq Global Indexes",
+      "url": "https://indexes.nasdaqomx.com/Index/Overview/SOX"
+    },
+    {
+      "label": "코스피(11/24)",
+      "value": "5,006.03 (+6.32%)",
+      "source": "파이낸셜뉴스",
+      "url": "https://www.fnnews.com/news/202611241604048501"
+    }
+  ],
+  "watchlist_notes": [
+    {
+      "name": "삼성전자",
+      "note": "11/24 +6.70%(189,400원), 외국인·기관 순매수. 골드만·모건스탠리 목표가 하향. 임원 131명 승진, DS 53%.",
+      "article_urls": [
+        "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03778566645649000",
+        "https://www.ddaily.co.kr/page/view/2026112410383604942",
+        "https://www.etnews.com/20261124000378"
+      ]
+    },
+    {
+      "name": "SK하이닉스",
+      "note": "11/24 +6.73%(1,158,000원). BNK 목표가 105만원으로 현재가 하회. 미국장 ADR 4% 이상 하락.",
+      "article_urls": [
+        "https://www.hankyung.com/article/2026112475896",
+        "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html"
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "note": "전일 +31% 후 약 6% 하락. 12/1 하원 비공개 회의, 12/3 상원 청문회. 메가스피드 Entity List 등재.",
+      "article_urls": [
+        "https://www.marketscreener.com/news/nasdaq-s-p-500-end-lower-following-monday-s-nvidia-fueled-rally-ce7851dbdd81f720",
+        "https://www.etnews.com/20261124000348"
+      ]
+    },
+    {
+      "name": "HBM",
+      "note": "대신증권, 엔비디아 HBM4 비중 하이닉스 55%·삼성 28%·마이크론 17% 추정. BNP는 루빈 울트라 HBM 탑재량 축소 지적.",
+      "article_urls": [
+        "https://www.etoday.co.kr/news/view/2652159",
+        "https://stocktwits.com/news-articles/markets/equity/mu-stock-downgraded-price-target-cut-by-almost-1-000-bnp-paribas-flags-2028-hyperscaler-capacity-risks/cNbsaFoR9ko"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-25",
+      "event": "미국 PCE 물가 발표(금리 인상 기대 관련)",
+      "tickers": [],
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-dip-chip-105355594.html"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "젠슨 황, 하원 비공개 회의 출석",
+      "tickers": [
+        "NVDA"
+      ],
+      "source_url": "https://www.etnews.com/20261124000348"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "마벨 FY27 3분기 실적 발표(미국 장 마감 후)",
+      "tickers": [
+        "MRVL"
+      ],
+      "source_url": "https://www.fool.com/investing/2026/11/20/marvell-reports-dec-1-history-says-what-its-stock-usually-does-next/"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "젠슨 황, 상원 은행위원회 수출통제 공개 청문회",
+      "tickers": [
+        "NVDA"
+      ],
+      "source_url": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/"
+    },
+    {
+      "date": "2026-12-09",
+      "event": "브로드컴 FY26 4분기 실적 발표(미국 장 마감 후)",
+      "tickers": [
+        "AVGO"
+      ],
+      "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026"
+    }
+  ],
+  "requests": [],
+  "filings": [
+    {
+      "market": "KR",
+      "code": "403870",
+      "name": "HPSP",
+      "date": "2026-11-24",
+      "title": "주요사항보고서(자기주식취득결정) — 1,000억원",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000377"
+    },
+    {
+      "market": "KR",
+      "code": "253590",
+      "name": "네오셈",
+      "date": "2026-11-24",
+      "title": "단일판매ㆍ공급계약체결 — 142.1억원",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900422"
+    },
+    {
+      "market": "KR",
+      "code": "122640",
+      "name": "예스티",
+      "date": "2026-11-24",
+      "title": "단일판매ㆍ공급계약체결(자율공시) — 72.6억원",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900509"
+    },
+    {
+      "market": "KR",
+      "code": "086390",
+      "name": "유니테스트",
+      "date": "2026-11-24",
+      "title": "단일판매ㆍ공급계약체결(자율공시) — 57.28억원",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900542"
+    }
+  ],
+  "articles": [
+    {
+      "category": "market",
+      "title": "엔비디아發 랠리 하루 만에 반납…나스닥·S&P500 하락 마감",
+      "url": "https://www.marketscreener.com/news/nasdaq-s-p-500-end-lower-following-monday-s-nvidia-fueled-rally-ce7851dbdd81f720",
+      "summary": "11/24 미국장 나스닥 -1.45%, S&P500 -0.48%, 다우 +0.87%(잠정). 엔비디아 약 -5.9%, 마이크론 약 -11%. 전날 급등분 차익실현, 황 CEO 복귀를 둘러싼 거버넌스 리스크, 교역국 관세 조사 우려가 겹침.",
+      "source": "MarketScreener(Reuters)",
+      "time": "11/25 06:01",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "negative"
+        },
+        {
+          "name": "AMD",
+          "market": "US",
+          "code": "AMD",
+          "effect": "negative"
+        }
+      ],
+      "insight": "SOX가 하루 만에 -7.9%로 되돌려져 AI 반도체 변동성이 극단적. 11/25 국내 반도체주는 전일 +6%대 반등분 반납 압력.",
+      "signals": {
+        "segment": "팹리스·메모리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "엔비디아·AMD·브로드컴 주도로 반도체주 하락…AI 트레이드 다시 압박",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html",
+      "summary": "엔비디아가 전일 +31% 후 장중 약 8% 하락. TSMC·ASML 약 -2%, Arm 약 -4%, 마이크론·SK하이닉스 ADR 4% 이상, 샌디스크·시게이트·WDC 5% 이상 하락. 코어위브·네비우스 등 네오클라우드도 약세.",
+      "source": "Yahoo Finance",
+      "time": "11/24 23:16",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "Broadcom",
+          "market": "US",
+          "code": "AVGO",
+          "effect": "negative"
+        },
+        {
+          "name": "TSMC ADR",
+          "market": "US",
+          "code": "TSM",
+          "effect": "negative"
+        },
+        {
+          "name": "SanDisk",
+          "market": "US",
+          "code": "SNDK",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "insight": "메모리·스토리지주 낙폭이 상대적으로 커, 메모리 피크아웃 논쟁이 주가 민감도를 키우고 있음.",
+      "signals": {
+        "segment": "메모리·스토리지"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "BNP파리바, 마이크론 투자의견 중립 하향·목표가 1,700→775달러",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mu-stock-downgraded-price-target-cut-by-almost-1-000-bnp-paribas-flags-2028-hyperscaler-capacity-risks/cNbsaFoR9ko",
+      "summary": "BNP파리바가 MU를 아웃퍼폼→중립, 목표가 1,700→775달러로 하향. 2028년 하이퍼스케일러 증설 리스크, 베라 루빈 울트라의 HBM 탑재량 축소, 2026~27년 PC·모바일 판매 감소를 근거로 제시. MU는 장 초반 7% 넘게 하락.",
+      "source": "Stocktwits",
+      "time": "11/24 23:49",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        }
+      ],
+      "insight": "골드만·모건스탠리에 이어 해외 IB의 2028년 메모리 다운사이클 경고가 이어져 HBM 탑재량 가정이 핵심 변수로 부상.",
+      "signals": {
+        "segment": "메모리·HBM",
+        "price": "2028년 하이퍼스케일러 증설 둔화 리스크"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "\"2028년 반도체 호황 꺾인다\"…골드만삭스·모건스탠리, 삼성전자·SK하이닉스 목표가 줄하향",
+      "url": "https://www.ddaily.co.kr/page/view/2026112410383604942",
+      "summary": "골드만삭스는 삼성전자 목표가 50만→35만원, SK하이닉스 350만→200만원으로 하향. D램 공급부족률이 내년 5.1%에서 2028년 1.2%로 줄고 2028년 범용 D램 가격 약 20% 하락 전망. 모건스탠리는 삼성 30.9만원, 하이닉스 160만원. 두 곳 모두 매수 유지.",
+      "source": "디지털데일리",
+      "time": "11/24 13:43",
+      "region": "KR",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "insight": "투자의견은 유지됐지만 2028년 범용 D램 가격 하락 가정이 확산되면 메모리주 밸류에이션 상단이 낮아질 수 있음.",
+      "signals": {
+        "segment": "메모리",
+        "price": "2028년 범용 D램 가격 약 20% 하락 전망(골드만)"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "400만닉스는 커녕 100만닉스도 위태…폭락 맞춘 BNK의 경고",
+      "url": "https://www.hankyung.com/article/2026112475896",
+      "summary": "BNK투자증권이 SK하이닉스 목표가를 165만→105만원(-36%)으로 하향, 24일 종가 115.8만원보다 낮음. D램 공급 출하 증가율 38%가 수요 증가율 24%를 웃돌아 2016년 이후 최대 격차라는 분석. 2028년 영업이익 35조원(내년 대비 -89%) 전망.",
+      "source": "한국경제",
+      "time": "11/24 22:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "insight": "현재가를 밑도는 목표가가 국내 증권사에서 나와 공급 과잉 시나리오가 본격 논쟁 대상이 됨.",
+      "signals": {
+        "segment": "메모리",
+        "price": "D램 공급 +38% vs 수요 +24%(BNK)"
+      }
+    },
+    {
+      "category": "market",
+      "title": "\"이제 바닥 찍었나\"…삼전닉스 6% 급반등에도 남은 숙제",
+      "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03778566645649000",
+      "summary": "11/24 삼성전자 +6.70%(189,400원), SK하이닉스 +6.73%(1,158,000원), 코스피 +6.32%(5,006.03). 삼성전자는 외국인·기관 동반 순매수. 남은 리스크로 엔비디아 관련 조사, 수출통제, 중국 메모리 증설을 꼽음.",
+      "source": "이데일리",
+      "time": "11/24 16:20",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        }
+      ],
+      "insight": "미국 반도체 급등을 반영한 반등이었으나 간밤 SOX -7.9%로 단기 되돌림 가능성. 외국인 수급 지속 여부가 관건.",
+      "signals": {
+        "segment": "메모리"
+      }
+    },
+    {
+      "category": "equipment",
+      "title": "원익IPS까지 매수세 집중…반도체 장비주, 전공정 투자 기대 커졌다",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507551",
+      "summary": "11/24 한미반도체 +8.49%(163,600원), 원익IPS +9.15%(71,600원), HPSP +10.75%(41,200원) 등 장비주 강세. 메모리·HBM·첨단패키징 설비투자 확대 기대가 반영됨.",
+      "source": "핀포인트뉴스",
+      "time": "11/24 15:52",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "한미반도체",
+          "market": "KR",
+          "code": "042700",
+          "effect": "positive"
+        },
+        {
+          "name": "원익IPS",
+          "market": "KR",
+          "code": "240810",
+          "effect": "positive"
+        },
+        {
+          "name": "HPSP",
+          "market": "KR",
+          "code": "403870",
+          "effect": "positive"
+        },
+        {
+          "name": "케이씨텍",
+          "market": "KR",
+          "code": "281820",
+          "effect": "positive"
+        }
+      ],
+      "insight": "장비주는 메모리 CAPEX 기대에 민감해 2028년 다운사이클 우려와 SOX 급락 시 변동성도 큼.",
+      "signals": {
+        "segment": "장비",
+        "capacity": "메모리·HBM·패키징 투자 기대"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "HPSP, 1,000억원 규모 자사주 취득 결정…원칙적 소각",
+      "url": "https://www.datatooza.com/article/20261124161300242752ef34e338_80",
+      "summary": "HPSP가 1,000억원 규모 자기주식 2,688,172주 취득을 결정. 기간 11/25~2027/2/24, NH투자증권 통한 장내 매수이며 원칙적으로 소각할 예정.",
+      "source": "데이터투자",
+      "time": "11/24 16:13",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "HPSP",
+          "market": "KR",
+          "code": "403870",
+          "effect": "positive"
+        }
+      ],
+      "insight": "소각 전제 자사주 매입으로 주주환원 강화. 오늘부터 매수가 시작돼 단기 수급에 우호적.",
+      "signals": {
+        "segment": "장비"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "기가비스, 한 달 새 작년 매출 3배 수주…절반은 삼성전기가",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65825",
+      "summary": "기가비스가 10/23~11/23 공급계약 4건, 합계 1,610억원 수주(2025년 매출의 3배 이상). 삼성전기 857억원(53%), 중국 기판사 753억원. 3분기 매출 269억원(+273.6%), 영업이익 89억원(+888.9%).",
+      "source": "디일렉",
+      "time": "11/24 16:49",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "기가비스",
+          "market": "KR",
+          "code": "420770",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전기",
+          "market": "KR",
+          "code": "009150",
+          "effect": "positive"
+        }
+      ],
+      "insight": "AI 서버용 기판 증설이 검사·수리장비 수주로 번지는 흐름. 수주잔고의 매출 인식 속도가 실적 포인트.",
+      "signals": {
+        "segment": "후공정/패키징·장비",
+        "capacity": "AI 기판 증설 수요"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "네오셈, 종속회사와 142억원 규모 반도체 검사장비 공급계약 체결",
+      "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=717693",
+      "summary": "네오셈이 해외 종속회사 NEOSEM TECHNOLOGY에 GEN6 SSD 테스터 등 142.1억원 규모 공급계약 체결(2025년 매출의 22.2%). 계약기간 11/24~2027/6/30.",
+      "source": "디지털투데이",
+      "time": "11/24 11:32",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "네오셈",
+          "market": "KR",
+          "code": "253590",
+          "effect": "positive"
+        }
+      ],
+      "insight": "매출 대비 22% 규모로 차세대 SSD 테스터 수요를 보여주지만 종속회사향이라 최종 고객 확인이 필요.",
+      "signals": {
+        "segment": "장비"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "예스티, Amkor향 eFurnace 72.6억원 공급계약",
+      "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=717741",
+      "summary": "예스티가 G ENGINEERING에 Amkor향 eFurnace 72.6억원 규모 공급계약 체결(매출의 8.34%). 계약기간 11/23~2027/12/31.",
+      "source": "디지털투데이",
+      "time": "11/24 14:02",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "예스티",
+          "market": "KR",
+          "code": "122640",
+          "effect": "positive"
+        },
+        {
+          "name": "Amkor",
+          "market": "US",
+          "code": "AMKR",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "글로벌 OSAT 투자가 국내 후공정 장비 업체 수주로 이어지는 사례.",
+      "signals": {
+        "segment": "후공정/패키징·장비"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "유니테스트, SK하이닉스에 57억원 규모 반도체 검사장비 공급",
+      "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=717778",
+      "summary": "유니테스트가 SK하이닉스와 57.28억원 규모 반도체 검사장비 공급계약 체결(매출의 5.20%). 계약기간 11/23~2027/3/26.",
+      "source": "디지털투데이",
+      "time": "11/24 14:53",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "유니테스트",
+          "market": "KR",
+          "code": "086390",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "규모는 작지만 SK하이닉스의 테스트 장비 발주가 이어지고 있음을 확인.",
+      "signals": {
+        "segment": "장비"
+      }
+    },
+    {
+      "category": "equipment",
+      "title": "교보증권 \"AP시스템, 반도체 레이저 장비 기업으로 체질 개선 기대\"",
+      "url": "https://www.ajunews.com/view/20261124083839867",
+      "summary": "AP시스템의 올해 반도체 누적 수주가 1,000억원을 넘었고 수주잔고는 2027년까지 순차 매출 반영. 넥스틴 지분은 취득 완료 시 16.3%로 확대.",
+      "source": "아주경제",
+      "time": "11/24 08:42",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "AP시스템",
+          "market": "KR",
+          "code": "265520",
+          "effect": "positive"
+        },
+        {
+          "name": "넥스틴",
+          "market": "KR",
+          "code": "348210",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "디스플레이 의존도를 줄이고 반도체 레이저 장비 비중을 늘리는 사업 전환이 진행 중.",
+      "signals": {
+        "segment": "장비"
+      }
+    },
+    {
+      "category": "memory",
+      "title": "젠슨 황 11일 만에 복귀…삼성·SK HBM4 주도권 경쟁, 고객 의존도는 변수",
+      "url": "https://www.etoday.co.kr/news/view/2652159",
+      "summary": "대신증권은 엔비디아의 2026년 HBM4 공급 비중을 SK하이닉스 55%, 삼성 28%, 마이크론 17%로 추정. SK하이닉스 최대 고객 1~9월 매출은 34.98조원으로 전체의 14.79%, 전년 대비 +101.5%.",
+      "source": "이투데이",
+      "time": "11/24 15:01",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "HBM4 점유율에서 하이닉스 우위가 유지되지만 단일 고객 의존이 커 엔비디아 리스크가 곧 하이닉스 리스크.",
+      "signals": {
+        "segment": "HBM"
+      }
+    },
+    {
+      "category": "others",
+      "title": "[2027 삼성전자 인사] 'HBM4 주역' 전면에…반도체가 승진자 절반 넘었다",
+      "url": "https://www.etnews.com/20261124000378",
+      "summary": "삼성전자 임원 승진 131명으로 전년(161명)보다 30명 감소. DS부문이 70명(53%), DX부문은 92명→61명. 부사장 승진 39명. HBM4 개발·양산 주역과 파운드리 수율 담당자가 부사장으로 승진.",
+      "source": "전자신문",
+      "time": "11/24 14:38",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "인사 무게가 메모리·HBM에 실려 HBM4 경쟁력 회복을 최우선 과제로 삼았음을 시사. 조직개편 발표 예정.",
+      "signals": {
+        "segment": "HBM·파운드리"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "[뉴스줌인] 젠슨 황 복귀에 안도한 韓 반도체…'美 수출통제' 새 변수",
+      "url": "https://www.etnews.com/20261124000348",
+      "summary": "엔비디아 이사회가 CCO 선임을 조건으로 황 CEO 복귀 의결. 같은 날 미국은 싱가포르 메가스피드를 Entity List에 등재. 12/1 하원 비공개 회의, 12/3 상원 은행위 공개 청문회 예정. 제3국 우회 단속 확대 시 국내 메모리 업체의 최종사용자 검증 부담 증가 가능.",
+      "source": "전자신문",
+      "time": "11/24 14:08",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "우회수출 단속이 동남아 데이터센터로 확대되면 HBM·서버 D램 수요처 검증 비용과 판매 지연 리스크가 생김.",
+      "signals": {
+        "trade": "Entity List 확대·우회수출 단속"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "젠슨 황 돌아왔지만…K반도체, 美 대중 규제 향방에 촉각 [반도체레이다]",
+      "url": "https://www.ddaily.co.kr/page/view/2026112415053895129",
+      "summary": "미 상무부가 11/19 해외 데이터센터를 통한 중국 기업의 첨단 AI칩 사용에 허가제 도입, 동맹국 장비 수출통제를 맞추는 MATCH Act도 탄력. 삼성은 시안 2공장 9세대 낸드 생산능력을 월 1만장→5만장 이상으로, 하이닉스는 다롄을 240단 이상 낸드로 전환 중.",
+      "source": "디지털데일리",
+      "time": "11/24 15:23",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        },
+        {
+          "name": "Applied Materials",
+          "market": "US",
+          "code": "AMAT",
+          "effect": "negative"
+        },
+        {
+          "name": "Lam Research",
+          "market": "US",
+          "code": "LRCX",
+          "effect": "negative"
+        }
+      ],
+      "insight": "MATCH Act가 통과되면 중국 팹 공정 전환과 장비 반입이 막혀 국내 메모리 업체의 중국 낸드·D램 경쟁력에 부담.",
+      "signals": {
+        "trade": "MATCH Act·해외 데이터센터 허가제",
+        "capacity": "삼성 시안 V9 낸드 월 5만장 전환"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "싱가포르 경유한 첨단 반도체, 중국행 여부 미국과 공동 조사",
+      "url": "https://news.jkn.co.kr/post/1119440",
+      "summary": "웡 싱가포르 총리가 11/24 칩 수출법 위반 의심 건을 자체 조사 중이라고 밝힘. 미 상무부는 11/23 메가스피드를 Entity List에 등재했고, 싱가포르·말레이시아·태국 기업 7곳이 함께 등재될 예정.",
+      "source": "재경일보",
+      "time": "11/24 16:53",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "동남아 우회 경로 차단이 실제 집행 단계로 들어가 엔비디아 동남아 매출 가시성에 부담.",
+      "signals": {
+        "trade": "동남아 우회수출 조사"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "SK하이닉스, HBM·HBF 경력채용…첨단칩 설계 인력 확보",
+      "url": "https://m.inews24.com/v/2029980",
+      "summary": "SK하이닉스가 11/24~12/7 경력 채용. D램개발 7개 직무가 모두 HBM 관련이며 커스텀 HBM·베이스다이 설계 인력을 모집, TSMC 3나노 경험 우대. HBF 설계·검증 인력도 채용.",
+      "source": "아이뉴스24",
+      "time": "11/24 17:40",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        }
+      ],
+      "insight": "HBM4E 이후 커스텀 베이스다이 경쟁에 대비한 설계 역량 확충 신호.",
+      "signals": {
+        "segment": "HBM"
+      }
+    },
+    {
+      "category": "equipment",
+      "title": "SKMP, 반도체용 초고순도 신너 12월 고객사 첫 공급",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65865",
+      "summary": "SK에코플랜트 머티리얼즈 자회사 SKMP가 재원산업과 양산 체계를 갖추고 12월부터 포토공정용 신너를 처음 공급. 이후 설비를 늘려 단계적으로 증량할 계획.",
+      "source": "디일렉",
+      "time": "11/24 16:51",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "SK",
+          "market": "KR",
+          "code": "034730",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "포토 공정 소재 국산화 사례. 물량·금액이 공개되지 않아 실적 영향은 제한적.",
+      "signals": {
+        "segment": "소재"
+      }
+    }
+  ]
+}
