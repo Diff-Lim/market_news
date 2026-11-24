@@ -681,5 +681,320 @@
         "next_catalyst": "2027년 1월 첫 환자 투여"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-25T06:48+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "069620",
+        "name": "대웅제약",
+        "date": "2026-11-24",
+        "title": "불성실공시법인지정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800663",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "310210",
+        "name": "보로노이",
+        "date": "2026-11-23",
+        "title": "증권발행결과(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900655",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "310210",
+        "name": "보로노이",
+        "date": "2026-11-23",
+        "title": "주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000078",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-23",
+        "title": "[기재정정]투자설명서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000318",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-23",
+        "title": "주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000315",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-23",
+        "title": "[발행조건확정]증권신고서(지분증권)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000305",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-23",
+        "title": "[기재정정]주요사항보고서(유상증자결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000278",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-23",
+        "title": "유상증자최종발행가액확정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900451",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "228760",
+        "name": "지노믹트리",
+        "date": "2026-11-24",
+        "title": "주요사항보고서(자기주식처분결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000500",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "INSM",
+        "name": "Insmed",
+        "date": "2026-11-24",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126045364/ef20086426_8-k.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "AMGN",
+        "name": "Amgen",
+        "date": "2026-11-24",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/318154/000119312526475833/amgn-20261124.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "BMY",
+        "name": "Bristol Myers Squibb",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K) — CURRENT REPORT",
+        "url": "https://www.sec.gov/Archives/edgar/data/14272/000114036126045300/ef20086209_8k.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "PYPD",
+        "name": "PolyPid",
+        "date": "2026-11-24",
+        "title": "해외기업 수시보고(6-K) — REPORT OF FOREIGN PRIVATE ISSUER",
+        "url": "https://www.sec.gov/Archives/edgar/data/1611842/000121390026123719/ea0313495-6k_polypid.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:INSM": {
+        "symbol": "INSM",
+        "close": 170.15,
+        "change_pct": 14.13,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "GLOBAL:SAN.PA": {
+        "symbol": "SAN.PA",
+        "close": 93.58,
+        "change_pct": 9.76,
+        "currency": "EUR",
+        "date": "11/24"
+      },
+      "US:COGT": {
+        "symbol": "COGT",
+        "close": 33.01,
+        "change_pct": 17.43,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "KR:196170": {
+        "symbol": "196170.KQ",
+        "close": 159700.0,
+        "change_pct": -5.22,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "GLOBAL:4568.T": {
+        "symbol": "4568.T",
+        "close": 2737.0,
+        "change_pct": 1.11,
+        "currency": "JPY",
+        "date": "11/24"
+      },
+      "US:AMGN": {
+        "symbol": "AMGN",
+        "close": 473.93,
+        "change_pct": 5.54,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:BMY": {
+        "symbol": "BMY",
+        "close": 62.02,
+        "change_pct": 3.64,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "GLOBAL:4528.T": {
+        "symbol": "4528.T",
+        "close": 2438.0,
+        "change_pct": -0.89,
+        "currency": "JPY",
+        "date": "11/24"
+      },
+      "US:PYPD": {
+        "symbol": "PYPD",
+        "close": 5.55,
+        "change_pct": -3.9,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:TGTX": {
+        "symbol": "TGTX",
+        "close": 70.13,
+        "change_pct": 9.6,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:VALN": {
+        "symbol": "VALN",
+        "close": 5.0,
+        "change_pct": -5.3,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:PFE": {
+        "symbol": "PFE",
+        "close": 28.46,
+        "change_pct": 3.87,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "KR:170900": {
+        "symbol": "170900.KS",
+        "close": 32500.0,
+        "change_pct": 1.56,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:069620": {
+        "symbol": "069620.KS",
+        "close": 92900.0,
+        "change_pct": 0.43,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:128940": {
+        "symbol": "128940.KS",
+        "close": 457000.0,
+        "change_pct": 4.82,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:326030": {
+        "symbol": "326030.KS",
+        "close": 84100.0,
+        "change_pct": 3.7,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:310210": {
+        "symbol": "310210.KS",
+        "close": 106400.0,
+        "change_pct": 5.03,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:950160": {
+        "symbol": "950160.KQ",
+        "close": 14870.0,
+        "change_pct": 16.72,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:068270": {
+        "symbol": "068270.KS",
+        "close": 209000.0,
+        "change_pct": 3.47,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:115180": {
+        "symbol": "115180.KS",
+        "close": 11400.0,
+        "change_pct": -9.52,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:365270": {
+        "symbol": "365270.KS",
+        "close": 6950.0,
+        "change_pct": 3.89,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:228760": {
+        "symbol": "228760.KS",
+        "close": 8070.0,
+        "change_pct": 1.0,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:003220": {
+        "symbol": "003220.KS",
+        "close": 7520.0,
+        "change_pct": 2.31,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:001540": {
+        "symbol": "001540.KQ",
+        "close": 9910.0,
+        "change_pct": 3.34,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:237690": {
+        "symbol": "237690.KS",
+        "close": 72300.0,
+        "change_pct": 2.55,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:063160": {
+        "symbol": "063160.KS",
+        "close": 10510.0,
+        "change_pct": 3.34,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:003000": {
+        "symbol": "003000.KS",
+        "close": 3825.0,
+        "change_pct": 4.08,
+        "currency": "KRW",
+        "date": "11/24"
+      }
+    },
+    "quotes_as_of": "11/24",
+    "notes": []
+  }
 }
