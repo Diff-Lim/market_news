@@ -603,5 +603,198 @@
         "event_type": "제도/예산"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-25T07:07+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "086790",
+        "name": "하나금융지주",
+        "date": "2026-11-24",
+        "title": "투자설명서(일괄신고)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000397",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "086790",
+        "name": "하나금융지주",
+        "date": "2026-11-24",
+        "title": "일괄신고추가서류",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000380",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "CRWD",
+        "name": "CrowdStrike",
+        "date": "2026-11-23",
+        "title": "분기보고서(10-Q)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000038/crwd-20261031.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "CRWD",
+        "name": "CrowdStrike",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K) — FORM 8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_8k.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "CRWD",
+        "name": "CrowdStrike",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ZS",
+        "name": "Zscaler",
+        "date": "2026-11-23",
+        "title": "주총 위임장(DEF 14A)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000223/zs-20261123.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ZS",
+        "name": "Zscaler",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526471211/d115803d8k.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ZS",
+        "name": "Zscaler",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961d8k.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:CHKP": {
+        "symbol": "CHKP",
+        "close": 159.34,
+        "change_pct": 0.06,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:AVGO": {
+        "symbol": "AVGO",
+        "close": 301.08,
+        "change_pct": -3.98,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:RDWR": {
+        "symbol": "RDWR",
+        "close": 35.33,
+        "change_pct": 3.79,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "GLOBAL:PEN.AX": {
+        "symbol": "PEN.AX",
+        "close": 0.16,
+        "change_pct": 0.0,
+        "currency": "AUD",
+        "date": "11/24"
+      },
+      "US:CSCO": {
+        "symbol": "CSCO",
+        "close": 93.99,
+        "change_pct": -2.9,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:CRWD": {
+        "symbol": "CRWD",
+        "close": 210.86,
+        "change_pct": 0.9,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:ZS": {
+        "symbol": "ZS",
+        "close": 231.62,
+        "change_pct": 1.04,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:PANW": {
+        "symbol": "PANW",
+        "close": 352.99,
+        "change_pct": -0.12,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "US:FTNT": {
+        "symbol": "FTNT",
+        "close": 132.5,
+        "change_pct": 1.07,
+        "currency": "USD",
+        "date": "11/24"
+      },
+      "KR:086790": {
+        "symbol": "086790.KS",
+        "close": 123100.0,
+        "change_pct": 4.94,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:053800": {
+        "symbol": "053800.KQ",
+        "close": 121500.0,
+        "change_pct": 5.38,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:203650": {
+        "symbol": "203650.KS",
+        "close": 1951.0,
+        "change_pct": 4.05,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:263860": {
+        "symbol": "263860.KS",
+        "close": 35400.0,
+        "change_pct": -0.28,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:049480": {
+        "symbol": "049480.KQ",
+        "close": 1785.0,
+        "change_pct": 1.08,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:067920": {
+        "symbol": "067920.KQ",
+        "close": 6250.0,
+        "change_pct": -1.11,
+        "currency": "KRW",
+        "date": "11/24"
+      },
+      "KR:170790": {
+        "symbol": "170790.KQ",
+        "close": 10740.0,
+        "change_pct": 4.37,
+        "currency": "KRW",
+        "date": "11/24"
+      }
+    },
+    "quotes_as_of": "11/24",
+    "notes": []
+  }
 }
