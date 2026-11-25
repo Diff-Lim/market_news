@@ -1,0 +1,706 @@
+{
+  "published_at": "2026-11-26T06:25",
+  "industry": "ai",
+  "title": "AI 투자 브리핑",
+  "emoji": "🤖",
+  "sources": [
+    "ChipDispatch(CNBC)",
+    "Implicator.ai",
+    "Investing.com(Reuters)",
+    "TechCrunch",
+    "The Next Web",
+    "Yahoo Finance",
+    "Yahoo Finance(Euronews)",
+    "Yahoo Finance(Reuters)",
+    "Yahoo Finance(Semafor)",
+    "뉴스핌",
+    "지디넷코리아",
+    "한국경제"
+  ],
+  "briefing": [
+    "미 AI 하드웨어 매도 지속, 반도체지수 장중 -6%대 → 엔비디아·메모리주 약세",
+    "코스피 -6.16%, 삼성전자 -9.87%·하이닉스 -11.05% → 복귀 랠리 반납, 외국인 매도",
+    "코어위브 회사채 17%·오라클 CDS 사상 최고 → 레버리지 높은 AI 인프라주 부담",
+    "BNP, 마이크론 목표가 54% 하향·HBM 마진 하락 전망 → 메모리 사이클 논쟁 확대",
+    "엔비디아 중국 연계 의혹·원격접속 규제 → 12/1·12/3 의회 일정까지 변동성"
+  ],
+  "market_snapshot": [
+    {
+      "label": "나스닥 / S&P500 (11/25)",
+      "value": "-0.62% / -0.25%",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com/news/stocks-finish-mostly-lower-ahead-of-u-s-thanksgiving"
+    },
+    {
+      "label": "코스피 (11/25)",
+      "value": "4,697.51 (-6.16%)",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112597396"
+    },
+    {
+      "label": "삼성전자 / SK하이닉스 (11/25)",
+      "value": "170,700원(-9.87%) / 1,030,000원(-11.05%)",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112597396"
+    },
+    {
+      "label": "코어위브 2031년물 회사채 수익률 (11/24)",
+      "value": "17% 상회",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/ai-debt-fears-coreweave-bond-yield-oracle-nvidia-sell-off"
+    }
+  ],
+  "watchlist_notes": [
+    {
+      "name": "NVIDIA",
+      "note": "11/25 장중 -8% 후 -5%대. 법무부가 황 본인은 수사 안 해, 中 서버 담보 의혹·원격접속 규제로 B300 재판매. 12/1 하원·12/3 상원 일정.",
+      "article_urls": [
+        "https://ca.finance.yahoo.com/news/us-justice-department-did-not-173354237.html",
+        "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
+        "https://chipdispatch.com/articles/thousands-of-nvidia-b300-gpus-hit-resale-market-after-us-remote-access-rule"
+      ]
+    },
+    {
+      "name": "삼성전자",
+      "note": "11/25 -9.87%로 시총 1천조 하회. HBM 마진 하락 대비 커스텀 HBM 전략.",
+      "article_urls": [
+        "https://www.hankyung.com/article/2026112597396",
+        "https://www.newspim.com/news/view/20261125000543"
+      ]
+    },
+    {
+      "name": "SK하이닉스",
+      "note": "11/25 -11.05% 마감. BNP의 마이크론 하향으로 메모리 사이클 논쟁 확대.",
+      "article_urls": [
+        "https://www.hankyung.com/article/2026112597396",
+        "https://www.hankyung.com/article/2026112503021"
+      ]
+    },
+    {
+      "name": "HBM",
+      "note": "2028년 범용 HBM 가격 약 20% 하락·마진 65~72% 전망. 데이터센터 5GW 이연 가능성.",
+      "article_urls": [
+        "https://www.newspim.com/news/view/20261125000543"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-30",
+      "event": "AWS re:Invent 개막(~12/4, 라스베이거스)",
+      "tickers": [
+        "AMZN"
+      ],
+      "source_url": "https://aws.amazon.com/events/reinvent/faqs/"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "젠슨 황, 미 하원 3개 위원회 비공개 면담",
+      "tickers": [
+        "NVDA"
+      ],
+      "source_url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-stumbles-again-after-jensen-huangs-spectacular-comeback-rally-094741665.html"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "마벨 회계 3분기 실적 발표(커스텀 AI칩)",
+      "tickers": [
+        "MRVL"
+      ],
+      "source_url": "https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "크레도 회계 2분기 실적 발표(AI 인터커넥트)",
+      "tickers": [
+        "CRDO"
+      ],
+      "source_url": "https://s205.q4cdn.com/511065572/files/doc_news/Credo-Schedules-Second-Quarter-Fiscal-Year-2027-Financial-Results-Conference-Call-2026.pdf"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "세일즈포스 회계 3분기 실적 발표(Agentforce 수익화)",
+      "tickers": [
+        "CRM"
+      ],
+      "source_url": "https://investor.salesforce.com/news/news-details/2026/Salesforce-Announces-Date-of-Third-Quarter-Fiscal-2027-Earnings-Release-and-Webcast/default.aspx"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "스노우플레이크 회계 3분기 실적 발표",
+      "tickers": [
+        "SNOW"
+      ],
+      "source_url": "https://www.snowflake.com/en/news/press-releases/fy27-q3-earnings-date-announcement/"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "젠슨 황, 상원 은행위원회 공개 청문회 증언(예정)",
+      "tickers": [
+        "NVDA"
+      ],
+      "source_url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-stumbles-again-after-jensen-huangs-spectacular-comeback-rally-094741665.html"
+    },
+    {
+      "date": "2026-12-09",
+      "event": "브로드컴 회계 4분기 실적 발표(커스텀 AI 가속기)",
+      "tickers": [
+        "AVGO"
+      ],
+      "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "market",
+      "title": "뉴욕증시: 다우 플러스 전환, S&P500·나스닥 AI 매도 속 낙폭 만회",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "summary": "11/25 나스닥은 장 초반 4% 넘게 급락했다가 오후 3시 기준 -0.86%로 낙폭을 줄였고 다우는 +0.41%. 필라델피아 반도체지수는 마이크론·샌디스크 주도로 6% 넘게 하락, 엔비디아는 장중 -8%까지 밀린 뒤 147.74달러(-4.92%). AI 수익성·과잉투자 우려, 10월 근원 PCE 3.3%와 12월 금리인상 기대, 최대 20% 신규 관세가 거론됨.",
+      "source": "Yahoo Finance",
+      "time": "11/26 04:35",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "negative"
+        },
+        {
+          "name": "Sandisk",
+          "market": "US",
+          "code": "SNDK",
+          "effect": "negative"
+        }
+      ],
+      "insight": "지수는 회복했지만 반도체지수는 6% 넘게 빠져 AI 하드웨어주로 매도가 집중됨. 금리인상 기대까지 겹쳐 고밸류 AI주 변동성이 이어질 수 있음.",
+      "signals": {
+        "value_chain": "GPU/가속기 · HBM/메모리",
+        "competition": "하드웨어주 약세, 지수 방어는 경기주"
+      }
+    },
+    {
+      "category": "market",
+      "title": "반등할 줄 알았는데…삼전닉스 동반 폭락에 개미들 한숨",
+      "url": "https://www.hankyung.com/article/2026112597396",
+      "summary": "11/25 삼성전자 170,700원(-9.87%), SK하이닉스 1,030,000원(-11.05%) 마감. 코스피는 6.16% 내린 4,697.51로 장 초반 매도 사이드카 발동. 외국인 약 1조9,600억원 순매도, 개인 약 1조4,200억원 순매수. 전날 미국 반도체지수 -7.88%, 엔비디아 -5.86% 급락 영향.",
+      "source": "한국경제",
+      "time": "11/25 15:41",
+      "region": "KR",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        },
+        {
+          "name": "삼성전기",
+          "market": "KR",
+          "code": "009150",
+          "effect": "negative"
+        },
+        {
+          "name": "SK스퀘어",
+          "market": "KR",
+          "code": "402340",
+          "effect": "negative"
+        }
+      ],
+      "insight": "젠슨 황 복귀 랠리를 이틀 만에 모두 반납. 외국인 대량 매도로 AI 메모리 대형주의 수급 부담이 커졌음.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "competition": "메모리 대형주·지주사 동반 약세"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "AI 부채 우려 재점화…코어위브 회사채 수익률 17% 돌파, 선물 급락",
+      "url": "https://thenextweb.com/news/ai-debt-fears-coreweave-bond-yield-oracle-nvidia-sell-off",
+      "summary": "11/24 코어위브 주가 13% 하락, 2031년 만기 회사채 수익률 17% 돌파, 5년 CDS 1,200bp 상회. 오라클 CDS 약 356bp로 7% 상승. 맨그룹은 MS·아마존·메타·구글의 2026·2027년 CAPEX가 현금창출을 웃돌 것으로 분석했고, PIMCO는 올해 대형 AI 기업의 회사채 발행을 약 2,500억달러로 예상. 11/25 소프트뱅크 -9.55%.",
+      "source": "The Next Web",
+      "time": "11/25 22:13",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "CoreWeave",
+          "market": "US",
+          "code": "CRWV",
+          "effect": "negative"
+        },
+        {
+          "name": "Oracle",
+          "market": "US",
+          "code": "ORCL",
+          "effect": "negative"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "SoftBank Group",
+          "market": "GLOBAL",
+          "code": "9984.T",
+          "effect": "negative"
+        }
+      ],
+      "insight": "AI 투자가 현금흐름을 넘어 부채로 조달되는 구간에 진입. 신용시장 경고가 네오클라우드·오라클 등 레버리지 높은 인프라주의 할인 요인이 될 수 있음.",
+      "signals": {
+        "value_chain": "클라우드 · 데이터센터/전력",
+        "capex": "빅4 CAPEX가 2026·27년 현금창출 초과(맨그룹)",
+        "competition": "레버리지 높은 네오클라우드·오라클이 가장 취약"
+      }
+    },
+    {
+      "category": "market",
+      "title": "반도체 사이클 공방 격화에 속절없이 무너진 삼전닉스",
+      "url": "https://www.hankyung.com/article/2026112503021",
+      "summary": "BNP파리바가 마이크론을 중립으로 낮추고 목표가를 1,700달러에서 775달러로 하향, 메모리 수급 균형 시점을 2027년 중반으로 1년 앞당김. 낸드 현물가는 10월 말 대비 약 20% 하락했고 트렌드포스는 4분기 낸드 계약가 상승 전망을 8~13%로 낮춤. 반면 델 COO는 서버 D램·기업용 낸드 가격 하락 징후가 없다고 언급.",
+      "source": "한국경제",
+      "time": "11/25 18:06",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        },
+        {
+          "name": "Micron",
+          "market": "US",
+          "code": "MU",
+          "effect": "negative"
+        }
+      ],
+      "insight": "AI 수요는 견조하나 메모리 공급 증가가 앞당겨질 수 있다는 사이클 논쟁이 가격 변수로 부상. HBM 비중이 높은 업체도 밸류에이션 압박을 받을 수 있음.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "competition": "범용 메모리 비중 높을수록 피해"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "삼성, HBM값 하락 대비 고심…'커스텀 설계'로 수익성 방어키로",
+      "url": "https://www.newspim.com/news/view/20261125000543",
+      "summary": "2028년 범용 HBM 가격이 약 20% 하락할 것이란 전망이 나오며, 80% 안팎인 HBM 영업이익률이 삼성 65~72%, SK하이닉스 약 70%로 낮아질 것으로 예상. 모건스탠리는 전력망 지연으로 데이터센터 약 5GW가 2028년에서 2029년으로 밀릴 것으로 봄. 삼성은 엔비디아용 TSMC 베이스다이, 기타 고객용 자체 턴키 커스텀 HBM으로 대응.",
+      "source": "뉴스핌",
+      "time": "11/25 13:55",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        },
+        {
+          "name": "Broadcom",
+          "market": "US",
+          "code": "AVGO",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "HBM 수익성 정점 논란 속 커스텀 HBM이 마진 방어 수단으로 부각. 데이터센터 지연은 수요 소멸이 아닌 이연이라는 점이 관건.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "monetization": "HBM 영업이익률 80%→65~72% 전망",
+        "competition": "커스텀 HBM 역량이 마진 방어 변수"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "미 법무부, 황 CEO 복직 전 그에 대한 수사 개시 안 해 (소식통)",
+      "url": "https://ca.finance.yahoo.com/news/us-justice-department-did-not-173354237.html",
+      "summary": "소식통 3명에 따르면 법무부는 젠슨 황 본인을 정식 수사하지 않았음. 블랜치 장관의 '불법·안보위험 증거 없음' 판단은 대중국 칩 밀반출 혐의를 받는 고객사 슈퍼마이크로·메가스피드 수사에 근거했고, 엔비디아는 수사 대상이 아니었음. 황은 다음 주 의회 증언 예정이며 양당 의원들이 복직을 비판.",
+      "source": "Yahoo Finance(Reuters)",
+      "time": "11/26 02:33",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "mixed"
+        },
+        {
+          "name": "Super Micro Computer",
+          "market": "US",
+          "code": "SMCI",
+          "effect": "negative"
+        }
+      ],
+      "insight": "법무부의 '면죄부'가 본격 조사에 근거한 것이 아니라는 점이 드러나 의회 증언을 앞두고 지배구조 불확실성이 남음.",
+      "signals": {
+        "competition": "엔비디아 규제·지배구조 리스크, 슈퍼마이크로 수사 부담"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "앨리스 황 연관 업체들, 중국서 2.7억달러 AI 서버 담보 등록 (로이터 단독)",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
+      "summary": "금융 기록상 상하이 데이터센터에 최대 764대, 2억7천만달러 규모 AI 서버·모듈과 3,100만달러 네트워크 장비가 담보로 등록됨. 엔비디아 우선 클라우드 파트너 센추리리퉁의 리스 서버 512대(약 2억달러) 포함. 수출금지 칩 여부는 기록상 확인되지 않으며 엔비디아는 논평하지 않음.",
+      "source": "Investing.com(Reuters)",
+      "time": "11/25 15:15",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "메가스피드 블랙리스트에 이어 엔비디아의 중국 연계 의혹이 추가되며 12월 초 의회 증언 전 헤드라인 리스크가 커짐.",
+      "signals": {
+        "competition": "대중국 판매·수출통제 리스크"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "미국의 중국 AI칩 원격접속 규제 후 B300 GPU 수천 개 재판매 시장에",
+      "url": "https://chipdispatch.com/articles/thousands-of-nvidia-b300-gpus-hit-resale-market-after-us-remote-access-rule",
+      "summary": "11/19 시행된 미 상무부 규정으로 중국 본사 기업에 연산 자원을 제공하려면 허가가 필요해짐. 이후 중국 고객용 데이터센터에 배치될 예정이던 것으로 보이는 B300 수천 개의 매각 거래가 시장에 나옴. 영국 네오클라우드 엔스케일은 바이트댄스 서비스 유지에 허가가 필요. 엔비디아는 논평을 거부.",
+      "source": "ChipDispatch(CNBC)",
+      "time": "11/26 04:41",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "해외 클라우드를 통한 우회 수요가 막히며 중고 GPU 물량이 풀리고 있음. GPU 임대가격·네오클라우드 가동률에 부담이 될 수 있음.",
+      "signals": {
+        "value_chain": "GPU/가속기 · 클라우드",
+        "competition": "중국 연계 네오클라우드 피해"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "앤트로픽 주가 급락이 보여준 IPO 수요 부풀리기",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stock-tumble-shows-ipo-132703228.html",
+      "summary": "앤트로픽은 화요일 공모가 83달러를 밑돌며 당초 희망가 78달러 쪽으로 하락. 상장 첫날 111달러 이상(+34%)에 시작했었음. 6배로 알려진 청약 경쟁률은 투자자의 과다 주문과 단타 헤지펀드 배정으로 부풀려졌다고 지적. 스페이스X도 상장 이후 22% 하락.",
+      "source": "Yahoo Finance(Semafor)",
+      "time": "11/25 22:27",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "대형 AI IPO의 수급이 약해지며 비상장 AI 기업 밸류에이션과 후속 IPO에 부담. 앤트로픽 지분 보유 상장사 평가에도 영향을 줄 수 있음.",
+      "signals": {
+        "value_chain": "모델",
+        "competition": "AI 공모주 투자심리 냉각"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "아마존·메타, AI 쇼핑 에이전트 'Muse' 차단 해제 협상",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "summary": "아마존은 9월부터 메타의 AI 에이전트 Muse의 결제를 차단해왔고, 두 회사는 Muse를 아마존 스토어에 직접 연결하는 방안을 여러 차례 협의. 검색결과 노출·광고 문제는 미해결이며 합의엔 양사 CEO 승인이 필요. 월마트는 이미 에이전트 게이트웨이를 Muse에 개방.",
+      "source": "TechCrunch",
+      "time": "11/25 23:10",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Amazon",
+          "market": "US",
+          "code": "AMZN",
+          "effect": "mixed"
+        },
+        {
+          "name": "Meta Platforms",
+          "market": "US",
+          "code": "META",
+          "effect": "positive"
+        },
+        {
+          "name": "Walmart",
+          "market": "US",
+          "code": "WMT",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "에이전트 커머스의 수익 배분 모델이 정해지는 첫 사례. 합의 조건이 아마존 광고 매출과 메타 AI 수익화의 방향을 가늠할 잣대.",
+      "signals": {
+        "value_chain": "앱/SaaS",
+        "monetization": "에이전트 커머스 광고·수수료 배분",
+        "competition": "플랫폼 게이트키퍼 vs AI 에이전트"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "미국, EU 포함 14개 교역국에 신규 관세 제안",
+      "url": "https://uk.finance.yahoo.com/news/us-proposes-tariffs-14-major-144207027.html",
+      "summary": "USTR이 301조 과잉생산 조사 후 한국·대만·일본·중국·EU 등 14개국에 관세를 제안. 중국 최대 20%(협상 결렬 시 40%), EU 15%. 의견 제출 기한 2027년 1월 5일, 공청회 1월 25일 시작이며 시행일은 미정.",
+      "source": "Yahoo Finance(Euronews)",
+      "time": "11/26 00:14",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "insight": "AI 서버·부품 공급망의 비용 상승 우려를 키우는 변수. 시행까지 시간이 있어 단기엔 심리 요인이나 협상 결과에 따라 실적 영향이 생길 수 있음.",
+      "signals": {
+        "competition": "한국·대만 하드웨어 수출주 부담"
+      }
+    },
+    {
+      "category": "infra",
+      "title": "FCC, 스페이스X의 우주 AI 데이터센터 계획 승인",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space",
+      "summary": "FCC가 스페이스X에 궤도 데이터센터용 'Starmind' 위성 최대 100만 기 배치·운영을 조건부 승인. 7년 내 첫 위성 발사, 14년 내 완성 조건. 아마존·비아샛 등이 반대했고 고도 600km 이상 위성의 우주쓰레기 계획은 아직 미승인.",
+      "source": "TechCrunch",
+      "time": "11/26 05:56",
+      "region": "US",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Amazon",
+          "market": "US",
+          "code": "AMZN",
+          "effect": "negative"
+        }
+      ],
+      "insight": "지상 전력망 제약을 우회하는 장기 대안이 규제 문턱을 넘음. 단기 실적 영향은 작지만 데이터센터 경쟁구도의 장기 변수.",
+      "signals": {
+        "value_chain": "데이터센터/전력",
+        "competition": "스페이스X vs 아마존 위성 경쟁"
+      }
+    },
+    {
+      "category": "model",
+      "title": "OpenAI, Chat·Work 통합으로 헤비유저 사용한도 조기 소진 가능",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI가 일부 Pro 구독자에게 ChatGPT Chat·Work 통합 경험을 배포하며 하나의 사용량 한도를 적용. 최상위 헤비유저 일부는 한도에 더 빨리 도달할 수 있다고 밝힘. Instant 모델은 무제한 유지, 공유 한도는 12월 확대 적용.",
+      "source": "TechCrunch",
+      "time": "11/26 05:03",
+      "region": "US",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Microsoft",
+          "market": "US",
+          "code": "MSFT",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "같은 가격에 고비용 추론 연산을 배급하는 조치로, 모델사들이 추론 원가 부담을 관리하는 단계에 들어섰음을 시사.",
+      "signals": {
+        "value_chain": "모델",
+        "monetization": "구독 요금 유지·사용한도 축소"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "원전 업무에도 AI 에이전트 심는다…네이버클라우드, 한수원과 맞손",
+      "url": "https://zdnet.co.kr/view/?no=20261125124028",
+      "summary": "네이버클라우드가 한수원·한전KDN과 원전 분야 AI 협력 MOU 체결. 2024년 구축한 한수원 망분리 데이터센터 내 하이퍼클로바X 생성형 AI 플랫폼을 확장해 AI 에이전트 기반 디지털 전환과 인프라 지원을 추진. 계약 규모는 미공개.",
+      "source": "지디넷코리아",
+      "time": "11/25 12:40",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NAVER",
+          "market": "KR",
+          "code": "035420",
+          "effect": "positive"
+        }
+      ],
+      "insight": "공공·규제산업 온프레미스 AI 레퍼런스 확대. 금액이 없어 실적 기여는 제한적이지만 소버린 AI 수주 흐름에 부합.",
+      "signals": {
+        "value_chain": "모델 · 클라우드",
+        "monetization": "공공 AI 플랫폼 확장(금액 미공개)"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "'피클'이 촉발한 AI 비서 규율 논의…정부, 법 개정 만지작",
+      "url": "https://zdnet.co.kr/view/?no=20261125140053",
+      "summary": "과기정통부가 AI 기본법에 AI 에이전트 정의·규율 조항을 넣는 개정을 검토. AI 에이전트 '피클'은 국내 출시 약 40일 만에 월간 이용자 약 40만 명. SKT·KT·LGU+·네이버는 본인확인 등을 이유로 AI 에이전트를 통한 상담을 제한.",
+      "source": "지디넷코리아",
+      "time": "11/25 14:26",
+      "region": "KR",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "SK텔레콤",
+          "market": "KR",
+          "code": "017670",
+          "effect": "neutral"
+        },
+        {
+          "name": "KT",
+          "market": "KR",
+          "code": "030200",
+          "effect": "neutral"
+        },
+        {
+          "name": "LG유플러스",
+          "market": "KR",
+          "code": "032640",
+          "effect": "neutral"
+        },
+        {
+          "name": "NAVER",
+          "market": "KR",
+          "code": "035420",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "네이버·카카오의 12월 에이전트 출시를 앞두고 규제 틀이 정해지는 국면. 규율 수준이 국내 에이전트 사업 속도를 좌우할 수 있음.",
+      "signals": {
+        "value_chain": "앱/SaaS",
+        "competition": "플랫폼·통신사 vs 외부 에이전트"
+      }
+    },
+    {
+      "category": "model",
+      "title": "크래프톤, 자체 개발 LLM '라온-1 미니' 출시…추론 강도 6단계 선택",
+      "url": "https://zdnet.co.kr/view/?no=20261125153804",
+      "summary": "크래프톤이 처음부터 학습한 300억 파라미터 MoE(활성 약 40억) 모델 '라온-1 미니'를 허깅페이스에 Apache 2.0으로 공개하고 API도 제공. 더 큰 라온-1과 실시간 음성 모델도 출시 예정.",
+      "source": "지디넷코리아",
+      "time": "11/25 15:50",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "크래프톤",
+          "market": "KR",
+          "code": "259960",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "게임사의 자체 모델 확보로 국내 LLM 경쟁 참여자가 늘어남. 단기 실적 영향은 제한적.",
+      "signals": {
+        "value_chain": "모델",
+        "competition": "국내 오픈소스 LLM 경쟁 확대"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "EU, AI·양자 지분투자용 최대 500억유로 주권기술펀드 추진",
+      "url": "https://www.implicator.ai/sources-eu-plans-mobilize-up-50b-sovereign-tech-equity-fund/",
+      "summary": "EU가 AI·양자 기업 지분 매입용 최대 500억유로 규모 '주권기술 지분펀드'를 추진. 공공자금 1유로당 민간자금 6유로 유치가 목표이며, 스케일업 유럽 펀드 목표의 10배. 세부안은 2월 발표 예정.",
+      "source": "Implicator.ai",
+      "time": "11/25 20:54",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "유럽판 소버린 AI 투자 확대 신호. 유럽 AI 인프라·데이터센터 수요의 중장기 지지 요인.",
+      "signals": {
+        "capex": "최대 500억유로 펀드",
+        "competition": "유럽 자체 AI 역량 육성"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "트럼프 \"젠슨 황 사면은 선택지지만 필요 없을 것\"",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "summary": "트럼프 대통령은 뉴욕포스트에 황 CEO 사면이 '언제나 선택지'지만 필요하지 않을 것이라고 말함. 황은 다음 주 상원 은행위원회 공개 청문회에서 중국 정보기관 연계 의혹 임원과의 관계 등에 대해 증언할 예정.",
+      "source": "TechCrunch",
+      "time": "11/25 09:10",
+      "region": "US",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "정권의 우호적 태도는 확인됐지만 청문회 일정이 남아 있어 엔비디아 헤드라인 리스크는 12월 초까지 지속.",
+      "signals": {
+        "competition": "엔비디아 지배구조·규제 리스크"
+      }
+    }
+  ]
+}
