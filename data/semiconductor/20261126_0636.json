@@ -766,5 +766,145 @@
       "insight": "AI 인프라 투자 자금줄(신용시장) 경색 신호. 데이터센터 투자가 늦어지면 GPU·HBM 수요 기대가 하향될 수 있음.",
       "signals": {}
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-26T06:37+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-25",
+        "title": "기업가치제고계획(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800766",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-23",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000192",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "253590",
+        "name": "네오셈",
+        "date": "2026-11-25",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900268",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "253590",
+        "name": "네오셈",
+        "date": "2026-11-24",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900422",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "NVDA",
+        "name": "NVIDIA",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "MU",
+        "name": "Micron",
+        "date": "2026-11-24",
+        "title": "주총 위임장(DEF 14A)",
+        "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312526000034/mu-20261124.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 189400.0,
+        "change_pct": 6.7,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:000660": {
+        "symbol": "000660.KS",
+        "close": 1158000.0,
+        "change_pct": 6.73,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 149.3,
+        "change_pct": -3.91,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:AMD": {
+        "symbol": "AMD",
+        "close": 406.03,
+        "change_pct": -1.75,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:MU": {
+        "symbol": "MU",
+        "close": 601.25,
+        "change_pct": -4.53,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:SNDK": {
+        "symbol": "SNDK",
+        "close": 73.61,
+        "change_pct": -22.02,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "GLOBAL:2330.TW": {
+        "symbol": "2330.TW",
+        "close": 2230.0,
+        "change_pct": 9.85,
+        "currency": "TWD",
+        "date": "11/25"
+      },
+      "US:LRCX": {
+        "symbol": "LRCX",
+        "close": 185.01,
+        "change_pct": -5.68,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:AMAT": {
+        "symbol": "AMAT",
+        "close": 311.18,
+        "change_pct": -3.89,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "KR:253590": {
+        "symbol": "253590.KS",
+        "close": 11420.0,
+        "change_pct": 4.77,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "US:CRWV": {
+        "symbol": "CRWV",
+        "close": 42.57,
+        "change_pct": -0.08,
+        "currency": "USD",
+        "date": "11/25"
+      }
+    },
+    "quotes_as_of": "11/25",
+    "notes": []
+  }
 }
