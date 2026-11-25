@@ -1,0 +1,713 @@
+{
+  "published_at": "2026-11-26T07:16",
+  "industry": "robot",
+  "title": "로봇 투자 브리핑",
+  "emoji": "🦾",
+  "sources": [
+    "Electrek",
+    "Gasgoo",
+    "GlobeNewswire",
+    "Investing.com",
+    "Robotics & Automation News",
+    "Wisevoter",
+    "Yahoo Finance",
+    "ad-hoc-news",
+    "뉴스1",
+    "로봇신문",
+    "비즈니스포스트",
+    "이코리아",
+    "파이낸셜뉴스",
+    "한국경제",
+    "헬로티"
+  ],
+  "briefing": [
+    "샤오펑 IRON 2027년 1월 양산 확정 → 중국 휴머노이드 일정 경쟁, TSLA 옵티머스 비교 부각",
+    "엔비디아 복귀 랠리 후 이틀째 하락·12/3 청문회 → 피지컬 AI 테마 심리 부담",
+    "AI주 급락에 국내 로봇주 조정 → 레인보우 -1.8%, CES 전 수주·실적 선별 국면",
+    "삼성 휴머노이드 부품 옥석 가리기 → KH바텍·원익홀딩스 등 공급사 확정이 변수",
+    "큐렉소 이탈리아 첫 수출·화낙 1조엔 전망 → 의료·FA 실수요 확인"
+  ],
+  "market_snapshot": [
+    {
+      "label": "코스피 (11/25 종가)",
+      "value": "4,697.51 (-6.16%)",
+      "source": "이코리아",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89391"
+    },
+    {
+      "label": "레인보우로보틱스 (11/25 종가)",
+      "value": "463,500원 (-1.80%)",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611259463i"
+    },
+    {
+      "label": "NVIDIA (11/24 종가)",
+      "value": "$155.38 (-5.86%)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-stumbles-again-after-jensen-huangs-spectacular-comeback-rally-094741665.html"
+    }
+  ],
+  "watchlist_notes": [
+    {
+      "name": "NVIDIA",
+      "note": "젠슨 황 복귀 랠리(11/23 +31%) 후 11/24 -5.86%, 11/25도 약세. 12/1 하원 면담, 12/3 상원 청문회 예정. 에스오에스랩은 CES에서 엔비디아 Thor 연동 시연 예정.",
+      "article_urls": [
+        "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-stumbles-again-after-jensen-huangs-spectacular-comeback-rally-094741665.html",
+        "https://www.irobotnews.com/news/articleView.html?idxno=49799"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-30",
+      "event": "테라다인 CEO, UBS 글로벌 테크·AI 컨퍼런스 대담(유니버설로봇 포함)",
+      "tickers": [
+        "TER"
+      ],
+      "source_url": "https://investors.teradyne.com/news-events/press-releases/detail/458/teradyne-to-present-at-the-2026-ubs-global-technology-and-ai-conference"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "Humanoids Summit 실리콘밸리(~12/2, 테슬라 옵티머스·유니트리·애지봇 등 참가)",
+      "tickers": [
+        "TSLA"
+      ],
+      "source_url": "https://www.businesswire.com/news/home/20261118185525/en/Humanoids-Summit-Returns-to-Silicon-Valley-Bringing-Together-Tesla-Optimus-and-Global-Leaders-in-Physical-AI"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "젠슨 황, 미 하원 위원회 비공개 면담",
+      "tickers": [
+        "NVDA"
+      ],
+      "source_url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-stumbles-again-after-jensen-huangs-spectacular-comeback-rally-094741665.html"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "RoboNext 2026 오사카(~12/4, 화낙·야스카와·가와사키 참가)",
+      "tickers": [
+        "6954.T",
+        "6506.T"
+      ],
+      "source_url": "https://www.irobotnews.com/news/articleView.html?idxno=49639"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "젠슨 황, 미 상원 은행위 공개 청문회",
+      "tickers": [
+        "NVDA"
+      ],
+      "source_url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-stumbles-again-after-jensen-huangs-spectacular-comeback-rally-094741665.html"
+    },
+    {
+      "date": "2026-12-08",
+      "event": "미국 FOMC(~12/9, 경제전망 포함)",
+      "tickers": [],
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "humanoid",
+      "title": "샤오펑, '튜링' 피지컬 AI 아키텍처 공개…범용 휴머노이드 IRON 데뷔",
+      "url": "https://www.globenewswire.com/news-release/2026/11/25/3410455/0/en/xpeng-unveils-turing-physical-ai-architecture-and-debuts-advanced-general-purpose-humanoid-robot-iron.html",
+      "summary": "샤오펑이 AI Day에서 휴머노이드 IRON 양산 계획을 공개. 자유도 76, 촉각 센싱 1,500점 이상, 자체 튜링 칩 3개(2,250 TOPS). 2027년 1월 양산 시작, 풀가동 시 2.5분당 1대. 2027년 1분기 매장 시범, 2분기 상업 출시, 하반기 유럽 진출. 가격 미공개.",
+      "source": "GlobeNewswire",
+      "time": "11/26 01:17",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "XPeng",
+          "market": "US",
+          "code": "XPEV",
+          "effect": "positive"
+        },
+        {
+          "name": "테슬라",
+          "market": "US",
+          "code": "TSLA",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "중국 휴머노이드가 '시연'에서 '양산 일정 확정' 단계로 넘어감. 옵티머스와 일정 경쟁이 본격화되고, 부품(액추에이터·촉각센서) 수요 가시성이 높아짐.",
+      "signals": {
+        "segment": "휴머노이드",
+        "component": "자체 튜링 AI 칩, 촉각센서",
+        "mass_production": "2027년 1월 양산, 2.5분당 1대"
+      }
+    },
+    {
+      "category": "market",
+      "title": "엔비디아, 젠슨 황 복귀 랠리 후 또다시 하락",
+      "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-stumbles-again-after-jensen-huangs-spectacular-comeback-rally-094741665.html",
+      "summary": "엔비디아는 11/23 젠슨 황 복귀 소식에 31% 급등한 뒤 11/24 종가 155.38달러(-5.86%)로 밀렸고 11/25 프리마켓에서도 -5%대. Megaspeed 칩 밀수 의혹 관련 DOJ·SEC 조사 진행 중이며 12/1 하원 비공개 면담, 12/3 상원 은행위 공개 청문회가 잡혀 있음.",
+      "source": "Yahoo Finance",
+      "time": "11/25 18:47",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "피지컬 AI 플랫폼 대장주의 변동성이 국내 로봇·AI 테마 심리에 직결됨. 12/3 청문회 전까지 규제 리스크가 주가 상단을 누를 수 있음."
+    },
+    {
+      "category": "market",
+      "title": "CES 앞두고 숨 고르는 로봇주…증권가 \"상용화 여부 봐야할 때\"",
+      "url": "https://www.hankyung.com/article/202611259463i",
+      "summary": "11/18부터 CES 2027 기대감으로 오르던 로봇주가 25일 AI주 급락 여파로 조정. 레인보우로보틱스 46만3,500원(-1.80%), 로보티즈 -1.87%, 빅웨이브로보틱스 -5.12% 마감. 증권가는 수주·실적·상용화 여부로 선별 투자를 조언.",
+      "source": "한국경제",
+      "time": "11/25 15:54",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "negative"
+        },
+        {
+          "name": "로보티즈",
+          "market": "KR",
+          "code": "108490",
+          "effect": "negative"
+        }
+      ],
+      "insight": "코스피 급락일에도 낙폭이 제한적이었지만, 테마 랠리 이후엔 실적·수주 확인 여부가 차별화 기준이 될 가능성."
+    },
+    {
+      "category": "market",
+      "title": "로봇 대장주 레인보우로보틱스 벌써 CES 약발, 삼성전자 '휴머노이드 공동 개발' 앞세워 주가 더 오르나",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452944",
+      "summary": "레인보우로보틱스는 11/17~25 7거래일간 29.29% 상승. 3분기 매출 139억원(+29.9%)이나 영업손실 18억원으로 적자 확대. 9~11월 ETF 편입액 142억원 증가. 코스닥 로봇 업종은 2020년 이후 매년 10월 말~1월 말 평균 46% 상승(코스닥 평균 9%).",
+      "source": "비즈니스포스트",
+      "time": "11/25 17:25",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "mixed"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "CES 시즌성 랠리 패턴과 ETF 수급이 주가를 받치지만, 적자 확대로 밸류에이션 부담이 커진 상태.",
+      "signals": {
+        "segment": "휴머노이드",
+        "customer": "삼성전자(공동 개발)"
+      }
+    },
+    {
+      "category": "components",
+      "title": "'삼성 로봇'에 올라탈 기업은…로봇 부품주 옥석 가리기 시작",
+      "url": "https://www.hankyung.com/article/2026112583446",
+      "summary": "유안타증권은 삼성 휴머노이드 특징으로 OLED 얼굴, 폴더블 힌지 관절, 직구동 방식을 꼽음. 관절용 외장힌지는 KH바텍 공급설, 로봇핸드 후보로 원익홀딩스(테솔로)를 거론. 로보티즈는 LG전자 지분 관계로 공급 가능성이 낮다고 봄.",
+      "source": "한국경제",
+      "time": "11/25 08:25",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "KH바텍",
+          "market": "KR",
+          "code": "060720",
+          "effect": "positive"
+        },
+        {
+          "name": "원익홀딩스",
+          "market": "KR",
+          "code": "030530",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "로보티즈",
+          "market": "KR",
+          "code": "108490",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "삼성 휴머노이드 공개가 가까워지며 '공급사 확정' 여부가 부품주 차별화 변수. 현재는 증권사 추정 단계라 공식 확인 전까지 변동성 주의.",
+      "signals": {
+        "segment": "부품",
+        "component": "힌지 관절, 로봇핸드, 직구동 액추에이터",
+        "customer": "삼성전자(추정)"
+      }
+    },
+    {
+      "category": "components",
+      "title": "삼성 휴머노이드 관전 포인트는 로봇 손…현대모비스·HL만도는 양산 수주가 관건",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89391",
+      "summary": "레인보우로보틱스 3분기 삼성전자향 매출 61.2억원으로 전사 매출의 44.0%. 삼성 휴머노이드는 한 손 모터 20개(양손 40개) 목표. 현대모비스는 아틀라스 액추에이터 공급을 발표했고, HL만도는 북미 고객 첫 양산 수주가 관건. 11/25 코스피 -6.16%(4,697.51).",
+      "source": "이코리아",
+      "time": "11/25 17:11",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "positive"
+        },
+        {
+          "name": "현대모비스",
+          "market": "KR",
+          "code": "012330",
+          "effect": "positive"
+        },
+        {
+          "name": "HL만도",
+          "market": "KR",
+          "code": "204320",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "레인보우의 삼성 의존도가 44%로 높아 삼성 프로젝트 진척이 실적에 직결. 자동차 부품사는 '양산 수주' 공시가 리레이팅 트리거.",
+      "signals": {
+        "segment": "부품",
+        "component": "로봇손 모터, 액추에이터",
+        "customer": "삼성전자, 보스턴다이내믹스"
+      }
+    },
+    {
+      "category": "components",
+      "title": "삼성 휴머노이드 '한 손에 모터 20개'…로봇손 밸류체인 뜬다",
+      "url": "https://www.fnnews.com/news/202611242138446923",
+      "summary": "대성하이텍은 로봇핸드 업체 테솔로에 지분 투자했고 AMR을 올해 100대 이상→내년 300대 이상으로 늘려 내년 로봇 매출 300% 이상 증가를 전망. 아이씨에이치는 8월부터 글로벌 전기차 기업에 로봇손용 폼을 양산 납품 중.",
+      "source": "파이낸셜뉴스",
+      "time": "11/25 08:28",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "대성하이텍",
+          "market": "KR",
+          "code": "129920",
+          "effect": "positive"
+        }
+      ],
+      "insight": "로봇손 밸류체인은 손당 모터 수가 많아 부품 단가 대비 물량 효과가 큼. 실제 납품처·물량 공개 여부를 확인할 필요.",
+      "signals": {
+        "segment": "부품",
+        "component": "로봇핸드, 폼 소재"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "테슬라, 독일 공작기계사 EMAG 본사에 조용히 법인 설립",
+      "url": "https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus",
+      "summary": "테슬라가 EMAG 본사 주소에 자본금 12만유로의 'Tesla Machining Technologies Management SE'를 등록. 현지 언론은 EMAG 인력 약 220명 이동 가능성 보도(양사 미확인). EMAG 장비는 휴머노이드 액추에이터 기어를 정밀 가공. 테슬라는 연 100만대 규모 옵티머스 라인을 프리몬트에 구축 중.",
+      "source": "Electrek",
+      "time": "11/26 06:00",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "테슬라",
+          "market": "US",
+          "code": "TSLA",
+          "effect": "positive"
+        }
+      ],
+      "insight": "옵티머스 핵심인 액추에이터 기어 가공을 내재화하려는 신호. 외부 감속기·기어 공급사에는 장기적으로 경쟁 요인.",
+      "signals": {
+        "segment": "휴머노이드",
+        "component": "액추에이터 기어 가공",
+        "mass_production": "프리몬트 연 100만대 설계 라인"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "씨티, 애질리티 로보틱스 '매수' 신규 커버리지…목표가 8달러",
+      "url": "https://wisevoter.com/world/us/2026/11/25/citi-initiates-agility-robotics-buy-8-target",
+      "summary": "씨티가 애질리티(AGLT)를 매수·목표가 8달러로 커버리지 개시(11/24 종가 대비 약 48% 상단). 11/5 스팩 합병 상장 후 주가 약 52% 하락. 씨티는 2032년 미국 내 최종시장을 약 1조달러로 추정.",
+      "source": "Wisevoter",
+      "time": "11/26 00:22",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Agility Robotics",
+          "market": "US",
+          "code": "AGLT",
+          "effect": "positive"
+        }
+      ],
+      "insight": "상장 휴머노이드 순수주의 첫 대형 IB 커버리지. 매출이 미미한 상태라 기대감 중심의 주가 흐름이 이어질 가능성.",
+      "signals": {
+        "segment": "휴머노이드"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "키뱅크, 심보틱 목표가 70→58달러 하향…4분기 실적은 예상 상회",
+      "url": "https://www.investing.com/news/analyst-ratings/symbotic-stock-price-target-cut-to-58-from-70-by-keybanc-after-f4q26-results-93CH-5050914",
+      "summary": "키뱅크는 비중확대 유지, 목표가 70→58달러. 회계 4분기 매출 7억7,760만달러(+26%, 예상 7억7,370만달러), 조정 EPS 0.09달러(예상 0.07). 2026 회계연도 매출 약 28억달러(+25%). 오펜하이머 87달러, 니덤 65달러, DA데이비슨 70달러.",
+      "source": "Investing.com",
+      "time": "11/25 23:10",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Symbotic",
+          "market": "US",
+          "code": "SYM",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "실적은 컨센서스를 웃돌았지만 증권사 목표가가 58~87달러로 엇갈림. 차세대 저장 시스템의 마진 기여 시점(FY27 하반기)이 관건.",
+      "signals": {
+        "segment": "물류"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "애지봇, 반도체 패키징사 JCET에 휴머노이드 첫 투입",
+      "url": "https://autonews.gasgoo.com/articles/news/agibot-lands-a-major-customer-in-semiconductor-packaging-2125484913700360192",
+      "summary": "애지봇 G2 첫 물량이 JCET 상하이 린강 차량전장 공장에서 칩 테스트 트레이 적재·하역 작업 중. 사이클 25초 미만, 성공률 99.999%, 위치 정밀도 0.7mm, 24시간 가동. 대수·계약 규모 미공개. 추가 공정 확대 계획.",
+      "source": "Gasgoo",
+      "time": "11/25 16:01",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "JCET",
+          "market": "GLOBAL",
+          "code": "600584.SS",
+          "effect": "positive"
+        }
+      ],
+      "insight": "휴머노이드가 반도체 후공정 실작업에 들어간 사례. 반도체 공장 도입이 확산되면 국내 로봇주의 수요처 논리에도 참고가 됨.",
+      "signals": {
+        "segment": "휴머노이드",
+        "customer": "JCET(반도체 패키징)"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "큐렉소, 인공관절 수술로봇 이탈리아 진출…유럽 시장 확대",
+      "url": "https://www.hankyung.com/article/202611258369i",
+      "summary": "큐렉소가 인공관절 수술로봇 '큐비스-조인트'를 이탈리아에 처음 수출. 현지 퍼메디카와의 공급계약 첫 물량이며 유럽·북아프리카로 확대 계획. CE MDR·FDA 510(k) 확보.",
+      "source": "한국경제",
+      "time": "11/25 08:27",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "큐렉소",
+          "market": "KR",
+          "code": "060280",
+          "effect": "positive"
+        }
+      ],
+      "insight": "유럽 첫 수출로 해외 레퍼런스 확보. 설치 대수 증가가 소모품·서비스 매출로 이어지는지가 실적 포인트.",
+      "signals": {
+        "segment": "의료/수술",
+        "customer": "이탈리아 퍼메디카"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "뉴로메카, 휴머노이드 수술 보조 실증 성공…의료로봇 사업 확대",
+      "url": "https://www.hellot.net/news/article.html?no=116603",
+      "summary": "뉴로메카 휴머노이드 수술보조로봇 'SARAM-H'가 동물 갑상선 절제술(약 30분)을 보조. 회사는 국내 최초라고 밝힘. 한국형 ARPA-H 과제. 11/24 산업용 휴머노이드 EIR-M은 KC 적합등록 완료.",
+      "source": "헬로티",
+      "time": "11/25 13:55",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "뉴로메카",
+          "market": "KR",
+          "code": "348340",
+          "effect": "positive"
+        }
+      ],
+      "insight": "실증 단계로 매출 기여는 먼 얘기. 다만 KC 등록 등 상용화 절차가 진행 중이라는 점은 테마 내 차별 요소.",
+      "signals": {
+        "segment": "의료/수술"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "불붙은 한·일 로봇 경쟁…휴머노이드 실전 배치 속도전",
+      "url": "https://www.hankyung.com/article/2026112502281",
+      "summary": "보스턴다이내믹스가 11/22 뮌헨에서 유럽 고객 설명회 개최, 첫 외부 고객은 글로벌파운드리스. 아틀라스의 현대차 공장 투입(당초 2028년) 앞당김 가능성 거론. 도요타는 도요타로보틱스 신설. 3분기 휴머노이드 출하 1만6,500대 중 약 97%가 중국산.",
+      "source": "한국경제",
+      "time": "11/25 17:41",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "현대차",
+          "market": "KR",
+          "code": "005380",
+          "effect": "positive"
+        },
+        {
+          "name": "현대모비스",
+          "market": "KR",
+          "code": "012330",
+          "effect": "positive"
+        }
+      ],
+      "insight": "아틀라스 투입 시점이 앞당겨지면 현대차그룹 로보틱스 밸류 재평가 요인. 출하량 97%가 중국산이라 원가 경쟁은 부담.",
+      "signals": {
+        "segment": "휴머노이드",
+        "customer": "글로벌파운드리스, 현대차",
+        "mass_production": "3분기 글로벌 출하 1.65만대(중국 97%)"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "'CES 2027' 로봇 전쟁…삼성전자 휴머노이드 출격 주목",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49794",
+      "summary": "CES 2027에 로봇 전용관이 처음 생기며 로봇 참가사는 중국 35%, 미국 28%, 한국 15%. 삼성은 HR·HE 두 모델 공개 가능성, 액추에이터 약 80종 연구 중. LG전자는 내년 1분기 이족보행 휴머노이드 공개 목표.",
+      "source": "로봇신문",
+      "time": "11/25 11:34",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "LG전자",
+          "market": "KR",
+          "code": "066570",
+          "effect": "positive"
+        },
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "positive"
+        }
+      ],
+      "insight": "CES(1월 6~9일)까지 이벤트 기대감이 이어질 구간. 공개 '여부'와 '양산 계획'은 구분해서 볼 필요.",
+      "signals": {
+        "segment": "휴머노이드",
+        "component": "액추에이터 약 80종"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "삼성전자 '로봇' 인재 대거 발탁…휴머노이드 공개 시점 임박했나",
+      "url": "https://www.news1.kr/industry/general-industry/6365877",
+      "summary": "삼성전자 정기 임원인사에서 구동부·휴머노이드 보행 제어 분야 인재 2명이 상무로 승진. 유진투자증권은 CES 2027 첫 공개를 전망했으나 회사 확정은 없음.",
+      "source": "뉴스1",
+      "time": "11/26 07:00",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        }
+      ],
+      "insight": "인사로 로봇 사업 우선순위가 확인됨. 공개는 아직 전망 단계."
+    },
+    {
+      "category": "tech",
+      "title": "에스오에스랩, CES 2027에서 엔비디아 플랫폼과 라이다 연동 시연",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49799",
+      "summary": "에스오에스랩이 CES 2027에서 엔비디아 'DRIVE AGX Thor'와 자사 라이다 연동을 시연할 예정. 미국의 중국산 라이다 규제를 반사이익 요인으로 제시.",
+      "source": "로봇신문",
+      "time": "11/25 17:23",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "에스오에스랩",
+          "market": "KR",
+          "code": "464080",
+          "effect": "positive"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "중국산 라이다 규제가 현실화되면 국내 센서 업체의 북미 진입 기회. 실제 수주로 이어지는지 확인 필요.",
+      "signals": {
+        "segment": "부품",
+        "component": "라이다 센서"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "화낙, 첫 연매출 1조엔 돌파 전망",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49795",
+      "summary": "화낙이 처음으로 연매출 1조엔을 넘을 전망. 7~9월 FA 수주는 1,122억엔으로 전년 대비 2.3배. 휴머노이드 부품 가공 수요가 성장 동력으로 꼽힘.",
+      "source": "로봇신문",
+      "time": "11/25 11:45",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "화낙",
+          "market": "GLOBAL",
+          "code": "6954.T",
+          "effect": "positive"
+        }
+      ],
+      "insight": "휴머노이드 부품 가공 수요가 공작기계·FA 수주로 번지는 신호. 국내 공작기계·감속기 업체에도 참고 지표.",
+      "signals": {
+        "segment": "산업/협동",
+        "customer": "휴머노이드 부품 가공 수요"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "브릴스, 디와이에이 로봇 솔루션 수주 46억 원…피지컬 AI 확대",
+      "url": "https://www.hellot.net/news/article.html?no=116601",
+      "summary": "브릴스가 현대·기아 1차 협력사 디와이에이에서 올해 17건, 약 46.8억원 규모 로봇 솔루션을 수주. 시트 조립·검사·물류 자동화 물량.",
+      "source": "헬로티",
+      "time": "11/25 13:52",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "비상장사지만 자동차 부품 2·3차 밸류체인까지 자동화 투자가 내려오고 있다는 수요 신호.",
+      "signals": {
+        "segment": "산업/협동",
+        "customer": "디와이에이(현대·기아 협력사), 46.8억원"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "지멘스, 피지컬 AI·자율생산 기술 진전 공개",
+      "url": "https://roboticsandautomationnews.com/2026/11/25/siemens-advances-physical-ai-and-autonomous-production-technologies/107659/",
+      "summary": "지멘스가 SPS 2026에서 로봇 파운데이션 모델로 입고 부품을 개봉하는 로봇(에를랑겐 공장)과, 디지털트윈 검증 AI 에이전트 생산계획 도구를 공개. 수작업 계획 70% 감소, 비용 최대 20% 절감 기대.",
+      "source": "Robotics & Automation News",
+      "time": "11/25 17:45",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Siemens",
+          "market": "GLOBAL",
+          "code": "SIE.DE",
+          "effect": "positive"
+        }
+      ],
+      "insight": "FA 강자들이 피지컬 AI를 공장 자동화 패키지로 묶는 흐름. 로봇 AI 플랫폼 경쟁 구도에 참고.",
+      "signals": {
+        "segment": "산업/협동",
+        "component": "로봇 파운데이션 모델"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "안젤리니 테크놀로지스, 휴머노이드 업체 오버소닉 로보틱스 지분 인수",
+      "url": "https://roboticsandautomationnews.com/2026/11/25/angelini-technologies-acquires-stake-in-oversonic-robotics-to-support-international-expansion/107696/",
+      "summary": "이탈리아 안젤리니 테크놀로지스가 휴머노이드 RoBee 제조사 오버소닉 지분을 인수(규모 미공개). 자금은 생산 확대·미국 진출에 사용. ST마이크로가 6월 주주로 합류해 이사회 의석 보유.",
+      "source": "Robotics & Automation News",
+      "time": "11/26 05:16",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "STMicroelectronics",
+          "market": "US",
+          "code": "STM",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "유럽에서도 휴머노이드 스타트업에 전략투자가 이어짐. 반도체사의 로봇 지분 참여는 센서·MCU 공급 관계로 연결될 수 있음.",
+      "signals": {
+        "segment": "휴머노이드"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "록웰 오토메이션, 5억유로 회사채 발행 가격 확정",
+      "url": "https://ad-hoc-news.de/boerse/news/corporate-news/rockwell-automation-stock-company-prices-eur-500-million-bond/70554028",
+      "summary": "록웰이 7년 만기 선순위채 5억유로를 쿠폰 4.250%, 발행가 99.467%(수익률 4.340%)로 확정. 2033-12-01 만기, 12/1 결제. 일반 운영자금 용도이며 진행 중인 AGILOX 인수 자금과는 별개라고 기사는 전함.",
+      "source": "ad-hoc-news",
+      "time": "11/26 00:38",
+      "region": "US",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Rockwell Automation",
+          "market": "US",
+          "code": "ROK",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "재무 이벤트로 주가 영향은 제한적. 물류로봇(AGILOX) 인수 진행 중이라는 점은 사업 확장 방향 참고."
+    }
+  ]
+}
