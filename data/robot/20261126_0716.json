@@ -709,5 +709,247 @@
       ],
       "insight": "재무 이벤트로 주가 영향은 제한적. 물류로봇(AGILOX) 인수 진행 중이라는 점은 사업 확장 방향 참고."
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-26T07:20+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "012330",
+        "name": "현대모비스",
+        "date": "2026-11-24",
+        "title": "임시주주총회결과",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800759",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "129920",
+        "name": "대성하이텍",
+        "date": "2026-11-25",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900156",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "129920",
+        "name": "대성하이텍",
+        "date": "2026-11-24",
+        "title": "주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000240",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005380",
+        "name": "현대자동차",
+        "date": "2026-11-24",
+        "title": "자기주식처분결과보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000343",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "NVDA",
+        "name": "NVIDIA",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "SYM",
+        "name": "Symbotic",
+        "date": "2026-11-23",
+        "title": "연간보고서(10-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1837240/000183724026000049/sym-20260926.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "SYM",
+        "name": "Symbotic",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1837240/000183724026000047/sym-20261123.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "STM",
+        "name": "STMicroelectronics",
+        "date": "2026-11-23",
+        "title": "해외기업 수시보고(6-K) — REPORT OF FOREIGN PRIVATE ISSUER",
+        "url": "https://www.sec.gov/Archives/edgar/data/932787/000094787126001042/ss7095704_6k.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:XPEV": {
+        "symbol": "XPEV",
+        "close": 8.99,
+        "change_pct": -0.33,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:TSLA": {
+        "symbol": "TSLA",
+        "close": 380.14,
+        "change_pct": -1.18,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 149.3,
+        "change_pct": -3.91,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "KR:277810": {
+        "symbol": "277810.KS",
+        "close": 463500.0,
+        "change_pct": -1.8,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:108490": {
+        "symbol": "108490.KS",
+        "close": 288500.0,
+        "change_pct": -1.87,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 170700.0,
+        "change_pct": -9.87,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:060720": {
+        "symbol": "060720.KQ",
+        "close": 13300.0,
+        "change_pct": 9.11,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:030530": {
+        "symbol": "030530.KQ",
+        "close": 27850.0,
+        "change_pct": -11.16,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:012330": {
+        "symbol": "012330.KS",
+        "close": 349500.0,
+        "change_pct": -2.65,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:204320": {
+        "symbol": "204320.KS",
+        "close": 33750.0,
+        "change_pct": -1.32,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:129920": {
+        "symbol": "129920.KS",
+        "close": 5760.0,
+        "change_pct": 3.04,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "US:AGLT": {
+        "symbol": "AGLT",
+        "close": 6.49,
+        "change_pct": 20.41,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:SYM": {
+        "symbol": "SYM",
+        "close": 38.02,
+        "change_pct": 1.68,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "GLOBAL:600584.SS": {
+        "symbol": "600584.SS",
+        "close": 47.19,
+        "change_pct": -7.87,
+        "currency": "CNY",
+        "date": "11/25"
+      },
+      "KR:060280": {
+        "symbol": "060280.KQ",
+        "close": 6760.0,
+        "change_pct": 3.36,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:348340": {
+        "symbol": "348340.KS",
+        "close": 14900.0,
+        "change_pct": -3.99,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:005380": {
+        "symbol": "005380.KS",
+        "close": 269500.0,
+        "change_pct": -2.0,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:066570": {
+        "symbol": "066570.KS",
+        "close": 137000.0,
+        "change_pct": -4.33,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:464080": {
+        "symbol": "464080.KS",
+        "close": 7470.0,
+        "change_pct": -7.32,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "GLOBAL:6954.T": {
+        "symbol": "6954.T",
+        "close": 5110.0,
+        "change_pct": -4.38,
+        "currency": "JPY",
+        "date": "11/25"
+      },
+      "GLOBAL:SIE.DE": {
+        "symbol": "SIE.DE",
+        "close": 245.5,
+        "change_pct": -3.59,
+        "currency": "EUR",
+        "date": "11/25"
+      },
+      "US:STM": {
+        "symbol": "STM",
+        "close": 39.73,
+        "change_pct": 0.08,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:ROK": {
+        "symbol": "ROK",
+        "close": 384.91,
+        "change_pct": 0.81,
+        "currency": "USD",
+        "date": "11/25"
+      }
+    },
+    "quotes_as_of": "11/25",
+    "notes": []
+  }
 }
