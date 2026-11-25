@@ -566,5 +566,215 @@
         "affected": "수혜: NTSK(독립 SASE)"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-26T07:04+09:00",
+    "filings": [
+      {
+        "market": "US",
+        "code": "CRWD",
+        "name": "크라우드스트라이크",
+        "date": "2026-11-23",
+        "title": "분기보고서(10-Q)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000038/crwd-20261031.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "CRWD",
+        "name": "크라우드스트라이크",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K) — FORM 8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/tm2630454d1_8k.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "CRWD",
+        "name": "크라우드스트라이크",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ZS",
+        "name": "지스케일러",
+        "date": "2026-11-23",
+        "title": "주총 위임장(DEF 14A)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000223/zs-20261123.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ZS",
+        "name": "지스케일러",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526471211/d115803d8k.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "ZS",
+        "name": "지스케일러",
+        "date": "2026-11-23",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961d8k.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:053800": {
+        "symbol": "053800.KQ",
+        "close": 157900.0,
+        "change_pct": 29.96,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:150900": {
+        "symbol": "150900.KQ",
+        "close": 7550.0,
+        "change_pct": 29.95,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:263860": {
+        "symbol": "263860.KS",
+        "close": 42050.0,
+        "change_pct": 18.79,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:042510": {
+        "symbol": "042510.KQ",
+        "close": 15030.0,
+        "change_pct": 15.26,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:067920": {
+        "symbol": "067920.KQ",
+        "close": 7080.0,
+        "change_pct": 13.28,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:184230": {
+        "symbol": "184230.KS",
+        "close": 2400.0,
+        "change_pct": 7.38,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:071050": {
+        "symbol": "071050.KS",
+        "close": 124800.0,
+        "change_pct": -2.04,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "KR:047560": {
+        "symbol": "047560.KQ",
+        "close": 5960.0,
+        "change_pct": 0.0,
+        "currency": "KRW",
+        "date": "11/25"
+      },
+      "US:FTNT": {
+        "symbol": "FTNT",
+        "close": 134.96,
+        "change_pct": 1.86,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:CHKP": {
+        "symbol": "CHKP",
+        "close": 163.77,
+        "change_pct": 2.78,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:RDWR": {
+        "symbol": "RDWR",
+        "close": 36.22,
+        "change_pct": 2.52,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:PANW": {
+        "symbol": "PANW",
+        "close": 356.14,
+        "change_pct": 0.89,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:AMD": {
+        "symbol": "AMD",
+        "close": 406.03,
+        "change_pct": -1.75,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:PEP": {
+        "symbol": "PEP",
+        "close": 143.93,
+        "change_pct": 0.88,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:CI": {
+        "symbol": "CI",
+        "close": 271.42,
+        "change_pct": -1.3,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:HSIC": {
+        "symbol": "HSIC",
+        "close": 88.73,
+        "change_pct": 1.39,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:RBRK": {
+        "symbol": "RBRK",
+        "close": 107.97,
+        "change_pct": -2.4,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:CRWD": {
+        "symbol": "CRWD",
+        "close": 209.3,
+        "change_pct": -0.74,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:ZS": {
+        "symbol": "ZS",
+        "close": 230.86,
+        "change_pct": -0.33,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:S": {
+        "symbol": "S",
+        "close": 24.09,
+        "change_pct": 0.38,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:NTSK": {
+        "symbol": "NTSK",
+        "close": 26.44,
+        "change_pct": 3.56,
+        "currency": "USD",
+        "date": "11/25"
+      }
+    },
+    "quotes_as_of": "11/25",
+    "notes": []
+  }
 }
