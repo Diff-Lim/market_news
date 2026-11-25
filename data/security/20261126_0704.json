@@ -1,0 +1,570 @@
+{
+  "published_at": "2026-11-26T07:04",
+  "industry": "security",
+  "title": "보안 투자 브리핑",
+  "emoji": "🛡️",
+  "sources": [
+    "BleepingComputer",
+    "Investing.com",
+    "SecurityWeek",
+    "Seeking Alpha",
+    "Unusual Whales",
+    "국민일보",
+    "데일리시큐",
+    "디일렉",
+    "미디어워치",
+    "보안뉴스",
+    "아시아경제",
+    "테크M",
+    "파이낸셜뉴스",
+    "한국경제"
+  ],
+  "briefing": [
+    "美 CIA 시스템 해킹 보도 → 안랩·파수 상한가, 지니언스·라온시큐어 동반 급등",
+    "2027년부터 전 상장사 보안투자 공시 의무 → 국내 보안사 구조적 수요 동인",
+    "한국투자저축은행 8.6만명 유출, 빗썸 침입 15일 → 금융 제재·금융보안 발주 주목",
+    "PANW 방화벽 루트 탈취 패치, FinCEN 침해 → 벤더 신뢰 부담·연방 예산 기대",
+    "미 보안주 RBRK·CRWD·ZS 약세 속 NTSK 신고가 → 다음 주 RBRK·OKTA·S 실적 확인"
+  ],
+  "market_snapshot": [],
+  "watchlist_notes": [],
+  "events": [
+    {
+      "date": "2026-11-30",
+      "event": "Rubrik 3분기(FY27) 실적 발표(장 마감 후)",
+      "tickers": [
+        "RBRK"
+      ],
+      "source_url": "https://www.stocktitan.net/news/RBRK/rubrik-to-report-third-quarter-fiscal-2027-financial-results-on-mifzjmhqpk7l.html"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "Okta 3분기(FY27) 실적 발표",
+      "tickers": [
+        "OKTA"
+      ],
+      "source_url": "https://investor.okta.com/news-and-events/events-and-presentations/event-details/2026/Oktas-Third-Quarter-Fiscal-2027-Financial-Results/default.aspx"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "Netskope 3분기(FY27) 실적 발표(장 마감 후)",
+      "tickers": [
+        "NTSK"
+      ],
+      "source_url": "https://finviz.com/news/415452/netskope-to-report-fiscal-third-quarter-2027-financial-results-on-december-2-2026"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "SentinelOne 3분기(FY27) 실적 발표(장 마감 후)",
+      "tickers": [
+        "S"
+      ],
+      "source_url": "https://www.marketscreener.com/news/sentinelone-announces-date-of-fiscal-third-quarter-2027-financial-results-conference-call-and-partic-ce785ed9d989ff20"
+    },
+    {
+      "date": "2026-12-08",
+      "event": "SailPoint 3분기(FY27) 실적 발표(장 시작 전)",
+      "tickers": [
+        "SAIL"
+      ],
+      "source_url": "https://finviz.com/news/421626/sailpoint-announces-date-of-fiscal-third-quarter-2027-earnings-conference-call-and-participation-in-upcoming-investor-conference"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "market",
+      "title": "[26.11.25 증시 인싸잇] 오늘의종목 - 美 CIA까지 해킹 충격... 국내 정보보안주 일제히 급등",
+      "url": "https://www.mediawatch.kr/news/article.html?no=261876",
+      "summary": "NYT·AP가 CIA·국가정보국(ODNI)이 쓰는 OSINT 분석 시스템 해킹으로 일부 비기밀 정보가 노출됐다고 보도. 25일 안랩(+29.96%, 157,900원)·파수(+29.95%) 상한가, 지니언스 +16.81%, 라온시큐어 +13.80%, 이글루 +10.40%, SGA솔루션즈 +8.28% 마감.",
+      "source": "미디어워치",
+      "time": "11/25 16:29",
+      "region": "KR",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "안랩",
+          "market": "KR",
+          "code": "053800",
+          "effect": "positive"
+        },
+        {
+          "name": "파수",
+          "market": "KR",
+          "code": "150900",
+          "effect": "positive"
+        },
+        {
+          "name": "지니언스",
+          "market": "KR",
+          "code": "263860",
+          "effect": "positive"
+        },
+        {
+          "name": "라온시큐어",
+          "market": "KR",
+          "code": "042510",
+          "effect": "positive"
+        },
+        {
+          "name": "이글루",
+          "market": "KR",
+          "code": "067920",
+          "effect": "positive"
+        }
+      ],
+      "insight": "미 정보기관 피해라는 헤드라인에 테마성 매수가 몰린 단기 이벤트. 상한가 이후 변동성 확대에 유의하고 실제 수주로 이어지는지 확인 필요.",
+      "signals": {
+        "event_type": "침해사고(해외 정부기관)",
+        "affected": "수혜 기대: 국내 보안주 전반",
+        "demand_driver": "국가·공공 보안 강화 기대"
+      }
+    },
+    {
+      "category": "market",
+      "title": "[테크M 리포트] 안랩·파수AI 장중 상한가 기록하며 보안株 '들썩'...업계 \"기관도 관심\"",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=157792",
+      "summary": "최근 5거래일 보안주에 기관 176.78억원 순매수, 외국인 183.59억원·개인 6.3억원 순매도(씽크풀). 기관은 안랩을 5거래일 연속 총 11만1200주 순매수했고 안랩은 52주 신고가를 기록.",
+      "source": "테크M",
+      "time": "11/25 14:59",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "안랩",
+          "market": "KR",
+          "code": "053800",
+          "effect": "positive"
+        },
+        {
+          "name": "파수",
+          "market": "KR",
+          "code": "150900",
+          "effect": "positive"
+        }
+      ],
+      "insight": "급등 전부터 기관 매수가 누적돼 있었다는 점은 단순 테마 이상의 수급 근거. 외국인 매도와 엇갈려 추세 지속 여부는 수급 추적이 필요.",
+      "signals": {
+        "affected": "안랩·파수 수급 개선"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "상장사, 내년부터 보안 투자액 공개해야",
+      "url": "https://www.hankyung.com/article/2026112502691",
+      "summary": "정보보호산업법 시행령 개정으로 2027년 1월 1일부터 스팩 제외 코스피·코스닥 전 상장사가 정보보호 투자액·인력을 공시해야 함. 기존 매출 3000억원 기준 폐지, 올해 공시 대상은 693곳. 반복 중대사고 시 관련 매출 최대 3% 과징금 규정도 소개.",
+      "source": "한국경제",
+      "time": "11/25 17:32",
+      "region": "KR",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "안랩",
+          "market": "KR",
+          "code": "053800",
+          "effect": "positive"
+        },
+        {
+          "name": "지니언스",
+          "market": "KR",
+          "code": "263860",
+          "effect": "positive"
+        },
+        {
+          "name": "이글루",
+          "market": "KR",
+          "code": "067920",
+          "effect": "positive"
+        },
+        {
+          "name": "SGA솔루션즈",
+          "market": "KR",
+          "code": "184230",
+          "effect": "positive"
+        }
+      ],
+      "insight": "보안 투자가 공시로 비교되면서 중소형 상장사까지 최소 투자 압력이 생기는 구조적 수요 동인. 중견·중소 고객 비중 높은 국내 보안사에 우호적.",
+      "signals": {
+        "event_type": "제도/예산",
+        "demand_driver": "정보보호 공시 의무 전 상장사 확대·과징금 강화"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "저축은행 해킹 잇따라…한국투자저축은행서 8만6000여명 정보 털려",
+      "url": "https://view.asiae.co.kr/article/2026112519071035628",
+      "summary": "한국투자저축은행 고객 8만6433명의 이름·생년월일·성별·휴대전화번호·CI가 유출. 11/22~23 모바일웹 비정상 접속을 확인해 24일 공지. 9월 말 이후 예가람·OK·웰컴·DB·하나에 이은 6번째 저축은행 해킹으로 저축은행권 최대 규모.",
+      "source": "아시아경제",
+      "time": "11/25 19:07",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "한국금융지주",
+          "market": "KR",
+          "code": "071050",
+          "effect": "negative"
+        },
+        {
+          "name": "이글루",
+          "market": "KR",
+          "code": "067920",
+          "effect": "positive"
+        }
+      ],
+      "insight": "금융 계열사 유출은 과징금·제재 리스크로 모회사 부담. 2금융권 연쇄 사고는 금융당국 점검 강화와 금융보안 관제·인증 발주로 이어질 수 있음.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 한국금융지주(자회사) / 수혜: 금융보안 관제",
+        "demand_driver": "2금융권 보안 점검 강화"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "'예산 늘렸지만 못막았다'..저축은행, 잇단 해킹사고에 투자 실효성 의문",
+      "url": "https://www.fnnews.com/news/202611251447384219",
+      "summary": "앞서 해킹된 5개 저축은행 유출 규모는 약 4만6000건(예가람 4만3246건). 이들의 상반기 IT 예산은 215.4억원으로 전년 대비 3.0% 증가에 그쳤고, 79개 저축은행 중 정보보호 투자 자율공시는 웰컴·신한 2곳뿐.",
+      "source": "파이낸셜뉴스",
+      "time": "11/25 16:59",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "2금융권 보안 투자 수준이 낮다는 점이 부각돼 당국 가이드·공시 압박이 커질 수 있음. 금융보안 솔루션의 중장기 수요 근거.",
+      "signals": {
+        "event_type": "제도/예산",
+        "demand_driver": "2금융권 보안 투자 확대 압력"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "보름 간 털린 줄도 몰라⋯ 빗썸 해킹 추가 확인",
+      "url": "https://www.kmib.co.kr/article/20261125502160",
+      "summary": "빗썸은 10/27 1시간 침입(고객 6444명·임직원 715명)으로 신고했으나, 25일 실제 침입이 10/12~10/27 약 15일간 이어졌고 피해자가 더 있다고 밝힘. 주민번호·계좌번호·신분증 사본·거래내역·지갑주소 등이 유출 대상. 추가 피해 규모는 미공개.",
+      "source": "국민일보",
+      "time": "11/26 00:01",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "탐지까지 보름 걸린 대형 거래소 사고로 과징금 상향·가상자산사업자 보안 규제 강화 가능성. 빗썸 자체는 비상장으로 관련주 직접 영향은 제한적.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 빗썸(비상장)",
+        "demand_driver": "가상자산 보안 규제 강화 가능성"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "[더존비즈온 사태] 11월25일 현황... 이스트시큐리티·담양군문화재단",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147544",
+      "summary": "더존비즈온 APO 백업 서비스 해킹 관련 유출 가능 기관이 2곳 늘어 50곳. 보안 기업 이스트시큐리티는 고객·협력사·퇴사자 이름·연락처와 일부 주민·계좌번호 노출 가능성을 공지. 양측 모두 실제 유출은 아직 확인 안 됨.",
+      "source": "보안뉴스",
+      "time": "11/25 18:22",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "이스트소프트",
+          "market": "KR",
+          "code": "047560",
+          "effect": "negative"
+        }
+      ],
+      "insight": "보안 기업 자회사까지 공급망 사고에 엮여 이스트소프트 신뢰도에 부담. ERP·백업 등 SaaS 공급망 보안 점검 수요는 확대.",
+      "signals": {
+        "event_type": "침해사고(공급망)",
+        "affected": "피해: 이스트소프트(이스트시큐리티)",
+        "demand_driver": "SaaS 공급망 보안"
+      }
+    },
+    {
+      "category": "market",
+      "title": "한국 노리는 랜섬웨어 조직 11개→24개…다크웹에 공개된 국내 피해 주장 2.4배 급증",
+      "url": "https://dailysecu.com/news/articleView.html?idxno=209715",
+      "summary": "포티넷 집계로 올해(10월까지) 한국을 노린 랜섬웨어 조직이 11개→24개(+118%), 유출사이트에 공개된 국내 피해 주장은 18건→43건(+139%). 피해의 24%가 제조업, 가장 활발한 조직은 Qilin.",
+      "source": "데일리시큐",
+      "time": "11/25 15:16",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "포티넷",
+          "market": "US",
+          "code": "FTNT",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "국내 제조업 대상 랜섬웨어 증가는 백업·EDR·OT 보안 수요의 근거. 개별 종목보다 업황 지표로 참고.",
+      "signals": {
+        "demand_driver": "랜섬웨어 증가·제조업 보안"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "믿었던 보안 기업·장비도 뚫렸다…라드웨어·체크포인트 등 해킹 속출",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65892",
+      "summary": "라드웨어 클라우드 WAF 관리 API가 인증 없이 노출(11/19)되고, 체크포인트 관리서버 24대(22개 조직)가 SmartConsole 취약점으로 침해된 사례를 정리. 구글 GTIG는 악용된 제로데이 90건 중 21건이 보안·네트워크 제품이라고 집계.",
+      "source": "디일렉",
+      "time": "11/25 14:16",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "체크포인트",
+          "market": "US",
+          "code": "CHKP",
+          "effect": "negative"
+        },
+        {
+          "name": "Radware",
+          "market": "US",
+          "code": "RDWR",
+          "effect": "negative"
+        }
+      ],
+      "insight": "보안 장비 자체가 공격 표적이 되는 흐름은 해외 벤더 신뢰도 부담. 국내에선 국산 장비 대체 논리로 쓰일 수 있음.",
+      "signals": {
+        "event_type": "대형 취약점",
+        "affected": "피해: CHKP·RDWR"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "팔로알토네트웍스, 방화벽 루트 권한 탈취에 쓰인 'Fragnesia' 취약점 패치",
+      "url": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
+      "summary": "PAN-OS 업데이트로 리눅스 커널 권한상승 취약점 CVE-2026-46300(Fragnesia)을 수정. 중국 연계 그룹이 AI 활용 캠페인에서 PHP2Shell 취약점과 연계해 방화벽 24대·관리서버 1대를 장악. 공격 경로는 인터넷에 노출된 관리 인터페이스가 전제.",
+      "source": "SecurityWeek",
+      "time": "11/25 17:12",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "팔로알토네트웍스",
+          "market": "US",
+          "code": "PANW",
+          "effect": "negative"
+        }
+      ],
+      "insight": "체크포인트에 이어 PANW 방화벽도 실제 공격 피해가 확인돼 방화벽 벤더 전반의 신뢰 이슈. 피해 규모가 작고 관리 인터페이스 노출 조건이라 실적 영향은 제한적일 가능성.",
+      "signals": {
+        "event_type": "대형 취약점",
+        "affected": "피해: PANW"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "미 재무부 FinCEN, 사이버 사고로 일부 시스템 중단",
+      "url": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+      "summary": "FinCEN이 '일부 시스템에 대한 무단 접근'을 확인하고 은행비밀법(BSA) 전자신고 서비스 일부를 오프라인 전환. 11/18~12/29 마감 보고는 12/30까지 제출 허용. The Record는 같은 날 CIA 등 정보기관 침해 보도도 함께 전함.",
+      "source": "SecurityWeek",
+      "time": "11/25 22:39",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "미 정보기관·재무부 연쇄 침해는 연방 사이버보안 예산·조달 확대 논리를 강화. 연방 비중 높은 보안 기업에 중기 수요 기대.",
+      "signals": {
+        "event_type": "침해사고(정부)",
+        "demand_driver": "미 연방 보안 예산"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "샤이니헌터스 복귀 주장…새 'Inception' 그룹은 연관성 부인",
+      "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
+      "summary": "포럼 게시글로 ShinyHunters 복귀와 새 유출 사이트가 공개됐으나 진위 불확실. Inception 유출 사이트는 AMD·펩시코·루시드·헨리샤인·시그나를 피해자로 주장(미검증). 옥타는 관련 가능 클러스터(O-UNC-053)를 추적 중.",
+      "source": "SecurityWeek",
+      "time": "11/25 23:15",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "AMD",
+          "market": "US",
+          "code": "AMD",
+          "effect": "negative"
+        },
+        {
+          "name": "PepsiCo",
+          "market": "US",
+          "code": "PEP",
+          "effect": "negative"
+        },
+        {
+          "name": "Cigna",
+          "market": "US",
+          "code": "CI",
+          "effect": "negative"
+        },
+        {
+          "name": "Henry Schein",
+          "market": "US",
+          "code": "HSIC",
+          "effect": "negative"
+        }
+      ],
+      "insight": "대형 상장사가 피해 주장 명단에 올라 헤드라인 리스크. 회사 확인이나 SEC 8-K 사고 공시가 나오는지가 주가 영향의 분기점.",
+      "signals": {
+        "event_type": "침해사고(주장)",
+        "affected": "피해 주장: AMD·PEP·CI·HSIC"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "1패스워드, 직원 GitHub 계정 탈취로 고객 데이터 유출",
+      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "summary": "공격자가 탈취한 직원 GitHub 계정으로 백엔드에 악성 코드를 넣어 고객 이름·이메일·계정 ID·공개키·초대/복구 토큰을 빼감. 소스코드·빌드 파이프라인도 접근. 금고·암호화 키는 영향 없고 피해는 '소수 사용자'라고 밝힘.",
+      "source": "BleepingComputer",
+      "time": "11/26 06:33",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "비상장이지만 대표 패스워드 매니저의 개발 공급망 침해로 아이덴티티 보안 신뢰에 타격. 개발자 계정·코드 저장소 보안 수요 부각.",
+      "signals": {
+        "event_type": "침해사고(공급망)",
+        "affected": "피해: 1Password(비상장)",
+        "demand_driver": "개발 공급망·아이덴티티 보안"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "앤트로픽 스캐너가 찾은 드루팔 취약점, 실제 공격에 악용",
+      "url": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
+      "summary": "인증 없이 드루팔 코어 설치기를 악용해 원격 코드 실행이 가능한 CVE-2026-132165가 11/18 패치 후 다음 날부터 악용됨. CISA는 11/24 KEV에 추가. 앤트로픽 OSS 스캐너는 680개 프로젝트에서 5000개 넘는 취약점을 공개했다고 밝힘.",
+      "source": "SecurityWeek",
+      "time": "11/25 17:01",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "AI 취약점 탐지가 대량 발견→빠른 악용으로 이어져 패치 관리·노출 관리 수요가 커지는 흐름. 상장사 직접 영향은 없음.",
+      "signals": {
+        "event_type": "대형 취약점",
+        "demand_driver": "AI 보안·취약점 관리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "루브릭 주도로 휴일 앞둔 보안주 하락…앤트로픽 관련주는 반등",
+      "url": "https://seekingalpha.com/news/4676653-rubrik-leads-security-stocks-lower-ahead-of-holiday-anthropic-perks-up",
+      "summary": "25일 오후 기술주 매도와 함께 보안주 약세. RBRK 약 7%, CRWD 약 5%, ZS 약 5%, S 약 4.5% 하락. 미국 시장은 26일 추수감사절로 휴장.",
+      "source": "Seeking Alpha",
+      "time": "11/26 02:56",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Rubrik",
+          "market": "US",
+          "code": "RBRK",
+          "effect": "negative"
+        },
+        {
+          "name": "크라우드스트라이크",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "negative"
+        },
+        {
+          "name": "지스케일러",
+          "market": "US",
+          "code": "ZS",
+          "effect": "negative"
+        },
+        {
+          "name": "센티넬원",
+          "market": "US",
+          "code": "S",
+          "effect": "negative"
+        }
+      ],
+      "insight": "국내 보안주 급등과 달리 미국 보안주는 고밸류 소프트웨어 매도에 약세. 다음 주 RBRK·OKTA·S 실적이 반등 계기가 될지 주목.",
+      "signals": {
+        "affected": "RBRK·CRWD·ZS·S 약세"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "지스케일러, 439억달러 크라우드스트라이크 합병 관련 425 서류 제출",
+      "url": "https://unusualwhales.com/news/zscaler-files-425-crowdstrike-merger-communication-2026-11-25",
+      "summary": "ZS가 25일 합병 커뮤니케이션(Form 425)을 추가 제출. 프리마켓에서 ZS는 222달러로 전일 종가(231.62달러) 대비 4.2% 하락, CRWD는 7% 넘게 하락. 조건은 ZS 1주당 CRWD 1.135주, 약 34% 프리미엄 그대로.",
+      "source": "Unusual Whales",
+      "time": "11/25 20:14",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "지스케일러",
+          "market": "US",
+          "code": "ZS",
+          "effect": "mixed"
+        },
+        {
+          "name": "크라우드스트라이크",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "negative"
+        }
+      ],
+      "insight": "전액 주식 교환이라 ZS 주가가 CRWD에 연동돼 동반 하락. 규제 승인 불확실성과 CRWD 주주 희석이 딜 스프레드의 핵심 변수.",
+      "signals": {
+        "event_type": "M&A",
+        "affected": "CRWD(희석)·ZS(CRWD 연동)"
+      }
+    },
+    {
+      "category": "market",
+      "title": "넷스코프 주가 52주 신고가 26.74달러 기록",
+      "url": "https://www.investing.com/news/company-news/netskope-stock-hits-52week-high-at-2674-usd-93CH-5051370",
+      "summary": "NTSK가 52주 신고가 26.74달러를 기록, 1년 약 49.6%·6개월 약 117% 상승. 기사에 인용된 목표가는 로젠블랫 28달러, TD코웬 25달러, 칸토 28달러, 모건스탠리 24달러(비중중립 하향).",
+      "source": "Investing.com",
+      "time": "11/26 04:22",
+      "region": "US",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "넷스코프",
+          "market": "US",
+          "code": "NTSK",
+          "effect": "positive"
+        }
+      ],
+      "insight": "CRWD–ZS 합병으로 독립 SASE 업체 희소성이 부각되며 NTSK가 섹터 약세에도 강세. 12/2 실적이 다음 확인 지점.",
+      "signals": {
+        "affected": "수혜: NTSK(독립 SASE)"
+      }
+    }
+  ]
+}
