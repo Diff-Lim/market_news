@@ -562,5 +562,234 @@
         "segment": "로봇 AI"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-27T07:16+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-26",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000250",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-25",
+        "title": "기업가치제고계획(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800766",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "056080",
+        "name": "유진로봇",
+        "date": "2026-11-26",
+        "title": "주식등의대량보유상황보고서(약식)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000739",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "190510",
+        "name": "나무가",
+        "date": "2026-11-26",
+        "title": "주식소각결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900124",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "190510",
+        "name": "나무가",
+        "date": "2026-11-25",
+        "title": "주요사항보고서(자기주식취득신탁계약체결결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000222",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "190510",
+        "name": "나무가",
+        "date": "2026-11-25",
+        "title": "신탁계약해지결과보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000216",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "190510",
+        "name": "나무가",
+        "date": "2026-11-25",
+        "title": "주요사항보고서(자기주식취득신탁계약해지결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000106",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "012330",
+        "name": "현대모비스",
+        "date": "2026-11-26",
+        "title": "주주명부폐쇄기간또는기준일설정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800627",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "012330",
+        "name": "현대모비스",
+        "date": "2026-11-26",
+        "title": "주주총회소집결의",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800604",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "012330",
+        "name": "현대모비스",
+        "date": "2026-11-26",
+        "title": "대표이사(대표집행임원)변경(안내공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800558",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "012330",
+        "name": "현대모비스",
+        "date": "2026-11-24",
+        "title": "임시주주총회결과",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800759",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005380",
+        "name": "현대자동차",
+        "date": "2026-11-24",
+        "title": "자기주식처분결과보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000343",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 171300.0,
+        "change_pct": 0.35,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:000660": {
+        "symbol": "000660.KS",
+        "close": 1053000.0,
+        "change_pct": 2.23,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:066570": {
+        "symbol": "066570.KS",
+        "close": 135200.0,
+        "change_pct": -1.31,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:454910": {
+        "symbol": "454910.KS",
+        "close": 51700.0,
+        "change_pct": 3.19,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:056080": {
+        "symbol": "056080.KQ",
+        "close": 8800.0,
+        "change_pct": -1.12,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:277810": {
+        "symbol": "277810.KS",
+        "close": 467000.0,
+        "change_pct": 0.76,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:190510": {
+        "symbol": "190510.KS",
+        "close": 17570.0,
+        "change_pct": 6.61,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:012330": {
+        "symbol": "012330.KS",
+        "close": 329500.0,
+        "change_pct": -5.72,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:005380": {
+        "symbol": "005380.KS",
+        "close": 259000.0,
+        "change_pct": -3.9,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "US:TSLA": {
+        "symbol": "TSLA",
+        "close": 380.14,
+        "change_pct": -1.18,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "KR:090710": {
+        "symbol": "090710.KQ",
+        "close": 6800.0,
+        "change_pct": -8.72,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "US:XPEV": {
+        "symbol": "XPEV",
+        "close": 8.99,
+        "change_pct": -0.33,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "KR:108490": {
+        "symbol": "108490.KS",
+        "close": 280500.0,
+        "change_pct": -2.77,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "GLOBAL:HEXA-B.ST": {
+        "symbol": "HEXA-B.ST",
+        "close": 104.5,
+        "change_pct": 2.25,
+        "currency": "SEK",
+        "date": "11/26"
+      },
+      "US:TER": {
+        "symbol": "TER",
+        "close": 212.15,
+        "change_pct": -0.5,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 149.3,
+        "change_pct": -3.91,
+        "currency": "USD",
+        "date": "11/25"
+      }
+    },
+    "quotes_as_of": "11/26",
+    "notes": []
+  }
 }
