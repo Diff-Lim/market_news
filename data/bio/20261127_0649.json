@@ -793,5 +793,440 @@
         "indication": "흉선암, PD-1×VEGF 이중항체"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-27T06:49+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "196170",
+        "name": "알테오젠",
+        "date": "2026-11-26",
+        "title": "투자판단관련주요경영사항              (ALTB4 라이선스 계약 파트너사 MSD로부터 판매 마일스톤 수령 예정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900206",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "028300",
+        "name": "HLB",
+        "date": "2026-11-25",
+        "title": "기업설명회(IR)개최",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900706",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "067630",
+        "name": "HLB생명과학",
+        "date": "2026-11-25",
+        "title": "기업설명회(IR)개최",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900727",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "326030",
+        "name": "에스케이바이오팜",
+        "date": "2026-11-26",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000727",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "326030",
+        "name": "에스케이바이오팜",
+        "date": "2026-11-26",
+        "title": "단기차입금증가결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800472",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "003520",
+        "name": "영진약품",
+        "date": "2026-11-26",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000600",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "003520",
+        "name": "영진약품",
+        "date": "2026-11-26",
+        "title": "의결권대리행사권유참고서류",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000367",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "003520",
+        "name": "영진약품",
+        "date": "2026-11-26",
+        "title": "주주총회소집공고",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000354",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "003520",
+        "name": "영진약품",
+        "date": "2026-11-25",
+        "title": "투자유의안내              (관리종목지정 우려 예고)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800716",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "003520",
+        "name": "영진약품",
+        "date": "2026-11-25",
+        "title": "[기재정정]주주총회소집결의",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800353",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "372320",
+        "name": "큐로셀",
+        "date": "2026-11-26",
+        "title": "전환가액의조정              (제3회차)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900654",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "039200",
+        "name": "오스코텍",
+        "date": "2026-11-26",
+        "title": "소송등의판결ㆍ결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900003",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "039200",
+        "name": "오스코텍",
+        "date": "2026-11-24",
+        "title": "소송등의판결ㆍ결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900987",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "069620",
+        "name": "대웅제약",
+        "date": "2026-11-24",
+        "title": "불성실공시법인지정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800663",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "471820",
+        "name": "셀로맥스사이언스",
+        "date": "2026-11-25",
+        "title": "주요사항보고서(자기주식취득신탁계약체결결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000421",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "GSK",
+        "name": "GSK",
+        "date": "2026-11-25",
+        "title": "해외기업 수시보고(6-K) — GSK ANNOUNCES POSITIVE PHASE III EXDENSUR RESULTS",
+        "url": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426010109/a6084e.htm",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "AZN",
+        "name": "AstraZeneca",
+        "date": "2026-11-25",
+        "title": "해외기업 수시보고(6-K) — DIRECTOR/PDMR SHAREHOLDING",
+        "url": "https://www.sec.gov/Archives/edgar/data/901832/000165495426010111/a6378e.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:196170": {
+        "symbol": "196170.KQ",
+        "close": 170300.0,
+        "change_pct": 0.41,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "US:MRK": {
+        "symbol": "MRK",
+        "close": 140.29,
+        "change_pct": -0.9,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "KR:174900": {
+        "symbol": "174900.KS",
+        "close": 20000.0,
+        "change_pct": -13.98,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:028300": {
+        "symbol": "028300.KQ",
+        "close": 29000.0,
+        "change_pct": 2.65,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:067630": {
+        "symbol": "067630.KQ",
+        "close": 2320.0,
+        "change_pct": 3.11,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:068270": {
+        "symbol": "068270.KS",
+        "close": 215500.0,
+        "change_pct": -0.69,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:310210": {
+        "symbol": "310210.KS",
+        "close": 138500.0,
+        "change_pct": 18.17,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:226950": {
+        "symbol": "226950.KS",
+        "close": 91600.0,
+        "change_pct": 13.51,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:141080": {
+        "symbol": "141080.KQ",
+        "close": 56700.0,
+        "change_pct": 5.59,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:298380": {
+        "symbol": "298380.KS",
+        "close": 36950.0,
+        "change_pct": 3.79,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:207940": {
+        "symbol": "207940.KS",
+        "close": 1337000.0,
+        "change_pct": -1.91,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:326030": {
+        "symbol": "326030.KS",
+        "close": 90500.0,
+        "change_pct": 1.12,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:003520": {
+        "symbol": "003520.KS",
+        "close": 721.0,
+        "change_pct": -6.36,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:372320": {
+        "symbol": "372320.KS",
+        "close": 25350.0,
+        "change_pct": 3.47,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:039200": {
+        "symbol": "039200.KQ",
+        "close": 35050.0,
+        "change_pct": -1.82,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:128940": {
+        "symbol": "128940.KS",
+        "close": 466500.0,
+        "change_pct": 0.0,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "US:NVO": {
+        "symbol": "NVO",
+        "close": 40.97,
+        "change_pct": 1.64,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:LLY": {
+        "symbol": "LLY",
+        "close": 1392.22,
+        "change_pct": -1.09,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "KR:005500": {
+        "symbol": "005500.KS",
+        "close": 19400.0,
+        "change_pct": 3.19,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:000100": {
+        "symbol": "000100.KS",
+        "close": 82100.0,
+        "change_pct": -1.68,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:069620": {
+        "symbol": "069620.KS",
+        "close": 93200.0,
+        "change_pct": -3.62,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:006280": {
+        "symbol": "006280.KS",
+        "close": 127900.0,
+        "change_pct": -2.07,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:185750": {
+        "symbol": "185750.KS",
+        "close": 56700.0,
+        "change_pct": -6.44,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:471820": {
+        "symbol": "471820.KQ",
+        "close": 3950.0,
+        "change_pct": 29.93,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:380550": {
+        "symbol": "380550.KQ",
+        "close": 5540.0,
+        "change_pct": -1.07,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:394800": {
+        "symbol": "394800.KQ",
+        "close": 7130.0,
+        "change_pct": 15.19,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:002390": {
+        "symbol": "002390.KS",
+        "close": 7960.0,
+        "change_pct": 0.25,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "US:GSK": {
+        "symbol": "GSK",
+        "close": 50.76,
+        "change_pct": 1.38,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:IONS": {
+        "symbol": "IONS",
+        "close": 29.96,
+        "change_pct": 0.54,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "GLOBAL:1177.HK": {
+        "symbol": "1177.HK",
+        "close": 5.35,
+        "change_pct": 3.68,
+        "currency": "HKD",
+        "date": "11/26"
+      },
+      "US:HCM": {
+        "symbol": "HCM",
+        "close": 13.49,
+        "change_pct": 2.82,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:AZN": {
+        "symbol": "AZN",
+        "close": 184.21,
+        "change_pct": 0.55,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:ALVO": {
+        "symbol": "ALVO",
+        "close": 4.21,
+        "change_pct": -0.71,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:JNJ": {
+        "symbol": "JNJ",
+        "close": 273.94,
+        "change_pct": -0.91,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "GLOBAL:BANB.SW": {
+        "symbol": "BANB.SW",
+        "close": 67.25,
+        "change_pct": -9.79,
+        "currency": "CHF",
+        "date": "11/26"
+      },
+      "US:ONC": {
+        "symbol": "ONC",
+        "close": 414.79,
+        "change_pct": -0.2,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:NVS": {
+        "symbol": "NVS",
+        "close": 155.29,
+        "change_pct": 0.57,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:SMMT": {
+        "symbol": "SMMT",
+        "close": 10.59,
+        "change_pct": 0.86,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "GLOBAL:9926.HK": {
+        "symbol": "9926.HK",
+        "close": 53.35,
+        "change_pct": -2.73,
+        "currency": "HKD",
+        "date": "11/26"
+      }
+    },
+    "quotes_as_of": "11/26",
+    "notes": []
+  }
 }
