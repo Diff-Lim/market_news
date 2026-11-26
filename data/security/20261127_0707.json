@@ -711,5 +711,286 @@
         "demand_driver": "취약점 관리·WAF"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-27T07:07+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "263860",
+        "name": "지니언스",
+        "date": "2026-11-26",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000633",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "055550",
+        "name": "신한지주",
+        "date": "2026-11-26",
+        "title": "독립이사의선임ㆍ해임또는중도퇴임에관한신고",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000162",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "055550",
+        "name": "신한지주",
+        "date": "2026-11-24",
+        "title": "증권발행실적보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000497",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "055550",
+        "name": "신한지주",
+        "date": "2026-11-24",
+        "title": "기업설명회(IR)개최(안내공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800724",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "086790",
+        "name": "하나금융지주",
+        "date": "2026-11-26",
+        "title": "[기재정정]일괄신고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000627",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "086790",
+        "name": "하나금융지주",
+        "date": "2026-11-25",
+        "title": "증권발행실적보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000575",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "086790",
+        "name": "하나금융지주",
+        "date": "2026-11-24",
+        "title": "투자설명서(일괄신고)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000397",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "086790",
+        "name": "하나금융지주",
+        "date": "2026-11-24",
+        "title": "일괄신고추가서류",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000380",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "006800",
+        "name": "미래에셋증권",
+        "date": "2026-11-26",
+        "title": "투자설명서(일괄신고)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000067",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "006800",
+        "name": "미래에셋증권",
+        "date": "2026-11-26",
+        "title": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000035",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "006800",
+        "name": "미래에셋증권",
+        "date": "2026-11-25",
+        "title": "투자설명서(일괄신고)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000302",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "006800",
+        "name": "미래에셋증권",
+        "date": "2026-11-25",
+        "title": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000286",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "006800",
+        "name": "미래에셋증권",
+        "date": "2026-11-25",
+        "title": "투자설명서(일괄신고)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000114",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "071050",
+        "name": "한국금융지주",
+        "date": "2026-11-26",
+        "title": "임원ㆍ주요주주특정증권등거래계획보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000873",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "138930",
+        "name": "BNK금융지주",
+        "date": "2026-11-25",
+        "title": "현금ㆍ현물배당결정(자회사의 주요경영사항)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800356",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "138930",
+        "name": "BNK금융지주",
+        "date": "2026-11-25",
+        "title": "현금ㆍ현물배당을위한주주명부폐쇄(기준일)결정(자회사의 주요경영사항)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800348",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "015760",
+        "name": "한국전력공사",
+        "date": "2026-11-25",
+        "title": "해외증권거래소등에신고한주요공시사항의국내신고",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800470",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:053800": {
+        "symbol": "053800.KQ",
+        "close": 164500.0,
+        "change_pct": 4.18,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:263860": {
+        "symbol": "263860.KS",
+        "close": 40350.0,
+        "change_pct": -4.04,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:150900": {
+        "symbol": "150900.KQ",
+        "close": 7600.0,
+        "change_pct": 0.66,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:042510": {
+        "symbol": "042510.KQ",
+        "close": 15680.0,
+        "change_pct": 4.32,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:055550": {
+        "symbol": "055550.KS",
+        "close": 84700.0,
+        "change_pct": -0.47,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:086790": {
+        "symbol": "086790.KS",
+        "close": 119200.0,
+        "change_pct": -1.41,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:006800": {
+        "symbol": "006800.KS",
+        "close": 19980.0,
+        "change_pct": 6.79,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:071050": {
+        "symbol": "071050.KS",
+        "close": 126000.0,
+        "change_pct": 0.96,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:105560": {
+        "symbol": "105560.KS",
+        "close": 145300.0,
+        "change_pct": -1.89,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:138930": {
+        "symbol": "138930.KS",
+        "close": 12480.0,
+        "change_pct": -1.5,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:098460": {
+        "symbol": "098460.KQ",
+        "close": 21800.0,
+        "change_pct": -0.46,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:271830": {
+        "symbol": "271830.KS",
+        "close": 858.0,
+        "change_pct": -4.56,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:001040": {
+        "symbol": "001040.KS",
+        "close": 125000.0,
+        "change_pct": 3.82,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "KR:015760": {
+        "symbol": "015760.KS",
+        "close": 25550.0,
+        "change_pct": 1.19,
+        "currency": "KRW",
+        "date": "11/26"
+      },
+      "US:CRWD": {
+        "symbol": "CRWD",
+        "close": 209.3,
+        "change_pct": -0.74,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "US:ZS": {
+        "symbol": "ZS",
+        "close": 230.86,
+        "change_pct": -0.33,
+        "currency": "USD",
+        "date": "11/25"
+      },
+      "GLOBAL:2888.HK": {
+        "symbol": "2888.HK",
+        "close": 195.5,
+        "change_pct": -1.56,
+        "currency": "HKD",
+        "date": "11/26"
+      }
+    },
+    "quotes_as_of": "11/26",
+    "notes": []
+  }
 }
