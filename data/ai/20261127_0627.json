@@ -1,0 +1,865 @@
+{
+  "published_at": "2026-11-27T06:27",
+  "industry": "ai",
+  "title": "AI 투자 브리핑",
+  "emoji": "🤖",
+  "sources": [
+    "24/7 Wall St",
+    "BNN Bloomberg(AP)",
+    "BigGo Finance",
+    "Billionaires.Africa(Bloomberg)",
+    "Daily Maverick(Reuters)",
+    "Dataconomy(Reuters)",
+    "Dealroom(Bloomberg)",
+    "KCCI(AP)",
+    "Malay Mail(FT)",
+    "The Next Web",
+    "TokenPost",
+    "전자신문",
+    "지디넷코리아",
+    "한국경제"
+  ],
+  "briefing": [
+    "엔비디아, 동남아 4개국向 AI 서버 출하 동결 → NVDA·델·SMCI 단기 매출 지연 우려",
+    "S&P, 엔비디아 AA 등급 하향 검토 → 거버넌스 할인·네오클라우드 조달 부담",
+    "키옥시아-엔비디아 SSD로 HBM 보완 실증 → 낸드 수혜, HBM 장기 경쟁 변수",
+    "美 휴장 중 아시아 AI주 반등(소프트뱅크·키옥시아) → 코스피 +0.29%로 상승폭 반납",
+    "한은, AI 투자 지연 시 2028년 메모리값 51%↓ 시나리오 → 삼전닉스 사이클 논쟁 지속"
+  ],
+  "market_snapshot": [
+    {
+      "label": "코스피 (11/26)",
+      "value": "4,711.21 (+0.29%)",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611262700i"
+    },
+    {
+      "label": "닛케이225 (11/26)",
+      "value": "57,499.16 (+0.86%)",
+      "source": "Le Private Banker",
+      "url": "https://leprivatebanker.com/2026/11/26/global-stocks-rebound-as-dip-buyers-pull-the-nasdaq-100-back-from-a-bear-market-ahead-of-thanksgiving/"
+    },
+    {
+      "label": "키옥시아 (11/26)",
+      "value": "7,762엔 (+12.57%)",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/314b0a33-5791-4adb-b28e-0cd61c7c69f6"
+    },
+    {
+      "label": "소프트뱅크그룹 5년 CDS",
+      "value": "516bp (4년래 최고)",
+      "source": "Billionaires.Africa(Bloomberg)",
+      "url": "https://www.billionaires.africa/2026/11/26/japanese-billionaire-masayoshi-sons-softbank-debt-insurance-costs-hit-four-year-high/"
+    }
+  ],
+  "watchlist_notes": [
+    {
+      "name": "NVIDIA",
+      "note": "동남아 4개국向 AI 서버 출하 동결(FT), S&P AA 등급 하향 검토. 12/3 상원 증언 예정.",
+      "article_urls": [
+        "https://www.malaymail.com/news/money/2026/11/26/ft-nvidia-stops-ai-shipments-to-malaysia-singapore-thailand-indonesia-as-us-tightens-china-curbs/244856",
+        "https://thenextweb.com/news/nvidia-credit-rating-sp-creditwatch-governance"
+      ]
+    },
+    {
+      "name": "삼성전자",
+      "note": "장 초반 +2.8% 반등 후 상승폭 축소. 머스크 장기계약 협상(WSJ), 한은 메모리 하락 시나리오 경고.",
+      "article_urls": [
+        "https://www.hankyung.com/article/2026112614526",
+        "https://www.etnews.com/20261126000565",
+        "https://www.hankyung.com/article/2026112625776"
+      ]
+    },
+    {
+      "name": "SK하이닉스",
+      "note": "11/26 반등(장중 +5%). 솔리다임 240단 PLC 낸드 공개 예정, 중국 수요 둔화 변수.",
+      "article_urls": [
+        "https://www.hankyung.com/article/2026112614526",
+        "https://zdnet.co.kr/view/?no=20261126134119",
+        "https://www.hankyung.com/article/2026112610286"
+      ]
+    },
+    {
+      "name": "HBM",
+      "note": "키옥시아·엔비디아가 SSD로 HBM 용량 보완 실증 — HBM 대체 논리 부각.",
+      "article_urls": [
+        "https://finance.biggo.com/news/314b0a33-5791-4adb-b28e-0cd61c7c69f6",
+        "https://www.hankyung.com/article/2026112633711"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-30",
+      "event": "AWS re:Invent 개막(~12/4, 라스베이거스)",
+      "tickers": [
+        "AMZN"
+      ],
+      "source_url": "https://www.cxtoday.com/events/aws-reinvent-2026/"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "마벨 회계 3분기 실적 발표(장 마감 후, 커스텀 AI칩)",
+      "tickers": [
+        "MRVL"
+      ],
+      "source_url": "https://tokenpost.com/news/investing/62898"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "세일즈포스 회계 3분기 실적 발표",
+      "tickers": [
+        "CRM"
+      ],
+      "source_url": "https://www.tipranks.com/news/salesforce-crm-price-forecast-what-financial-analysts-expect-ahead-of-q3-earnings-next-week"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "젠슨 황, 상원 은행위원회 증언",
+      "tickers": [
+        "NVDA"
+      ],
+      "source_url": "https://www.kcci.com/article/trump-arizona-tsmc-chip-groundbreaking/74541430"
+    },
+    {
+      "date": "2026-12-04",
+      "event": "트럼프, TSMC 애리조나 5단계 착공식 참석",
+      "tickers": [
+        "2330.TW"
+      ],
+      "source_url": "https://www.kcci.com/article/trump-arizona-tsmc-chip-groundbreaking/74541430"
+    },
+    {
+      "date": "2026-12-09",
+      "event": "브로드컴 회계 4분기 실적 발표(커스텀 AI 가속기)",
+      "tickers": [
+        "AVGO"
+      ],
+      "source_url": "https://finviz.com/news/418980/broadcom-inc-to-announce-fourth-quarter-and-fiscal-year-2026-financial-results-on-wednesday-december-9-2026"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "policy",
+      "title": "FT: 엔비디아, 미국 대중 규제 강화로 말레이시아·싱가포르·태국·인도네시아向 AI 서버 출하 중단",
+      "url": "https://www.malaymail.com/news/money/2026/11/26/ft-nvidia-stops-ai-shipments-to-malaysia-singapore-thailand-indonesia-as-us-tightens-china-curbs/244856",
+      "summary": "엔비디아가 주요 제조 파트너에 동남아 4개국向 AI 서버 출하 동결을 지시했고, 델·슈퍼마이크로는 대기 주문이 공장을 떠나지 않는다고 고객에 통보. 일시 조치인지는 불확실. 엔비디아 싱가포르 법인 2025년 매출은 1,040억달러(+72%). 새 상무부 규정상 역내 클라우드는 90일 내 라이선스를 받아야 함.",
+      "source": "Malay Mail(FT)",
+      "time": "11/26 14:37",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "Dell Technologies",
+          "market": "US",
+          "code": "DELL",
+          "effect": "negative"
+        },
+        {
+          "name": "Super Micro Computer",
+          "market": "US",
+          "code": "SMCI",
+          "effect": "negative"
+        }
+      ],
+      "insight": "싱가포르 청구 매출 비중이 큰 만큼 동남아 출하 중단이 길어지면 엔비디아·서버 OEM의 단기 매출 인식이 지연될 수 있음. 90일 라이선스 결과가 관건.",
+      "signals": {
+        "value_chain": "GPU/가속기 · 서버/네트워크",
+        "competition": "엔비디아·델·슈퍼마이크로 피해, 우회 수요 차단"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "S&P, 지배구조 문제로 엔비디아 AA 신용등급 하향 검토 대상에 올려",
+      "url": "https://thenextweb.com/news/nvidia-credit-rating-sp-creditwatch-governance",
+      "summary": "S&P가 엔비디아 AA 등급을 '부정적 관찰대상'에 올리고 90일 내 한 단계(AA-) 하향 가능성을 언급. 이사회 독립성·장기 재임 이사·승계계획 부재·수출통제 문제를 들어 경영·지배구조 점수를 '긍정'에서 '중립'으로 낮춤. 주가는 월요일 종가 대비 약 12.5% 하락.",
+      "source": "The Next Web",
+      "time": "11/26 23:56",
+      "region": "US",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "CoreWeave",
+          "market": "US",
+          "code": "CRWV",
+          "effect": "negative"
+        }
+      ],
+      "insight": "황 CEO 복귀 논란이 신용평가로까지 번져 거버넌스 할인 요인이 커짐. 엔비디아가 보증·지원하는 네오클라우드 자금조달 여건에도 부담.",
+      "signals": {
+        "value_chain": "GPU/가속기",
+        "competition": "엔비디아 거버넌스 리스크 → 경쟁 가속기 업체 상대적 부각 가능"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "키옥시아, 엔비디아와 SSD 기반 AI 메모리 계층 실증…HBM 보완 기대에 주가 12% 급등",
+      "url": "https://finance.biggo.com/news/314b0a33-5791-4adb-b28e-0cd61c7c69f6",
+      "summary": "키옥시아 XD8 SSD 144개(약 1.1PB)를 GB200 NVL72 랙에 연결해 랙 HBM(13.4TB)의 약 80배 용량을 확보하는 실증. 키옥시아 주가는 전날 14% 하락 후 7,762엔(+12.57%)으로 마감. 트렌드포스는 4분기 낸드 계약가 상승률 전망을 8~13%로 낮추고 내년 1분기 0~5% 하락을 예상.",
+      "source": "BigGo Finance",
+      "time": "11/26 14:35",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Kioxia",
+          "market": "GLOBAL",
+          "code": "285A.T",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "SSD가 HBM 용량 일부를 대체하면 AI 서버 내 낸드 수요는 늘고 HBM 독점력은 약해질 수 있음. 아직 실증 단계라 HBM 수요 영향은 장기 관찰 변수.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "competition": "키옥시아·낸드 수혜, HBM 공급사 장기 경쟁 변수"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "日 키옥시아, '가성비 낸드'로 HBM 대체 실험",
+      "url": "https://www.hankyung.com/article/2026112633711",
+      "summary": "닛케이를 인용해 키옥시아와 엔비디아가 키옥시아 고성능 SSD 144개를 탑재한 AI 서버로 HBM 용량 한계를 일부 보완하는 실험 중이라고 보도. 삼성전자·SK하이닉스가 주도하는 AI 메모리 시장 일부 대체가 목표라고 전함.",
+      "source": "한국경제",
+      "time": "11/26 19:37",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "국내 HBM 투자자 관점에서 대체 기술 언급이 반복되면 밸류에이션 디스카운트 논리로 쓰일 수 있음.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "competition": "키옥시아 vs 삼성·하이닉스 HBM"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "美 반도체 규제에 66억달러 브리지 대출 중단…아시아 AI 데이터센터 대출 동결",
+      "url": "https://dealroom.co/news/175928-us-chip-curbs-stall-6-6b-bridge-loan-freeze-asia-ai-lending/",
+      "summary": "블룸버그를 인용해 대주단이 바이트댄스·알리바바·텐센트 관련 데이터센터 대출을 보류했다고 전함. 베인의 브리지 데이터센터 66억달러, 디지털 헤일로 3.72억달러, 아올라니 4.8억달러, 엔비디아 파트너 GMI 클라우드 3억달러 등. 역내 데이터센터 대출은 2023년 이후 490억달러 이상으로 증가.",
+      "source": "Dealroom(Bloomberg)",
+      "time": "11/26 14:28",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "Alibaba",
+          "market": "GLOBAL",
+          "code": "9988.HK",
+          "effect": "negative"
+        },
+        {
+          "name": "Tencent",
+          "market": "GLOBAL",
+          "code": "0700.HK",
+          "effect": "negative"
+        }
+      ],
+      "insight": "동남아 우회 데이터센터 자금줄이 막히면 해당 지역 GPU 수요가 줄고 중국 빅테크의 해외 연산력 확보가 지연됨.",
+      "signals": {
+        "value_chain": "데이터센터/전력 · 클라우드",
+        "capex": "아시아 DC 대출 동결(브리지 66억달러 등)"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "미국 반도체 규제·증류 단속에 중국 AI 모델 개발 차질",
+      "url": "https://www.dailymaverick.co.za/article/2026-11-26-us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say/",
+      "summary": "로이터에 따르면 Z.AI의 GLM-5.5(약 3조 파라미터)는 11월 출시 계획이 내년 1분기 이후로 밀릴 수 있고, 문샷 Kimi K4는 내년 중반으로 지연 가능. 문샷은 인도네시아 경유 블랙웰 사용 계약(1.5억달러)을 취소. 11/19 시행 규정은 H100 환산 약 750개 초과 해외 데이터센터에 라이선스를 요구.",
+      "source": "Daily Maverick(Reuters)",
+      "time": "11/26 18:42",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Zhipu",
+          "market": "GLOBAL",
+          "code": "2513.HK",
+          "effect": "negative"
+        },
+        {
+          "name": "Alibaba",
+          "market": "GLOBAL",
+          "code": "9988.HK",
+          "effect": "negative"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "중국 프런티어 모델 지연은 미국 모델사의 경쟁 우위를 늘리지만, 엔비디아에는 우회 수요 감소로 작용.",
+      "signals": {
+        "value_chain": "모델 · GPU/가속기",
+        "competition": "미국 모델사 우위 확대, 중국 모델사·엔비디아 우회 수요 피해"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "코어위브, 1주일 새 11% 하락…메타 계약 담보 45억달러 대출로 반등할까",
+      "url": "https://247wallst.com/investing/2026/11/26/coreweave-is-down-11-in-a-week-as-default-fears-mount-can-a-4-5-billion-meta-backed-loan-get-crwv-stock-back-to-50/",
+      "summary": "블룸버그를 인용해 두 은행이 코어위브의 메타 계약과 조지아 돌턴 부지를 담보로 한 45억달러 GPU 대출을 준비 중이며 투자등급, 7~7.5% 금리로 이르면 다음 주 출시 예정. 블룸버그 데이터상 5년 부도확률은 70% 이상. 주가는 42.57달러로 연초 대비 41% 하락.",
+      "source": "24/7 Wall St",
+      "time": "11/27 00:06",
+      "region": "US",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "CoreWeave",
+          "market": "US",
+          "code": "CRWV",
+          "effect": "mixed"
+        },
+        {
+          "name": "Meta Platforms",
+          "market": "US",
+          "code": "META",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "우량 고객 계약 담보 대출이 투자등급으로 소화되면 네오클라우드 자금조달 우려가 일부 완화될 수 있음. 실제 발행 금리가 시장 신호.",
+      "signals": {
+        "value_chain": "클라우드 · 데이터센터/전력",
+        "capex": "45억달러 GPU 담보 대출 추진"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "손정의 소프트뱅크 CDS 4년래 최고…주가는 반등",
+      "url": "https://www.billionaires.africa/2026/11/26/japanese-billionaire-masayoshi-sons-softbank-debt-insurance-costs-hit-four-year-high/",
+      "summary": "블룸버그를 인용해 소프트뱅크 5년물 CDS가 516bp로 2022년 10월 이후 최고. 주가는 수요일 14.83% 급락(2,696.5엔) 후 목요일 오전장 3,000엔(+11.3%)으로 반등, 11월 낙폭은 약 40%. 오픈AI 지분 약 13% 보유, S&P는 LTV 35% 근접 시 등급 하향 검토.",
+      "source": "Billionaires.Africa(Bloomberg)",
+      "time": "11/26 22:29",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "SoftBank Group",
+          "market": "GLOBAL",
+          "code": "9984.T",
+          "effect": "negative"
+        }
+      ],
+      "insight": "오픈AI 투자 레버리지의 핵심인 소프트뱅크 신용 부담은 오픈AI 자금조달과 AI 인프라 투자 속도의 경고 신호.",
+      "signals": {
+        "value_chain": "모델 · 데이터센터/전력",
+        "capex": "오픈AI 투자 레버리지 부담"
+      }
+    },
+    {
+      "category": "market",
+      "title": "미국 추수감사절 휴장 속 글로벌 증시 상승, 기술주 반등",
+      "url": "https://www.bnnbloomberg.ca/markets/2026/11/26/global-stocks-rise-and-tech-shares-rebound-as-us-closes-for-thanksgiving/",
+      "summary": "11/26 아시아에서 소프트뱅크 +7.3%, 키옥시아 +12.6%, SK하이닉스 +2.2%, 도쿄일렉트론 +0.6%, TSMC -0.2%. 장 후반 차익실현으로 상승폭 축소. 엔비디아는 수요일 3.9% 하락해 2거래일 연속 약세, 앤트로픽은 +1.1%였으나 공모가 83달러 아래.",
+      "source": "BNN Bloomberg(AP)",
+      "time": "11/26 20:04",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "SoftBank Group",
+          "market": "GLOBAL",
+          "code": "9984.T",
+          "effect": "positive"
+        },
+        {
+          "name": "Tokyo Electron",
+          "market": "GLOBAL",
+          "code": "8035.T",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "TSMC",
+          "market": "GLOBAL",
+          "code": "2330.TW",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "미국 휴장 중 아시아·유럽 AI주가 기술적 반등했지만 차익실현이 나와 추세 전환 확인은 미국 반일장(11/27) 이후가 필요.",
+      "signals": {
+        "value_chain": "GPU/가속기 · HBM/메모리",
+        "competition": "낙폭 큰 일본 AI주 반등 주도"
+      }
+    },
+    {
+      "category": "infra",
+      "title": "트럼프, 다음 주 애리조나서 TSMC 5단계 공장 착공식 참석",
+      "url": "https://www.kcci.com/article/trump-arizona-tsmc-chip-groundbreaking/74541430",
+      "summary": "트럼프 대통령이 12/4 TSMC 애리조나 5단계 착공식에서 연설 예정. TSMC의 미국 투자 약속은 7월 추가 1,000억달러 포함 총 2,650억달러. 애리조나 공장은 엔비디아·애플·AMD·브로드컴·퀄컴 칩을 생산.",
+      "source": "KCCI(AP)",
+      "time": "11/27 02:44",
+      "region": "US",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "TSMC",
+          "market": "GLOBAL",
+          "code": "2330.TW",
+          "effect": "positive"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "미국 내 AI칩 생산 기반 확대 이벤트로, 관세·공급망 리스크 완화 기대를 줄 수 있는 일정.",
+      "signals": {
+        "value_chain": "GPU/가속기",
+        "capex": "TSMC 미국 투자 총 2,650억달러"
+      }
+    },
+    {
+      "category": "model",
+      "title": "톰슨로이터, 中 GLM·구글 젬마 기반 자체 AI 모델 출시",
+      "url": "https://dataconomy.com/2026/11/26/thomson-reuters-to-launch-ai-model-built-on-chinese-and-us/",
+      "summary": "톰슨로이터가 큐원 기반 1.0을 대체할 'Thomson 1.1'을 연말까지 출시. 자체 모델 튜닝에 약 4,000만달러를 썼고, 현재 AI 토큰 중 자체 모델 비중은 5% 미만. 가장 어려운 작업은 계속 오픈AI·앤트로픽 모델이 처리.",
+      "source": "Dataconomy(Reuters)",
+      "time": "11/26 22:12",
+      "region": "US",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Thomson Reuters",
+          "market": "US",
+          "code": "TRI",
+          "effect": "positive"
+        },
+        {
+          "name": "Alphabet",
+          "market": "US",
+          "code": "GOOGL",
+          "effect": "positive"
+        }
+      ],
+      "insight": "기업이 오픈소스 모델로 비용을 줄이는 흐름은 폐쇄형 API 가격 압박 요인. 다만 고난도 작업은 여전히 프런티어 모델 의존.",
+      "signals": {
+        "value_chain": "모델 · 앱/SaaS",
+        "monetization": "자체 모델 튜닝 약 4,000만달러",
+        "competition": "오픈소스(GLM·젬마) 확산, 폐쇄형 API 가격 압박"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "마벨, 한 달 43% 급락 후 실적 시험대",
+      "url": "https://tokenpost.com/news/investing/62898",
+      "summary": "마벨은 12/1 장 마감 후(한국시간 12/2 06:30) 회계 3분기 실적 발표. 컨센서스는 EPS 1.10달러, 매출 31.5억달러로 회사 가이던스(1.05~1.15달러) 범위. 주가는 한 달 새 약 43% 하락.",
+      "source": "TokenPost",
+      "time": "11/26 23:38",
+      "region": "US",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Marvell Technology",
+          "market": "US",
+          "code": "MRVL",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "커스텀 AI칩 수요의 첫 실적 확인 이벤트. 낙폭이 커 가이던스에 따라 주가 변동성이 클 수 있음.",
+      "signals": {
+        "value_chain": "GPU/가속기 · 서버/네트워크"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "정부, 내년 첨단 GPU 1.6만장 푼다…저활용 물량 회수·재배분",
+      "url": "https://zdnet.co.kr/view/?no=20261126162650",
+      "summary": "정부가 내년 파운데이션 모델·국가 AI 과제·산학연 R&D용으로 첨단 GPU 1만6,832장(B200 환산 약 2만3,688장)을 공급. B300은 2027년 1월, 베라 루빈은 3월·6월 서비스 시작. 2개월 연속 사용률 20% 미만 GPU는 회수·재배분. NIPA는 엔비디아가 사업 진행을 확인했다고 밝힘.",
+      "source": "지디넷코리아",
+      "time": "11/26 17:06",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성SDS",
+          "market": "KR",
+          "code": "018260",
+          "effect": "positive"
+        },
+        {
+          "name": "NAVER",
+          "market": "KR",
+          "code": "035420",
+          "effect": "positive"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "positive"
+        }
+      ],
+      "insight": "정부 GPU 공급이 예정대로 진행되면 GPU 클라우드 운영사(네이버클라우드·삼성SDS 등)의 공공 매출 가시성이 높아짐.",
+      "signals": {
+        "value_chain": "GPU/가속기 · 클라우드",
+        "capex": "GPU 1만6,832장(B200 환산 2만3,688장)",
+        "monetization": "공공 GPU 클라우드 공급"
+      }
+    },
+    {
+      "category": "infra",
+      "title": "KT클라우드, 안산에 110MW 규모 AI 데이터센터 캠퍼스 조성",
+      "url": "https://zdnet.co.kr/view/?no=20261126133159",
+      "summary": "안산 2 AIDC는 60MW, 연면적 5만2,622㎡로 이달 착공해 2030년 서비스 목표, 전층 액체냉각 적용. 2029년 준공 목표인 안산 1(50MW)과 합쳐 110MW 캠퍼스. KT그룹은 2031년 AIDC 1GW 확보 목표. 파트너는 싱가포르 케펠, 투자액 비공개.",
+      "source": "지디넷코리아",
+      "time": "11/26 13:37",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "KT",
+          "market": "KR",
+          "code": "030200",
+          "effect": "positive"
+        }
+      ],
+      "insight": "통신사의 AI 데이터센터 사업 확대로 장기 성장 동력 확보. 투자액 미공개라 재무 부담은 추후 확인 필요.",
+      "signals": {
+        "value_chain": "데이터센터/전력",
+        "capex": "안산 캠퍼스 110MW, 2031년 1GW 목표"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "데이터센터 경쟁력 막는 세액공제 제도",
+      "url": "https://www.hankyung.com/article/2026112631761",
+      "summary": "현행 세법은 임대형(코로케이션) 데이터센터를 임대자산으로 보아 세액공제에서 제외. 100MW 데이터센터는 전력·냉각 투자 약 4,000억원, 연 운영비 약 3,000억원 필요. 국가전략기술 시설 공제율을 AI 시설 30%/20%로 올리는 개정안(문진석)과 AI 데이터센터를 국가전략시설로 지정하는 개정안(안상훈)이 계류 중.",
+      "source": "한국경제",
+      "time": "11/26 18:47",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "KT",
+          "market": "KR",
+          "code": "030200",
+          "effect": "neutral"
+        },
+        {
+          "name": "SK텔레콤",
+          "market": "KR",
+          "code": "017670",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "개정안 통과 시 데이터센터 사업자의 투자 회수 기간이 단축될 수 있는 정책 변수.",
+      "signals": {
+        "value_chain": "데이터센터/전력",
+        "capex": "100MW당 전력·냉각 투자 약 4,000억원"
+      }
+    },
+    {
+      "category": "market",
+      "title": "삼전닉스 일제히 반등…한숨 돌린 개미들",
+      "url": "https://www.hankyung.com/article/2026112614526",
+      "summary": "11/26 오전 9시34분 삼성전자 17만5,500원(+2.81%), SK하이닉스 108만2,000원(+5.05%), SK스퀘어 66만1,000원(+4.09%). 코어위브 45억달러 대출에 초기 투자 수요가 몰려 AI 자금조달 우려가 완화된 점과 저가 매수를 배경으로 꼽음.",
+      "source": "한국경제",
+      "time": "11/26 09:51",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "SK스퀘어",
+          "market": "KR",
+          "code": "402340",
+          "effect": "positive"
+        }
+      ],
+      "insight": "전날 급락 후 반등했지만 장중 상승폭을 대부분 반납(코스피 +0.29% 마감)해 AI 자금조달 뉴스에 민감한 수급이 이어짐.",
+      "signals": {
+        "value_chain": "HBM/메모리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "삼전닉스 주가 가를 변수…中 메모리 수요 줄고 美 규제 강화",
+      "url": "https://www.hankyung.com/article/2026112610286",
+      "summary": "유진투자증권은 일부 중국 하이퍼스케일러가 메모리 주문을 줄이고 있으며 북미 빅테크가 공백을 흡수할지가 관건이라고 분석. BIS가 첨단칩 원격접속을 제한했고, AI 오버워치·칩 보안 법안의 FY2027 NDAA 포함 여부가 12월 결정. 북미 수요가 대부분 흡수 가능하다는 시각.",
+      "source": "한국경제",
+      "time": "11/26 08:30",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "중국 수요 둔화를 북미 CAPEX가 메우는지가 메모리주 반등의 조건. 12월 NDAA 결정이 단기 변수.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "capex": "북미 빅테크 CAPEX의 중국 공백 흡수 여부",
+        "competition": "중국 수요 감소, 북미 의존 확대"
+      }
+    },
+    {
+      "category": "market",
+      "title": "'이 시나리오면 2028년 먹구름'…한국은행이 보낸 경고",
+      "url": "https://www.hankyung.com/article/2026112625776",
+      "summary": "한국은행 보고서는 AI 투자 지연·자금조달 경색·중국 메모리 증가 시 성장률이 2027년 3.4%, 2028년 2.1%로 낮아질 수 있다고 분석(기본 4.1%·3.0%). 이 경우 메모리 가격은 기본 대비 2027년 15%, 2028년 51% 낮고 반도체 수출은 각각 1,294억달러·3,075억달러 감소. 빅테크 채권 발행은 204억달러에서 1,691억달러로 증가.",
+      "source": "한국경제",
+      "time": "11/26 22:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "insight": "AI 투자 사이클 둔화 시 메모리 가격 하락폭이 크다는 공식 경고로, 메모리 고점 논쟁의 근거로 쓰일 수 있음.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "capex": "빅테크 채권발행 204억→1,691억달러",
+        "competition": "CXMT DRAM 점유율 4%→10%"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "\"그래서 뭘 더해 줄 건데?\"…머스크도 진땀 빼게 한 이재용의 한마디",
+      "url": "https://www.etnews.com/20261126000565",
+      "summary": "WSJ를 인용해 머스크가 삼성에 장기 구매 계약과 신규 팹 금융 보증을 제안했고 삼성은 추가 조건을 요구했다고 전함. 일부 고객은 대금의 25~30%를 선지급하고 장기계약은 최대 5년까지 묶이는 등 메모리 시장이 판매자 우위로 바뀌는 중(씨티 피터 리).",
+      "source": "전자신문",
+      "time": "11/26 22:13",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "Tesla",
+          "market": "US",
+          "code": "TSLA",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "선지급·장기계약 확산은 메모리 업체의 가격 협상력과 실적 가시성을 높이는 요인. 계약 체결은 아직 확인되지 않음.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "monetization": "선지급 25~30%, 최장 5년 장기계약",
+        "competition": "메모리 판매자 우위"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "솔리다임, 240단 PLC 낸드 개발 '승부수'…AI 데이터센터 시장 선점 시동",
+      "url": "https://zdnet.co.kr/view/?no=20261126134119",
+      "summary": "SK하이닉스 자회사 솔리다임이 내년 2월 ISSCC 2027에서 240단 PLC(셀당 5비트) 낸드를 발표. 현재 192단 양산 중. SK하이닉스·솔리다임은 올해 QLC 낸드 출하 점유율 36%로 1위(트렌드포스·모건스탠리).",
+      "source": "지디넷코리아",
+      "time": "11/26 14:29",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        }
+      ],
+      "insight": "AI 데이터센터용 고용량 eSSD 경쟁에서 SK하이닉스 낸드 부문의 기술 우위를 보여주는 재료. SSD의 AI 메모리 계층 역할 확대와 맞물림.",
+      "signals": {
+        "value_chain": "HBM/메모리",
+        "competition": "QLC 1위 SK하이닉스·솔리다임 vs 키옥시아"
+      }
+    },
+    {
+      "category": "model",
+      "title": "\"네이버가 이런 AI도 만들었어?\"…챗GPT까지 제쳤다는데",
+      "url": "https://www.hankyung.com/article/202611261907i",
+      "summary": "네이버가 의료 AI 모델 KMed-31B 기술 보고서를 공개. HealthBench Hard에서 51.48점으로 GPT-5.6-sol(36.14)·Claude Opus 5(42.26)를 앞섬. HealthBench Professional은 59.18점으로 GPT·Claude가 더 높음. 병원 자체 서버 구동 가능하며 네이버는 지난달 헬스케어 조직을 신설.",
+      "source": "한국경제",
+      "time": "11/26 13:49",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "NAVER",
+          "market": "KR",
+          "code": "035420",
+          "effect": "positive"
+        }
+      ],
+      "insight": "온프레미스 의료 특화 모델로 B2B 수익화 경로를 확보하려는 시도. 매출 기여는 아직 미확인.",
+      "signals": {
+        "value_chain": "모델 · 앱/SaaS",
+        "competition": "의료 특화 영역에서 글로벌 모델과 경쟁"
+      }
+    },
+    {
+      "category": "infra",
+      "title": "[ET특징주] 스페이스X '우주 데이터센터' 위성 배치 승인… 국내 관련주 강세",
+      "url": "https://www.etnews.com/20261126000230",
+      "summary": "FCC가 스페이스X의 궤도 데이터센터 시스템용 위성 100만기 발사·운용을 최종 승인. 11/26 11시22분 미래에셋벤처투자 1만9,310원(+25.06%), 스피어 2만2,600원(+17.89%), 에이치브이엠 5만7,700원(+13.14%).",
+      "source": "전자신문",
+      "time": "11/26 11:28",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "미래에셋벤처투자",
+          "market": "KR",
+          "code": "100790",
+          "effect": "positive"
+        },
+        {
+          "name": "스피어",
+          "market": "KR",
+          "code": "347700",
+          "effect": "positive"
+        },
+        {
+          "name": "에이치브이엠",
+          "market": "KR",
+          "code": "295310",
+          "effect": "positive"
+        }
+      ],
+      "insight": "우주 데이터센터 테마로 단기 급등한 종목들로, 실적 연결 근거가 약해 변동성이 큰 테마성 움직임.",
+      "signals": {
+        "value_chain": "데이터센터/전력"
+      }
+    }
+  ]
+}
