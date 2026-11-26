@@ -1,0 +1,566 @@
+{
+  "published_at": "2026-11-27T07:15",
+  "industry": "robot",
+  "title": "로봇 투자 브리핑",
+  "emoji": "🦾",
+  "sources": [
+    "CBC뉴스",
+    "Gasgoo",
+    "Journal Arta",
+    "Robotics & Automation News",
+    "뉴스핌",
+    "로봇신문",
+    "머니투데이",
+    "아주경제",
+    "와이드경제",
+    "잡포스트",
+    "전자신문",
+    "파이낸셜뉴스"
+  ],
+  "briefing": [
+    "삼성전자 DS, 로보틱스팀 신설·연내 협력사 선정 → 국내 물류·협동로봇 수혜 후보 주목",
+    "삼성 반도체 로봇 2030년 1만대 전망 → 팹 자동화 수요의 장기 성장 근거",
+    "LG·두산로보틱스·유진로봇 액추에이터 규격 통일 → 부품 국산화 기대",
+    "레인보우로보틱스 코스닥 시총 2위, 휴림로봇은 투자경고로 -8.7% → 테마 변동성 확대",
+    "샤오펑 IRON 2027년 1월 양산·미중 상용화 지연 → 경쟁·실수요 점검 국면"
+  ],
+  "market_snapshot": [],
+  "watchlist_notes": [
+    {
+      "name": "NVIDIA",
+      "note": "11/25 종가 149.30달러(-3.91%), S&P 신용등급 하향 검토. 11/26 미국 휴장. PhAIL 벤치마크에 Cosmos3 Nano 신뢰도 68.7% 언급.",
+      "article_urls": [
+        "https://journalarta.com/en/2026/11/26/nvidia-stock-slides-to-149-30-as-credit-warning-deepens-monthly-slump/",
+        "https://roboticsandautomationnews.com/2026/11/26/physical-ai-model-outpaces-human-operator-in-robot-manipulation-tests/107719/"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-30",
+      "event": "AWS re:Invent 2026 개막(~12/4, 라스베이거스). 12/1 CEO 키노트",
+      "tickers": [
+        {
+          "name": "Amazon",
+          "market": "US",
+          "code": "AMZN"
+        }
+      ],
+      "source_url": "https://aws.amazon.com/blogs/apn/know-before-you-go-an-aws-partners-guide-to-reinvent-2026/"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "Humanoids Summit 실리콘밸리(~12/2, 샌마테오)",
+      "tickers": [],
+      "source_url": "https://www.humanoidsdaily.com/news/tesla-optimus-reservations-december-humanoids-summit"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "테슬라 2026 연례 주주총회(기가 텍사스, 15:00 CT = 12/4 06:00 KST)",
+      "tickers": [
+        {
+          "name": "Tesla",
+          "market": "US",
+          "code": "TSLA"
+        }
+      ],
+      "source_url": "https://notateslaapp.com/news/4853/tesla-announces-2026-shareholder-meeting-for-dec-3"
+    },
+    {
+      "date": "2026-12-09",
+      "event": "휴림로봇 투자경고 해제 여부 첫 판단일",
+      "tickers": [
+        {
+          "name": "휴림로봇",
+          "market": "KR",
+          "code": "090710"
+        }
+      ],
+      "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=631147"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "deal",
+      "title": "[단독] 삼성 \"반도체 공장 무인화\"… 로봇팀 꾸렸다",
+      "url": "https://www.etnews.com/20261126000296",
+      "summary": "삼성전자 DS부문 글로벌 제조&인프라총괄 산하에 '로보틱스팀' 신설(팀장 이석원 부사장). 연내 외부 로봇 협력사 선정, 내년 기술평가 후 2028년 현장 투입. AGV·AMR·로봇팔로 부품·자재 운반. 현재 자동화율 전공정 약 90%, 후공정 약 80%.",
+      "source": "전자신문",
+      "time": "11/26 16:00",
+      "region": "KR",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        }
+      ],
+      "insight": "반도체 팹이라는 대형 수요처가 연내 협력사를 고른다는 점이 핵심. 시연이 아닌 실제 발주로 이어질 국내 물류·협동로봇 업체 선정 여부를 지켜볼 구간.",
+      "signals": {
+        "segment": "물류/산업(AGV·AMR·로봇팔)",
+        "customer": "삼성전자 DS부문, 연내 협력사 선정",
+        "mass_production": "2028년 현장 투입 목표"
+      }
+    },
+    {
+      "category": "market",
+      "title": "삼성 반도체 운용 로봇 2030년에 1만대..삼전닉스 '국제표준' 만든다",
+      "url": "https://supple.kr/news/cmwwrnfugv69ikwp8bqclaux5",
+      "summary": "삼성 반도체 부문 로봇이 올해 약 100대에서 2030년 1만대 이상으로 약 100배 늘 전망. 삼성·SK 주도 로봇 안전 TF가 SEMI에서 'AMR 안전 가이드라인' 표준을 추진, 내년 3월 초안 목표. 드론·휴머노이드도 추가 도입.",
+      "source": "머니투데이",
+      "time": "11/26 08:40",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "neutral"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "반도체 팹 로봇 수요가 100배 규모로 커진다는 전망. 표준을 삼성·SK가 주도하면 표준 대응이 빠른 국내 AMR 업체에 진입 기회.",
+      "signals": {
+        "segment": "물류(AMR)",
+        "customer": "삼성·SK 반도체 팹, 2030년 1만대+"
+      }
+    },
+    {
+      "category": "components",
+      "title": "LG전자, '악시움' 앞세워 로봇 핵심부품 생태계 주도한다",
+      "url": "https://www.etnews.com/20261126000388",
+      "summary": "LG전자·HD현대로보틱스·두산로보틱스·유진로봇이 서비스로봇 구동기 모듈 공통 규격(9월 제정 국가표준)을 쓰기로 합의한 것으로 전해짐. LG는 액추에이터 양산·외부 고객 확보를 추진하고 내년 1분기 이족보행 로봇 공개를 추진.",
+      "source": "전자신문",
+      "time": "11/26 16:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "LG전자",
+          "market": "KR",
+          "code": "066570",
+          "effect": "positive"
+        },
+        {
+          "name": "두산로보틱스",
+          "market": "KR",
+          "code": "454910",
+          "effect": "positive"
+        },
+        {
+          "name": "유진로봇",
+          "market": "KR",
+          "code": "056080",
+          "effect": "positive"
+        }
+      ],
+      "insight": "액추에이터 규격 통일은 부품 국산화·원가 절감의 전제. LG가 외부 판매에 나서면 부품 공급사로서의 새 매출원이 생기는 구조.",
+      "signals": {
+        "segment": "부품",
+        "component": "액추에이터(구동기 모듈) 공통 규격 '악시움'",
+        "mass_production": "LG 이족보행 로봇 내년 1분기 공개 추진"
+      }
+    },
+    {
+      "category": "market",
+      "title": "'진격의 로봇' 레인보우로보틱스, 코스닥 '시총 2위' 등극",
+      "url": "https://www.fnnews.com/news/202611261551037595",
+      "summary": "11/26 종가 46만7000원(+0.76%), 시총 약 9.06조원으로 에코프로비엠(8.74조원)을 처음 넘어 코스닥 2위. 11월 +28.65%(코스닥 -9.48%). 1~3분기 삼성향 매출 118억원(2025년 연간 104억원 초과), 총매출 353억원(+67%).",
+      "source": "파이낸셜뉴스",
+      "time": "11/26 16:40",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "약세장 속 독주로 삼성 휴머노이드 기대가 이미 주가에 상당 반영. 누적 매출 353억원 대비 시총 9조원이라 CES 2027 이후 실제 수주 확인 여부에 민감.",
+      "signals": {
+        "segment": "휴머노이드",
+        "customer": "1~3분기 삼성향 매출 118억원"
+      }
+    },
+    {
+      "category": "components",
+      "title": "[특징주] 나무가, 북미 휴머노이드 카메라 단독 공급 분석에 11%대 급등",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=304768",
+      "summary": "나무가 장중 +11.95%(1만8450원). 밸류파인더는 현대모비스를 통해 아틀라스 머리부 스테레오 카메라(대당 4개)를 단독 공급하는 것으로 추정. 보스턴다이나믹스가 내년 말까지 국내 부품사에 1만대분 생산을 요청했다고 언급. 회사 공시는 없음.",
+      "source": "와이드경제",
+      "time": "11/26 09:55",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "나무가",
+          "market": "KR",
+          "code": "190510",
+          "effect": "positive"
+        },
+        {
+          "name": "현대모비스",
+          "market": "KR",
+          "code": "012330",
+          "effect": "positive"
+        }
+      ],
+      "insight": "리서치 추정에 기반한 급등으로 회사 확인·공시가 없음. 아틀라스 부품 밸류체인 기대가 확산 중이나 실제 수주 확인 전까지 변동성 유의.",
+      "signals": {
+        "segment": "휴머노이드 부품",
+        "component": "스테레오 카메라(센서)",
+        "customer": "현대모비스→보스턴다이나믹스 아틀라스(추정)",
+        "mass_production": "내년 말까지 1만대분 요청(언급)"
+      }
+    },
+    {
+      "category": "market",
+      "title": "미·중 휴머노이드 상용화 주춤…한국에 기회의 문 열리나?",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49810",
+      "summary": "유진투자증권 보고서 인용. 테슬라 옵티머스 외부판매는 2027년 12월로 1년 지연. 중국 휴머노이드 1대 연간 운영비 50만~70만위안으로 2교대 인건비(16.1만위안)를 크게 상회. 현대차그룹은 2028년 연 3만대 공장·액추에이터 35만개 생산 계획.",
+      "source": "로봇신문",
+      "time": "11/26 09:44",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "현대차",
+          "market": "KR",
+          "code": "005380",
+          "effect": "positive"
+        },
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "neutral"
+        },
+        {
+          "name": "Tesla",
+          "market": "US",
+          "code": "TSLA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "미·중 상용화 지연과 경제성 한계가 확인돼 휴머노이드 기대가 실수요보다 앞서 있음을 시사. 2027년이 국내 사업화의 분기점이라는 시각.",
+      "signals": {
+        "segment": "휴머노이드",
+        "mass_production": "옵티머스 외부판매 2027년 12월, 현대차그룹 2028년 연 3만대 계획"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "휴림로봇, 투자경고 지정 첫날 8.7% 하락…6,800원 마감",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=631147",
+      "summary": "한화로보틱스 공급계약 뒤 이틀 연속 상한가 후 투자경고 지정. 26일 -8.72%, 6800원(거래대금 606억원). 위탁증거금 100%·신용 제한 적용, 해제 여부는 12/9 첫 판단. 기사는 로봇 매출 비중이 작다고 지적.",
+      "source": "CBC뉴스",
+      "time": "11/27 00:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "휴림로봇",
+          "market": "KR",
+          "code": "090710",
+          "effect": "negative"
+        }
+      ],
+      "insight": "테마성 급등 종목에 거래 규제가 걸리며 되돌림 시작. 로봇 매출 비중이 작은 종목의 계약 뉴스 급등은 지속성이 낮을 수 있음.",
+      "signals": {
+        "segment": "산업/협동",
+        "customer": "한화로보틱스 공급계약"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "샤오펑 IRON, 2027년 1월 생산 시작·2분기 공식 출시",
+      "url": "https://autonews.gasgoo.com/articles/news/xpeng-iron-production-set-for-january-2027-official-debut-slated-for-q2-2125942713245376513",
+      "summary": "2027년 1월 하드웨어 양산, 1분기 중국 매장 판매보조 시범 근무, 2분기 공식 출시. 전용 공장·자동 조립라인 구축. 76자유도, 촉각점 1500개+, 튜링칩 3개(2250 TOPS). 올해 로봇 R&D 약 30억위안. 소프트웨어·토큰 구독 과금 계획.",
+      "source": "Gasgoo",
+      "time": "11/26 22:20",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "XPeng",
+          "market": "US",
+          "code": "XPEV",
+          "effect": "positive"
+        }
+      ],
+      "insight": "중국 휴머노이드의 구체적 양산 일정 공개로 경쟁 가속. 구독형 과금 모델은 하드웨어 원가 경쟁과 별개의 수익 구조 실험으로 주목.",
+      "signals": {
+        "segment": "휴머노이드",
+        "component": "자체 튜링칩 3개",
+        "mass_production": "2027년 1월 양산, 2분기 출시"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "AI 로봇 학습 데이터 국가표준 만든다…내년 상반기까지 제정",
+      "url": "https://www.ajunews.com/view/20261126195522919",
+      "summary": "국가기술표준원이 '로봇 조작 학습용 데이터셋' KS 제정안을 11/27부터 60일간 예고고시. 38개 기업 참여 KOROS가 마련, 내년 상반기 제정 후 국제표준 제안 계획. 업종별 AI 로봇 연 1000대 이상 보급, 10개 업종 데이터팩토리 구축 정책과 연계.",
+      "source": "아주경제",
+      "time": "11/27 06:00",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "피지컬 AI 학습 데이터 표준화는 국내 로봇 AI 생태계의 기반 정비. 단기 주가 영향보다 정책 방향 확인용.",
+      "signals": {
+        "segment": "로봇 AI",
+        "component": "로봇 조작 학습 데이터셋 표준"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "미래에셋, 'TIGER 코리아휴머노이드로봇산업' 연초 이후 개인 순매수 5551억",
+      "url": "https://www.newspim.com/news/view/20261126000267",
+      "summary": "연초 이후(11/25 기준) 개인 순매수 5551억원, 일평균 거래대금 742억원으로 국내 휴머노이드 ETF 1위. 편입 비중은 레인보우로보틱스 17.9%, 로보티즈 15.7%, 두산로보틱스 11.1%.",
+      "source": "뉴스핌",
+      "time": "11/26 11:38",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "레인보우로보틱스",
+          "market": "KR",
+          "code": "277810",
+          "effect": "positive"
+        },
+        {
+          "name": "로보티즈",
+          "market": "KR",
+          "code": "108490",
+          "effect": "positive"
+        },
+        {
+          "name": "두산로보틱스",
+          "market": "KR",
+          "code": "454910",
+          "effect": "positive"
+        }
+      ],
+      "insight": "ETF 자금 유입이 상위 편입 종목 수급을 지지. 반대로 유출 전환 시 대형 로봇주가 함께 흔들릴 수 있는 구조.",
+      "signals": {
+        "segment": "휴머노이드"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "두산로보틱스 5만2700원…3분기 매출 162억원",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=241271",
+      "summary": "두산로보틱스 장중 +5.19%(5만2700원). 3분기 매출 약 162억원, 영업손실 약 134억원. 누적 매출 491억원, 영업손실 399억원으로 적자 지속.",
+      "source": "잡포스트",
+      "time": "11/26 14:47",
+      "region": "KR",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "두산로보틱스",
+          "market": "KR",
+          "code": "454910",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "테마 수급으로 주가는 반등했지만 분기 매출보다 큰 영업손실이 이어지는 상황. 실적 개선 신호 확인이 필요.",
+      "signals": {
+        "segment": "산업/협동"
+      }
+    },
+    {
+      "category": "humanoid",
+      "title": "볼보, 헥사곤 휴머노이드 공장 투입 훈련 시작",
+      "url": "https://roboticsandautomationnews.com/2026/11/26/volvo-cars-begins-training-hexagon-humanoid-robots-for-factory-work/107733/",
+      "summary": "볼보가 벨기에 겐트 공장에서 헥사곤의 바퀴형 휴머노이드 AEON(1.65m, 60kg, 최대 10kg 운반)을 모방학습으로 훈련 중. 2027년 상반기 대규모 파일럿, 2027년 중반 실제 생산 투입 목표.",
+      "source": "Robotics & Automation News",
+      "time": "11/26 20:49",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Hexagon",
+          "market": "GLOBAL",
+          "code": "HEXA-B.ST",
+          "effect": "positive"
+        }
+      ],
+      "insight": "유럽 완성차의 휴머노이드 파일럿 사례 추가. 아직 훈련·파일럿 단계로 실제 양산 투입은 2027년 중반 이후.",
+      "signals": {
+        "segment": "휴머노이드",
+        "customer": "볼보 겐트 공장 파일럿",
+        "mass_production": "2027년 중반 생산 투입 목표"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "유니버설로봇, 인볼트 3D AI 비전을 7세대 코봇에 내장",
+      "url": "https://roboticsandautomationnews.com/2026/11/26/universal-robots-brings-inbolts-3d-ai-vision-directly-onto-its-gen-7-robots/107737/",
+      "summary": "SPS 2026에서 발표. 별도 산업용 PC 없이 CB7 컨트롤러에서 직접 실행. CAD 파일로 10분 안에 새 부품 학습, 반복정밀도 0.5~0.7mm. 스텔란티스 엔진 체결 라인에서 체결 불량 91% 감소. UR 유통망으로 판매.",
+      "source": "Robotics & Automation News",
+      "time": "11/26 20:59",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Teradyne",
+          "market": "US",
+          "code": "TER",
+          "effect": "positive"
+        }
+      ],
+      "insight": "코봇에 AI 비전을 기본 탑재해 도입 장벽을 낮추는 흐름. 테라다인 로봇 부문의 제품 경쟁력 보강 요소.",
+      "signals": {
+        "segment": "산업/협동",
+        "component": "3D AI 비전",
+        "customer": "스텔란티스 적용 사례"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "로보테라 M7 45대, 중국우정 항저우 센터 투입",
+      "url": "https://autonews.gasgoo.com/articles/news/45-robotera-m7-embodied-robots-start-work-at-china-post-in-hangzhou-2125945496979783681",
+      "summary": "비상장 로보테라의 M7 45대가 중국우정 항저우 센터 소포 투입 작업에 배치. 시간당 처리량 9월 시험 1200건→현재 1500건+. 광둥성 8개 도시 우편거점 11곳에서도 운영, 하드웨어 95% 이상 자체 개발, DHL과 협력 중.",
+      "source": "Gasgoo",
+      "time": "11/26 22:31",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "중국 업체가 물류 현장에서 수십 대 단위 실배치 사례를 쌓는 중. 국내 물류로봇 업체에는 원가·레퍼런스 경쟁 압력.",
+      "signals": {
+        "segment": "물류(체화형 로봇)",
+        "customer": "중국우정 45대"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "엑소텍, 리퍼·렌탈 로봇으로 프낙다르티 블랙프라이데이 물량 대응",
+      "url": "https://roboticsandautomationnews.com/2026/11/26/exotec-helps-fnac-darty-handle-black-friday-rush-with-refurbished-and-rented-robots/107714/",
+      "summary": "파리 근교 물류센터에서 Skypod 36대를 운영하고 성수기 렌탈 25대를 더해 61대로 확대. 하루 처리량 평소 1만~1.5만 라인에서 최대 3.5만 라인으로 증가.",
+      "source": "Robotics & Automation News",
+      "time": "11/26 18:59",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "성수기 렌탈(RaaS)로 물류 자동화 도입 부담을 낮추는 모델. 물류로봇 수요의 계절성 대응 방식으로 참고.",
+      "signals": {
+        "segment": "물류",
+        "customer": "프낙다르티, 성수기 61대"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "루트, 로봇 촉각 AI로 2,000만 달러 유치",
+      "url": "https://roboticsandautomationnews.com/2026/11/26/lute-raises-20-million-to-give-robots-a-sense-of-touch/107756/",
+      "summary": "바르샤바·샌마테오 기반 스타트업 루트가 시드·프리시드 합계 2000만달러 유치(OTB Ventures·Forward.one 주도). 촉각+비전 결합 Lute-0 모델이 자체 테스트에서 소매 집기 성공률 98%로 π0.5(70%)를 앞섰다고 주장.",
+      "source": "Robotics & Automation News",
+      "time": "11/26 23:31",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "로봇 손·촉각 센싱 분야로 투자 자금이 이어지는 흐름. 로봇손 밸류체인 관심과 맞물린 기술 동향.",
+      "signals": {
+        "segment": "로봇 AI",
+        "component": "촉각 센서+AI 모델"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "피지컬 AI 모델, 로봇 조작 테스트에서 사람 조종자보다 빨라",
+      "url": "https://roboticsandautomationnews.com/2026/11/26/physical-ai-model-outpaces-human-operator-in-robot-manipulation-tests/107719/",
+      "summary": "PhAIL 벤치마크에서 mimic의 FLUX-mimic-x 처리 시간 중앙값 11초로 사람 원격조종(27초)보다 빨랐으나 신뢰도는 71.2%로 사람(94.7%)보다 낮음. 엔비디아 Cosmos3 Nano 68.7%, GPT-6 Astra 64.1%.",
+      "source": "Robotics & Automation News",
+      "time": "11/26 19:21",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "속도는 사람을 넘었지만 신뢰도 격차가 여전해 현장 무인 투입까지는 시간이 필요함을 보여주는 지표.",
+      "signals": {
+        "segment": "로봇 AI",
+        "component": "월드-액션 파운데이션 모델"
+      }
+    },
+    {
+      "category": "market",
+      "title": "엔비디아, 신용 경고에 149.30달러로 하락…월간 낙폭 확대",
+      "url": "https://journalarta.com/en/2026/11/26/nvidia-stock-slides-to-149-30-as-credit-warning-deepens-monthly-slump/",
+      "summary": "엔비디아 11/25 종가 149.30달러(-3.91%), 2거래일 연속 하락. 10/6 고점 대비 -37.59%, 한 달간 -30.68%. S&P가 AA 등급을 CreditWatch Negative에 올림. 미국 증시는 11/26 추수감사절 휴장.",
+      "source": "Journal Arta",
+      "time": "11/26 17:16",
+      "region": "US",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "피지컬 AI 플랫폼 대장주의 약세가 이어져 국내 로봇주의 '엔비디아 훈풍' 동력은 약해진 상태.",
+      "signals": {
+        "segment": "로봇 AI"
+      }
+    }
+  ]
+}
