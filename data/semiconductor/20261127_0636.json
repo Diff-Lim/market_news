@@ -1,0 +1,886 @@
+{
+  "published_at": "2026-11-27T06:36",
+  "industry": "semiconductor",
+  "title": "반도체 투자 브리핑",
+  "emoji": "💾",
+  "sources": [
+    "BNN Bloomberg(AP)",
+    "TECHi",
+    "Yahoo Finance",
+    "Yahoo Finance(Benzinga)",
+    "뉴스토마토",
+    "뉴스핌",
+    "디일렉",
+    "디지털데일리",
+    "디지털투데이",
+    "서울신문",
+    "인사이트코리아",
+    "전자신문",
+    "파이낸셜뉴스",
+    "한국경제"
+  ],
+  "briefing": [
+    "USTR 301조 보고서가 삼성·SK 직접 지목 → 메모리는 제외, 232조 잔여 리스크(혼조)",
+    "엔비디아 동남아 4개국 서버 출하 중단 → NVDA·DELL·SMCI 단기 매출 부담(악재)",
+    "증권사 목표가 30~50% 줄하향·한은 2028년 하방 경고 → 삼전닉스 밸류 압박",
+    "고객 선급금·5년 장기계약 확산, 8인치 파운드리 가격 인상 → DB하이텍·메모리 수급 지지",
+    "코스피 4,711(+0.29%) 반등 그쳐, 기준금리 3.25% 인상 → 반도체 변동성 지속"
+  ],
+  "market_snapshot": [
+    {
+      "label": "필라델피아 반도체지수(11/25)",
+      "value": "8,774.86 (-0.65%)",
+      "source": "Nasdaq Global Indexes",
+      "url": "https://indexes.nasdaq.com/Index/History/SOX"
+    },
+    {
+      "label": "코스피(11/26)",
+      "value": "4,711.21 (+0.29%)",
+      "source": "뉴스핌",
+      "url": "https://www.newspim.com/news/view/20261126001067"
+    },
+    {
+      "label": "삼성전자(11/26)",
+      "value": "171,300원 (+0.35%)",
+      "source": "뉴스핌",
+      "url": "https://www.newspim.com/news/view/20261126001067"
+    },
+    {
+      "label": "SK하이닉스(11/26)",
+      "value": "1,053,000원 (+2.23%)",
+      "source": "뉴스핌",
+      "url": "https://www.newspim.com/news/view/20261126001067"
+    },
+    {
+      "label": "대만 가권지수(11/26)",
+      "value": "39,151.81 (+2.50%)",
+      "source": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202611260007"
+    }
+  ],
+  "watchlist_notes": [
+    {
+      "name": "삼성전자",
+      "note": "USTR 301조서 지목(메모리 관세 제외), 목표가 줄하향, 머스크 장기계약 타진·8인치 가격 인상 추진",
+      "article_urls": [
+        "https://www.seoul.co.kr/news/international/2026/11/26/20261126500340",
+        "https://www.newstomato.com/ReadNews.aspx?no=1321974",
+        "https://www.etnews.com/20261126000565",
+        "https://www.etnews.com/20261126000304"
+      ]
+    },
+    {
+      "name": "SK하이닉스",
+      "note": "+2.23% 반등(105.3만원), 목표가 줄하향, 2027~28년 물량 절반 이상 장기계약",
+      "article_urls": [
+        "https://www.newspim.com/news/view/20261126001067",
+        "https://www.newstomato.com/ReadNews.aspx?no=1321974",
+        "https://www.insightkorea.co.kr/news/articleView.html?idxno=259857"
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "note": "동남아 4개국 서버 출하 중단, S&P 부정적 관찰대상 지정, 12/1·12/3 의회 청문회",
+      "article_urls": [
+        "https://www.fnnews.com/news/202611261928348292",
+        "https://finance.yahoo.com/markets/stocks/articles/nvidia-put-negative-credit-watch-013558626.html",
+        "https://www.thelec.kr/news/articleView.html?idxno=65952"
+      ]
+    },
+    {
+      "name": "HBM",
+      "note": "화웨이 핀밀도 2배 HBM 설계 공개 예정, 키옥시아 SSD로 HBM 용량 대체 실험, 코어위브 자금난 우려",
+      "article_urls": [
+        "https://www.digitaltoday.co.kr/en/view/131429/huawei-to-unveil-hbm-design-with-double-data-pin-density-in-february-2027",
+        "https://www.hankyung.com/article/2026112633711",
+        "https://www.insightkorea.co.kr/news/articleView.html?idxno=259857"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-12-01",
+      "event": "마벨 FY27 3분기 실적 발표(컨퍼런스콜 12/2 06:30 KST)",
+      "tickers": [
+        "MRVL"
+      ],
+      "source_url": "https://www.fool.com/investing/2026/11/20/marvell-reports-dec-1-history-says-what-its-stock-usually-does-next/"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "젠슨 황, 하원 3개 위원회 비공개 면담",
+      "tickers": [
+        "NVDA"
+      ],
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-put-negative-credit-watch-013558626.html"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "젠슨 황, 상원 은행위원회 수출통제 공개 청문회",
+      "tickers": [
+        "NVDA"
+      ],
+      "source_url": "https://za.investing.com/news/stock-market-news/nvidias-huang-to-testify-before-us-senate-on-dec-3-4592761"
+    },
+    {
+      "date": "2026-12-04",
+      "event": "TSMC 애리조나 남부 부지 확장 착공식(트럼프 대통령 참석 예정)",
+      "tickers": [
+        "2330.TW"
+      ],
+      "source_url": "https://www.trendforce.com/news/2026/11/26/news-trump-to-join-tsmcs-arizona-expansion-ceremony-jensen-huangs-possible-visit-fab-plans-in-focus/"
+    },
+    {
+      "date": "2026-12-09",
+      "event": "미국 FOMC 금리 결정(성명 12/10 04:00 KST)",
+      "tickers": [
+        "SOX"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/2026-December.htm"
+    },
+    {
+      "date": "2026-12-09",
+      "event": "브로드컴 FY26 4분기 실적 발표(컨퍼런스콜 12/10 07:00 KST)",
+      "tickers": [
+        "AVGO"
+      ],
+      "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026"
+    },
+    {
+      "date": "2026-12-09",
+      "event": "SEMICON Japan 2026 개막(~12/11, 도쿄 빅사이트)",
+      "tickers": [
+        "8035.T",
+        "6857.T"
+      ],
+      "source_url": "https://www.semi.org/en/semi-press-release/semicon-japan-2026-marks-50th-edition-with-launch-of-new-techleadersarena"
+    }
+  ],
+  "requests": [],
+  "filings": [],
+  "articles": [
+    {
+      "category": "policy",
+      "title": "美 \"삼성전자·SK하이닉스, 李대통령\" 콕 집어…韓에 최대 25% 관세 으름장",
+      "url": "https://www.seoul.co.kr/news/international/2026/11/26/20261126500340",
+      "summary": "USTR이 14개 경제권 대상 무역법 301조 과잉생산 조사 결과 발표. 한국은 최대 15%, 협의 결과에 따라 25%까지 인상 가능(일본·EU 최대 20%). 메모리 반도체·232조 품목은 제외. 양사 D램 점유율 73%·낸드 51%, 호남 800조원 투자, 17조원 저리대출을 근거로 적시. 서면의견 1/5, 공청회 1/25.",
+      "source": "서울신문",
+      "time": "11/26 20:25",
+      "region": "KR",
+      "importance": 3,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "메모리는 이번 관세에서 빠졌지만 미국이 두 회사를 직접 지목해 232조 반도체 관세·미국 내 팹 요구 등 후속 압박 여지가 남음. 1월 공청회까지 정책 리스크 할인 요인.",
+      "signals": {
+        "segment": "메모리",
+        "trade": "301조 최대 15~25%, 메모리 제외·232조 별도"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "관세 피했지만…美 '호남 반도체' 문제 제기에 K 반도체 '긴장'",
+      "url": "https://www.fnnews.com/news/202611261153428633",
+      "summary": "USTR이 301조 결과로 한국산 관세 최대 15%를 제안했으나 D램·낸드 등 메모리와 프로세서는 신규 관세 대상에서 제외. 미국은 호남 클러스터 지원을 과잉생산 근거로 지적. KB증권은 내년 D램 수요 +25%가 공급 +18%를 웃돌고 양사 D램 ASP 40% 상승을, iM증권은 내년·2028년 D램 약 4% 공급부족을 전망.",
+      "source": "파이낸셜뉴스",
+      "time": "11/26 11:53",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "관세 직격탄은 피했다는 안도와 232조 잔여 리스크가 공존. 국내 증권사들은 내년 D램 공급부족 전망을 유지.",
+      "signals": {
+        "segment": "메모리",
+        "price": "KB 내년 D램 ASP +40% 전망",
+        "trade": "메모리 신규 관세 제외"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "미국 관세안, 대만산 서버 면제…대만 서버 공급망 5개 종목 상한가",
+      "url": "https://www.techi.com/us-tariff-plan-exempts-taiwan-servers-taipei-suppliers-jump-limit/",
+      "summary": "301조 관세안 부속서에서 서버·컴퓨터(HS 8471), IC·트랜지스터, 반도체 장비 5개 소호목이 제외되고 232조 대상 반도체(메모리 포함)도 빠짐. 11/26 위스트론·위윈·액톤·AVC·유니마이크론이 상한가. TSMC는 NT$2,145(-0.2%)로 이틀째 약세.",
+      "source": "TECHi",
+      "time": "11/26 16:11",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Wiwynn",
+          "market": "GLOBAL",
+          "code": "6669.TW",
+          "effect": "positive"
+        },
+        {
+          "name": "Wistron",
+          "market": "GLOBAL",
+          "code": "3231.TW",
+          "effect": "positive"
+        },
+        {
+          "name": "TSMC",
+          "market": "GLOBAL",
+          "code": "2330.TW",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "AI 서버·반도체가 관세에서 빠지며 대만 서버 공급망에 단기 안도 랠리. 칩 자체보다 서버 조립·부품주가 더 민감하게 반응.",
+      "signals": {
+        "segment": "후공정/패키징",
+        "trade": "서버·IC·장비 관세 제외"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "\"수출통제 우회 차단\"...엔비디아, 동남아 4개국 서버 출하 중단",
+      "url": "https://www.fnnews.com/news/202611261928348292",
+      "summary": "FT에 따르면 엔비디아가 말레이시아·싱가포르·태국·인도네시아 고객향 자사 칩 탑재 서버 출하를 중단. 델·슈퍼마이크로는 고객에게 엔비디아가 출하를 허용하지 않는다고 통보. 바이트댄스에 연산력을 임대하던 싱가포르 아올라니 관련 약 5억달러 대출도 중단. 엔비디아 싱가포르 법인 지난해 매출 1,040억달러(+72%). 일시 조치 여부 불명.",
+      "source": "파이낸셜뉴스",
+      "time": "11/26 19:36",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "Dell Technologies",
+          "market": "US",
+          "code": "DELL",
+          "effect": "negative"
+        },
+        {
+          "name": "Super Micro Computer",
+          "market": "US",
+          "code": "SMCI",
+          "effect": "negative"
+        }
+      ],
+      "insight": "중국 우회 수요로 의심받던 동남아 물량이 막히면 엔비디아·서버 OEM 단기 매출과 HBM 수요 추정에 하방 압력. 12/1·3 의회 청문회 전까지 규제 뉴스 민감도 높음.",
+      "signals": {
+        "segment": "팹리스",
+        "trade": "동남아 4개국 AI 서버 출하 중단, 90일 라이선스"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "S&P, 엔비디아 신용등급 '부정적 관찰대상' 지정…무디스는 \"황 복귀로 단기 불확실성 감소\"",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-put-negative-credit-watch-013558626.html",
+      "summary": "S&P가 엔비디아 AA 등급을 CreditWatch Negative에 올림. 90일 내 최대 1단계 강등 가능, 사유는 핵심인물 리스크·이사회 독립성·승계계획 미흡. 무디스는 Aa1·안정적 유지. 11/25 NVDA 종가 $149.30(-3.91%), 시간외 $151.50. 12/1 하원 비공개 면담, 12/3 상원 공개 청문회 예정.",
+      "source": "Yahoo Finance(Benzinga)",
+      "time": "11/26 10:35",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "수요가 아닌 지배구조 이슈지만, 황 CEO 복귀 후에도 신용·규제 리스크가 남아 있다는 신호. 청문회 결과가 디스카운트 해소 여부를 가를 변수.",
+      "signals": {
+        "segment": "팹리스"
+      }
+    },
+    {
+      "category": "foundry",
+      "title": "8인치 반도체 파운드리 업계 풀가동 전환…위탁 생산 가격도 지속 인상",
+      "url": "https://www.etnews.com/20261126000304",
+      "summary": "국내외 8인치 파운드리가 가동률 100% 수준. AI 데이터센터용 전력반도체 수요 급증과 삼성의 HBM 집중에 따른 8인치 축소 영향. 삼성전자(월 약 30만장)와 DB하이텍이 8인치 공정 가격 전반 인상 추진, SMIC·VIS도 추가 인상 협의. 구체 인상률은 미공개.",
+      "source": "전자신문",
+      "time": "11/26 16:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "DB하이텍",
+          "market": "KR",
+          "code": "000990",
+          "effect": "positive"
+        },
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        }
+      ],
+      "insight": "메모리 조정 국면에서 성숙 공정 파운드리는 가격 인상 사이클 진입. 8인치 비중이 높은 DB하이텍의 실적 레버리지가 큰 구조.",
+      "signals": {
+        "segment": "파운드리",
+        "price": "8인치 위탁생산 가격 인상 추진",
+        "capacity": "가동률 약 100%"
+      }
+    },
+    {
+      "category": "memory",
+      "title": "\"그래서 뭘 더해 줄 건데?\"…머스크도 진땀 빼게 한 이재용의 한마디",
+      "url": "https://www.etnews.com/20261126000565",
+      "summary": "WSJ 보도 인용. 머스크가 삼성에 장기 구매계약과 신규 공장 금융보증을 제안했으나 이재용 회장은 추가 조건을 요구. 씨티 피터 리는 최장 5년 구속력 있는 장기계약, 구매대금 25~30% 선지급이나 신규 설비 투자 분담 사례를 소개. WSJ는 서버 D램 공급난을 '한 세대에 한 번' 수준으로 진단.",
+      "source": "전자신문",
+      "time": "11/26 22:13",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "positive"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        },
+        {
+          "name": "Tesla",
+          "market": "US",
+          "code": "TSLA",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "주가 급락과 달리 현장 수급은 고객이 선급금·설비 투자까지 내는 공급자 우위. 장기계약 확산은 2028년 공급과잉 우려를 완충하는 요인.",
+      "signals": {
+        "segment": "메모리",
+        "price": "최장 5년 장기계약, 25~30% 선지급"
+      }
+    },
+    {
+      "category": "market",
+      "title": "시총 1000조 붕괴 삼전·100만원 위협 하닉…목표주가도 줄하향",
+      "url": "https://www.newstomato.com/ReadNews.aspx?no=1321974",
+      "summary": "골드만삭스 삼성전자 50만→35만원·SK하이닉스 350만→200만원, 모건스탠리 38.1만→30.9만원·260만→160만원, 키움 35만→29만원·210만→180만원, 다올 53만→30만원·420만→200만원, BNK SK하이닉스 165만→105만원(보유). 씨티는 NAND 약세로 내년 영업이익 전망 3.8% 하향.",
+      "source": "뉴스토마토",
+      "time": "11/26 15:41",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "insight": "국내외 증권사 목표가가 일제히 30~50% 낮아졌지만 다수는 매수 의견 유지. 2028년 공급과잉 우려가 밸류에이션 기준점을 끌어내리는 중.",
+      "signals": {
+        "segment": "메모리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "[마감시황] 코스피, '기관' 매수에 소폭 반등…4700선 회복",
+      "url": "https://www.newspim.com/news/view/20261126001067",
+      "summary": "11/26 코스피 4,711.21(+0.29%) 마감. 삼성전자 171,300원(+0.35%), SK하이닉스 1,053,000원(+2.23%). 기관 7,508억원 순매수, 외국인 1,137억원·개인 1조438억원 순매도. 장중 4,800선을 넘었으나 한은 기준금리 인상 후 상승폭 반납.",
+      "source": "뉴스핌",
+      "time": "11/26 16:26",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "neutral"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "positive"
+        }
+      ],
+      "insight": "전날 -6% 폭락 후 기술적 반등에 그침. 외국인이 오후 매도로 돌아서 수급 안정이 확인되지 않은 상태.",
+      "signals": {
+        "segment": "메모리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "美 증시 낙폭 축소에 반도체주 반등…코스피, 4745.10에 상승 출발",
+      "url": "https://www.ddaily.co.kr/page/view/2026112609285752169",
+      "summary": "코스피 +1.01% 출발. 장 초반 삼성전자 +1.64%, SK하이닉스 +3.98%. 소부장 강세로 주성엔지니어링 +13.26%, 리노공업 +6.99%, 이오테크닉스 +6.03%, 삼성전기 +5.56%. 전일 미국 엔비디아 -3.91%(장중 -9% 이상), 마이크론 -4.53%.",
+      "source": "디지털데일리",
+      "time": "11/26 09:32",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "주성엔지니어링",
+          "market": "KR",
+          "code": "036930",
+          "effect": "positive"
+        },
+        {
+          "name": "리노공업",
+          "market": "KR",
+          "code": "058470",
+          "effect": "positive"
+        },
+        {
+          "name": "이오테크닉스",
+          "market": "KR",
+          "code": "039030",
+          "effect": "positive"
+        }
+      ],
+      "insight": "급락 다음날 반등은 낙폭이 컸던 장비·부품주에서 탄력이 더 컸음. 단기 변동성 장세의 베타 차이를 보여줌.",
+      "signals": {
+        "segment": "장비"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "'이 시나리오면 2028년 먹구름'…한국은행이 보낸 경고",
+      "url": "https://www.hankyung.com/article/2026112625776",
+      "summary": "한은 하방 시나리오(AI 투자 지연·금융여건 악화·중국 메모리 증산)에서 메모리 가격은 기준 전망보다 내년 15%, 2028년 51% 낮음. 반도체 수출은 내년 1,294억달러, 2028년 3,075억달러 감소. CXMT D램 점유율은 1년 새 4%→10%. 빅테크 5사 회사채 발행 204억→1,691억달러.",
+      "source": "한국경제",
+      "time": "11/26 22:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "insight": "중앙은행까지 2028년 메모리 하강 리스크를 정량화. 빅테크 차입 급증과 CXMT 점유율 상승이 피크아웃 논쟁의 핵심 변수.",
+      "signals": {
+        "segment": "메모리",
+        "price": "하방 시 2028년 메모리값 기준比 -51%"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "삼전닉스 주가 가를 변수…\"中 메모리 수요 줄고 美 규제 강화\"",
+      "url": "https://www.hankyung.com/article/2026112610286",
+      "summary": "유진투자증권은 대중 AI칩 수출통제 강화로 중국 메모리 수요가 둔화 중이며, 북미 빅테크가 공백을 흡수하는지가 주가 방향을 가른다고 분석. BIS의 해외 데이터센터 원격접근 제한, RASA 하원 통과, 칩보안법 등 NDAA 반영 여부 12월 결정. 중국 AI 연산능력은 H100 환산 2026년 말 460만→2027년 말 880만개 추정.",
+      "source": "한국경제",
+      "time": "11/26 08:30",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "중국향 수요 공백을 북미가 메우는지가 관건. 12월 NDAA 반영 여부가 추가 규제 이벤트.",
+      "signals": {
+        "segment": "메모리",
+        "trade": "BIS 원격접근 제한, RASA 하원 통과"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "삼전닉스, HBM 완판에도 주가 휘청…'AI 데이터센터 자금난'에 발목",
+      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259857",
+      "summary": "삼성전자·SK하이닉스 주가는 10/2 종가 대비 각각 37.4%, 42.6% 하락. 코어위브 5년 CDS가 하루 2.09%p 뛰어 15.34%. 코어위브 3분기 순이자비용 8.46억달러로 영업이익(2.07억달러)의 4배 이상. 삼성은 2027년 HBM 가격 협상 완료·완판, SK하이닉스는 2027~28년 물량 절반 이상 장기계약.",
+      "source": "인사이트코리아",
+      "time": "11/26 16:44",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "mixed"
+        },
+        {
+          "name": "CoreWeave",
+          "market": "US",
+          "code": "CRWV",
+          "effect": "negative"
+        }
+      ],
+      "insight": "HBM 물량은 확보됐지만 네오클라우드 신용 악화가 고객 결제능력 우려로 번지며 멀티플을 압박. 코어위브 CDS가 선행 지표.",
+      "signals": {
+        "segment": "HBM"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "화웨이, 2027년 2월 데이터 핀 밀도 2배 HBM 설계 공개 예정",
+      "url": "https://www.digitaltoday.co.kr/en/view/131429/huawei-to-unveil-hbm-design-with-double-data-pin-density-in-february-2027",
+      "summary": "블룸버그에 따르면 화웨이가 삼성·SK하이닉스 양산 HBM 대비 데이터 핀 밀도 2배인 HBM 설계를 2027년 2월 ISSCC에서 공개 예정. 양산 근접도는 불명. 미국 수출통제로 삼성·SK하이닉스·마이크론의 중국향 HBM 공급은 막혀 있음. 화웨이는 2029년까지 매년 AI칩 1종 이상 출시 계획.",
+      "source": "디지털투데이",
+      "time": "11/26 21:21",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "negative"
+        },
+        {
+          "name": "SK하이닉스",
+          "market": "KR",
+          "code": "000660",
+          "effect": "negative"
+        }
+      ],
+      "insight": "중국 HBM 자립 시도가 구체화. 단기 실적 영향은 없지만 장기적으로 중국 시장 재진입 여지를 줄이는 요인.",
+      "signals": {
+        "segment": "HBM",
+        "trade": "중국향 HBM 수출통제"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "日 키옥시아, '가성비 낸드'로 HBM 대체 실험",
+      "url": "https://www.hankyung.com/article/2026112633711",
+      "summary": "닛케이에 따르면 키옥시아가 엔비디아와 함께 AI 서버에 고성능 SSD 144대를 탑재해 HBM 용량 일부를 대체하는 검증을 진행 중. 삼성전자·SK하이닉스 주도 AI 메모리 시장 일부 대체가 목표라는 분석.",
+      "source": "한국경제",
+      "time": "11/26 19:37",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "Kioxia",
+          "market": "GLOBAL",
+          "code": "285A.T",
+          "effect": "positive"
+        },
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "AI 메모리 계층에서 낸드 비중이 커지는 흐름. 상용화되면 낸드 수요에 긍정, HBM 용량 수요에는 일부 상쇄 요인.",
+      "signals": {
+        "segment": "메모리"
+      }
+    },
+    {
+      "category": "market",
+      "title": "2조 달러 반도체 랠리가 무너지고 있다…역사가 말하는 다음 수순",
+      "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
+      "summary": "11/23 반도체주 시총이 약 2조달러 늘었으나 11/24 SOX 약 8% 급락(MU·AMD·INTC -8~11%). 11/25엔 NVDA 장중 -9%, MU -13%까지 밀렸다가 지수 낙폭을 1% 미만으로 축소. 근원 PCE +3.3%로 12/9 FOMC 금리 인상이 사실상 확실하다는 진단.",
+      "source": "Yahoo Finance",
+      "time": "11/26 06:28",
+      "region": "US",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        },
+        {
+          "name": "Micron Technology",
+          "market": "US",
+          "code": "MU",
+          "effect": "negative"
+        },
+        {
+          "name": "AMD",
+          "market": "US",
+          "code": "AMD",
+          "effect": "negative"
+        }
+      ],
+      "insight": "AI 반도체 변동성에 금리 인상 사이클이 겹침. 12/9 FOMC까지 고밸류 반도체주의 할인율 부담이 이어질 수 있음.",
+      "signals": {
+        "segment": "팹리스"
+      }
+    },
+    {
+      "category": "market",
+      "title": "미국 추수감사절 휴장 속 아시아 증시 상승, 기술주 반등",
+      "url": "https://www.bnnbloomberg.ca/markets/2026/11/26/global-stocks-rise-and-tech-shares-rebound-as-us-closes-for-thanksgiving/",
+      "summary": "11/26 대만 가권 +2.5%, TSMC -0.2%, 코스피 +0.3%(4,711.21), 삼성전자 +0.4%, SK하이닉스 +2.2%, 닛케이 +0.9%(57,499.16), 도쿄일렉트론 +0.6%. AI 관련주 매수가 있었으나 장 막판 차익실현으로 상승폭 축소.",
+      "source": "BNN Bloomberg(AP)",
+      "time": "11/26 20:04",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "TSMC",
+          "market": "GLOBAL",
+          "code": "2330.TW",
+          "effect": "neutral"
+        },
+        {
+          "name": "Tokyo Electron",
+          "market": "GLOBAL",
+          "code": "8035.T",
+          "effect": "positive"
+        }
+      ],
+      "insight": "미국 휴장일 아시아 반도체는 혼조. 대만은 서버주 중심 반등, TSMC는 약세로 대형 파운드리에 매도세가 남아 있음.",
+      "signals": {
+        "segment": "파운드리"
+      }
+    },
+    {
+      "category": "equipment",
+      "title": "토종 반도체 포토레지스트 원소재 업계도 '호황'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65954",
+      "summary": "PR 원소재 5개사 3분기 실적이 모두 전년 대비 개선. 켐트로스 매출 253억원(+93.6%)·흑자전환, 미원상사 매출 1,302억원(+15.1%), 삼양엔씨켐 매출 360억원(+26.2%), 이엔에프테크놀로지 매출 1,936억원(+12.5%)·영업이익 255억원(+15.9%). 국내 공장을 둔 해외 PR사들의 국산 원재료 채택 확대.",
+      "source": "디일렉",
+      "time": "11/26 15:28",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "켐트로스",
+          "market": "KR",
+          "code": "220260",
+          "effect": "positive"
+        },
+        {
+          "name": "이엔에프테크놀로지",
+          "market": "KR",
+          "code": "102710",
+          "effect": "positive"
+        }
+      ],
+      "insight": "메모리 가동률 상승이 소재 물량으로 이어지고 국산화가 더해진 구조. 업황 조정 시 소재주는 장비보다 실적 변동이 작은 편.",
+      "signals": {
+        "segment": "소재"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "예스티 양산 장비에 회전체결링 있나 없나…법원, HPSP 사실조회 신청 기각",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65972",
+      "summary": "HPSP가 예스티를 상대로 낸 특허침해 소송 6차 변론에서 변론 종결, 선고는 2027년 1월 21일. 법원은 HPSP의 가스안전공사 사실조회 신청을 범위가 넓다며 기각. 별도 권리범위 사건은 대법원이 11/18 HPSP 상고를 기각해 예스티 최종 승소.",
+      "source": "디일렉",
+      "time": "11/26 16:33",
+      "region": "KR",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "HPSP",
+          "market": "KR",
+          "code": "403870",
+          "effect": "negative"
+        },
+        {
+          "name": "예스티",
+          "market": "KR",
+          "code": "122640",
+          "effect": "positive"
+        }
+      ],
+      "insight": "고압 어닐링 장비 독점 구도가 걸린 소송. 1/21 선고 결과에 따라 HPSP 독점 프리미엄과 예스티 진입 가능성이 엇갈림.",
+      "signals": {
+        "segment": "장비"
+      }
+    },
+    {
+      "category": "equipment",
+      "title": "[단독] 삼성 \"반도체 공장 무인화\"… 로봇팀 꾸렸다",
+      "url": "https://www.etnews.com/20261126000296",
+      "summary": "삼성전자 DS부문 글로벌제조&인프라총괄 산하에 로보틱스팀 신설. 올해 외부 로봇 협력사를 선정하고 내년 기술평가를 거쳐 2028년 현장 투입 계획. 현재 자동화율 전공정 약 90%, 후공정 약 80%로 잔여 영역 자동화가 목표.",
+      "source": "전자신문",
+      "time": "11/26 16:00",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "삼성전자",
+          "market": "KR",
+          "code": "005930",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "팹 자동화 투자는 장기적으로 원가 절감 요인이며, 반도체 물류·유지보수 로봇 협력사에 신규 수요.",
+      "signals": {
+        "segment": "장비",
+        "capacity": "2028년 팹 로봇 현장 투입"
+      }
+    },
+    {
+      "category": "risk",
+      "title": "美 정보당국 \"中, 젠슨 황 불륜 상대에게 감시 지시한 증거 없어\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65952",
+      "summary": "WSJ 보도. 미 정보당국은 중국의 감시 지시 증거를 찾지 못했으나, 메가스피드를 통한 엔비디아 칩 중국 우회 공급 여부는 계속 조사 중. 법무부는 젠슨 황의 법 위반 증거가 없다고 판단한 것으로 알려짐. 12/1 하원 비공개 면담, 12/3 상원 공개 청문회.",
+      "source": "디일렉",
+      "time": "11/26 14:50",
+      "region": "US",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "mixed"
+        },
+        {
+          "name": "Super Micro Computer",
+          "market": "US",
+          "code": "SMCI",
+          "effect": "negative"
+        }
+      ],
+      "insight": "CEO 개인 리스크는 다소 완화됐지만 칩 우회 공급 조사는 진행형. 청문회 전까지 헤드라인 리스크가 이어짐.",
+      "signals": {
+        "segment": "팹리스",
+        "trade": "메가스피드 우회공급 조사"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "차이나텔레콤, 화웨이 칩으로만 LLM 학습…'탈엔비디아' 한 걸음",
+      "url": "https://www.ddaily.co.kr/page/view/2026112615361936923",
+      "summary": "차이나텔레콤 싱천 AGI 연구소가 화웨이 어센드 910C 8,192장과 마인드스포어만으로 2,850억 파라미터 MoE 모델을 사전학습했다는 기술보고서 공개. 290억 파라미터 모델은 오픈소스화. 성능 수치는 시뮬레이션 결과이며 엔비디아 대비 비교는 아님.",
+      "source": "디지털데일리",
+      "time": "11/26 17:03",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "NVIDIA",
+          "market": "US",
+          "code": "NVDA",
+          "effect": "negative"
+        }
+      ],
+      "insight": "중국 내 대형 모델 학습이 자국 칩으로 가능하다는 사례 누적. 엔비디아 중국 매출 회복 기대를 낮추는 장기 요인.",
+      "signals": {
+        "segment": "팹리스",
+        "trade": "중국 AI칩 자립"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "삼성전기, 신영증권 신규 커버리지 '매수'·목표가 130만원",
+      "url": "https://www.fnnews.com/news/202611261031020809",
+      "summary": "신영증권이 삼성전기 커버리지를 개시하며 매수, 목표주가 130만원 제시(전일 종가 75.5만원). 내년 MLCC 매출 과반이 공급계약에서 발생할 것으로 전망. FC-BGA는 세종·베트남에 6.78조원 투자 예정.",
+      "source": "파이낸셜뉴스",
+      "time": "11/26 11:10",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "삼성전기",
+          "market": "KR",
+          "code": "009150",
+          "effect": "positive"
+        }
+      ],
+      "insight": "AI 서버용 FC-BGA 기판·MLCC가 장기계약 구조로 전환되는 흐름. 11/26 삼성전기 +3.84% 반등 배경 중 하나.",
+      "signals": {
+        "segment": "후공정/패키징",
+        "capacity": "FC-BGA 6.78조원 투자"
+      }
+    }
+  ]
+}
