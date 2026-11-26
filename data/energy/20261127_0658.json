@@ -1,0 +1,798 @@
+{
+  "published_at": "2026-11-27T06:58",
+  "industry": "energy",
+  "title": "에너지 투자 브리핑",
+  "emoji": "⚡",
+  "sources": [
+    "Business Recorder(Reuters)",
+    "CBC뉴스",
+    "Carbon Credits",
+    "Longbridge",
+    "Newsquawk",
+    "World Nuclear News",
+    "Yahoo Finance",
+    "ad-hoc-news",
+    "글로벌이코노믹",
+    "뉴스토마토",
+    "딜사이트",
+    "머니투데이(서플)",
+    "세계일보",
+    "아시아투데이",
+    "이투데이",
+    "핀포인트뉴스",
+    "한국경제"
+  ],
+  "briefing": [
+    "3차 ESS 1,194MW 우선협상 발표, LG엔솔 불참 → 삼성SDI·SK온 수혜, 12/4 최종 확정",
+    "삼성SDI 자사주 1.4조원 전량 소각(12/3) → 주주환원 호재",
+    "리튬 선물 1년여 최저·CATL 수익성 하락 → 양극재·셀 판가 부담",
+    "후티 공격에 유가 반등, 정유주 상승 → 11/29 OPEC+ 동결 전망이 변수",
+    "체코 원전 시공사 재선정 착수, 두산에너빌리티 52주 저점 부근"
+  ],
+  "market_snapshot": [
+    {
+      "label": "WTI (11/25 종가)",
+      "value": "83.68달러 (+1.99%)",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112613946"
+    },
+    {
+      "label": "브렌트 (11/25 종가)",
+      "value": "94.61달러 (+3.51%)",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112613946"
+    },
+    {
+      "label": "헨리허브 12월물 (만기)",
+      "value": "3.285달러/mmBtu",
+      "source": "Business Recorder(Reuters)",
+      "url": "https://www.brecorder.com/news/40450766/us-natgas-futures-ease-on-smaller-storage-draw-outlook"
+    },
+    {
+      "label": "탄산리튬 선물 (GFEX)",
+      "value": "80,580위안/t (1년여 최저)",
+      "source": "Longbridge",
+      "url": "https://longbridge.com/en/news/306879146"
+    },
+    {
+      "label": "우라늄 장기계약가",
+      "value": "96달러/lb (사상 최고)",
+      "source": "Carbon Credits",
+      "url": "https://carboncredits.com/uranium-market-heats-up-as-new-fuel-deals-signal-a-bigger-nuclear-expansion/"
+    }
+  ],
+  "watchlist_notes": [],
+  "events": [
+    {
+      "date": "2026-11-29",
+      "event": "OPEC+ 장관회의 (2027년 산유 정책, 동결 전망)",
+      "tickers": [
+        "XOM",
+        "CVX",
+        "010950"
+      ],
+      "source_url": "https://www.newsquawk.com/headlines/opec-likely-to-roll-over-oil-output-targets-for-at-least-q1-2027-at-sundays-meeting-according-to-sources"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "한전 제주 '탐라는 전기예보' 요금제 시행(잉여시간대 50% 할인)",
+      "tickers": [
+        "015760"
+      ],
+      "source_url": "https://zdnet.co.kr/view/?no=20261126151338"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "삼성SDI 자사주 소각 예정일",
+      "tickers": [
+        "006400"
+      ],
+      "source_url": "https://www.g-enews.com/article/Industry/2026/11/20261126115017584927fa31d75c_1"
+    },
+    {
+      "date": "2026-12-04",
+      "event": "3차 ESS 중앙계약시장 최종 물량 확정",
+      "tickers": [
+        "006400",
+        "096770"
+      ],
+      "source_url": "https://www.segye.com/newsView/20261126519443"
+    },
+    {
+      "date": "2026-12-10",
+      "event": "체코 원전 이행점검 협의회",
+      "tickers": [
+        "034020",
+        "015760"
+      ],
+      "source_url": "https://etoday.co.kr/news/view/2653366"
+    }
+  ],
+  "requests": [],
+  "filings": [
+    {
+      "market": "KR",
+      "code": "006400",
+      "name": "삼성SDI",
+      "date": "2026-11-26",
+      "title": "주식소각결정",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800186"
+    },
+    {
+      "market": "KR",
+      "code": "066970",
+      "name": "엘앤에프",
+      "date": "2026-11-26",
+      "title": "주요사항보고서(전환사채권발행결정)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000731"
+    },
+    {
+      "market": "KR",
+      "code": "066970",
+      "name": "엘앤에프",
+      "date": "2026-11-26",
+      "title": "주요사항보고서(자본으로인정되는채무증권발행결정)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000749"
+    }
+  ],
+  "articles": [
+    {
+      "category": "battery",
+      "title": "3차 ESS 우선협상 대상 선정…전국 14곳에 1194㎿ (ESS 낙찰 물량 85% 호남에 배정)",
+      "url": "https://www.segye.com/newsView/20261126519443",
+      "source": "세계일보",
+      "time": "11/26 20:19",
+      "region": "KR",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "기후에너지환경부·전력거래소가 3차 ESS 중앙계약시장 우선협상대상 14곳 1,194MW를 발표. 공고 1,180MW로 2차(565MW)의 약 2배, 전남·전북이 약 85%. 최종 계약 12/4 확정, 2029년 2월까지 준공. 배터리사별 물량은 미공개.",
+      "tickers": [
+        {
+          "name": "삼성SDI",
+          "market": "KR",
+          "code": "006400",
+          "effect": "positive"
+        },
+        {
+          "name": "SK이노베이션",
+          "market": "KR",
+          "code": "096770",
+          "effect": "positive"
+        },
+        {
+          "name": "LG에너지솔루션",
+          "market": "KR",
+          "code": "373220",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "LG엔솔 불참으로 삼성SDI·SK온 양자 구도. 12/4 최종 확정 때 배터리사별 배분이 국내 ESS 매출 가시성을 가를 변수.",
+      "signals": {
+        "segment": "2차전지/ESS",
+        "order": "총 1,194MW(약 7GWh), 12/4 최종 확정",
+        "policy": "중앙계약시장 3차, 4차는 2027년 상반기"
+      }
+    },
+    {
+      "category": "battery",
+      "title": "[배터리 ESS 빌드업] [삼성SDI] 3차 입찰 단가 반등 기대에도 생산능력 변수",
+      "url": "https://dealsite.co.kr/articles/173421",
+      "source": "딜사이트",
+      "time": "11/26 11:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "3차 물량 1,180MW는 1·2차 합계(1,128MW)보다 큼. LG엔솔이 빠져 삼성SDI·SK온 2파전으로 단가 회복 기대. 삼성SDI 점유율은 1차 76%, 2차 35.7%(SK온 50.3%). 다만 울산공장 연 15GWh 중 3차 투입 가능 물량은 약 5GWh.",
+      "tickers": [
+        {
+          "name": "삼성SDI",
+          "market": "KR",
+          "code": "006400",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK이노베이션",
+          "market": "KR",
+          "code": "096770",
+          "effect": "positive"
+        }
+      ],
+      "insight": "경쟁 완화로 수익성은 개선 여지가 있지만, 삼성SDI는 생산능력 제약으로 물량 확대에 한계가 있을 수 있음.",
+      "signals": {
+        "segment": "2차전지/ESS",
+        "order": "3차 1,180MW 공고, 1·2차 합계 1,128MW"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "삼성SDI, 10년 전 취득 자사주 전량 소각…1.4조 규모",
+      "url": "https://www.g-enews.com/article/Industry/2026/11/20261126115017584927fa31d75c_1",
+      "source": "글로벌이코노믹",
+      "time": "11/26 11:55",
+      "region": "KR",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "short",
+      "summary": "삼성SDI가 보유 자사주 전량(보통주 3,331,391주·우선주 178,400주) 소각을 공시. 장부가 약 3,451억원, 11/25 종가 기준 시가 약 1.42조원. 소각 예정일 12/3. 하루 전 삼성전기도 약 1.7조원 소각 결정.",
+      "tickers": [
+        {
+          "name": "삼성SDI",
+          "market": "KR",
+          "code": "006400",
+          "effect": "positive"
+        }
+      ],
+      "insight": "유통주식 감소로 주당가치 개선. 삼성 계열사 주주환원 흐름이 이어지는지 확인할 포인트.",
+      "signals": {
+        "segment": "2차전지/ESS"
+      }
+    },
+    {
+      "category": "market",
+      "title": "美 관세상한 15% 유지에 안도…이차전지주 강세",
+      "url": "https://supple.kr/news/cmwwtslb2zaa6kwp8xqxemmd9",
+      "source": "머니투데이(서플)",
+      "time": "11/26 09:40",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "summary": "USTR 301조 제안에서 한국 등 무역합의국 관세가 15%로 제시되자 장 초반 KRX 2차전지 TOP10 지수가 1.84% 상승. 삼성SDI 4.31%, 포스코퓨처엠 4.22% 올랐고 롯데에너지머티리얼즈·엘앤에프·SKC도 강세. 아직 제안 단계.",
+      "tickers": [
+        {
+          "name": "삼성SDI",
+          "market": "KR",
+          "code": "006400",
+          "effect": "positive"
+        },
+        {
+          "name": "포스코퓨처엠",
+          "market": "KR",
+          "code": "003670",
+          "effect": "positive"
+        },
+        {
+          "name": "엘앤에프",
+          "market": "KR",
+          "code": "066970",
+          "effect": "positive"
+        }
+      ],
+      "insight": "관세 불확실성 완화가 단기 반등 재료. 다만 장 마감 땐 LG엔솔·에코프로비엠이 하락 전환해 수급은 여전히 불안.",
+      "signals": {
+        "segment": "2차전지/ESS",
+        "policy": "美 301조 관세 제안, 한국 15%"
+      }
+    },
+    {
+      "category": "battery",
+      "title": "수산화리튬 선물 상장 첫날 기준가 하회…장중 6% 넘게 떨어지며 7만위안 붕괴",
+      "url": "https://longbridge.com/en/news/306879146",
+      "source": "Longbridge",
+      "time": "11/26 16:07",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "광저우선물거래소 수산화리튬 선물이 상장 첫날 기준가 7.5만위안 대비 7.2% 낮은 6.96만위안/t으로 주간 거래 마감. 탄산리튬 선물도 3% 넘게 내려 8.058만위안/t으로 1년여 만의 최저, 5월 고점 대비 -62%.",
+      "tickers": [
+        {
+          "name": "포스코퓨처엠",
+          "market": "KR",
+          "code": "003670",
+          "effect": "mixed"
+        },
+        {
+          "name": "에코프로비엠",
+          "market": "KR",
+          "code": "247540",
+          "effect": "mixed"
+        },
+        {
+          "name": "Albemarle",
+          "market": "US",
+          "code": "ALB",
+          "effect": "negative"
+        }
+      ],
+      "insight": "리튬 가격 하락은 양극재 판가·재고평가에 부담이지만 셀 업체 원가엔 우호적. 지난주 리튬 반등 기대가 꺾인 신호.",
+      "signals": {
+        "segment": "2차전지/ESS",
+        "commodity": "탄산리튬 8.058만위안/t(1년여 최저)↓, 수산화리튬 6.96만위안/t"
+      }
+    },
+    {
+      "category": "battery",
+      "title": "CATL의 물량 급증 뒤에 가려진 얇아진 이익…CLSA, 연말 스트레스 테스트",
+      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/catl-s-volume-surge-masks-a-thinning-profit-pool-as-clsa-stress-tests-year-end/70558586",
+      "source": "ad-hoc-news",
+      "time": "11/26 23:44",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "CATL A주가 204.22위안으로 하락 지속. CLSA 최악 시나리오에서 4분기 순이익 150억위안(-35% YoY)이지만 목표가 A주 400위안·H주 585홍콩달러 유지. 3분기 출하량은 약 60% 늘었으나 Wh당 순이익은 0.113→0.082위안.",
+      "tickers": [
+        {
+          "name": "CATL",
+          "market": "GLOBAL",
+          "code": "300750.SZ",
+          "effect": "mixed"
+        },
+        {
+          "name": "LG에너지솔루션",
+          "market": "KR",
+          "code": "373220",
+          "effect": "mixed"
+        },
+        {
+          "name": "삼성SDI",
+          "market": "KR",
+          "code": "006400",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "세계 1위 CATL의 단위 수익성 하락은 가격 경쟁 심화 신호로, 국내 셀 3사의 판가·마진 전망에도 부담.",
+      "signals": {
+        "segment": "2차전지/ESS"
+      }
+    },
+    {
+      "category": "oilgas",
+      "title": "후티 사우디 정유시설 공격에 뛴 국제 유가…정유주, 동반 상승",
+      "url": "https://www.hankyung.com/article/2026112613946",
+      "source": "한국경제",
+      "time": "11/26 09:46",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "summary": "후티의 라스타누라 정유시설 공격 주장으로 브렌트 3.51% 오른 94.61달러, WTI 1.99% 오른 83.68달러 마감. 장 초반 SK이노베이션 4.44%(94,000원), S-Oil 3.74%(99,900원) 상승. 두 종목 모두 10월 고점보다 40% 넘게 낮음. iM증권은 SK이노 4분기 영업이익 2.659조원 예상.",
+      "tickers": [
+        {
+          "name": "SK이노베이션",
+          "market": "KR",
+          "code": "096770",
+          "effect": "positive"
+        },
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950",
+          "effect": "positive"
+        }
+      ],
+      "insight": "지정학 리스크로 유가가 반등하며 정유주 낙폭 일부 회복. 11/29 OPEC+ 결정이 다음 방향을 정할 변수.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "브렌트 94.61달러(+3.51%), WTI 83.68달러(+1.99%)"
+      }
+    },
+    {
+      "category": "oilgas",
+      "title": "소식통 \"OPEC+, 일요일 회의에서 최소 2027년 1분기까지 산유 목표 동결 가능성\"",
+      "url": "https://www.newsquawk.com/headlines/opec-likely-to-roll-over-oil-output-targets-for-at-least-q1-2027-at-sundays-meeting-according-to-sources",
+      "source": "Newsquawk",
+      "time": "11/26 23:01",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "neutral",
+      "horizon": "short",
+      "summary": "소식통에 따르면 OPEC+는 일요일(11/29) 회의에서 최소 2027년 1분기까지 산유 목표를 동결할 가능성이 큼. 일부 회원국의 초과 생산은 수출·이행 점검으로 봐야 한다는 지적.",
+      "tickers": [
+        {
+          "name": "Exxon Mobil",
+          "market": "US",
+          "code": "XOM",
+          "effect": "neutral"
+        },
+        {
+          "name": "Chevron",
+          "market": "US",
+          "code": "CVX",
+          "effect": "neutral"
+        },
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "동결이면 공급과잉 전망은 유지돼 유가 상단이 제한될 수 있음. 감산 등 깜짝 결정 여부가 정유·업스트림주 단기 변수.",
+      "signals": {
+        "segment": "석유/가스",
+        "policy": "OPEC+ 11/29 회의, 2027년 1분기까지 동결 전망"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "최고가격제 첫 정산 임박…정유사, 수용도 불복도 가시밭길",
+      "url": "https://www.newstomato.com/ReadNews.aspx?no=1321931",
+      "source": "뉴스토마토",
+      "time": "11/26 14:16",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "산업부가 다음 주 정유사별 1차 손실보전액(3/13~6/30분)을 통보할 예정. 3/13~9월 말 손실 추정은 원가 기준 1.8조원, 업계 주장(싱가포르 국제가 기준) 5.71조원으로 격차. 재원은 예비비 4.2조원과 내년 예산 1.45조원. 통보 후 30일 내 이의 제기 가능.",
+      "tickers": [
+        {
+          "name": "S-Oil",
+          "market": "KR",
+          "code": "010950",
+          "effect": "mixed"
+        },
+        {
+          "name": "SK이노베이션",
+          "market": "KR",
+          "code": "096770",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "보전액이 업계 추정에 얼마나 근접하느냐에 따라 정유사 4분기 손익 환입 규모가 달라짐. 다음 주 통보액 확인 필요.",
+      "signals": {
+        "segment": "석유/가스",
+        "policy": "석유 최고가격제 1차 손실보전 정산"
+      }
+    },
+    {
+      "category": "oilgas",
+      "title": "美 천연가스 선물, 재고 감소폭 축소 전망에 하락",
+      "url": "https://www.brecorder.com/news/40450766/us-natgas-futures-ease-on-smaller-storage-draw-outlook",
+      "source": "Business Recorder(Reuters)",
+      "time": "11/26 09:16",
+      "region": "US",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "short",
+      "summary": "NYMEX 12월물 천연가스가 만기일에 3.8센트 내린 3.285달러/mmBtu, 1월물은 약 1% 내린 3.64달러. 주간 재고 감소 예상치 19bcf로 5년 평균 40bcf보다 작아 잉여분이 3.3%로 확대 전망.",
+      "tickers": [
+        {
+          "name": "EQT",
+          "market": "US",
+          "code": "EQT",
+          "effect": "negative"
+        },
+        {
+          "name": "한국가스공사",
+          "market": "KR",
+          "code": "036460",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "재고 여유로 겨울 가스 가격 급등 우려는 다소 완화. 동절기 날씨가 단기 변수.",
+      "signals": {
+        "segment": "석유/가스",
+        "commodity": "헨리허브 12월물 3.285달러, 1월물 3.64달러"
+      }
+    },
+    {
+      "category": "renewable",
+      "title": "\"한화솔루션, 내년 실적 소폭 개선에도 현금흐름 부족…목표가↓\"-유안타",
+      "url": "https://www.hankyung.com/article/2026112609486",
+      "source": "한국경제",
+      "time": "11/26 08:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "mid",
+      "summary": "유안타증권이 한화솔루션 목표가를 33,862원에서 21,000원으로 내리고 중립 유지. 2027년 매출 15.8조원·영업이익 5,775억원 전망. 탠덤셀 투자로 설비투자 1.2조→2.1조원, 순차입금 약 12조원. 미국 설치 수요 42GW 대비 현지 모듈 생산능력 91GW로 공급과잉 위험.",
+      "tickers": [
+        {
+          "name": "한화솔루션",
+          "market": "KR",
+          "code": "009830",
+          "effect": "negative"
+        }
+      ],
+      "insight": "실적 개선보다 재무 부담이 더 크다는 평가. 미국 모듈 공급과잉과 탠덤 투자비가 주가 할인 요인.",
+      "signals": {
+        "segment": "태양광/풍력",
+        "policy": "AMPC 1조원 전망"
+      }
+    },
+    {
+      "category": "renewable",
+      "title": "유가 급등에 스페이스X까지…OCI홀딩스 10% 폭등, 태양광주 들썩",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508282",
+      "source": "핀포인트뉴스",
+      "time": "11/26 09:55",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "short",
+      "summary": "장 초반 OCI홀딩스 10.40%(173,000원), HD현대에너지솔루션 4.28%, 한화솔루션 2.62% 상승. 유가 급등과 미 FCC의 스페이스X 우주 데이터센터용 위성 100만기 승인이 재료. 기사는 국내 태양광 업체의 실제 수주·매출은 아직 없다고 지적.",
+      "tickers": [
+        {
+          "name": "OCI홀딩스",
+          "market": "KR",
+          "code": "010060",
+          "effect": "positive"
+        },
+        {
+          "name": "한화솔루션",
+          "market": "KR",
+          "code": "009830",
+          "effect": "positive"
+        }
+      ],
+      "insight": "테마성 급등으로 실적 근거가 약함. 단기 변동성에 유의할 구간.",
+      "signals": {
+        "segment": "태양광/풍력"
+      }
+    },
+    {
+      "category": "nuclear",
+      "title": "'대우·두산 결별' 후 첫 점검⋯김정관 장관 \"체코 원전 신뢰 공고화\"",
+      "url": "https://etoday.co.kr/news/view/2653366",
+      "source": "이투데이",
+      "time": "11/26 14:00",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "11/20 한수원과 대우건설·두산에너빌리티 컨소시엄 시공협약 종료 뒤 산업장관이 체코 두코바니 원전 2차 '팀코리아' 점검회의 주재. 새 시공사 선정, 공정 연속성, 인허가 일정 준수를 논의. 12월 체코 제1부총리 방한과 12/10 이행점검 협의회 대응도 논의.",
+      "tickers": [
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "neutral"
+        },
+        {
+          "name": "한전기술",
+          "market": "KR",
+          "code": "052690",
+          "effect": "neutral"
+        },
+        {
+          "name": "두산에너빌리티",
+          "market": "KR",
+          "code": "034020",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "새 시공사 선정이 일정 지연 없이 마무리되는지가 원전 관련주 투자심리의 핵심. 두산은 주기기 공급은 유지되는지 확인 필요.",
+      "signals": {
+        "segment": "원전/SMR",
+        "order": "체코 두코바니 시공사 재선정 진행"
+      }
+    },
+    {
+      "category": "market",
+      "title": "두산에너빌리티 주가 소폭 강세…'4만빌리티' 지켜낼지 관건",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=630942",
+      "source": "CBC뉴스",
+      "time": "11/26 11:23",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "short",
+      "summary": "두산에너빌리티가 11시21분 40,350원(+0.88%)에 거래. 52주 최고 139,200원, 최저 38,000원으로 최저가 부근. 기사는 회사 고유의 재료는 언급하지 않음.",
+      "tickers": [
+        {
+          "name": "두산에너빌리티",
+          "market": "KR",
+          "code": "034020",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "고점 대비 70% 넘게 내린 상태에서 4만원 지지가 관건. 체코 시공사 재선정 등 원전 이벤트에 민감한 구간.",
+      "signals": {
+        "segment": "원전/SMR"
+      }
+    },
+    {
+      "category": "nuclear",
+      "title": "우라늄 시장 달아올라…새 연료 계약이 원전 확대 신호",
+      "url": "https://carboncredits.com/uranium-market-heats-up-as-new-fuel-deals-signal-a-bigger-nuclear-expansion/",
+      "source": "Carbon Credits",
+      "time": "11/27 02:09",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "Benchmark 기준 우라늄 장기계약 가격이 사상 최고 96달러/lb(11/3 현물 89.5달러). 오클로와 센트러스가 오로라 최대 5기용 HALEU 공급계약을 확정(2029년부터 인도). 카메코는 향후 5년 연 2,800만lb 이상 인도 약정. Benchmark는 2026년 1차 공급 4,200t 부족 전망.",
+      "tickers": [
+        {
+          "name": "Cameco",
+          "market": "US",
+          "code": "CCJ",
+          "effect": "positive"
+        },
+        {
+          "name": "Oklo",
+          "market": "US",
+          "code": "OKLO",
+          "effect": "positive"
+        },
+        {
+          "name": "Centrus Energy",
+          "market": "US",
+          "code": "LEU",
+          "effect": "positive"
+        }
+      ],
+      "insight": "장기계약가 최고치는 우라늄 생산·농축 업체의 구조적 수혜 근거. 최근 급락한 SMR주와는 온도차.",
+      "signals": {
+        "segment": "원전/SMR",
+        "commodity": "우라늄 장기계약가 96달러/lb(사상 최고)",
+        "order": "오클로-센트러스 HALEU 공급"
+      }
+    },
+    {
+      "category": "nuclear",
+      "title": "랜스 우라늄 광산, 사이버보안 사고로 가동 중단",
+      "url": "https://www.world-nuclear-news.org/articles/lance-operations-suspended-after-cybersecurity-incident",
+      "source": "World Nuclear News",
+      "time": "11/26 21:02",
+      "region": "US",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "short",
+      "summary": "페닌슐라에너지 자회사 스트라타가 11/20 공장·채굴정 제어 시스템을 겨냥한 사이버 사고로 와이오밍 랜스 ISR 우라늄 프로젝트를 중단. 복구·검증 완료 때까지 중단되며 2027년 가이던스 영향은 미정.",
+      "tickers": [
+        {
+          "name": "Cameco",
+          "market": "US",
+          "code": "CCJ",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "미국 내 소규모 공급 차질. 공급 부족 서사를 강화하지만 시장 전체 물량 영향은 제한적.",
+      "signals": {
+        "segment": "원전/SMR",
+        "commodity": "우라늄 공급 차질"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "원자력 추진 LNG선 프로젝트에 파트너 추가 합류…삼성중공업 단독 건조",
+      "url": "https://www.world-nuclear-news.org/articles/additional-partners-join-nuclear-powered-lng-ship-project",
+      "source": "World Nuclear News",
+      "time": "11/26 21:51",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "테서아토믹스·삼성중공업·DNV·NTNU가 미국-유럽 항로용 원자력 추진 LNG운반선 4자 MOU 체결. 테서의 Triton FHR 원자로(TRISO 연료) 탑재, 삼성중공업이 단독 조선사로 선박 개념·통합을 주도.",
+      "tickers": [
+        {
+          "name": "삼성중공업",
+          "market": "KR",
+          "code": "010140",
+          "effect": "positive"
+        }
+      ],
+      "insight": "상용화까지 먼 초기 단계 MOU지만 해양 SMR 시장 선점 포석.",
+      "signals": {
+        "segment": "원전/SMR"
+      }
+    },
+    {
+      "category": "nuclear",
+      "title": "톈완, 세계 최대 원전 단지에 한 걸음 더",
+      "url": "https://www.world-nuclear-news.org/articles/Tianwan-moving-step-closer-becoming-worlds-biggest-nuclear-power-plant",
+      "source": "World Nuclear News",
+      "time": "11/26 23:33",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "summary": "중국 톈완 8호기(VVER-1200)가 고온시험을 마치고 첫 핵연료를 장전. 가동 시 단지 용량 약 9.1GW로 가시와자키-가리와(8.2GW)를 넘어 세계 최대. 연간 발전량 70TWh 이상 예상.",
+      "tickers": [],
+      "insight": "중국·러시아의 원전 건설 속도를 보여주는 사례. 글로벌 원전 수주 경쟁 구도 참고.",
+      "signals": {
+        "segment": "원전/SMR"
+      }
+    },
+    {
+      "category": "grid",
+      "title": "반도체만 대박인 줄 알았는데…美 220조 잭팟 터지나",
+      "url": "https://www.hankyung.com/article/2026112630781",
+      "source": "한국경제",
+      "time": "11/26 18:26",
+      "region": "US",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "long",
+      "summary": "GridStrategies는 2025~2030년 미국 피크수요가 166GW 늘고 그중 데이터센터가 약 90GW(54%)라고 전망. 이를 가스복합으로 채우면 약 1,660억달러(약 223조원) 소요. 듀크에너지는 2.72GW 가스발전소를 짓고 GE베르노바 터빈 최대 11기 계약. 변압기·차단기·케이블 수요 급증 지적.",
+      "tickers": [
+        {
+          "name": "HD현대일렉트릭",
+          "market": "KR",
+          "code": "267260",
+          "effect": "positive"
+        },
+        {
+          "name": "효성중공업",
+          "market": "KR",
+          "code": "298040",
+          "effect": "positive"
+        },
+        {
+          "name": "LS ELECTRIC",
+          "market": "KR",
+          "code": "010120",
+          "effect": "positive"
+        },
+        {
+          "name": "두산에너빌리티",
+          "market": "KR",
+          "code": "034020",
+          "effect": "positive"
+        },
+        {
+          "name": "GE Vernova",
+          "market": "US",
+          "code": "GEV",
+          "effect": "positive"
+        }
+      ],
+      "insight": "최근 AI 전력주 조정에도 미국 전력 인프라 수요 전망은 견조. 전력기기·가스터빈 업체의 중장기 수주 근거.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "order": "美 가스복합 투자 약 1,660억달러 전망"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "지멘스에너지, 베네수엘라 전력망 복구 대형 계약 체결",
+      "url": "https://finance.yahoo.com/energy/articles/siemens-energy-signs-major-deal-172352287.html",
+      "source": "Yahoo Finance",
+      "time": "11/27 02:23",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "지멘스에너지가 베네수엘라 정부·PDVSA와 유전 전력설비 복구, 전력망 수리·유지보수 2건 계약. 베네수엘라 발전량 약 12GW로 수요 약 17GW에 못 미침. GE베르노바의 5GW+ 복구 계획에 이은 것. 금액 미공개, 지멘스에너지 주가 4.04% 상승.",
+      "tickers": [
+        {
+          "name": "Siemens Energy",
+          "market": "GLOBAL",
+          "code": "ENR.DE",
+          "effect": "positive"
+        },
+        {
+          "name": "GE Vernova",
+          "market": "US",
+          "code": "GEV",
+          "effect": "positive"
+        }
+      ],
+      "insight": "베네수엘라 재건이 전력기기 업체의 새 수요처로 부상. 계약 규모 공개 여부가 다음 확인 포인트.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "order": "베네수엘라 전력 복구 2건(금액 미공개)"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "제주 노후 화력발전 단계적 폐지…전력시장·요금체계 개편",
+      "url": "https://asiatoday.co.kr/kn/view.php?key=20261126010010341",
+      "source": "아시아투데이",
+      "time": "11/26 14:00",
+      "region": "KR",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "long",
+      "summary": "기후부와 제주도가 2035 탄소중립 로드맵 발표. 한림복합(LNG) 2027년 말, 제주화력 3기 2030년 말 폐지. 재생에너지 비중 25.6%→2030년 64%→2035년 100%, ESS 68MW→1.7GW. 2027년부터 수요측 입찰·가격입찰제 도입. 한전은 12/1부터 제주 잉여 시간대 요금 50% 할인.",
+      "tickers": [
+        {
+          "name": "한국전력",
+          "market": "KR",
+          "code": "015760",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "제주가 재생·ESS 중심 전력시장 개편의 시험대. ESS 1.7GW 확대는 국내 ESS 수요 추가 근거.",
+      "signals": {
+        "segment": "전력망/전력기기",
+        "policy": "제주 2035 탄소중립 로드맵, 가격입찰제 도입"
+      }
+    }
+  ]
+}
