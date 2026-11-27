@@ -659,5 +659,184 @@
       "insight": "로봇 플랫폼 대장주 NVDA는 수출 규제 이슈로 상대 약세. 12/3 상원 청문회가 다음 변곡점.",
       "signals": {}
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-28T07:16+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127002010",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001958",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001928",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "기타경영사항(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800973",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "기타경영사항(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800969",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "307950",
+        "name": "현대오토에버",
+        "date": "2026-11-27",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000966",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005380",
+        "name": "현대자동차",
+        "date": "2026-11-27",
+        "title": "특수관계인으로부터기타유가증권매수",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001743",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005380",
+        "name": "현대자동차",
+        "date": "2026-11-27",
+        "title": "대규모기업집단현황공시[분기별공시(대표회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000563",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:277810": {
+        "symbol": "277810.KS",
+        "close": 531000.0,
+        "change_pct": 13.7,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:108490": {
+        "symbol": "108490.KS",
+        "close": 302500.0,
+        "change_pct": 7.84,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:058610": {
+        "symbol": "058610.KQ",
+        "close": 93100.0,
+        "change_pct": 3.91,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 179100.0,
+        "change_pct": 4.55,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:454910": {
+        "symbol": "454910.KS",
+        "close": 54600.0,
+        "change_pct": 5.61,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:307950": {
+        "symbol": "307950.KS",
+        "close": 375500.0,
+        "change_pct": 7.59,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:005380": {
+        "symbol": "005380.KS",
+        "close": 269000.0,
+        "change_pct": 3.86,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:066570": {
+        "symbol": "066570.KS",
+        "close": 144800.0,
+        "change_pct": 7.1,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 150.49,
+        "change_pct": 0.8,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:XPEV": {
+        "symbol": "XPEV",
+        "close": 9.28,
+        "change_pct": 3.23,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "GLOBAL:9880.HK": {
+        "symbol": "9880.HK",
+        "close": 59.35,
+        "change_pct": 10.73,
+        "currency": "HKD",
+        "date": "11/27"
+      },
+      "GLOBAL:2498.HK": {
+        "symbol": "2498.HK",
+        "close": 13.75,
+        "change_pct": 5.61,
+        "currency": "HKD",
+        "date": "11/27"
+      },
+      "GLOBAL:1810.HK": {
+        "symbol": "1810.HK",
+        "close": 27.8,
+        "change_pct": 4.51,
+        "currency": "HKD",
+        "date": "11/27"
+      },
+      "US:TSLA": {
+        "symbol": "TSLA",
+        "close": 400.0,
+        "change_pct": 5.22,
+        "currency": "USD",
+        "date": "11/27"
+      }
+    },
+    "quotes_as_of": "11/27",
+    "notes": []
+  }
 }
