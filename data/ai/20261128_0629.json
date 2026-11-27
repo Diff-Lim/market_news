@@ -794,5 +794,329 @@
         "monetization": "인력 감축을 통한 비용 절감"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-28T06:34+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127002010",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001958",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001928",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "기타경영사항(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800973",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "기타경영사항(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800969",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-27",
+        "title": "풍문또는보도에대한해명(미확정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127801094",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-27",
+        "title": "특수관계인에대한증여",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000377",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-27",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000257",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-25",
+        "title": "기업가치제고계획(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800766",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "035720",
+        "name": "카카오",
+        "date": "2026-11-27",
+        "title": "[기재정정]주식소각결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800597",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "035720",
+        "name": "카카오",
+        "date": "2026-11-27",
+        "title": "자기주식취득결과보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001321",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "035720",
+        "name": "카카오",
+        "date": "2026-11-25",
+        "title": "대규모기업집단현황공시[분기별공시(대표회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000540",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "064400",
+        "name": "LG씨엔에스",
+        "date": "2026-11-27",
+        "title": "기업설명회(IR)개최(안내공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800401",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "018260",
+        "name": "삼성에스디에스",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001374",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "018260",
+        "name": "삼성에스디에스",
+        "date": "2026-11-27",
+        "title": "주요사항보고서(자기주식취득결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001039",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "018260",
+        "name": "삼성에스디에스",
+        "date": "2026-11-27",
+        "title": "주식소각결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800449",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "018260",
+        "name": "삼성에스디에스",
+        "date": "2026-11-27",
+        "title": "동일인등출자계열회사와의상품ㆍ용역거래",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000440",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "018260",
+        "name": "삼성에스디에스",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000168",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "035420",
+        "name": "NAVER",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001600",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "035420",
+        "name": "NAVER",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001578",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "035420",
+        "name": "NAVER",
+        "date": "2026-11-25",
+        "title": "대규모기업집단현황공시[분기별공시(대표회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000041",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 150.49,
+        "change_pct": 0.8,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "GLOBAL:2376.TW": {
+        "symbol": "2376.TW",
+        "close": 273.5,
+        "change_pct": 0.0,
+        "currency": "TWD",
+        "date": "11/27"
+      },
+      "US:GOOGL": {
+        "symbol": "GOOGL",
+        "close": 274.96,
+        "change_pct": 0.68,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:AMZN": {
+        "symbol": "AMZN",
+        "close": 254.12,
+        "change_pct": 3.96,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:MU": {
+        "symbol": "MU",
+        "close": 646.95,
+        "change_pct": 7.6,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:AMD": {
+        "symbol": "AMD",
+        "close": 424.54,
+        "change_pct": 4.56,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:CRWV": {
+        "symbol": "CRWV",
+        "close": 44.15,
+        "change_pct": 3.71,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "GLOBAL:2330.TW": {
+        "symbol": "2330.TW",
+        "close": 2180.0,
+        "change_pct": 1.63,
+        "currency": "TWD",
+        "date": "11/27"
+      },
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 179100.0,
+        "change_pct": 4.55,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:000660": {
+        "symbol": "000660.KS",
+        "close": 1110000.0,
+        "change_pct": 5.41,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:035720": {
+        "symbol": "035720.KS",
+        "close": 31050.0,
+        "change_pct": 2.81,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:064400": {
+        "symbol": "064400.KS",
+        "close": 72000.0,
+        "change_pct": 9.09,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:018260": {
+        "symbol": "018260.KS",
+        "close": 201500.0,
+        "change_pct": 4.35,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:035420": {
+        "symbol": "035420.KS",
+        "close": 163400.0,
+        "change_pct": 2.0,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "GLOBAL:9984.T": {
+        "symbol": "9984.T",
+        "close": 2984.5,
+        "change_pct": 3.13,
+        "currency": "JPY",
+        "date": "11/27"
+      },
+      "GLOBAL:SAP.DE": {
+        "symbol": "SAP.DE",
+        "close": 195.64,
+        "change_pct": 0.77,
+        "currency": "EUR",
+        "date": "11/27"
+      },
+      "US:ORCL": {
+        "symbol": "ORCL",
+        "close": 107.13,
+        "change_pct": 3.13,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:MSFT": {
+        "symbol": "MSFT",
+        "close": 492.85,
+        "change_pct": 0.6,
+        "currency": "USD",
+        "date": "11/27"
+      }
+    },
+    "quotes_as_of": "11/27",
+    "notes": []
+  }
 }
