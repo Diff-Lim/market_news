@@ -655,5 +655,298 @@
         "next_catalyst": "12/3 주총, 12/11 합병 종결"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-28T06:48+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "137310",
+        "name": "에스디바이오센서",
+        "date": "2026-11-27",
+        "title": "소송등의판결ㆍ결정(일정금액이상의청구)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800451",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-27",
+        "title": "[기재정정]유상증자또는주식관련사채등의청약결과(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900871",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "115180",
+        "name": "큐리언트",
+        "date": "2026-11-26",
+        "title": "유상증자또는주식관련사채등의청약결과(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900973",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "475830",
+        "name": "오름테라퓨틱",
+        "date": "2026-11-27",
+        "title": "기업설명회(IR)개최",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900960",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "196170",
+        "name": "알테오젠",
+        "date": "2026-11-26",
+        "title": "투자판단관련주요경영사항              (ALTB4 라이선스 계약 파트너사 MSD로부터 판매 마일스톤 수령 예정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900206",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "028300",
+        "name": "HLB",
+        "date": "2026-11-27",
+        "title": "증권신고서(합병)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001848",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "028300",
+        "name": "HLB",
+        "date": "2026-11-25",
+        "title": "기업설명회(IR)개최",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900706",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "067630",
+        "name": "HLB생명과학",
+        "date": "2026-11-25",
+        "title": "기업설명회(IR)개최",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900727",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "068270",
+        "name": "셀트리온",
+        "date": "2026-11-27",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000191",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "468530",
+        "name": "프로티나",
+        "date": "2026-11-27",
+        "title": "[기재정정]단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900341",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "468530",
+        "name": "프로티나",
+        "date": "2026-11-27",
+        "title": "[기재정정]단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900335",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "468530",
+        "name": "프로티나",
+        "date": "2026-11-27",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900299",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "053950",
+        "name": "경남제약",
+        "date": "2026-11-27",
+        "title": "주요사항보고서(유상증자결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001604",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "950160",
+        "name": "코오롱티슈진",
+        "date": "2026-11-27",
+        "title": "전환가액의조정              (제3회차,제4회차)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900993",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "003000",
+        "name": "부광약품",
+        "date": "2026-11-27",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001119",
+        "auto": true
+      },
+      {
+        "market": "US",
+        "code": "FULC",
+        "name": "Fulcrum Therapeutics",
+        "date": "2026-11-27",
+        "title": "주요사항보고(8-K)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1680581/000119312526479975/d150924d8k.htm",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:137310": {
+        "symbol": "137310.KS",
+        "close": 7470.0,
+        "change_pct": 3.32,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "US:LLY": {
+        "symbol": "LLY",
+        "close": 1392.38,
+        "change_pct": 0.01,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "KR:298380": {
+        "symbol": "298380.KS",
+        "close": 46750.0,
+        "change_pct": 26.52,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:115180": {
+        "symbol": "115180.KS",
+        "close": 15730.0,
+        "change_pct": 30.0,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:475830": {
+        "symbol": "475830.KQ",
+        "close": 15730.0,
+        "change_pct": 20.54,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:141080": {
+        "symbol": "141080.KQ",
+        "close": 68900.0,
+        "change_pct": 21.52,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:196170": {
+        "symbol": "196170.KQ",
+        "close": 186300.0,
+        "change_pct": 9.4,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:087010": {
+        "symbol": "087010.KQ",
+        "close": 97500.0,
+        "change_pct": 15.66,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:028300": {
+        "symbol": "028300.KQ",
+        "close": 31700.0,
+        "change_pct": 9.31,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:067630": {
+        "symbol": "067630.KQ",
+        "close": 2580.0,
+        "change_pct": 11.21,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:068270": {
+        "symbol": "068270.KS",
+        "close": 221000.0,
+        "change_pct": 2.55,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:128940": {
+        "symbol": "128940.KS",
+        "close": 491000.0,
+        "change_pct": 5.25,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:185750": {
+        "symbol": "185750.KS",
+        "close": 58600.0,
+        "change_pct": 3.35,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:468530": {
+        "symbol": "468530.KQ",
+        "close": 69700.0,
+        "change_pct": -1.27,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:053950": {
+        "symbol": "053950.KQ",
+        "close": 1428.0,
+        "change_pct": 3.25,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:950160": {
+        "symbol": "950160.KQ",
+        "close": 16850.0,
+        "change_pct": 8.71,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:003000": {
+        "symbol": "003000.KS",
+        "close": 4010.0,
+        "change_pct": 5.94,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "GLOBAL:9969.HK": {
+        "symbol": "9969.HK",
+        "close": 10.45,
+        "change_pct": 6.85,
+        "currency": "HKD",
+        "date": "11/27"
+      },
+      "US:NVO": {
+        "symbol": "NVO",
+        "close": 41.07,
+        "change_pct": 0.24,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:FULC": {
+        "symbol": "FULC",
+        "close": 3.78,
+        "change_pct": 0.0,
+        "currency": "USD",
+        "date": "11/27"
+      }
+    },
+    "quotes_as_of": "11/27",
+    "notes": []
+  }
 }
