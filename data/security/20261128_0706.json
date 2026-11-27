@@ -625,5 +625,234 @@
         "metric": "합병 스프레드 2.9%"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-28T07:06+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "203650",
+        "name": "드림시큐리티",
+        "date": "2026-11-27",
+        "title": "주주총회소집공고",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001544",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "203650",
+        "name": "드림시큐리티",
+        "date": "2026-11-27",
+        "title": "[기재정정]주주총회소집결의",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900626",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "263860",
+        "name": "지니언스",
+        "date": "2026-11-26",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000633",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "271830",
+        "name": "팸텍",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001965",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "271830",
+        "name": "팸텍",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001957",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "271830",
+        "name": "팸텍",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001952",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "016360",
+        "name": "삼성증권",
+        "date": "2026-11-27",
+        "title": "단기차입금증가결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127801132",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "016360",
+        "name": "삼성증권",
+        "date": "2026-11-27",
+        "title": "기타경영사항(자율공시)              ((배당기준일 변경 안내))",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127801130",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "016360",
+        "name": "삼성증권",
+        "date": "2026-11-27",
+        "title": "투자설명서(일괄신고)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001571",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "016360",
+        "name": "삼성증권",
+        "date": "2026-11-27",
+        "title": "일괄신고추가서류(파생결합사채-주가연계파생결합사채)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001556",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "016360",
+        "name": "삼성증권",
+        "date": "2026-11-27",
+        "title": "투자설명서(일괄신고)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001449",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "175330",
+        "name": "JB금융지주",
+        "date": "2026-11-26",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000698",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:042510": {
+        "symbol": "042510.KQ",
+        "close": 18870.0,
+        "change_pct": 20.34,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:053800": {
+        "symbol": "053800.KQ",
+        "close": 174500.0,
+        "change_pct": 6.08,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:411080": {
+        "symbol": "411080.KQ",
+        "close": 6170.0,
+        "change_pct": 10.38,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:203650": {
+        "symbol": "203650.KS",
+        "close": 2250.0,
+        "change_pct": 8.7,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:047560": {
+        "symbol": "047560.KQ",
+        "close": 7110.0,
+        "change_pct": 21.54,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:263860": {
+        "symbol": "263860.KS",
+        "close": 40950.0,
+        "change_pct": 1.49,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:098460": {
+        "symbol": "098460.KQ",
+        "close": 23850.0,
+        "change_pct": 9.4,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:271830": {
+        "symbol": "271830.KS",
+        "close": 898.0,
+        "change_pct": 4.66,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:016360": {
+        "symbol": "016360.KS",
+        "close": 74700.0,
+        "change_pct": 7.64,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:175330": {
+        "symbol": "175330.KS",
+        "close": 24200.0,
+        "change_pct": -0.62,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:105560": {
+        "symbol": "105560.KS",
+        "close": 145000.0,
+        "change_pct": -0.21,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "GLOBAL:SAP.DE": {
+        "symbol": "SAP.DE",
+        "close": 195.64,
+        "change_pct": 0.77,
+        "currency": "EUR",
+        "date": "11/27"
+      },
+      "US:RDWR": {
+        "symbol": "RDWR",
+        "close": 37.24,
+        "change_pct": 2.82,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "GLOBAL:2702.T": {
+        "symbol": "2702.T",
+        "close": 10195.0,
+        "change_pct": 0.59,
+        "currency": "JPY",
+        "date": "11/27"
+      },
+      "US:ZS": {
+        "symbol": "ZS",
+        "close": 239.49,
+        "change_pct": 3.74,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:CRWD": {
+        "symbol": "CRWD",
+        "close": 217.2,
+        "change_pct": 3.77,
+        "currency": "USD",
+        "date": "11/27"
+      }
+    },
+    "quotes_as_of": "11/27",
+    "notes": []
+  }
 }
