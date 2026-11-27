@@ -1,0 +1,659 @@
+{
+  "published_at": "2026-11-28T06:47",
+  "industry": "bio",
+  "title": "바이오·헬스 투자 브리핑",
+  "emoji": "🧬",
+  "sources": [
+    "Business Today",
+    "GlobeNewswire",
+    "ad-hoc-news",
+    "뉴스웍스",
+    "뉴스핌",
+    "더바이오",
+    "메디코파마",
+    "바이오스펙테이터",
+    "아주경제",
+    "인사이트",
+    "팜뉴스",
+    "한국경제",
+    "히트뉴스"
+  ],
+  "briefing": [
+    "SD바이오센서 990억 배상 판결(충당금 22억) → 4분기 실적 부담, 항소 예정",
+    "릴리 '항암 차기 성장축' 발언+코스닥 8%↑ → 에이비엘·리가켐·큐리언트 급등",
+    "펩트론, 페링과 스마트데포 기술평가 계약 → 본계약 전환 기대에 15%↑",
+    "HLB, HLB생명과학 합병 증권신고서 제출 → 차입 999억 승계·주식매수청구가 변수",
+    "큐리언트 706억 유증 완료·12/17 신주 상장, 코오롱티슈진 등 CB 리픽싱 잇따라"
+  ],
+  "market_snapshot": [
+    {
+      "label": "코스닥",
+      "value": "708.99 (+8.13%)",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112753921"
+    },
+    {
+      "label": "코스피",
+      "value": "4,915.68 (+4.34%)",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026112753921"
+    },
+    {
+      "label": "코스닥 제약지수",
+      "value": "7,710.45 (+8.3%)",
+      "source": "메디코파마",
+      "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70700"
+    },
+    {
+      "label": "코스닥150 헬스케어",
+      "value": "+11.0%",
+      "source": "메디코파마",
+      "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70700"
+    }
+  ],
+  "watchlist_notes": [],
+  "events": [
+    {
+      "date": "2026-12-01",
+      "event": "오름테라퓨틱 UBS 주최 홍콩 투자자 IR",
+      "tickers": [
+        "475830"
+      ],
+      "source_url": "https://www.hitnews.co.kr/news/articleView.html?idxno=81190"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "풀크럼 합병 승인 주주총회",
+      "tickers": [
+        "FULC"
+      ],
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/27/3411464/0/en/fulcrum-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-slate-medicines.html"
+    },
+    {
+      "date": "2026-12-07",
+      "event": "이노보테라퓨틱스 공모 일반청약(~12/8)",
+      "tickers": [],
+      "source_url": "https://www.thebionews.net/news/articleView.html?idxno=30769"
+    },
+    {
+      "date": "2026-12-07",
+      "event": "경남제약 제3자배정 유증 납입(최대주주 변경)",
+      "tickers": [
+        "053950"
+      ],
+      "source_url": "https://www.hitnews.co.kr/news/articleView.html?idxno=81190"
+    },
+    {
+      "date": "2026-12-12",
+      "event": "ASH 2026 미국혈액학회 연례회의 개막(~12/15, 뉴올리언스)",
+      "tickers": [],
+      "source_url": "https://www.hematology.org/meetings/annual-meeting"
+    },
+    {
+      "date": "2026-12-13",
+      "event": "레전드 바이오텍 ASH 투자자 행사",
+      "tickers": [
+        "LEGN"
+      ],
+      "source_url": "https://www.globenewswire.com/news-release/2026/11/27/3411183/0/en/legend-biotech-to-host-investor-event-during-the-68th-american-society-of-hematology-annual-meeting-and-exposition.html"
+    }
+  ],
+  "requests": [],
+  "filings": [
+    {
+      "market": "KR",
+      "code": "137310",
+      "name": "에스디바이오센서",
+      "date": "2026-11-27",
+      "title": "소송등의판결ㆍ결정(일정금액이상의청구)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800451"
+    },
+    {
+      "market": "KR",
+      "code": "028300",
+      "name": "HLB",
+      "date": "2026-11-27",
+      "title": "증권신고서(합병)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001848"
+    },
+    {
+      "market": "KR",
+      "code": "115180",
+      "name": "큐리언트",
+      "date": "2026-11-27",
+      "title": "[기재정정]유상증자또는주식관련사채등의청약결과(자율공시)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900871"
+    }
+  ],
+  "articles": [
+    {
+      "category": "risk",
+      "title": "에스디바이오센서, 래피젠에 990억 배상 판결…이자 포함 1232억",
+      "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70697",
+      "summary": "서울중앙지법이 실용신안 침해소송에서 에스디바이오센서에 990억원, 바이오노트에 10억원 배상을 판결(가집행 가능). 원금은 자기자본의 4.24%, 지연손해금 포함 약 1232억원. 3분기 말 충당금은 약 22억원에 그쳐 회사는 배상액 전부에 항소할 계획.",
+      "source": "메디코파마",
+      "time": "11/27 14:34",
+      "region": "KR",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "에스디바이오센서",
+          "market": "KR",
+          "code": "137310",
+          "effect": "negative"
+        }
+      ],
+      "insight": "충당금(약 22억원) 대비 판결액 차이가 커 항소 결과와 무관하게 4분기 추가 충당금 반영 여부가 실적 변수.",
+      "signals": {
+        "event": "1심 손해배상 판결(항소 예정)",
+        "next_catalyst": "항소심 진행·4분기 충당금 반영"
+      }
+    },
+    {
+      "category": "market",
+      "title": "[특징주] 항암 신약 개발 기대감 속 면역항암제株 동반 급등",
+      "url": "https://www.newspim.com/news/view/20261127000248",
+      "summary": "일라이 릴리 임원이 블룸버그에 비만약 이후 차기 성장축으로 항암을 꼽고 5년 내 항암제 8개(자체 4개·도입 4개) 출시를 예상했다고 밝힘. 이 소식에 오전 큐리언트 +23.80%, 에이비엘바이오 +19.08%, 오름테라퓨틱 +11.95% 등 항암 바이오주가 동반 상승.",
+      "source": "뉴스핌",
+      "time": "11/27 10:04",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Eli Lilly",
+          "market": "US",
+          "code": "LLY",
+          "effect": "neutral"
+        },
+        {
+          "name": "에이비엘바이오",
+          "market": "KR",
+          "code": "298380",
+          "effect": "positive"
+        },
+        {
+          "name": "큐리언트",
+          "market": "KR",
+          "code": "115180",
+          "effect": "positive"
+        },
+        {
+          "name": "오름테라퓨틱",
+          "market": "KR",
+          "code": "475830",
+          "effect": "positive"
+        }
+      ],
+      "insight": "빅파마의 항암 도입(4개) 계획은 이중항체·ADC 플랫폼 보유 국내 바이오의 L/O 기대를 키우는 재료이나 개별 계약 근거는 아직 없음.",
+      "signals": {
+        "indication": "항암(이중항체·ADC·TPD)"
+      }
+    },
+    {
+      "category": "market",
+      "title": "[주식] 큐리언트·에이비엘·리가켐·오름…항암 바이오株 동반 강세",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=81183",
+      "summary": "11/27 큐리언트 +30.00%, 에이비엘바이오 +26.52%, 앱클론 +24.25%, 리가켐바이오 +21.52%, 오름테라퓨틱 +20.54% 마감. 펩트론 +15.66%, 삼성바이오에피스 관련주 +8.58%. 코스피 4,915.68(+4.34%), 코스닥 708.99(+8.13%).",
+      "source": "히트뉴스",
+      "time": "11/27 16:49",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "에이비엘바이오",
+          "market": "KR",
+          "code": "298380",
+          "effect": "positive"
+        },
+        {
+          "name": "리가켐바이오",
+          "market": "KR",
+          "code": "141080",
+          "effect": "positive"
+        },
+        {
+          "name": "큐리언트",
+          "market": "KR",
+          "code": "115180",
+          "effect": "positive"
+        },
+        {
+          "name": "오름테라퓨틱",
+          "market": "KR",
+          "code": "475830",
+          "effect": "positive"
+        }
+      ],
+      "insight": "메디코파마는 에이비엘·리가켐 급등에 새 공시가 없었다고 전해, 개별 이벤트보다 지수 반등과 테마 수급이 이끈 단기 랠리 성격.",
+      "signals": {
+        "indication": "이중항체·ADC"
+      }
+    },
+    {
+      "category": "market",
+      "title": "바이오·로봇·배터리 급등…코스닥 간만에 웃었다",
+      "url": "https://www.hankyung.com/article/2026112753921",
+      "summary": "코스닥이 708.99(+8.13%)로 7/31 이후 최대 상승, 매수 사이드카 발동. 증안펀드를 약 10조에서 20~40조원으로 확대한다는 기대가 배경. 코스닥에서 기관 5,867억, 외국인 3,837억 순매수. 알테오젠 +9.40%(186,300원), 펩트론 +15.66%.",
+      "source": "한국경제",
+      "time": "11/27 17:45",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "알테오젠",
+          "market": "KR",
+          "code": "196170",
+          "effect": "positive"
+        },
+        {
+          "name": "펩트론",
+          "market": "KR",
+          "code": "087010",
+          "effect": "positive"
+        }
+      ],
+      "insight": "코스닥 시총 상위 바이오가 지수 반등의 직접 수혜. 증안펀드 확대가 실제 집행되는지가 반등 지속성의 관건."
+    },
+    {
+      "category": "licensing",
+      "title": "펩트론, 글로벌 제약사 '페링'과 장기지속형 주사제 기술평가 계약 체결",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30738",
+      "summary": "펩트론이 11/26 스위스 페링과 마이크로스피어 장기지속형 플랫폼 '스마트데포' 기술평가 계약을 체결. 페링 요청으로 계약금·후보물질 수·적응증은 비공개. 주가는 11/27 +15.66%.",
+      "source": "더바이오",
+      "time": "11/27 07:36",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "펩트론",
+          "market": "KR",
+          "code": "087010",
+          "effect": "positive"
+        }
+      ],
+      "insight": "기술평가 계약은 본계약(L/O) 전 단계로 금액이 없어, 평가 결과에 따른 본계약 전환 여부가 다음 확인 포인트.",
+      "signals": {
+        "stage": "플랫폼 기술평가",
+        "indication": "장기지속형 주사제(마이크로스피어)",
+        "deal": "비공개",
+        "next_catalyst": "본계약 전환 여부"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "큐리언트, 706억 유증 완료..\"파이프라인 수익화 집중\"",
+      "url": "https://www.biospectator.com/news/view/30564",
+      "summary": "큐리언트의 706억원 주주배정 후 실권주 일반공모 유상증자에서 구주주 청약률 106.33%로 일반공모 없이 완료. 신주는 12/17 상장. 회사는 기술이전과 론자와의 이중 페이로드 ADC 플랫폼 상업화를 추진한다고 밝힘.",
+      "source": "바이오스펙테이터",
+      "time": "11/27 14:15",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "큐리언트",
+          "market": "KR",
+          "code": "115180",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "자금 조달 불확실성은 해소됐지만 12/17 신주 상장에 따른 물량 출회 가능성은 단기 부담 요인.",
+      "signals": {
+        "deal": "유상증자 706억원",
+        "next_catalyst": "12/17 신주 상장"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "HLB생명과학 품는 HLB…차입부채 999억원도 승계",
+      "url": "https://hitnews.co.kr/news/articleView.html?idxno=81186",
+      "summary": "HLB가 HLB생명과학 흡수합병 증권신고서 제출. 합병비율 1:0.0857532, 신주 867만4057주 발행. 주총 2027-03-30, 합병기일 2027-07-01. 주식매수청구액이 200억원을 넘으면 진행 여부 협의(매수가 3,063원). 리보세라닙+캄렐리주맙 FDA 목표일은 2027-04-09.",
+      "source": "히트뉴스",
+      "time": "11/27 18:06",
+      "region": "KR",
+      "importance": 2,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "HLB",
+          "market": "KR",
+          "code": "028300",
+          "effect": "mixed"
+        },
+        {
+          "name": "HLB생명과학",
+          "market": "KR",
+          "code": "067630",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "국내 판권 등 권리를 통합하는 대신 단기차입 999억원을 떠안아, 주식매수청구 규모와 FDA 결정이 합병 성사의 변수.",
+      "signals": {
+        "indication": "간암(리보세라닙+캄렐리주맙)",
+        "next_catalyst": "2027-03-30 주총, 2027-04-09 FDA 목표일"
+      }
+    },
+    {
+      "category": "clinical",
+      "title": "셀트리온, 日서 '램시마SC' 임상 3상 결과 발표",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904651",
+      "summary": "셀트리온이 일본 JSIBD 2026에서 램시마SC 일본 3상 44주 결과 발표. IV 인플릭시맙으로 관해 상태인 크론병 환자 60명을 SC로 전환해 관해가 유지됐고 새로운 안전성 문제는 없었으며, 투약 중단·증량 환자는 없었음. 2027년 일본 출시 계획.",
+      "source": "뉴스웍스",
+      "time": "11/27 10:26",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "셀트리온",
+          "market": "KR",
+          "code": "068270",
+          "effect": "positive"
+        }
+      ],
+      "insight": "일본 인플릭시맙 시장 점유율 48%(2026년 7월)인 램시마의 SC 전환 근거로, 2027년 일본 출시 후 제형 전환 매출이 관전 포인트.",
+      "signals": {
+        "stage": "3상(일본)",
+        "event": "학회 발표(JSIBD 2026)",
+        "indication": "크론병/인플릭시맙 피하주사",
+        "next_catalyst": "2027년 일본 출시"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "SK證 \"한미약품, 기술이전으로 R&D 경쟁력 입증…목표가 63만원\"",
+      "url": "https://www.ajunews.com/view/20261127084541403",
+      "summary": "SK증권이 한미약품 커버리지를 재개하며 매수·목표가 63만원 제시. 2026년 기술이전 3건(릴리·제넨텍·바이오마린) 총 38억250만달러, 선급금 3억달러. 2026년 영업이익 5250억원(+103.6%), 2027년 2299억원(-56.2%) 전망.",
+      "source": "아주경제",
+      "time": "11/27 08:46",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "한미약품",
+          "market": "KR",
+          "code": "128940",
+          "effect": "positive"
+        }
+      ],
+      "insight": "2026년 일회성 기술료로 이익이 크게 늘고 2027년엔 역기저가 예상돼, 추가 L/O·마일스톤 유입이 이익 공백을 메울지가 관건.",
+      "signals": {
+        "deal": "3건 총 38억250만달러(선급금 3억달러)"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "'실적 주춤' 종근당, 신약 임상 모멘텀은 내년 하반기부터",
+      "url": "https://www.insight.co.kr/news/583910",
+      "summary": "SK증권이 종근당 커버리지를 매수·목표가 7만3000원으로 개시. 3분기 별도 매출 4307억원(+0.8%), 영업이익 237억원(+15.4%). 핵심 촉매는 노바티스에 이전한 심방세동 신약 PKN605 2상(165명, 내년 9월 종료).",
+      "source": "인사이트",
+      "time": "11/27 17:02",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "종근당",
+          "market": "KR",
+          "code": "185750",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "본업 성장은 정체로 주가 재평가는 노바티스 파트너 과제 2상 결과(내년 하반기) 이후로 미뤄지는 구조.",
+      "signals": {
+        "stage": "2상",
+        "indication": "심방세동",
+        "next_catalyst": "PKN605 2상 종료(내년 9월)"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "프로티나, 유럽 제약사와 11억원 규모 바이오마커 계약 체결",
+      "url": "https://www.pharmnews.com/news/articleView.html?idxno=308400",
+      "summary": "프로티나가 유럽 제약사와 SPID 플랫폼 바이오마커 계약 체결. 상대사 2상에서 환자 선별·효능 평가에 쓰임. 히트뉴스 공시 정리 기준 계약액 11억4717만원으로 지난해 매출의 38.9%.",
+      "source": "팜뉴스",
+      "time": "11/27 14:55",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "프로티나",
+          "market": "KR",
+          "code": "468530",
+          "effect": "positive"
+        }
+      ],
+      "insight": "계약액은 작지만 매출의 38.9%로 외형 대비 의미가 있고, 글로벌 2상 레퍼런스 확보 측면.",
+      "signals": {
+        "deal": "11억4717만원(매출 대비 38.9%)"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "[HIT알공] SD바이오센서 990억 배상 판결…경남제약 최대주주 변경",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=81190",
+      "summary": "경남제약이 (주)엑스 대상 40억원 제3자배정 유상증자 결정(1,264원), 12/7 납입 후 최대주주 변경. 코오롱티슈진은 CB 전환가 하향(3회차 172,990원, 4회차 185,380원), 큐로셀은 4회차 CB 전환가를 최저 42,150원으로 하향. 큐리옥스는 229억원 CB 발행.",
+      "source": "히트뉴스",
+      "time": "11/27 18:22",
+      "region": "KR",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "경남제약",
+          "market": "KR",
+          "code": "053950",
+          "effect": "mixed"
+        },
+        {
+          "name": "코오롱티슈진",
+          "market": "KR",
+          "code": "950160",
+          "effect": "negative"
+        }
+      ],
+      "insight": "CB 전환가 하향(리픽싱)은 전환 가능 주식 수를 늘려 잠재 희석이 커지는 신호."
+    },
+    {
+      "category": "tech",
+      "title": "삼성바이오에피스, 中 이노타와 오픈이노베이션 본격화",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=81164",
+      "summary": "삼성바이오에피스가 중국 아틀라틀 이노베이션 센터와 진행하는 오픈이노베이션 프로그램에 중국 표적단백질분해(TPD) 바이오텍 이노타를 선정. 기술·멘토링·사업화 컨설팅을 제공하며 재무 조건은 없음.",
+      "source": "히트뉴스",
+      "time": "11/27 11:27",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [],
+      "insight": "재무 영향은 없고, 바이오시밀러 중심 사업에서 신약 모달리티(TPD) 탐색을 넓히는 장기 행보로 볼 수 있음.",
+      "signals": {
+        "indication": "표적단백질분해(TPD)"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "부광약품, RNA 자회사 'TPT' 공식 출범…플랫폼 기반 글로벌 L/O 추진",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30773",
+      "summary": "부광약품의 덴마크 자회사 콘테라파마에서 분사한 RNA 자회사 스리포인트테라퓨틱스(TPT)가 공식 출범. 탐색 단계 파트너십 후 기술이전을 추진하며 2029년까지 전임상(pre-IND) 후보 3개 이상 확보가 목표.",
+      "source": "더바이오",
+      "time": "11/27 13:46",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "long",
+      "tickers": [
+        {
+          "name": "부광약품",
+          "market": "KR",
+          "code": "003000",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "초기 단계라 실적 기여는 멀고, 파트너십 체결 여부가 RNA 플랫폼 가치 확인의 첫 단계.",
+      "signals": {
+        "stage": "전임상(탐색)",
+        "indication": "RNA 치료제"
+      }
+    },
+    {
+      "category": "capital",
+      "title": "이노보, 코스닥 상장 발판 美 임상 본격화…\"2028년 글로벌 기술이전 추진\"",
+      "url": "https://www.thebionews.net/news/articleView.html?idxno=30769",
+      "summary": "이노보테라퓨틱스가 신주 220만주, 공모가 밴드 2만~2만4000원(440억~528억원)으로 코스닥 상장 추진. 수요예측 11/26~12/2, 일반청약 12/7~8, 대표주관 한국투자증권. INV-008은 대웅제약에 최대 6625억원 규모로 이전.",
+      "source": "더바이오",
+      "time": "11/27 12:14",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "short",
+      "tickers": [],
+      "insight": "연내 바이오 IPO 흥행 여부는 위축된 바이오 투자심리(올해 18곳 상장 철회)의 바로미터.",
+      "signals": {
+        "deal": "공모 440억~528억원",
+        "next_catalyst": "12/7~8 일반청약"
+      }
+    },
+    {
+      "category": "market",
+      "title": "약가개편에 현금 챙기는 제약사…바이오는 투자 한파에 신음",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=81179",
+      "summary": "상장 제약사 73곳 중 41곳이 3분기 누적 영업현금흐름이 영업이익을 웃돌았고, 합산 영업이익 1조4253억원·영업현금흐름 1조5675억원. 반면 넥스아이는 상장 첫날 39.9% 하락했고 올해 18곳이 상장 신청·공모를 철회.",
+      "source": "히트뉴스",
+      "time": "11/28 06:02",
+      "region": "KR",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [],
+      "insight": "현금창출력이 있는 전통 제약과 자금조달이 막힌 바이오의 양극화가 커져, 유증·CB 공시 빈도에 주의할 시점."
+    },
+    {
+      "category": "approval",
+      "title": "이노케어, 차세대 TRK 억제제 '줄레트렉티닙' 소아 고형암 중국 승인",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411068/0/en/innocare-announces-approval-of-the-next-generation-trk-inhibitor-zurletrectinib-for-the-treatment-of-pediatric-patients-with-solid-tumors-in-china.html",
+      "summary": "중국 NMPA가 NTRK 융합 양성 고형암 2~12세 환자에 줄레트렉티닙을 승인(12세 이상은 2025년 12월 승인). 소아 허가 임상에서 독립심사 기준 ORR 100%, DCR 100%, 24개월 DOR률 74.1%.",
+      "source": "GlobeNewswire",
+      "time": "11/27 14:13",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "이노케어",
+          "market": "GLOBAL",
+          "code": "9969.HK",
+          "effect": "positive"
+        }
+      ],
+      "insight": "희귀 표적 적응증 확대로 매출 기여는 제한적이나, 중국 바이오의 표적항암제 허가 속도를 보여주는 사례.",
+      "signals": {
+        "stage": "시판(적응증 확대)",
+        "event": "NMPA 승인",
+        "indication": "NTRK 융합 고형암(소아)"
+      }
+    },
+    {
+      "category": "tech",
+      "title": "노보 노디스크, 스웨덴에 '위고비 알약' 12월 24일 출시",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/novo-nordisk-stock-wegovy-pill-launch-set-for-sweden/70562751",
+      "summary": "노보 노디스크가 1일 1회 위고비 알약을 12/24 스웨덴에 출시한다고 밝힘. 소매가는 주사제와 '비슷한' 수준 예상. 기사에 따르면 미국·영국·독일·스페인·프랑스·폴란드에서 판매 중이며 2027년 20개 이상 시장 출시 예상.",
+      "source": "ad-hoc-news",
+      "time": "11/28 01:50",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Novo Nordisk",
+          "market": "US",
+          "code": "NVO",
+          "effect": "positive"
+        },
+        {
+          "name": "Eli Lilly",
+          "market": "US",
+          "code": "LLY",
+          "effect": "negative"
+        }
+      ],
+      "insight": "경구 비만약의 유럽 확산 속도는 릴리와의 점유율 경쟁과 국내 비만약 개발사 밸류에 참고 지표.",
+      "signals": {
+        "stage": "시판",
+        "indication": "비만(경구 GLP-1)",
+        "next_catalyst": "12/24 스웨덴 출시"
+      }
+    },
+    {
+      "category": "approval",
+      "title": "바이오콘, 페제타 바이오시밀러 '허투조' 브라질 ANVISA 승인",
+      "url": "https://businesstoday.in/markets/stocks/story/biocon-in-focus-after-brazil-regulator-approves-biosimilar-cancer-drug-hertuzo-569797-2026-11-27",
+      "summary": "바이오콘의 HER2 양성 유방암 치료제 페제타(퍼투주맙) 바이오시밀러 '허투조'가 현지 파트너 비오노비스를 통해 브라질 ANVISA 승인. 이미 미국 FDA·EC 승인을 받은 제품.",
+      "source": "Business Today",
+      "time": "11/27 12:28",
+      "region": "GLOBAL",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "mid",
+      "tickers": [
+        {
+          "name": "Roche",
+          "market": "GLOBAL",
+          "code": "ROG.SW",
+          "effect": "negative"
+        }
+      ],
+      "insight": "퍼투주맙 바이오시밀러 경쟁이 신흥시장까지 넓어지는 흐름으로, 같은 시장을 노리는 국내 시밀러 업체에는 경쟁 심화 요인.",
+      "signals": {
+        "stage": "허가",
+        "indication": "HER2 유방암/바이오시밀러"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "풀크럼, 슬레이트 메디슨 합병 관련 특별 현금배당 결정",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411464/0/en/fulcrum-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-slate-medicines.html",
+      "summary": "풀크럼이 합병과 관련해 주당 최대 3.6095달러(총 약 2억7570만달러) 특별배당 결정. 기준일 12/7, 지급 12/10, 주총 12/3, 합병 종결은 12/11 전후 예상.",
+      "source": "GlobeNewswire",
+      "time": "11/28 03:05",
+      "region": "US",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "short",
+      "tickers": [
+        {
+          "name": "Fulcrum Therapeutics",
+          "market": "US",
+          "code": "FULC",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "현금 반환 후 비상장사와 역합병하는 구조로, 배당 기준일 전후 주가 변동이 큼.",
+      "signals": {
+        "deal": "특별배당 주당 최대 3.6095달러",
+        "next_catalyst": "12/3 주총, 12/11 합병 종결"
+      }
+    }
+  ]
+}
