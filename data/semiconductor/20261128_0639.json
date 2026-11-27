@@ -730,5 +730,277 @@
         "capacity": "아산 HBM 전용라인 준공"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-28T06:39+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-27",
+        "title": "풍문또는보도에대한해명(미확정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127801094",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-27",
+        "title": "특수관계인에대한증여",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000377",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-27",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000257",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "000660",
+        "name": "SK하이닉스",
+        "date": "2026-11-25",
+        "title": "기업가치제고계획(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800766",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "402340",
+        "name": "SK스퀘어",
+        "date": "2026-11-27",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000205",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127002010",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001958",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001928",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "기타경영사항(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800973",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "005930",
+        "name": "삼성전자",
+        "date": "2026-11-27",
+        "title": "기타경영사항(자율공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800969",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "009150",
+        "name": "삼성전기",
+        "date": "2026-11-25",
+        "title": "특수관계인과의보험거래",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000781",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "009150",
+        "name": "삼성전기",
+        "date": "2026-11-25",
+        "title": "특수관계인과의보험거래",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000780",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "009150",
+        "name": "삼성전기",
+        "date": "2026-11-25",
+        "title": "[기재정정]특수관계인과의보험거래",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000778",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "009150",
+        "name": "삼성전기",
+        "date": "2026-11-25",
+        "title": "주식소각결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800735",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "092870",
+        "name": "엑시콘",
+        "date": "2026-11-27",
+        "title": "주요사항보고서(타법인주식및출자증권양도결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001923",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "092870",
+        "name": "엑시콘",
+        "date": "2026-11-26",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900227",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "US:MU": {
+        "symbol": "MU",
+        "close": 646.95,
+        "change_pct": 7.6,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:MRVL": {
+        "symbol": "MRVL",
+        "close": 140.54,
+        "change_pct": 7.34,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:AVGO": {
+        "symbol": "AVGO",
+        "close": 312.34,
+        "change_pct": 3.82,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:NVDA": {
+        "symbol": "NVDA",
+        "close": 150.49,
+        "change_pct": 0.8,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "KR:000660": {
+        "symbol": "000660.KS",
+        "close": 1110000.0,
+        "change_pct": 5.41,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:402340": {
+        "symbol": "402340.KS",
+        "close": 687000.0,
+        "change_pct": 5.37,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:005930": {
+        "symbol": "005930.KS",
+        "close": 179100.0,
+        "change_pct": 4.55,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:036930": {
+        "symbol": "036930.KQ",
+        "close": 156900.0,
+        "change_pct": 14.36,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:058470": {
+        "symbol": "058470.KQ",
+        "close": 52400.0,
+        "change_pct": 12.09,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:009150": {
+        "symbol": "009150.KS",
+        "close": 821000.0,
+        "change_pct": 4.72,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "GLOBAL:ASML.AS": {
+        "symbol": "ASML.AS",
+        "close": 1198.0,
+        "change_pct": 2.55,
+        "currency": "EUR",
+        "date": "11/27"
+      },
+      "GLOBAL:8035.T": {
+        "symbol": "8035.T",
+        "close": 8220.0,
+        "change_pct": 4.43,
+        "currency": "JPY",
+        "date": "11/27"
+      },
+      "GLOBAL:0981.HK": {
+        "symbol": "0981.HK",
+        "close": 53.4,
+        "change_pct": 16.39,
+        "currency": "HKD",
+        "date": "11/27"
+      },
+      "GLOBAL:1347.HK": {
+        "symbol": "1347.HK",
+        "close": 78.15,
+        "change_pct": 20.69,
+        "currency": "HKD",
+        "date": "11/27"
+      },
+      "US:QCOM": {
+        "symbol": "QCOM",
+        "close": 179.27,
+        "change_pct": 6.29,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "KR:092870": {
+        "symbol": "092870.KS",
+        "close": 52400.0,
+        "change_pct": 5.43,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:425040": {
+        "symbol": "425040.KS",
+        "close": 10650.0,
+        "change_pct": 9.79,
+        "currency": "KRW",
+        "date": "11/27"
+      }
+    },
+    "quotes_as_of": "11/27",
+    "notes": []
+  }
 }
