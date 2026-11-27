@@ -756,5 +756,533 @@
         "policy": "미 주택용 세액공제 종료"
       }
     }
-  ]
+  ],
+  "enriched": {
+    "at": "2026-11-28T06:55+09:00",
+    "filings": [
+      {
+        "market": "KR",
+        "code": "006400",
+        "name": "삼성SDI",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001023",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "006400",
+        "name": "삼성SDI",
+        "date": "2026-11-27",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000671",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "006400",
+        "name": "삼성SDI",
+        "date": "2026-11-26",
+        "title": "임원ㆍ주요주주특정증권등소유상황보고서",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000319",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "006400",
+        "name": "삼성SDI",
+        "date": "2026-11-26",
+        "title": "주식소각결정",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800186",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "096770",
+        "name": "SK이노베이션",
+        "date": "2026-11-27",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000909",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "096770",
+        "name": "SK이노베이션",
+        "date": "2026-11-25",
+        "title": "[첨부정정]증권신고서(합병)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000711",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "096770",
+        "name": "SK이노베이션",
+        "date": "2026-11-25",
+        "title": "[첨부정정]증권신고서(합병)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000702",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "096770",
+        "name": "SK이노베이션",
+        "date": "2026-11-25",
+        "title": "[기재정정]증권신고서(합병)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000677",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "096770",
+        "name": "SK이노베이션",
+        "date": "2026-11-25",
+        "title": "[기재정정]주요사항보고서(회사합병결정)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000599",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "010950",
+        "name": "S-Oil",
+        "date": "2026-11-25",
+        "title": "대규모기업집단현황공시[분기별공시(대표회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000091",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "247540",
+        "name": "에코프로비엠",
+        "date": "2026-11-27",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001244",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "247540",
+        "name": "에코프로비엠",
+        "date": "2026-11-26",
+        "title": "주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000837",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "247540",
+        "name": "에코프로비엠",
+        "date": "2026-11-26",
+        "title": "[기재정정]주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000825",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "247540",
+        "name": "에코프로비엠",
+        "date": "2026-11-26",
+        "title": "[기재정정]주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000793",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "247540",
+        "name": "에코프로비엠",
+        "date": "2026-11-26",
+        "title": "[기재정정]주식등의대량보유상황보고서(일반)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000771",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "086520",
+        "name": "에코프로",
+        "date": "2026-11-26",
+        "title": "대규모기업집단현황공시[분기별공시(대표회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000428",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "015760",
+        "name": "한국전력공사",
+        "date": "2026-11-27",
+        "title": "[기재정정]주주총회소집공고",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000745",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "015760",
+        "name": "한국전력공사",
+        "date": "2026-11-25",
+        "title": "해외증권거래소등에신고한주요공시사항의국내신고",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800470",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "112610",
+        "name": "씨에스윈드",
+        "date": "2026-11-27",
+        "title": "감자결정(종속회사의주요경영사항)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800702",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "112610",
+        "name": "씨에스윈드",
+        "date": "2026-11-25",
+        "title": "기업설명회(IR)개최(안내공시)",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800441",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "010120",
+        "name": "엘에스일렉트릭",
+        "date": "2026-11-26",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000816",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "298040",
+        "name": "효성중공업",
+        "date": "2026-11-27",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001720",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "267260",
+        "name": "HD현대일렉트릭",
+        "date": "2026-11-27",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001644",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "047040",
+        "name": "대우건설",
+        "date": "2026-11-26",
+        "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000892",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "036460",
+        "name": "한국가스공사",
+        "date": "2026-11-27",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800227",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "036460",
+        "name": "한국가스공사",
+        "date": "2026-11-27",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800222",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "036460",
+        "name": "한국가스공사",
+        "date": "2026-11-27",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800221",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "036460",
+        "name": "한국가스공사",
+        "date": "2026-11-27",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800214",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "036460",
+        "name": "한국가스공사",
+        "date": "2026-11-27",
+        "title": "단일판매ㆍ공급계약체결",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800212",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "004690",
+        "name": "삼천리",
+        "date": "2026-11-25",
+        "title": "대규모기업집단현황공시[분기별공시(대표회사용)]",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000568",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "004690",
+        "name": "삼천리",
+        "date": "2026-11-25",
+        "title": "특수관계인에대한출자",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000560",
+        "auto": true
+      },
+      {
+        "market": "KR",
+        "code": "004690",
+        "name": "삼천리",
+        "date": "2026-11-25",
+        "title": "특수관계인에대한주식의처분",
+        "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000553",
+        "auto": true
+      }
+    ],
+    "quotes": {
+      "KR:006400": {
+        "symbol": "006400.KS",
+        "close": 452500.0,
+        "change_pct": 8.25,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:096770": {
+        "symbol": "096770.KS",
+        "close": 96000.0,
+        "change_pct": 3.34,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:373220": {
+        "symbol": "373220.KS",
+        "close": 316500.0,
+        "change_pct": 4.8,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:010950": {
+        "symbol": "010950.KS",
+        "close": 99800.0,
+        "change_pct": 1.63,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "US:XOM": {
+        "symbol": "XOM",
+        "close": 160.18,
+        "change_pct": 1.33,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:CVX": {
+        "symbol": "CVX",
+        "close": 212.45,
+        "change_pct": 0.71,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:OXY": {
+        "symbol": "OXY",
+        "close": 54.17,
+        "change_pct": 0.41,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "KR:247540": {
+        "symbol": "247540.KS",
+        "close": 92000.0,
+        "change_pct": 13.44,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:086520": {
+        "symbol": "086520.KQ",
+        "close": 72900.0,
+        "change_pct": 13.91,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:015760": {
+        "symbol": "015760.KS",
+        "close": 26150.0,
+        "change_pct": 2.35,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:009830": {
+        "symbol": "009830.KS",
+        "close": 20700.0,
+        "change_pct": 8.32,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:112610": {
+        "symbol": "112610.KS",
+        "close": 40650.0,
+        "change_pct": 3.96,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:010120": {
+        "symbol": "010120.KS",
+        "close": 121700.0,
+        "change_pct": 7.32,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:298040": {
+        "symbol": "298040.KS",
+        "close": 1724000.0,
+        "change_pct": 6.88,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:267260": {
+        "symbol": "267260.KS",
+        "close": 418500.0,
+        "change_pct": 8.0,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:034020": {
+        "symbol": "034020.KS",
+        "close": 43900.0,
+        "change_pct": 8.4,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:052690": {
+        "symbol": "052690.KS",
+        "close": 65600.0,
+        "change_pct": 8.97,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:047040": {
+        "symbol": "047040.KS",
+        "close": 10400.0,
+        "change_pct": 6.23,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:036460": {
+        "symbol": "036460.KS",
+        "close": 35550.0,
+        "change_pct": -0.28,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:004690": {
+        "symbol": "004690.KS",
+        "close": 131400.0,
+        "change_pct": 2.1,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "KR:017390": {
+        "symbol": "017390.KS",
+        "close": 56600.0,
+        "change_pct": 2.91,
+        "currency": "KRW",
+        "date": "11/27"
+      },
+      "US:GEV": {
+        "symbol": "GEV",
+        "close": 735.31,
+        "change_pct": 2.84,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "GLOBAL:ENR.DE": {
+        "symbol": "ENR.DE",
+        "close": 119.18,
+        "change_pct": 1.86,
+        "currency": "EUR",
+        "date": "11/27"
+      },
+      "GLOBAL:STO.AX": {
+        "symbol": "STO.AX",
+        "close": 8.72,
+        "change_pct": 0.0,
+        "currency": "AUD",
+        "date": "11/27"
+      },
+      "US:SHEL": {
+        "symbol": "SHEL",
+        "close": 95.47,
+        "change_pct": 1.42,
+        "currency": "USD",
+        "date": "11/28"
+      },
+      "GLOBAL:ENI.MI": {
+        "symbol": "ENI.MI",
+        "close": 24.49,
+        "change_pct": 1.28,
+        "currency": "EUR",
+        "date": "11/27"
+      },
+      "US:YPF": {
+        "symbol": "YPF",
+        "close": 31.85,
+        "change_pct": 1.27,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:EQT": {
+        "symbol": "EQT",
+        "close": 51.86,
+        "change_pct": 0.64,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:LNG": {
+        "symbol": "LNG",
+        "close": 305.04,
+        "change_pct": 1.01,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:CCJ": {
+        "symbol": "CCJ",
+        "close": 63.97,
+        "change_pct": 3.93,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "GLOBAL:1164.HK": {
+        "symbol": "1164.HK",
+        "close": 1.79,
+        "change_pct": 10.84,
+        "currency": "HKD",
+        "date": "11/27"
+      },
+      "US:TSLA": {
+        "symbol": "TSLA",
+        "close": 400.0,
+        "change_pct": 5.22,
+        "currency": "USD",
+        "date": "11/27"
+      },
+      "US:ENPH": {
+        "symbol": "ENPH",
+        "close": 21.69,
+        "change_pct": 3.98,
+        "currency": "USD",
+        "date": "11/27"
+      }
+    },
+    "quotes_as_of": "11/28",
+    "notes": []
+  }
 }
