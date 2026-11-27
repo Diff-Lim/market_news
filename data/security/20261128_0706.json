@@ -1,0 +1,629 @@
+{
+  "published_at": "2026-11-28T07:06",
+  "industry": "security",
+  "title": "보안 투자 브리핑",
+  "emoji": "🛡️",
+  "sources": [
+    "SecurityWeek",
+    "Seeking Alpha",
+    "뉴스웍스",
+    "뉴스핌",
+    "디일렉",
+    "보안뉴스",
+    "서울신문",
+    "세계일보",
+    "월요신문",
+    "이투데이",
+    "재경일보",
+    "파이낸셜뉴스"
+  ],
+  "briefing": [
+    "은행 6곳·저축은행 6곳 피해, 580개사 전수점검 → 금융보안 수요, 피해 금융사 제재",
+    "안랩 17.45만원(+6.08%) 5일 연속↑, 라온시큐어 장중 +18%대 → 보안주 랠리 지속",
+    "대통령실 OTP·2차인증·AI FDS 강화 주문 → 인증 기업(라온시큐어·드림시큐리티) 주목",
+    "SAP GitHub 토큰 탈취로 소스코드 변조 → SAP 악재, 공급망 보안 수요",
+    "고영 랜섬 데이터 11/28 공개 예고, 다음 주 RBRK·CRWD·OKTA·S 실적"
+  ],
+  "market_snapshot": [
+    {
+      "label": "안랩 종가(11/27)",
+      "value": "174,500원 (+6.08%)",
+      "source": "재경일보",
+      "url": "https://news.jkn.co.kr/post/1127683"
+    },
+    {
+      "label": "라온시큐어(11/27 14:52)",
+      "value": "18,620원 (+18.75%)",
+      "source": "잡포스트",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=241576"
+    },
+    {
+      "label": "코스닥 종가(11/27)",
+      "value": "708.99 (+8.13%)",
+      "source": "한국경제",
+      "url": "https://hankyung.com/article/2026112753921"
+    },
+    {
+      "label": "나스닥 종합(11/27)",
+      "value": "24,129.50 (+2.31%)",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+    },
+    {
+      "label": "ZS-CRWD 합병 스프레드",
+      "value": "2.9%",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4972627-zscaler-not-a-fan-of-the-crowdstrike-deal-upside"
+    }
+  ],
+  "watchlist_notes": [],
+  "events": [
+    {
+      "date": "2026-11-28",
+      "event": "랜섬웨어 조직 에베레스트, 고영 데이터 공개 예고일",
+      "tickers": [
+        "098460"
+      ],
+      "source_url": "https://www.thelec.kr/news/articleView.html?idxno=66020"
+    },
+    {
+      "date": "2026-11-30",
+      "event": "금융사 외부접점 전수점검 결과 제출 기한",
+      "tickers": [],
+      "source_url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904719"
+    },
+    {
+      "date": "2026-11-30",
+      "event": "Rubrik 3분기(FY27) 실적 발표(장 마감 후)",
+      "tickers": [
+        "RBRK"
+      ],
+      "source_url": "https://finviz.com/news/420947/rubrik-to-report-third-quarter-fiscal-2027-financial-results-on-november-30-2026"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "CrowdStrike 3분기(FY27) 실적 발표(장 마감 후)",
+      "tickers": [
+        "CRWD"
+      ],
+      "source_url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-announces-date-fiscal-third-quarter-2027-financial"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "Okta 3분기(FY27) 실적 발표(장 마감 후)",
+      "tickers": [
+        "OKTA"
+      ],
+      "source_url": "https://investingnews.com/okta-to-announce-third-quarter-fiscal-year-2027-financial-results-on-december-1-2026/"
+    },
+    {
+      "date": "2026-12-02",
+      "event": "Netskope 3분기(FY27) 실적 발표(장 마감 후)",
+      "tickers": [
+        "NTSK"
+      ],
+      "source_url": "https://finviz.com/news/415452/netskope-to-report-fiscal-third-quarter-2027-financial-results-on-december-2-2026"
+    },
+    {
+      "date": "2026-12-03",
+      "event": "SentinelOne 3분기(FY27) 실적 발표(장 마감 후)",
+      "tickers": [
+        "S"
+      ],
+      "source_url": "https://finviz.com/news/422106/sentinelone-announces-date-of-fiscal-third-quarter-2027-financial-results-conference-call-and-participation-in-upcoming-investor-conference"
+    },
+    {
+      "date": "2026-12-07",
+      "event": "이나인페이 코스닥 상장 수요예측 시작 예정(11/18 기준 일정, 해킹 후 변경 가능)",
+      "tickers": [],
+      "source_url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320658"
+    },
+    {
+      "date": "2026-12-08",
+      "event": "SailPoint 3분기(FY27) 실적 발표(장 시작 전)",
+      "tickers": [
+        "SAIL"
+      ],
+      "source_url": "https://finviz.com/news/421626/sailpoint-announces-date-of-fiscal-third-quarter-2027-earnings-conference-call-and-participation-in-upcoming-investor-conference"
+    }
+  ],
+  "requests": [],
+  "filings": [
+    {
+      "market": "KR",
+      "code": "263860",
+      "name": "지니언스",
+      "date": "2026-11-26",
+      "title": "임원ㆍ주요주주특정증권등소유상황보고서(이민상)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000633"
+    },
+    {
+      "market": "KR",
+      "code": "356680",
+      "name": "엑스게이트",
+      "date": "2026-11-27",
+      "title": "주식등의대량보유상황보고서(일반)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001826"
+    },
+    {
+      "market": "KR",
+      "code": "203650",
+      "name": "드림시큐리티",
+      "date": "2026-11-27",
+      "title": "주주총회소집공고",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001544"
+    },
+    {
+      "market": "KR",
+      "code": "271830",
+      "name": "팸텍",
+      "date": "2026-11-27",
+      "title": "임원ㆍ주요주주특정증권등소유상황보고서(3건 중 김재웅)",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001965"
+    }
+  ],
+  "articles": [
+    {
+      "category": "market",
+      "title": "[특징주] 정보 유출 잇따르자 보안株 '라온시큐어·안랩' 급등",
+      "url": "https://www.newspim.com/news/view/20261127000310",
+      "source": "뉴스핌",
+      "time": "11/27 14:46",
+      "region": "KR",
+      "importance": 3,
+      "impact": "positive",
+      "horizon": "short",
+      "summary": "11/27 오전 라온시큐어 18,950원(+20.85%), 안랩 176,100원(+8.05%). 이스트소프트 +16.24%, 샌즈랩 +8.05%, 드림시큐리티 +5.80% 등 동반 강세. 전북은행(467명)·수협은행(54명)·CJ올리브영(790명) 유출이 계기. 국정원 보안평가 대상은 올해 153곳→내년 868곳→2028년 2,160곳 확대.",
+      "tickers": [
+        {
+          "name": "라온시큐어",
+          "market": "KR",
+          "code": "042510",
+          "effect": "positive"
+        },
+        {
+          "name": "안랩",
+          "market": "KR",
+          "code": "053800",
+          "effect": "positive"
+        },
+        {
+          "name": "샌즈랩",
+          "market": "KR",
+          "code": "411080",
+          "effect": "positive"
+        },
+        {
+          "name": "드림시큐리티",
+          "market": "KR",
+          "code": "203650",
+          "effect": "positive"
+        },
+        {
+          "name": "이스트소프트",
+          "market": "KR",
+          "code": "047560",
+          "effect": "positive"
+        }
+      ],
+      "insight": "침해 확산이 테마 수급을 키우는 국면. 국정원 평가 대상 5~14배 확대는 B2G 수요의 구조적 근거지만 단기 급등 후 변동성 확대에 유의.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "수혜: 라온시큐어·안랩·샌즈랩·드림시큐리티",
+        "demand_driver": "국정원 보안평가 대상 확대, 금융권 해킹"
+      }
+    },
+    {
+      "category": "earnings",
+      "title": "[특징주] 안랩, 6%대 상승…국내외 해킹 악재 속 신고가 랠리",
+      "url": "https://www.etoday.co.kr/news/view/2653787",
+      "source": "이투데이",
+      "time": "11/27 09:23",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "안랩 주가 11/20 111,100원→11/25 상한가 157,900원→11/26 164,500원→11/27 장초 175,800원. 3분기 매출 795억원(+23.1%), 영업익 109억원(+38.7%), 누적 영업익 182억원(+47.3%). 내년 1월부터 전 상장사 정보보호 공시 의무화, 대형 금융사 취약점 점검 연 2회 검토.",
+      "tickers": [
+        {
+          "name": "안랩",
+          "market": "KR",
+          "code": "053800",
+          "effect": "positive"
+        }
+      ],
+      "insight": "1주일 새 약 57% 상승했으나 3분기 영업익 +38.7% 등 실적 개선이 동반돼 순수 테마와 구분됨. 공시 의무화 수요가 내년 실적에 반영되는지가 관건.",
+      "signals": {
+        "event_type": "제도/예산",
+        "affected": "수혜: 안랩",
+        "demand_driver": "상장사 정보보호 공시 의무화, 금융권 점검 강화",
+        "metric": "3Q 매출 795억원(+23.1%), 영업익 109억원(+38.7%)"
+      }
+    },
+    {
+      "category": "market",
+      "title": "안랩, 6.08% 상승하며 17만 4500원에 마감",
+      "url": "https://news.jkn.co.kr/post/1127683",
+      "source": "재경일보",
+      "time": "11/27 15:50",
+      "region": "KR",
+      "importance": 1,
+      "impact": "positive",
+      "horizon": "short",
+      "summary": "안랩은 11/27 전일 대비 1만원(+6.08%) 오른 174,500원에 마감. 166,000원에 출발해 장중 등락 후 17만원대로 회복. 별도 회사 공시 없이 업종 전반 매수세가 원인으로 분석됨.",
+      "tickers": [
+        {
+          "name": "안랩",
+          "market": "KR",
+          "code": "053800",
+          "effect": "positive"
+        }
+      ],
+      "insight": "5거래일 연속 상승 마감. 회사 이벤트 없는 업종 수급 장세라 뉴스 공백 시 되돌림 가능성도 함께 봐야 함.",
+      "signals": {
+        "event_type": "시장/수급"
+      }
+    },
+    {
+      "category": "market",
+      "title": "코스닥 4%대 상승...보안·로봇주 강세에 안랩 14%↑·코스모로보틱스 상한가",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=321135",
+      "source": "월요신문",
+      "time": "11/27 10:17",
+      "region": "KR",
+      "importance": 1,
+      "impact": "mixed",
+      "horizon": "short",
+      "summary": "장중 안랩 +14.29%(18만원 돌파), 라온시큐어 +27.42%. 지니언스는 +8.05%까지 올랐다가 1% 안팎으로 상승폭 축소. 보안주 4거래일 연속 강세.",
+      "tickers": [
+        {
+          "name": "안랩",
+          "market": "KR",
+          "code": "053800",
+          "effect": "positive"
+        },
+        {
+          "name": "라온시큐어",
+          "market": "KR",
+          "code": "042510",
+          "effect": "positive"
+        },
+        {
+          "name": "지니언스",
+          "market": "KR",
+          "code": "263860",
+          "effect": "mixed"
+        }
+      ],
+      "insight": "장중 고점 대비 상승폭 반납이 커 보안주 내 차별화 진행. 지니언스는 임원 지분 매도 공시 이후 탄력이 약함.",
+      "signals": {
+        "event_type": "시장/수급",
+        "affected": "강세: 안랩·라온시큐어 / 약세 전환: 지니언스"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "랜섬웨어, 고영테크놀러지·팸텍 공격...반도체·전자업계도 '해킹 비상'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=66020",
+      "source": "디일렉",
+      "time": "11/27 15:22",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "팸텍은 11/23 랜섬웨어로 서버 암호화, 백업 복구 후 KISA·개인정보위 신고(주주·퇴직자 정보 유출 가능). 에베레스트 그룹은 11/26 고영을 피해자로 올리고 11/28 데이터 공개 예고, 고영은 암호화·피해 미확인 입장. 올해 국내 랜섬웨어 피해 92곳 중 절반 이상이 제조·IT.",
+      "tickers": [
+        {
+          "name": "고영",
+          "market": "KR",
+          "code": "098460",
+          "effect": "negative"
+        },
+        {
+          "name": "팸텍",
+          "market": "KR",
+          "code": "271830",
+          "effect": "negative"
+        }
+      ],
+      "insight": "고영은 11/28 데이터 공개 여부가 단기 변수. 제조업 랜섬웨어 확산은 OT·백업 보안 수요 요인.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 고영·팸텍",
+        "demand_driver": "제조업 랜섬웨어 대응"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "올리브영 고객·임직원 정보 유출...일부 암호화 안돼",
+      "url": "https://thelec.kr/news/articleView.html?idxno=66033",
+      "source": "디일렉",
+      "time": "11/27 18:01",
+      "region": "KR",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "CJ올리브영 임직원 639명·협력사 106명·고객 45명 등 790명 정보 유출, 회원번호 234만4,549건과 회원번호+접속IP 6만1,789건도 노출. 일부 이름·생년월일·연락처가 평문 저장. 결제정보·비밀번호는 유출 안 됨. 11/23 KISA, 11/26 개인정보위 신고.",
+      "tickers": [],
+      "insight": "CJ올리브영은 비상장. 평문 저장이 확인돼 개인정보위 과징금 가능성이 있는 사례로, 유통업 암호화·DB보안 수요 근거.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: CJ올리브영(비상장)",
+        "demand_driver": "개인정보 암호화·과징금 리스크"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "삼성증권 고객정보 유출 추가 확인…총 1만 2168명",
+      "url": "https://seoul.co.kr/news/economy/securities/2026/11/27/20261127500259",
+      "source": "서울신문",
+      "time": "11/27 16:46",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "삼성증권 '고객의소리' 페이지 통해 8,241명 유출 신고 후, 11/21 탈취 파일 재검토로 3,927명 추가 확인돼 총 1만2,168명. 회사는 신규 공격이 아니라고 밝히고 당국 신고·개별 통지 진행.",
+      "tickers": [
+        {
+          "name": "삼성증권",
+          "market": "KR",
+          "code": "016360",
+          "effect": "negative"
+        }
+      ],
+      "insight": "증권사로 피해가 번진 사례. 금감원 점검 속 제재 리스크는 있으나 유출 규모상 실적 영향은 제한적일 전망.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 삼성증권"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "전북은행, AI 해킹 공격에 고객·직원 467명 개인정보 유출",
+      "url": "https://www.fnnews.com/news/202611271653094732",
+      "source": "파이낸셜뉴스",
+      "time": "11/27 17:28",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "11/24 오후 해외 IP 공격자가 AI 에이전트로 모바일웹 비대면 가입 서버를 공격해 고객 462명·직원 5명의 계좌번호·전화번호·이메일 유출. 탐지 20분 만에 IP 차단, 11/25 금감원·금융위 신고. 피해 은행 6곳으로 늘어남.",
+      "tickers": [
+        {
+          "name": "JB금융지주",
+          "market": "KR",
+          "code": "175330",
+          "effect": "negative"
+        }
+      ],
+      "insight": "AI 에이전트형 공격이 은행 비대면 채널을 노림. 은행권 피해 확산은 금융권 보안 투자·인증 강화 수요로 연결.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 전북은행(JB금융지주)",
+        "demand_driver": "AI 기반 공격 대응"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "Sh수협은행 고객 개인정보 54건 유출... 등록급 수납 관리시스템 해킹 원인",
+      "url": "https://www.boannews.com/news/articleView.html?idxno=147600",
+      "source": "보안뉴스",
+      "time": "11/27 15:39",
+      "region": "KR",
+      "importance": 1,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "11/26 인터넷뱅킹이 아닌 외부 등록금 수납 관리시스템 해킹으로 고객 54명의 대출·신용정보·주소 유출. 고객 통지와 금융당국 신고 완료.",
+      "tickers": [],
+      "insight": "수협은행은 비상장. 외부 연계 시스템이 공격 경로가 된 사례로 금감원의 외부접점 전수점검 필요성을 뒷받침.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: Sh수협은행(비상장)"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "금융권 해킹 두 달째…은행·저축은행 각각 6곳 피해",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904719",
+      "source": "뉴스웍스",
+      "time": "11/27 14:53",
+      "region": "KR",
+      "importance": 3,
+      "impact": "mixed",
+      "horizon": "mid",
+      "summary": "신한·국민·하나·부산·전북·수협 등 은행 6곳, 저축은행 6곳 피해(한국투자저축 8만6,611건 등). 금융위 접수 37개사 40건, 약 47.3만건 유출, 자금 약 10억원 탈취. 580여개사 점검 중이며 외부접점은 11/30, 미등록 시스템·내부통제는 12월 말까지 제출. 대형사 취약점 점검 연 2회는 2027년 1분기 시행 예정.",
+      "tickers": [
+        {
+          "name": "KB금융",
+          "market": "KR",
+          "code": "105560",
+          "effect": "negative"
+        },
+        {
+          "name": "JB금융지주",
+          "market": "KR",
+          "code": "175330",
+          "effect": "negative"
+        },
+        {
+          "name": "안랩",
+          "market": "KR",
+          "code": "053800",
+          "effect": "positive"
+        },
+        {
+          "name": "라온시큐어",
+          "market": "KR",
+          "code": "042510",
+          "effect": "positive"
+        }
+      ],
+      "insight": "580여개 금융사 전수점검과 연 2회 취약점 점검 제도화는 금융보안 컨설팅·솔루션의 반복 수요. 피해 금융사는 제재·보상 비용이 변수.",
+      "signals": {
+        "event_type": "제도/예산",
+        "affected": "피해: 은행·저축은행 / 수혜: 금융보안 기업",
+        "demand_driver": "금감원 전수점검, 취약점 점검 연 2회"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "국내 1호 소액해외송금 업체 이나인페이, 25억원 해킹 피해…금감원 현장점검 착수",
+      "url": "https://www.segye.com/newsView/20261127513265",
+      "source": "세계일보",
+      "time": "11/27 19:59",
+      "region": "KR",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "이나인페이가 약 90차례 해킹 시도 끝에 판매자 정산자금 약 25억원을 탈취당함(규모 확인 중). 이번 금융권 해킹 중 최대 자금 탈취 사례로, 금감원이 현장점검 착수. 회사는 코스닥 상장을 준비 중.",
+      "tickers": [],
+      "insight": "상장 예정사의 자금 탈취로 공모 일정·밸류에이션에 부담. 대표 주관사는 한국투자증권. 핀테크 FDS·인증 수요 근거.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 이나인페이(상장 예정)",
+        "demand_driver": "전자금융 FDS·인증 강화"
+      }
+    },
+    {
+      "category": "policy",
+      "title": "靑, '해킹피해 방지' 금융기관 긴급회의…\"사이트 차단·수사 강화\"",
+      "url": "https://www.seoul.co.kr/news/politics/president/2026/11/27/20261127500093",
+      "source": "서울신문",
+      "time": "11/27 10:49",
+      "region": "KR",
+      "importance": 2,
+      "impact": "positive",
+      "horizon": "mid",
+      "summary": "송기호 국가안보실 3차장이 금융위·금감원·금융보안원과 긴급회의. OTP·2차 인증 강화, 이상거래탐지시스템(FDS)에 AI 도입, 유출 피해자 '안심차단' 서비스, 유출 정보 거래 사이트 차단 등을 요청.",
+      "tickers": [
+        {
+          "name": "라온시큐어",
+          "market": "KR",
+          "code": "042510",
+          "effect": "positive"
+        },
+        {
+          "name": "드림시큐리티",
+          "market": "KR",
+          "code": "203650",
+          "effect": "positive"
+        }
+      ],
+      "insight": "대통령실이 직접 인증·FDS 강화를 주문해 금융권 예산 집행이 빨라질 수 있음. 인증 사업 비중이 큰 기업이 직접 수혜 후보.",
+      "signals": {
+        "event_type": "제도/예산",
+        "affected": "수혜 후보: 인증·FDS 기업",
+        "demand_driver": "OTP·2차 인증, AI FDS 도입"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "인터넷우체국 해킹…하루치 분석만 11만명 개인정보 유출",
+      "url": "https://www.etoday.co.kr/news/view/2654153",
+      "source": "이투데이",
+      "time": "11/27 23:16",
+      "region": "KR",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "mid",
+      "summary": "하루치 분석에서만 등기 수취인 11만3,855명의 이름·주소·전화번호 노출 확인. 해외 IP 해커가 17~24일 배송 중 우편물을 조회. 과기정통부·우정사업본부가 개인정보위·경찰에 신고하고 해외 IP 차단.",
+      "tickers": [],
+      "insight": "공공기관까지 대규모 유출이 이어져 내년 공공 보안 예산·감사 강화 압력이 커질 전망.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 우정사업본부(공공)",
+        "demand_driver": "공공 보안 예산"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "SAP, 사이버 공격 확인…소스코드 유출 보도",
+      "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+      "source": "SecurityWeek",
+      "time": "11/27 16:36",
+      "region": "GLOBAL",
+      "importance": 3,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "슈피겔 보도에 따르면 공격자가 SAP 직원의 GitHub 인증 토큰을 훔쳐 소스코드를 복사·변조. SAP는 서명키 교체, GitHub 접근 제한, 자동화 개발 작업 중단 등 대응. SAP는 고객 업무 데이터 무단 접근 증거는 없다고 밝힘. AI 활용 여부는 미확인.",
+      "tickers": [
+        {
+          "name": "SAP",
+          "market": "GLOBAL",
+          "code": "SAP.DE",
+          "effect": "negative"
+        }
+      ],
+      "insight": "고객 데이터 유출은 부인했지만 코드 변조가 공급망으로 이어지는지가 리스크. 개발 환경·코드 서명·비밀정보 관리 보안 수요 근거.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: SAP",
+        "demand_driver": "소프트웨어 공급망·개발자 계정 보안"
+      }
+    },
+    {
+      "category": "breach",
+      "title": "기타 소식: 유조선 사이버공격, EU 양자법, 바이러스토탈 새 기능",
+      "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+      "source": "SecurityWeek",
+      "time": "11/27 20:00",
+      "region": "GLOBAL",
+      "importance": 2,
+      "impact": "negative",
+      "horizon": "short",
+      "summary": "라드웨어 클라우드 WAF 관리 API 노출로 고객 연락처와 AWS·Azure·SFTP 로그 내보내기 자격증명 유출 가능성. 맥도날드 재팬 앱 DB 접근으로 구매 이력·위치 정보 노출(카드 정보 제외). EU는 양자내성암호를 위한 양자법(Quantum Act) 제안.",
+      "tickers": [
+        {
+          "name": "Radware",
+          "market": "US",
+          "code": "RDWR",
+          "effect": "negative"
+        },
+        {
+          "name": "일본맥도날드홀딩스",
+          "market": "GLOBAL",
+          "code": "2702.T",
+          "effect": "negative"
+        }
+      ],
+      "insight": "보안 벤더 라드웨어가 직접 뚫려 신뢰도 이슈. EU 양자법은 양자내성암호(PQC) 장기 수요 테마.",
+      "signals": {
+        "event_type": "침해사고",
+        "affected": "피해: 라드웨어·일본맥도날드",
+        "demand_driver": "PQC 규제(EU 양자법)"
+      }
+    },
+    {
+      "category": "deal",
+      "title": "지스케일러: 크라우드스트라이크 합병 상승여력은 별로",
+      "url": "https://seekingalpha.com/article/4972627-zscaler-not-a-fan-of-the-crowdstrike-deal-upside",
+      "source": "Seeking Alpha",
+      "time": "11/28 03:31",
+      "region": "US",
+      "importance": 1,
+      "impact": "neutral",
+      "horizon": "mid",
+      "summary": "ZS 1주당 CRWD 1.135주 교환비율 기준 내재가치 약 237.56달러, 합병 차익 스프레드 2.9%. 필자는 '보유' 의견. 딜 무산 시 ZS 약 200달러, CRWD 재평가 시 300달러 근접 시나리오 제시.",
+      "tickers": [
+        {
+          "name": "Zscaler",
+          "market": "US",
+          "code": "ZS",
+          "effect": "neutral"
+        },
+        {
+          "name": "CrowdStrike",
+          "market": "US",
+          "code": "CRWD",
+          "effect": "neutral"
+        }
+      ],
+      "insight": "스프레드가 좁아 ZS 주가는 사실상 CRWD에 연동. 12/1 CRWD 실적이 두 종목의 공통 변수.",
+      "signals": {
+        "event_type": "M&A",
+        "affected": "ZS·CRWD",
+        "metric": "합병 스프레드 2.9%"
+      }
+    }
+  ]
+}
